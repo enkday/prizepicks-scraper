@@ -13,12 +13,69 @@
   "paths": {
     "/data/prizepicks.json": {
       "get": {
-        "summary": "Get current PrizePicks prop bets",
-        "description": "Returns all available prop bets scraped from PrizePicks, updated daily",
+        "summary": "Get ALL PrizePicks prop bets (may be large)",
+        "description": "Returns all available prop bets across all sports. Warning: This file is large (1MB+) and may timeout. Consider using sport-specific endpoints instead.",
         "operationId": "getPrizePicks",
         "responses": {
           "200": {
             "description": "Successful response with prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf.json": {
+      "get": {
+        "summary": "Get College Football (NCAAF) props only",
+        "description": "Returns only College Football prop bets - optimized size for faster loading",
+        "operationId": "getNCAAFProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with CFB prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-nfl.json": {
+      "get": {
+        "summary": "Get NFL props only",
+        "description": "Returns only NFL prop bets",
+        "operationId": "getNFLProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with NFL prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-nba.json": {
+      "get": {
+        "summary": "Get NBA props only",
+        "description": "Returns only NBA prop bets",
+        "operationId": "getNBAProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with NBA prop bet data",
             "content": {
               "application/json": {
                 "schema": {

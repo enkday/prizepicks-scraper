@@ -106,6 +106,29 @@ async function scrapePrizePicks() {
     console.log(`💾 Data saved to ${outputPath}`);
     console.log(`📈 Total props scraped: ${allData.totalProps}`);
     
+    // Split into sport-specific files
+    console.log(`\n📂 Creating sport-specific files...`);
+    const bySport = {};
+    allProps.forEach(prop => {
+      const sport = prop.sport.toLowerCase();
+      if (!bySport[sport]) bySport[sport] = [];
+      bySport[sport].push(prop);
+    });
+
+    for (const [sport, props] of Object.entries(bySport)) {
+      const sportFile = path.join(dataDir, `prizepicks-${sport}.json`);
+      const sportData = {
+        scrapedAt: allData.scrapedAt,
+        scrapedDate: allData.scrapedDate,
+        source: allData.source,
+        sport: sport.toUpperCase(),
+        totalProps: props.length,
+        props: props
+      };
+      await fs.writeFile(sportFile, JSON.stringify(sportData, null, 2));
+      console.log(`   ✅ ${sport.toUpperCase()}: ${props.length} props → ${sportFile}`);
+    }
+    
     return allData;
     
   } catch (error) {

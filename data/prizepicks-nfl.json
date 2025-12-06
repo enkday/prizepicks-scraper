@@ -1,0 +1,357 @@
+{
+  "scrapedAt": "2025-12-06T15:29:37.580Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 09:29 AM CST",
+  "source": "PrizePicks API",
+  "sport": "NFL",
+  "totalProps": 58,
+  "props": [
+    {
+      "player": "Jordan Spieth",
+      "stat": "Birdies or Better Matchup",
+      "line": 0.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Chris Gotterup",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Jordan Spieth",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Jordan Spieth",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Brian Harman",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Aaron Rai",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Aaron Rai",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Brian Harman",
+      "stat": "Birdies Or Better",
+      "line": 5,
+      "sport": "NFL"
+    },
+    {
+      "player": "J.J. Spaun",
+      "stat": "Birdies or Better Matchup",
+      "line": 0.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Andrew Novak",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Sam Burns",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Sam Burns",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Andrew Novak",
+      "stat": "Birdies Or Better",
+      "line": 5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Birdies or Better Matchup",
+      "line": 0.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Robert MacIntyre",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Robert MacIntyre",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "NFL"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "NFL"
+    },
+    {
+      "player": "Robert MacIntyre",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Bogeys or Worse",
+      "line": 2,
+      "sport": "NFL"
+    },
+    {
+      "player": "Corey Conners",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Billy Horschel",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Billy Horschel",
+      "stat": "Birdies Or Better",
+      "line": 5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Justin Rose",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Harris English",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Harris English",
+      "stat": "Pars",
+      "line": 10.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Justin Rose",
+      "stat": "Pars",
+      "line": 9.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Harris English",
+      "stat": "Birdies Or Better",
+      "line": 5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Justin Rose",
+      "stat": "Bogeys or Worse",
+      "line": 2.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Harris English",
+      "stat": "Bogeys or Worse",
+      "line": 2,
+      "sport": "NFL"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Birdies or Better Matchup",
+      "line": 0.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Sepp Straka",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Strokes",
+      "line": 67,
+      "sport": "NFL"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "NFL"
+    },
+    {
+      "player": "Sepp Straka",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "NFL"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Birdies Or Better",
+      "line": 6.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Sepp Straka",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Bogeys or Worse",
+      "line": 1.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Akshay Bhatia",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Alex Noren",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Alex Noren",
+      "stat": "Pars",
+      "line": 10.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Akshay Bhatia",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "NFL"
+    },
+    {
+      "player": "Akshay Bhatia",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Akshay Bhatia",
+      "stat": "Bogeys or Worse",
+      "line": 2.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Alex Noren",
+      "stat": "Bogeys or Worse",
+      "line": 2,
+      "sport": "NFL"
+    },
+    {
+      "player": "Wyndham Clark",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "J.J. Spaun",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "J.J. Spaun",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "NFL"
+    },
+    {
+      "player": "J.J. Spaun",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Wyndham Clark",
+      "stat": "Birdies Or Better",
+      "line": 5,
+      "sport": "NFL"
+    },
+    {
+      "player": "J.J. Spaun",
+      "stat": "Bogeys or Worse",
+      "line": 2,
+      "sport": "NFL"
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Cameron Young",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "NFL"
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "NFL"
+    },
+    {
+      "player": "Cameron Young",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "NFL"
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    },
+    {
+      "player": "Cameron Young",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "NFL"
+    }
+  ]
+}

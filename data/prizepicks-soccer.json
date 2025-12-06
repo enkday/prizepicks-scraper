@@ -1,0 +1,945 @@
+{
+  "scrapedAt": "2025-12-06T15:29:37.580Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 09:29 AM CST",
+  "source": "PrizePicks API",
+  "sport": "SOCCER",
+  "totalProps": 156,
+  "props": [
+    {
+      "player": "Mairon Santos",
+      "stat": "Significant Strikes",
+      "line": 46.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mairon Santos + Muhammadjon Naimov",
+      "stat": "Significant Strikes",
+      "line": 75.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Muhammadjon Naimov",
+      "stat": "Significant Strikes",
+      "line": 28.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mairon Santos",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mairon Santos",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mairon Santos",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Muhammadjon Naimov",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mansur Abdul-Malik",
+      "stat": "Significant Strikes",
+      "line": 21.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mansur Abdul-Malik",
+      "stat": "Fight Time (Mins)",
+      "line": 4.25,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mansur Abdul-Malik + Antonio Trocoli",
+      "stat": "Significant Strikes",
+      "line": 32.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Antonio Trocoli",
+      "stat": "Significant Strikes",
+      "line": 10.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mansur Abdul-Malik",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mansur Abdul-Malik",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mansur Abdul-Malik",
+      "stat": "Takedowns",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Mansur Abdul-Malik",
+      "stat": "Total Rounds",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Iwo Baraniewski",
+      "stat": "Significant Strikes",
+      "line": 21.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Iwo Baraniewski",
+      "stat": "Fight Time (Mins)",
+      "line": 4.25,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Iwo Baraniewski + Ibo Aslan",
+      "stat": "Significant Strikes",
+      "line": 41.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Ibo Aslan",
+      "stat": "Significant Strikes",
+      "line": 23.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Ibo Aslan",
+      "stat": "Significant Strikes",
+      "line": 20.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Iwo Baraniewski",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Iwo Baraniewski",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Iwo Baraniewski",
+      "stat": "Takedowns",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Iwo Baraniewski",
+      "stat": "Total Rounds",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Ibo Aslan",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jalin Turner",
+      "stat": "Significant Strikes",
+      "line": 38.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jalin Turner",
+      "stat": "Fight Time (Mins)",
+      "line": 7.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jalin Turner + Edson Barboza",
+      "stat": "Significant Strikes",
+      "line": 68.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Edson Barboza",
+      "stat": "Significant Strikes",
+      "line": 29.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jalin Turner",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jalin Turner",
+      "stat": "Total Rounds",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Edson Barboza",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jalin Turner",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Marvin Vettori",
+      "stat": "Significant Strikes",
+      "line": 50.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Marvin Vettori + Brunno Ferreira",
+      "stat": "Significant Strikes",
+      "line": 90.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Brunno Ferreira",
+      "stat": "Significant Strikes",
+      "line": 40.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Marvin Vettori",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Marvin Vettori",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Fares Ziam",
+      "stat": "RD 1 Significant Strikes",
+      "line": 19.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Nazim Sadykhov",
+      "stat": "RD 1 Significant Strikes",
+      "line": 16.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Fares Ziam + Nazim Sadykhov",
+      "stat": "Significant Strikes",
+      "line": 95.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Fares Ziam",
+      "stat": "Significant Strikes",
+      "line": 52.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Nazim Sadykhov",
+      "stat": "Significant Strikes",
+      "line": 47.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Nazim Sadykhov",
+      "stat": "Significant Strikes",
+      "line": 42.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Fares Ziam",
+      "stat": "Takedowns",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Maycee Barber",
+      "stat": "Significant Strikes",
+      "line": 55.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Maycee Barber",
+      "stat": "RD 1 Significant Strikes",
+      "line": 18.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Karine Silva",
+      "stat": "RD 1 Significant Strikes",
+      "line": 10.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Maycee Barber + Karine Silva",
+      "stat": "Significant Strikes",
+      "line": 86.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Karine Silva",
+      "stat": "Significant Strikes",
+      "line": 30.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Maycee Barber",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Maycee Barber",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Maycee Barber",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Chris Duncan",
+      "stat": "Significant Strikes",
+      "line": 15.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Chris Duncan",
+      "stat": "Fight Time (Mins)",
+      "line": 3.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Terrance McKinney",
+      "stat": "Significant Strikes",
+      "line": 16.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Chris Duncan",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Chris Duncan",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Terrance McKinney",
+      "stat": "Takedowns",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Chris Duncan",
+      "stat": "Total Rounds",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Chris Duncan",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Chris Duncan + Terrance McKinney",
+      "stat": "Significant Strikes",
+      "line": 31.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Grant Dawson",
+      "stat": "Significant Strikes",
+      "line": 25.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Grant Dawson",
+      "stat": "Fight Time (Mins)",
+      "line": 7,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Manuel Torres",
+      "stat": "Significant Strikes",
+      "line": 18.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Grant Dawson",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Grant Dawson",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Grant Dawson",
+      "stat": "Takedowns",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Grant Dawson",
+      "stat": "Total Rounds",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Manuel Torres",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Grant Dawson + Manuel Torres",
+      "stat": "Significant Strikes",
+      "line": 44.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz + Bogdan Guskov",
+      "stat": "Significant Strikes",
+      "line": 62.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Significant Strikes",
+      "line": 33.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "RD 1 Significant Strikes",
+      "line": 13.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Bogdan Guskov",
+      "stat": "RD 1 Significant Strikes",
+      "line": 13.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Fight Time (Mins)",
+      "line": 10.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Payton Talbott + Henry Cejudo",
+      "stat": "Significant Strikes",
+      "line": 100.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Bogdan Guskov",
+      "stat": "Significant Strikes",
+      "line": 69.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Significant Strikes",
+      "line": 69.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Bogdan Guskov",
+      "stat": "Significant Strikes",
+      "line": 59.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Significant Strikes",
+      "line": 59.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Bogdan Guskov",
+      "stat": "Significant Strikes",
+      "line": 49.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Significant Strikes",
+      "line": 49.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Fantasy Score",
+      "line": 47.55,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Significant Strikes",
+      "line": 37.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Bogdan Guskov",
+      "stat": "Significant Strikes",
+      "line": 34.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Bogdan Guskov",
+      "stat": "Significant Strikes",
+      "line": 28.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Jan Blachowicz",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Bogdan Guskov",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Payton Talbott",
+      "stat": "Significant Strikes",
+      "line": 58.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Payton Talbott",
+      "stat": "RD 1 Significant Strikes",
+      "line": 17.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Henry Cejudo",
+      "stat": "RD 1 Significant Strikes",
+      "line": 15.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Payton Talbott",
+      "stat": "Significant Strikes",
+      "line": 99.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Henry Cejudo",
+      "stat": "Significant Strikes",
+      "line": 89.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Payton Talbott",
+      "stat": "Significant Strikes",
+      "line": 89.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Henry Cejudo",
+      "stat": "Significant Strikes",
+      "line": 79.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Henry Cejudo",
+      "stat": "Significant Strikes",
+      "line": 69.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Payton Talbott",
+      "stat": "Fantasy Score",
+      "line": 45.55,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Henry Cejudo",
+      "stat": "Significant Strikes",
+      "line": 41.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Payton Talbott",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Henry Cejudo",
+      "stat": "Takedowns",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Payton Talbott",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Henry Cejudo",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Payton Talbott",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira + Brandon Moreno",
+      "stat": "Significant Strikes",
+      "line": 89.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira",
+      "stat": "Significant Strikes",
+      "line": 39.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Brandon Moreno",
+      "stat": "RD 1 Significant Strikes",
+      "line": 16.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira",
+      "stat": "RD 1 Significant Strikes",
+      "line": 13.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Brandon Moreno",
+      "stat": "Significant Strikes",
+      "line": 89.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Brandon Moreno",
+      "stat": "Significant Strikes",
+      "line": 79.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira",
+      "stat": "Significant Strikes",
+      "line": 79.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Brandon Moreno",
+      "stat": "Significant Strikes",
+      "line": 69.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira",
+      "stat": "Significant Strikes",
+      "line": 69.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira",
+      "stat": "Significant Strikes",
+      "line": 59.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira",
+      "stat": "Fantasy Score",
+      "line": 49.55,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Brandon Moreno",
+      "stat": "Significant Strikes",
+      "line": 49.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira",
+      "stat": "Takedowns",
+      "line": 3.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Tatsuro Taira",
+      "stat": "Takedowns",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Joshua van",
+      "stat": "Significant Strikes",
+      "line": 88.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Significant Strikes",
+      "line": 71.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Joshua van",
+      "stat": "RD 1 Significant Strikes",
+      "line": 21.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Fight Time (Mins)",
+      "line": 18.75,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "RD 1 Significant Strikes",
+      "line": 17.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Takedowns",
+      "line": 3.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja + Joshua Van",
+      "stat": "Significant Strikes",
+      "line": 160.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Joshua van",
+      "stat": "Significant Strikes",
+      "line": 139.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Joshua van",
+      "stat": "Significant Strikes",
+      "line": 129.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Significant Strikes",
+      "line": 119.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Joshua van",
+      "stat": "Significant Strikes",
+      "line": 119.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Significant Strikes",
+      "line": 109.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Joshua van",
+      "stat": "Significant Strikes",
+      "line": 109.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Significant Strikes",
+      "line": 99.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Significant Strikes",
+      "line": 89.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Fantasy Score",
+      "line": 82.55,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Total Rounds",
+      "line": 3.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Total Rounds",
+      "line": 2.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Alexandre Pantoja",
+      "stat": "Total Rounds",
+      "line": 1.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Joshua van",
+      "stat": "Takedowns",
+      "line": 0.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili",
+      "stat": "Significant Strikes",
+      "line": 109.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili",
+      "stat": "RD 1 Significant Strikes",
+      "line": 22.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Petr Yan",
+      "stat": "RD 1 Significant Strikes",
+      "line": 14.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili",
+      "stat": "Takedowns",
+      "line": 8,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili + Petr Yan",
+      "stat": "Significant Strikes",
+      "line": 180.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili",
+      "stat": "Significant Strikes",
+      "line": 159.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili",
+      "stat": "Significant Strikes",
+      "line": 149.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili",
+      "stat": "Significant Strikes",
+      "line": 139.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili",
+      "stat": "Significant Strikes",
+      "line": 129.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Petr Yan",
+      "stat": "Significant Strikes",
+      "line": 109.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili",
+      "stat": "Fantasy Score",
+      "line": 107.55,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Petr Yan",
+      "stat": "Significant Strikes",
+      "line": 99.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Petr Yan",
+      "stat": "Significant Strikes",
+      "line": 89.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Petr Yan",
+      "stat": "Significant Strikes",
+      "line": 71.5,
+      "sport": "SOCCER"
+    },
+    {
+      "player": "Merab Dvalishvili",
+      "stat": "Total Rounds",
+      "line": 4.5,
+      "sport": "SOCCER"
+    }
+  ]
+}
