@@ -123,6 +123,33 @@ async function scrapePrizePicks() {
       };
       await fs.writeFile(sportFile, JSON.stringify(sportData, null, 2));
       console.log(`   ✅ ${sport.toUpperCase()}: ${props.length} props → ${sportFile}`);
+      
+      // Create top-100 file for NCAAF (GPT response size limit)
+      if (sport === 'ncaaf') {
+        const now = new Date();
+        
+        // Filter to:
+        // 1. Games starting from now forward
+        // 2. Exclude goblin props (odds_type: 'demon' or 'goblin')
+        const standardProps = props.filter(p => {
+          if (p.startTime) {
+            const gameTime = new Date(p.startTime);
+            if (gameTime < now) return false;
+          }
+          // Exclude demon/goblin odds, keep only standard
+          return !p.oddsType || (p.oddsType !== 'demon' && p.oddsType !== 'goblin');
+        }).slice(0, 100);
+        
+        const top100File = path.join(dataDir, `prizepicks-${sport}-top100.json`);
+        const top100Data = {
+          ...sportData,
+          totalProps: standardProps.length,
+          props: standardProps,
+          note: 'Top 100 standard lines (excludes goblin/demon variants) for upcoming games'
+        };
+        await fs.writeFile(top100File, JSON.stringify(top100Data, null, 2));
+        console.log(`   ✅ ${sport.toUpperCase()} TOP-100: ${standardProps.length} standard props → ${top100File}`);
+      }
     }
     
     return allData;
@@ -177,6 +204,8 @@ function parseProjection(projection, includedData, leagueName) {
         stat: statType,
         line: parseFloat(attrs.line_score),
         sport: leagueName,
+        startTime: attrs.start_time,
+        oddsType: attrs.odds_type,
         // Optional fields only if available
         ...(teamName && { team: teamName }),
         ...(opponentName && { opponent: opponentName })

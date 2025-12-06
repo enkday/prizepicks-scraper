@@ -1,350 +1,356 @@
 {
-  "scrapedAt": "2025-12-06T15:29:37.580Z",
-  "scrapedDate": "Saturday, December 6, 2025 at 09:29 AM CST",
+  "scrapedAt": "2025-12-06T15:49:24.152Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 09:49 AM CST",
   "source": "PrizePicks API",
   "sport": "GOLF",
-  "totalProps": 57,
+  "totalProps": 58,
   "props": [
     {
-      "player": "Polona Hercog",
-      "stat": "Total Games Won",
-      "line": 12,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Polona Hercog",
-      "stat": "Break Points Won",
-      "line": 3.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Fantasy Score",
-      "line": 15.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Break Points Won",
-      "line": 4,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Total Games",
-      "line": 24.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Total Games",
-      "line": 23.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Total Games",
-      "line": 22.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Total Games",
-      "line": 21.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Total Games",
-      "line": 19.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Total Games",
-      "line": 18.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Double Faults",
-      "line": 7.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Polona Hercog",
-      "stat": "Double Faults",
-      "line": 7.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Double Faults",
-      "line": 6.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Polona Hercog",
-      "stat": "Double Faults",
-      "line": 6.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Aces",
-      "line": 5.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Double Faults",
-      "line": 5.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Polona Hercog",
-      "stat": "Double Faults",
-      "line": 5.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Aces",
-      "line": 4.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Polona Hercog",
-      "stat": "Aces",
-      "line": 4.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Double Faults",
-      "line": 3.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Polona Hercog",
-      "stat": "Aces",
-      "line": 3.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Polona Hercog",
-      "stat": "Double Faults",
-      "line": 3.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Aces",
-      "line": 2.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Double Faults",
-      "line": 2.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Polona Hercog",
-      "stat": "Aces",
-      "line": 2.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Total Sets",
-      "line": 2.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Polona Hercog",
-      "stat": "Aces",
-      "line": 1.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Leolia Jeanjean",
-      "stat": "Total Tie Breaks",
+      "player": "Jordan Spieth",
+      "stat": "Birdies or Better Matchup",
       "line": 0.5,
       "sport": "GOLF"
     },
     {
-      "player": "Despina Papamichail",
-      "stat": "Total Games Won",
-      "line": 12,
+      "player": "Chris Gotterup",
+      "stat": "Strokes",
+      "line": 69.5,
       "sport": "GOLF"
     },
     {
-      "player": "Despina Papamichail",
-      "stat": "Break Points Won",
+      "player": "Jordan Spieth",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Jordan Spieth",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Brian Harman",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Aaron Rai",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Aaron Rai",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Brian Harman",
+      "stat": "Birdies Or Better",
       "line": 5,
       "sport": "GOLF"
     },
     {
-      "player": "Luisina Giovannini",
-      "stat": "Fantasy Score",
-      "line": 15,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Break Points Won",
-      "line": 5.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Total Games",
-      "line": 24.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Total Games",
-      "line": 23.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Total Games",
-      "line": 22.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Total Games",
-      "line": 21.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Total Games",
-      "line": 19.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Total Games",
-      "line": 18.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Total Games",
-      "line": 17.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Despina Papamichail",
-      "stat": "Double Faults",
-      "line": 6.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Double Faults",
-      "line": 6.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Despina Papamichail",
-      "stat": "Double Faults",
-      "line": 5.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Double Faults",
-      "line": 5.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Despina Papamichail",
-      "stat": "Double Faults",
-      "line": 4.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Aces",
-      "line": 4.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Double Faults",
-      "line": 4.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Despina Papamichail",
-      "stat": "Aces",
-      "line": 3.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Aces",
-      "line": 3.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Despina Papamichail",
-      "stat": "Aces",
-      "line": 2.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Despina Papamichail",
-      "stat": "Double Faults",
-      "line": 2.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Double Faults",
-      "line": 2.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Total Sets",
-      "line": 2.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Aces",
-      "line": 2.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Despina Papamichail",
-      "stat": "Aces",
-      "line": 1.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Aces",
-      "line": 1.5,
-      "sport": "GOLF"
-    },
-    {
-      "player": "Luisina Giovannini",
-      "stat": "Total Tie Breaks",
+      "player": "J.J. Spaun",
+      "stat": "Birdies or Better Matchup",
       "line": 0.5,
       "sport": "GOLF"
     },
     {
-      "player": "Despina Papamichail",
-      "stat": "Aces",
+      "player": "Andrew Novak",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Sam Burns",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Sam Burns",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Andrew Novak",
+      "stat": "Birdies Or Better",
+      "line": 5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Birdies or Better Matchup",
       "line": 0.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Robert MacIntyre",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Robert MacIntyre",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Robert MacIntyre",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Keegan Bradley",
+      "stat": "Bogeys or Worse",
+      "line": 2,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Corey Conners",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Billy Horschel",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Billy Horschel",
+      "stat": "Birdies Or Better",
+      "line": 5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Justin Rose",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Harris English",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Harris English",
+      "stat": "Pars",
+      "line": 10.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Justin Rose",
+      "stat": "Pars",
+      "line": 9.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Harris English",
+      "stat": "Birdies Or Better",
+      "line": 5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Justin Rose",
+      "stat": "Bogeys or Worse",
+      "line": 2.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Harris English",
+      "stat": "Bogeys or Worse",
+      "line": 2,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Birdies or Better Matchup",
+      "line": 0.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Sepp Straka",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Strokes",
+      "line": 67,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Sepp Straka",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Birdies Or Better",
+      "line": 6.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Sepp Straka",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Scottie Scheffler",
+      "stat": "Bogeys or Worse",
+      "line": 1.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Akshay Bhatia",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Alex Noren",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Alex Noren",
+      "stat": "Pars",
+      "line": 10.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Akshay Bhatia",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Akshay Bhatia",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Akshay Bhatia",
+      "stat": "Bogeys or Worse",
+      "line": 2.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Alex Noren",
+      "stat": "Bogeys or Worse",
+      "line": 2,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Wyndham Clark",
+      "stat": "Strokes",
+      "line": 69.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "J.J. Spaun",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "J.J. Spaun",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "GOLF"
+    },
+    {
+      "player": "J.J. Spaun",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Wyndham Clark",
+      "stat": "Birdies Or Better",
+      "line": 5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "J.J. Spaun",
+      "stat": "Bogeys or Worse",
+      "line": 2,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Cameron Young",
+      "stat": "Strokes",
+      "line": 69,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Cameron Young",
+      "stat": "Pars",
+      "line": 10,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Hideki Matsuyama",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
+      "sport": "GOLF"
+    },
+    {
+      "player": "Cameron Young",
+      "stat": "Birdies Or Better",
+      "line": 5.5,
       "sport": "GOLF"
     }
   ]

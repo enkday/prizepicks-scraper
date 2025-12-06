@@ -30,14 +30,90 @@
         }
       }
     },
-    "/data/prizepicks-ncaaf.json": {
+    "/data/prizepicks-ncaaf-top100.json": {
       "get": {
-        "summary": "Get College Football (NCAAF) props only",
-        "description": "Returns only College Football prop bets - optimized size for faster loading",
-        "operationId": "getNCAAFProps",
+        "summary": "Get Top 100 College Football props (RECOMMENDED)",
+        "description": "Returns the top 100 NCAAF props prioritized by PrizePicks API. This is the recommended endpoint - small file size (~12KB) with live games first.",
+        "operationId": "getNCAAFPropsTop100",
         "responses": {
           "200": {
-            "description": "Successful response with CFB prop bet data",
+            "description": "Successful response with top 100 CFB props",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf.json": {
+      "get": {
+        "summary": "Get ALL College Football props (WARNING: 900+ props, may timeout)",
+        "description": "Returns ALL College Football prop bets including future bowl games. WARNING: 100KB+ file. Use /ncaaf-top100 instead.",
+        "operationId": "getNCAAFPropsAll",
+        "responses": {
+          "200": {
+            "description": "Successful response with all CFB props",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf-qb.json": {
+      "get": {
+        "summary": "Get College Football QB props only",
+        "description": "Returns only QB-related props (passing yards, passing TDs, completions, etc.) for faster loading",
+        "operationId": "getNCAAFQBProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with CFB QB prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf-rb.json": {
+      "get": {
+        "summary": "Get College Football RB props only",
+        "description": "Returns only RB-related props (rushing yards, rushing TDs, etc.)",
+        "operationId": "getNCAAFRBProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with CFB RB prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf-wr.json": {
+      "get": {
+        "summary": "Get College Football WR props only",
+        "description": "Returns only WR-related props (receiving yards, receptions, receiving TDs, etc.)",
+        "operationId": "getNCAAFWRProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with CFB WR prop bet data",
             "content": {
               "application/json": {
                 "schema": {

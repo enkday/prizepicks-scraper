@@ -1,0 +1,4714 @@
+{
+  "scrapedAt": "2025-12-06T15:29:37.580Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 09:29 AM CST",
+  "source": "PrizePicks API",
+  "sport": "NCAAF",
+  "position": "RB",
+  "totalProps": 784,
+  "props": [
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Attempts",
+      "line": 12,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 22.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 21.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 18.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 18.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook + Chase Brown",
+      "stat": "Rush Yards",
+      "line": 151.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Yards",
+      "line": 139.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Yards",
+      "line": 129.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Yards",
+      "line": 119.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Yards",
+      "line": 52.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Yards",
+      "line": 44.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Yards",
+      "line": 31.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Yards",
+      "line": 31.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Attempts",
+      "line": 23.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Attempts",
+      "line": 21.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Attempts",
+      "line": 7.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Attempts",
+      "line": 6.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Attempts",
+      "line": 6.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "Rush Yards",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Attempts",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "Rush Attempts",
+      "line": 2.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Halves with 50+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Yards",
+      "line": 44.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards",
+      "line": 41.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "J.J. McCarthy",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Rush Yards",
+      "line": 37.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Yards",
+      "line": 33.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "J.J. McCarthy",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "J.J. McCarthy",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "J.J. McCarthy",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards",
+      "line": 18.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Attempts",
+      "line": 16.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "J.J. McCarthy",
+      "stat": "Rush Yards",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Attempts",
+      "line": 11,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Attempts",
+      "line": 10.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Attempts",
+      "line": 10.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "J.J. McCarthy",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "J.J. McCarthy",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "J.J. McCarthy",
+      "stat": "Rush Attempts",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Deebo Samuel",
+      "stat": "Rush Yards",
+      "line": 2.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jayden Daniels",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Deebo Samuel",
+      "stat": "Rush Yards",
+      "line": 0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall + De'Von Achane",
+      "stat": "Rush Yards",
+      "line": 152.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Yards",
+      "line": 119.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Yards",
+      "line": 83.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Yards",
+      "line": 70.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ollie Gordon",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ollie Gordon",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Yards",
+      "line": 27.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ollie Gordon",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Attempts",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Attempts",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ollie Gordon",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Attempts",
+      "line": 18,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Attempts",
+      "line": 18,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ollie Gordon",
+      "stat": "Rush Yards",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tua Tagovailoa",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ollie Gordon",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tua Tagovailoa",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tua Tagovailoa",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyrod Taylor",
+      "stat": "Rush Attempts",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Quarters with 10+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Quarters with 10+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tua Tagovailoa",
+      "stat": "Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tua Tagovailoa",
+      "stat": "Rush Attempts",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tua Tagovailoa",
+      "stat": "Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Halves with 50+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne + Jonathan Taylor",
+      "stat": "Rush Yards",
+      "line": 152.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Yards",
+      "line": 129.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Yards",
+      "line": 119.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Yards",
+      "line": 93.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Yards",
+      "line": 57.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Yards",
+      "line": 44.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Attempts",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Daniel Jones",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Attempts",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Daniel Jones",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Daniel Jones",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Attempts",
+      "line": 13.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Daniel Jones",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Attempts",
+      "line": 7,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Attempts",
+      "line": 6.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Daniel Jones",
+      "stat": "Rush Yards",
+      "line": 6.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Daniel Jones",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "stat": "Rush Attempts",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Daniel Jones",
+      "stat": "Rush Attempts",
+      "line": 2.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "stat": "Halves with 50+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins + Tony Pollard",
+      "stat": "Rush Yards",
+      "line": 127.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Yards",
+      "line": 119.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Yards",
+      "line": 45.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jerome Ford",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Cam Ward",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Shedeur Sanders",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jerome Ford",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Attempts",
+      "line": 25.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Cam Ward",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Shedeur Sanders",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Attempts",
+      "line": 23.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Attempts",
+      "line": 21,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Rush Yards",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Cam Ward",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Shedeur Sanders",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Cam Ward",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Shedeur Sanders",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Attempts",
+      "line": 13.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Cam Ward",
+      "stat": "Rush Yards",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Shedeur Sanders",
+      "stat": "Rush Yards",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Shedeur Sanders",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Cam Ward",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Cam Ward",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Shedeur Sanders",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Quarters with 10+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Shedeur Sanders",
+      "stat": "Rush Attempts",
+      "line": 2.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Yards",
+      "line": 66.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Yards",
+      "line": 40.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Shough",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rachaad White",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rachaad White",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Shough",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Taysom Hill",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rachaad White",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Shough",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Taysom Hill",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Attempts",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rachaad White",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Shough",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Taysom Hill",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Attempts",
+      "line": 17,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Taysom Hill",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Yards",
+      "line": 13.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Taysom Hill",
+      "stat": "Rush Yards",
+      "line": 13.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Attempts",
+      "line": 13.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rachaad White",
+      "stat": "Rush Yards",
+      "line": 12.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Shough",
+      "stat": "Rush Yards",
+      "line": 12.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rachaad White",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Shough",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Shough",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rachaad White",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Attempts",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rachaad White",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Taysom Hill",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Shough",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Shough",
+      "stat": "Rush Attempts",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rachaad White",
+      "stat": "Rush Attempts",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Devin Neal",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry + Jaylen Warren",
+      "stat": "Rush Yards",
+      "line": 132.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Yards",
+      "line": 129.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Yards",
+      "line": 119.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Yards",
+      "line": 82.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards",
+      "line": 48.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Yards",
+      "line": 26.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Yards",
+      "line": 26.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Attempts",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Attempts",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Attempts",
+      "line": 18.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Attempts",
+      "line": 14,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": 12.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Rodgers",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Attempts",
+      "line": 6.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Attempts",
+      "line": 6,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Keaton Mitchell",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Rush Attempts",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Aaron Rodgers",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Quarters with 10+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Derrick Henry",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaylen Warren",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Mark Andrews",
+      "stat": "Rush Yards",
+      "line": 0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zay Flowers",
+      "stat": "Rush Yards",
+      "line": 0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson + Kenneth Walker",
+      "stat": "Rush Yards",
+      "line": 125.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards",
+      "line": 66.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Rush Yards",
+      "line": 62.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards",
+      "line": 44.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards",
+      "line": 36.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
+      "line": 22.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rashid Shaheed",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Sam Darnold",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Sam Darnold",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush Attempts",
+      "line": 13.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kirk Cousins",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Sam Darnold",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Attempts",
+      "line": 7.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Attempts",
+      "line": 6.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kirk Cousins",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Sam Darnold",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rashid Shaheed",
+      "stat": "Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Quarters with 10+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Sam Darnold",
+      "stat": "Rush Attempts",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "AJ Barner",
+      "stat": "Rush Yards",
+      "line": 0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Sam Darnold",
+      "stat": "Rush Yards",
+      "line": 0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaxon Smith-Njigba",
+      "stat": "Rush Yards",
+      "line": 0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Sam Darnold",
+      "stat": "Rush Yards",
+      "line": -0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty + RJ Harvey",
+      "stat": "Rush Yards",
+      "line": 102.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Yards",
+      "line": 52.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaleel McLaughlin",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Yards",
+      "line": 44.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaleel McLaughlin",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Geno Smith",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaleel McLaughlin",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Geno Smith",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaleel McLaughlin",
+      "stat": "Rush Yards",
+      "line": 22.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Geno Smith",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaleel McLaughlin",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Attempts",
+      "line": 16,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Geno Smith",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jaleel McLaughlin",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Attempts",
+      "line": 14,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush Attempts",
+      "line": 13.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Geno Smith",
+      "stat": "Rush Yards",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Geno Smith",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Bo Nix",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Geno Smith",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "RJ Harvey",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Yards",
+      "line": 62.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Yards",
+      "line": 40.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacoby Brissett",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Michael Carter",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Yards",
+      "line": 35.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Michael Carter",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacoby Brissett",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Michael Carter",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacoby Brissett",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Michael Carter",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacoby Brissett",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Michael Carter",
+      "stat": "Rush Yards",
+      "line": 18.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Michael Carter",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacoby Brissett",
+      "stat": "Rush Yards",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacoby Brissett",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Michael Carter",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Michael Carter",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacoby Brissett",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Michael Carter",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacoby Brissett",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jacoby Brissett",
+      "stat": "Rush Attempts",
+      "line": 2.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Matthew Stafford",
+      "stat": "Rush Attempts",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Puka Nacua",
+      "stat": "Rush Yards",
+      "line": 0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Matthew Stafford",
+      "stat": "Rush Yards",
+      "line": -0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs + D'Andre Swift",
+      "stat": "Rush Yards",
+      "line": 127.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Yards",
+      "line": 119.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Yards",
+      "line": 77.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards",
+      "line": 50.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Caleb Williams",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Emanuel Wilson",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards",
+      "line": 47.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Caleb Williams",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Emanuel Wilson",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Love",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Caleb Williams",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Emanuel Wilson",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Love",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Caleb Williams",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Emanuel Wilson",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Attempts",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Love",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Caleb Williams",
+      "stat": "Rush Yards",
+      "line": 18.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Attempts",
+      "line": 18.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Emanuel Wilson",
+      "stat": "Rush Yards",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Attempts",
+      "line": 16.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Rush Attempts",
+      "line": 16.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Love",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Caleb Williams",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Emanuel Wilson",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Love",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Caleb Williams",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Emanuel Wilson",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Emanuel Wilson",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Love",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Caleb Williams",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Emanuel Wilson",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Caleb Williams",
+      "stat": "Rush Attempts",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Love",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jordan Love",
+      "stat": "Rush Attempts",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Josh Jacobs",
+      "stat": "Quarters with 10+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 18.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt + Woody Marks",
+      "stat": "Rush Yards",
+      "line": 82.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Yards",
+      "line": 46.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Yards",
+      "line": 32.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Yards",
+      "line": 27.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Xavier Worthy",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Yards",
+      "line": 23.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Xavier Worthy",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Yards",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Attempts",
+      "line": 17.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Attempts",
+      "line": 13.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": 13.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Attempts",
+      "line": 11,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Attempts",
+      "line": 7,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Attempts",
+      "line": 6.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Attempts",
+      "line": 6,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Nick Chubb",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Attempts",
+      "line": 4.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Attempts",
+      "line": 4,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Xavier Worthy",
+      "stat": "Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Attempts",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "stat": "Rush Attempts",
+      "line": 2.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Rashee Rice",
+      "stat": "Rush Yards",
+      "line": 0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Cade Stover",
+      "stat": "Rush Yards",
+      "line": 0.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 22.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards",
+      "line": 109.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards",
+      "line": 99.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards",
+      "line": 79.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards",
+      "line": 69.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards",
+      "line": 68.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Yards",
+      "line": 64.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards",
+      "line": 59.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards",
+      "line": 49.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards",
+      "line": 44.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Justin Herbert",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards",
+      "line": 39.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Yards",
+      "line": 38.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Justin Herbert",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards",
+      "line": 29.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Yards",
+      "line": 28.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Justin Herbert",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Attempts",
+      "line": 20.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Attempts",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Justin Herbert",
+      "stat": "Rush Yards",
+      "line": 18.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Attempts",
+      "line": 17,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Justin Herbert",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Attempts",
+      "line": 14.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Attempts",
+      "line": 12.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Attempts",
+      "line": 11.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Justin Herbert",
+      "stat": "Rush Yards",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Attempts",
+      "line": 9.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Kimani Vidal",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Attempts",
+      "line": 7.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Attempts",
+      "line": 6.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Justin Herbert",
+      "stat": "Rush Attempts",
+      "line": 5.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Justin Herbert",
+      "stat": "Rush Attempts",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Quarters with 5+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Quarters with 10+ Rush Yards",
+      "line": 3.5,
+      "sport": "NCAAF"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Halves with 25+ Rush Yards",
+      "line": 1.5,
+      "sport": "NCAAF"
+    }
+  ]
+}
