@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-06T20:08:36.371Z",
-  "scrapedDate": "Saturday, December 6, 2025 at 02:08 PM CST",
+  "scrapedAt": "2025-12-06T20:18:07.994Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 02:18 PM CST",
   "source": "PrizePicks API",
   "sport": "NCAAF",
   "totalProps": 147,
@@ -15,6 +15,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 5,
       "gameId": "117360"
     },
     {
@@ -27,6 +28,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 6,
       "gameId": "117360"
     },
     {
@@ -39,6 +41,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 8,
       "gameId": "117360"
     },
     {
@@ -51,6 +54,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 12,
       "gameId": "117360"
     },
     {
@@ -63,6 +67,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 26,
       "gameId": "117360"
     },
     {
@@ -75,18 +80,20 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 27,
       "gameId": "117360"
     },
     {
       "player": "Germie Bernard",
       "stat": "Receiving Yards",
-      "line": 65.5,
+      "line": 64.5,
       "sport": "NCAAF",
       "startTime": "12/06/25 03:00 PM CST",
       "startTimeIso": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 32,
       "gameId": "117360"
     },
     {
@@ -99,6 +106,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 33,
       "gameId": "117360"
     },
     {
@@ -111,6 +119,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 41,
       "gameId": "117360"
     },
     {
@@ -123,6 +132,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 51,
       "gameId": "117360"
     },
     {
@@ -135,6 +145,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 52,
       "gameId": "117360"
     },
     {
@@ -147,6 +158,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 53,
       "gameId": "117360"
     },
     {
@@ -159,6 +171,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 62,
       "gameId": "117360"
     },
     {
@@ -171,6 +184,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 64,
       "gameId": "117360"
     },
     {
@@ -183,6 +197,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 65,
       "gameId": "117360"
     },
     {
@@ -195,6 +210,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 66,
       "gameId": "117360"
     },
     {
@@ -207,6 +223,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 67,
       "gameId": "117360"
     },
     {
@@ -219,6 +236,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 68,
       "gameId": "117360"
     },
     {
@@ -231,18 +249,20 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 69,
       "gameId": "117360"
     },
     {
       "player": "Noah Thomas",
       "stat": "Receiving Yards",
-      "line": 28.5,
+      "line": 30.5,
       "sport": "NCAAF",
       "startTime": "12/06/25 03:00 PM CST",
       "startTimeIso": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 70,
       "gameId": "117360"
     },
     {
@@ -255,6 +275,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 77,
       "gameId": "117360"
     },
     {
@@ -267,6 +288,20 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 78,
+      "gameId": "117360"
+    },
+    {
+      "player": "Dillon Bell",
+      "stat": "Receiving Yards",
+      "line": 22.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 03:00 PM CST",
+      "startTimeIso": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "rank": 84,
       "gameId": "117360"
     },
     {
@@ -279,6 +314,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 85,
       "gameId": "117360"
     },
     {
@@ -291,6 +327,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 86,
       "gameId": "117360"
     },
     {
@@ -303,6 +340,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 88,
       "gameId": "117360"
     },
     {
@@ -315,6 +353,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 89,
       "gameId": "117360"
     },
     {
@@ -327,6 +366,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 95,
       "gameId": "117360"
     },
     {
@@ -339,18 +379,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
-      "gameId": "117360"
-    },
-    {
-      "player": "Dillon Bell",
-      "stat": "Receiving Yards",
-      "line": 18.5,
-      "sport": "NCAAF",
-      "startTime": "12/06/25 03:00 PM CST",
-      "startTimeIso": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Georgia Bulldogs",
-      "Opponent": "Alabama Crimson Tide",
+      "rank": 96,
       "gameId": "117360"
     },
     {
@@ -363,6 +392,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 97,
       "gameId": "117360"
     },
     {
@@ -375,6 +405,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 98,
       "gameId": "117360"
     },
     {
@@ -387,6 +418,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 100,
       "gameId": "117360"
     },
     {
@@ -399,6 +431,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 101,
       "gameId": "117360"
     },
     {
@@ -411,6 +444,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 102,
       "gameId": "117360"
     },
     {
@@ -423,6 +457,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 103,
       "gameId": "117360"
     },
     {
@@ -435,6 +470,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 110,
       "gameId": "117360"
     },
     {
@@ -447,6 +483,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 111,
       "gameId": "117360"
     },
     {
@@ -459,6 +496,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 112,
       "gameId": "117360"
     },
     {
@@ -471,6 +509,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 113,
       "gameId": "117360"
     },
     {
@@ -483,6 +522,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 114,
       "gameId": "117360"
     },
     {
@@ -495,6 +535,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 115,
       "gameId": "117360"
     },
     {
@@ -507,6 +548,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 116,
       "gameId": "117360"
     },
     {
@@ -519,6 +561,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 117,
       "gameId": "117360"
     },
     {
@@ -531,6 +574,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 118,
       "gameId": "117360"
     },
     {
@@ -543,6 +587,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 124,
       "gameId": "117360"
     },
     {
@@ -555,6 +600,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 128,
       "gameId": "117360"
     },
     {
@@ -567,6 +613,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 132,
       "gameId": "117360"
     },
     {
@@ -579,6 +626,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 133,
       "gameId": "117360"
     },
     {
@@ -591,6 +639,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 155,
       "gameId": "117360"
     },
     {
@@ -603,6 +652,7 @@
       "oddsType": "standard",
       "Team": "Alabama Crimson Tide",
       "Opponent": "Georgia Bulldogs",
+      "rank": 160,
       "gameId": "117360"
     },
     {
@@ -615,6 +665,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 165,
       "gameId": "117360"
     },
     {
@@ -627,6 +678,7 @@
       "oddsType": "standard",
       "Team": "Georgia Bulldogs",
       "Opponent": "Alabama Crimson Tide",
+      "rank": 201,
       "gameId": "117360"
     },
     {
@@ -639,6 +691,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 214,
       "gameId": "117228"
     },
     {
@@ -651,6 +704,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 215,
       "gameId": "117228"
     },
     {
@@ -663,6 +717,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 216,
       "gameId": "117228"
     },
     {
@@ -675,6 +730,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 218,
       "gameId": "117228"
     },
     {
@@ -687,6 +743,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 237,
       "gameId": "117228"
     },
     {
@@ -699,6 +756,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 241,
       "gameId": "117228"
     },
     {
@@ -711,6 +769,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 242,
       "gameId": "117228"
     },
     {
@@ -723,6 +782,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 247,
       "gameId": "117228"
     },
     {
@@ -735,6 +795,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 248,
       "gameId": "117228"
     },
     {
@@ -747,6 +808,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 254,
       "gameId": "117228"
     },
     {
@@ -759,6 +821,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 255,
       "gameId": "117228"
     },
     {
@@ -771,6 +834,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 256,
       "gameId": "117228"
     },
     {
@@ -783,6 +847,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 269,
       "gameId": "117228"
     },
     {
@@ -795,6 +860,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 273,
       "gameId": "117228"
     },
     {
@@ -807,6 +873,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 283,
       "gameId": "117228"
     },
     {
@@ -819,6 +886,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 288,
       "gameId": "117228"
     },
     {
@@ -831,6 +899,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 289,
       "gameId": "117228"
     },
     {
@@ -843,6 +912,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 290,
       "gameId": "117228"
     },
     {
@@ -855,6 +925,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 291,
       "gameId": "117228"
     },
     {
@@ -867,6 +938,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 296,
       "gameId": "117228"
     },
     {
@@ -879,6 +951,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 297,
       "gameId": "117228"
     },
     {
@@ -891,6 +964,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 298,
       "gameId": "117228"
     },
     {
@@ -903,6 +977,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 299,
       "gameId": "117228"
     },
     {
@@ -915,6 +990,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 302,
       "gameId": "117228"
     },
     {
@@ -927,6 +1003,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 306,
       "gameId": "117228"
     },
     {
@@ -939,6 +1016,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 307,
       "gameId": "117228"
     },
     {
@@ -951,6 +1029,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 308,
       "gameId": "117228"
     },
     {
@@ -963,6 +1042,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 309,
       "gameId": "117228"
     },
     {
@@ -975,6 +1055,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 310,
       "gameId": "117228"
     },
     {
@@ -987,6 +1068,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 311,
       "gameId": "117228"
     },
     {
@@ -999,6 +1081,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 312,
       "gameId": "117228"
     },
     {
@@ -1011,6 +1094,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 313,
       "gameId": "117228"
     },
     {
@@ -1023,6 +1107,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 314,
       "gameId": "117228"
     },
     {
@@ -1035,6 +1120,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 315,
       "gameId": "117228"
     },
     {
@@ -1047,6 +1133,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 319,
       "gameId": "117228"
     },
     {
@@ -1059,6 +1146,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 320,
       "gameId": "117228"
     },
     {
@@ -1071,6 +1159,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 321,
       "gameId": "117228"
     },
     {
@@ -1083,6 +1172,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 322,
       "gameId": "117228"
     },
     {
@@ -1095,6 +1185,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 323,
       "gameId": "117228"
     },
     {
@@ -1107,6 +1198,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 324,
       "gameId": "117228"
     },
     {
@@ -1119,6 +1211,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 325,
       "gameId": "117228"
     },
     {
@@ -1131,6 +1224,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 329,
       "gameId": "117228"
     },
     {
@@ -1143,6 +1237,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 330,
       "gameId": "117228"
     },
     {
@@ -1155,6 +1250,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 335,
       "gameId": "117228"
     },
     {
@@ -1167,6 +1263,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 336,
       "gameId": "117228"
     },
     {
@@ -1179,6 +1276,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 337,
       "gameId": "117228"
     },
     {
@@ -1191,6 +1289,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 338,
       "gameId": "117228"
     },
     {
@@ -1203,6 +1302,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 378,
       "gameId": "117228"
     },
     {
@@ -1215,6 +1315,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 396,
       "gameId": "117228"
     },
     {
@@ -1227,6 +1328,7 @@
       "oddsType": "standard",
       "Team": "Ohio State Buckeyes",
       "Opponent": "Indiana Hoosiers",
+      "rank": 399,
       "gameId": "117228"
     },
     {
@@ -1239,6 +1341,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 401,
       "gameId": "117228"
     },
     {
@@ -1251,6 +1354,7 @@
       "oddsType": "standard",
       "Team": "Indiana Hoosiers",
       "Opponent": "Ohio State Buckeyes",
+      "rank": 402,
       "gameId": "117228"
     },
     {
@@ -1263,6 +1367,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 409,
       "gameId": "117361"
     },
     {
@@ -1275,6 +1380,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 410,
       "gameId": "117361"
     },
     {
@@ -1287,18 +1393,20 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 411,
       "gameId": "117361"
     },
     {
       "player": "J'Mari Taylor",
       "stat": "Rush+Rec Yds",
-      "line": 120.5,
+      "line": 119.5,
       "sport": "NCAAF",
       "startTime": "12/06/25 07:00 PM CST",
       "startTimeIso": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 419,
       "gameId": "117361"
     },
     {
@@ -1311,6 +1419,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 424,
       "gameId": "117361"
     },
     {
@@ -1323,6 +1432,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 425,
       "gameId": "117361"
     },
     {
@@ -1335,6 +1445,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 432,
       "gameId": "117361"
     },
     {
@@ -1347,6 +1458,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 433,
       "gameId": "117361"
     },
     {
@@ -1359,6 +1471,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 437,
       "gameId": "117361"
     },
     {
@@ -1371,6 +1484,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 452,
       "gameId": "117361"
     },
     {
@@ -1383,6 +1497,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 453,
       "gameId": "117361"
     },
     {
@@ -1395,6 +1510,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 454,
       "gameId": "117361"
     },
     {
@@ -1407,6 +1523,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 461,
       "gameId": "117361"
     },
     {
@@ -1419,6 +1536,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 462,
       "gameId": "117361"
     },
     {
@@ -1431,6 +1549,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 463,
       "gameId": "117361"
     },
     {
@@ -1443,6 +1562,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 464,
       "gameId": "117361"
     },
     {
@@ -1455,6 +1575,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 468,
       "gameId": "117361"
     },
     {
@@ -1467,6 +1588,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 469,
       "gameId": "117361"
     },
     {
@@ -1479,6 +1601,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 471,
       "gameId": "117361"
     },
     {
@@ -1491,6 +1614,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 475,
       "gameId": "117361"
     },
     {
@@ -1503,6 +1627,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 476,
       "gameId": "117361"
     },
     {
@@ -1515,6 +1640,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 477,
       "gameId": "117361"
     },
     {
@@ -1527,6 +1653,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 481,
       "gameId": "117361"
     },
     {
@@ -1539,6 +1666,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 482,
       "gameId": "117361"
     },
     {
@@ -1551,6 +1679,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 483,
       "gameId": "117361"
     },
     {
@@ -1563,6 +1692,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 484,
       "gameId": "117361"
     },
     {
@@ -1575,6 +1705,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 485,
       "gameId": "117361"
     },
     {
@@ -1587,6 +1718,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 486,
       "gameId": "117361"
     },
     {
@@ -1599,6 +1731,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 487,
       "gameId": "117361"
     },
     {
@@ -1611,6 +1744,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 488,
       "gameId": "117361"
     },
     {
@@ -1623,6 +1757,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 489,
       "gameId": "117361"
     },
     {
@@ -1635,6 +1770,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 493,
       "gameId": "117361"
     },
     {
@@ -1647,6 +1783,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 494,
       "gameId": "117361"
     },
     {
@@ -1659,6 +1796,7 @@
       "oddsType": "standard",
       "Team": "Virginia Cavaliers",
       "Opponent": "Duke Blue Devils",
+      "rank": 496,
       "gameId": "117361"
     },
     {
@@ -1671,6 +1809,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 499,
       "gameId": "117361"
     },
     {
@@ -1683,6 +1822,7 @@
       "oddsType": "standard",
       "Team": "Duke Blue Devils",
       "Opponent": "Virginia Cavaliers",
+      "rank": 570,
       "gameId": "117361"
     },
     {
@@ -1695,6 +1835,7 @@
       "oddsType": "standard",
       "Team": "Rhode Island Rams",
       "Opponent": "UC Davis Aggies",
+      "rank": 578,
       "gameId": "118511"
     },
     {
@@ -1707,6 +1848,7 @@
       "oddsType": "standard",
       "Team": "UC Davis Aggies",
       "Opponent": "Rhode Island Rams",
+      "rank": 579,
       "gameId": "118511"
     },
     {
@@ -1719,6 +1861,7 @@
       "oddsType": "standard",
       "Team": "Rhode Island Rams",
       "Opponent": "UC Davis Aggies",
+      "rank": 580,
       "gameId": "118511"
     },
     {
@@ -1731,6 +1874,7 @@
       "oddsType": "standard",
       "Team": "UC Davis Aggies",
       "Opponent": "Rhode Island Rams",
+      "rank": 581,
       "gameId": "118511"
     },
     {
@@ -1743,6 +1887,7 @@
       "oddsType": "standard",
       "Team": "UC Davis Aggies",
       "Opponent": "Rhode Island Rams",
+      "rank": 582,
       "gameId": "118511"
     },
     {
@@ -1755,6 +1900,7 @@
       "oddsType": "standard",
       "Team": "Rhode Island Rams",
       "Opponent": "UC Davis Aggies",
+      "rank": 583,
       "gameId": "118511"
     },
     {
@@ -1767,6 +1913,7 @@
       "oddsType": "standard",
       "Team": "Rhode Island Rams",
       "Opponent": "UC Davis Aggies",
+      "rank": 584,
       "gameId": "118511"
     }
   ]

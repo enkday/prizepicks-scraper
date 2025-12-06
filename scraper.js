@@ -315,6 +315,7 @@ function parseProjection(projection, includedData, leagueName) {
     const opponentFull = getOpponentFull(opponentName, includedData);
     const startTimeCentral = formatStartTimeToCentral(attrs.start_time);
     const startTimeIso = attrs.start_time || null;
+    const rank = attrs.rank;
 
     // Parse stat type - remove "(Combo)" suffix if present
     let statType = attrs.stat_type || attrs.stat_display_name || 'Unknown';
@@ -331,6 +332,7 @@ function parseProjection(projection, includedData, leagueName) {
         oddsType: oddsType,
         Team: teamFull || null,
         Opponent: opponentFull || null,
+        rank: rank !== undefined ? rank : null,
         gameId
       };
     }

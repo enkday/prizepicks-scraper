@@ -233,6 +233,10 @@
           "gameId": {
             "type": "string",
             "description": "Game identifier from PrizePicks"
+          },
+          "rank": {
+            "type": "integer",
+            "description": "PrizePicks-provided rank/order within the board"
           }
         }
       }

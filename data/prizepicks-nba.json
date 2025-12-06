@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2025-12-06T20:08:36.371Z",
-  "scrapedDate": "Saturday, December 6, 2025 at 02:08 PM CST",
+  "scrapedAt": "2025-12-06T20:18:07.994Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 02:18 PM CST",
   "source": "PrizePicks API",
   "sport": "NBA",
-  "totalProps": 927,
+  "totalProps": 918,
   "props": [
     {
       "player": "Michael Porter + Trey Murphy",
@@ -15,6 +15,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 1,
       "gameId": "111628"
     },
     {
@@ -27,6 +28,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 4,
       "gameId": "111628"
     },
     {
@@ -39,6 +41,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 10,
       "gameId": "111628"
     },
     {
@@ -51,6 +54,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 11,
       "gameId": "111628"
     },
     {
@@ -63,6 +67,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 12,
       "gameId": "111628"
     },
     {
@@ -75,6 +80,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 13,
       "gameId": "111628"
     },
     {
@@ -87,6 +93,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 15,
       "gameId": "111628"
     },
     {
@@ -99,6 +106,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 21,
       "gameId": "111628"
     },
     {
@@ -111,6 +119,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 23,
       "gameId": "111628"
     },
     {
@@ -123,6 +132,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 24,
       "gameId": "111628"
     },
     {
@@ -135,6 +145,20 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 25,
+      "gameId": "111628"
+    },
+    {
+      "player": "Saddiq Bey",
+      "stat": "Fantasy Score",
+      "line": 32.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 04:10 PM CST",
+      "startTimeIso": "2025-12-06T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Pelicans",
+      "Opponent": "Brooklyn Nets",
+      "rank": 28,
       "gameId": "111628"
     },
     {
@@ -147,6 +171,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 29,
       "gameId": "111628"
     },
     {
@@ -159,18 +184,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
-      "gameId": "111628"
-    },
-    {
-      "player": "Saddiq Bey",
-      "stat": "Fantasy Score",
-      "line": 31.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 04:10 PM CST",
-      "startTimeIso": "2025-12-06T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Pelicans",
-      "Opponent": "Brooklyn Nets",
+      "rank": 30,
       "gameId": "111628"
     },
     {
@@ -183,6 +197,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 34,
       "gameId": "111628"
     },
     {
@@ -195,18 +210,20 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 36,
       "gameId": "111628"
     },
     {
       "player": "Michael Porter",
       "stat": "Pts+Asts",
-      "line": 28.5,
+      "line": 29.5,
       "sport": "NBA",
       "startTime": "12/06/25 04:10 PM CST",
       "startTimeIso": "2025-12-06T17:10:00.000-05:00",
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 37,
       "gameId": "111628"
     },
     {
@@ -219,6 +236,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 58,
       "gameId": "111628"
     },
     {
@@ -231,6 +249,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 59,
       "gameId": "111628"
     },
     {
@@ -243,6 +262,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 62,
       "gameId": "111628"
     },
     {
@@ -255,6 +275,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 65,
       "gameId": "111628"
     },
     {
@@ -267,6 +288,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 68,
       "gameId": "111628"
     },
     {
@@ -279,6 +301,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 69,
       "gameId": "111628"
     },
     {
@@ -291,6 +314,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 70,
       "gameId": "111628"
     },
     {
@@ -303,6 +327,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 79,
       "gameId": "111628"
     },
     {
@@ -315,18 +340,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
-      "gameId": "111628"
-    },
-    {
-      "player": "Saddiq Bey",
-      "stat": "Pts+Rebs",
-      "line": 24.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 04:10 PM CST",
-      "startTimeIso": "2025-12-06T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Pelicans",
-      "Opponent": "Brooklyn Nets",
+      "rank": 80,
       "gameId": "111628"
     },
     {
@@ -339,6 +353,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 99,
       "gameId": "111628"
     },
     {
@@ -351,6 +366,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 100,
       "gameId": "111628"
     },
     {
@@ -363,6 +379,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 108,
       "gameId": "111628"
     },
     {
@@ -375,18 +392,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
-      "gameId": "111628"
-    },
-    {
-      "player": "Trey Murphy",
-      "stat": "Points",
-      "line": 21.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 04:10 PM CST",
-      "startTimeIso": "2025-12-06T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Pelicans",
-      "Opponent": "Brooklyn Nets",
+      "rank": 117,
       "gameId": "111628"
     },
     {
@@ -399,6 +405,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 124,
       "gameId": "111628"
     },
     {
@@ -411,6 +418,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 125,
       "gameId": "111628"
     },
     {
@@ -423,6 +431,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 126,
       "gameId": "111628"
     },
     {
@@ -435,6 +444,20 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 127,
+      "gameId": "111628"
+    },
+    {
+      "player": "Trey Murphy",
+      "stat": "Points",
+      "line": 20.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 04:10 PM CST",
+      "startTimeIso": "2025-12-06T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Pelicans",
+      "Opponent": "Brooklyn Nets",
+      "rank": 128,
       "gameId": "111628"
     },
     {
@@ -447,6 +470,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 134,
       "gameId": "111628"
     },
     {
@@ -459,6 +483,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 136,
       "gameId": "111628"
     },
     {
@@ -471,6 +496,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 159,
       "gameId": "111628"
     },
     {
@@ -483,6 +509,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 167,
       "gameId": "111628"
     },
     {
@@ -495,6 +522,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 168,
       "gameId": "111628"
     },
     {
@@ -507,6 +535,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 169,
       "gameId": "111628"
     },
     {
@@ -519,6 +548,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 171,
       "gameId": "111628"
     },
     {
@@ -531,6 +561,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 174,
       "gameId": "111628"
     },
     {
@@ -543,6 +574,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 179,
       "gameId": "111628"
     },
     {
@@ -555,6 +587,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 192,
       "gameId": "111628"
     },
     {
@@ -567,6 +600,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 193,
       "gameId": "111628"
     },
     {
@@ -579,6 +613,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 194,
       "gameId": "111628"
     },
     {
@@ -591,6 +626,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 198,
       "gameId": "111628"
     },
     {
@@ -603,6 +639,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 207,
       "gameId": "111628"
     },
     {
@@ -615,6 +652,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 208,
       "gameId": "111628"
     },
     {
@@ -627,6 +665,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 209,
       "gameId": "111628"
     },
     {
@@ -639,6 +678,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 210,
       "gameId": "111628"
     },
     {
@@ -651,6 +691,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 218,
       "gameId": "111628"
     },
     {
@@ -663,6 +704,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 219,
       "gameId": "111628"
     },
     {
@@ -675,6 +717,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 243,
       "gameId": "111628"
     },
     {
@@ -687,6 +730,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 244,
       "gameId": "111628"
     },
     {
@@ -699,6 +743,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 253,
       "gameId": "111628"
     },
     {
@@ -711,6 +756,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 261,
       "gameId": "111628"
     },
     {
@@ -723,6 +769,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 262,
       "gameId": "111628"
     },
     {
@@ -735,6 +782,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 265,
       "gameId": "111628"
     },
     {
@@ -747,6 +795,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 271,
       "gameId": "111628"
     },
     {
@@ -759,6 +808,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 272,
       "gameId": "111628"
     },
     {
@@ -771,6 +821,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 279,
       "gameId": "111628"
     },
     {
@@ -783,6 +834,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 280,
       "gameId": "111628"
     },
     {
@@ -795,6 +847,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 285,
       "gameId": "111628"
     },
     {
@@ -807,18 +860,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
-      "gameId": "111628"
-    },
-    {
-      "player": "Yves Missi",
-      "stat": "Pts+Rebs+Asts",
-      "line": 12.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 04:10 PM CST",
-      "startTimeIso": "2025-12-06T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Pelicans",
-      "Opponent": "Brooklyn Nets",
+      "rank": 287,
       "gameId": "111628"
     },
     {
@@ -831,6 +873,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 289,
       "gameId": "111628"
     },
     {
@@ -843,6 +886,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 290,
       "gameId": "111628"
     },
     {
@@ -855,6 +899,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 291,
       "gameId": "111628"
     },
     {
@@ -867,6 +912,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 292,
       "gameId": "111628"
     },
     {
@@ -879,6 +925,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 300,
       "gameId": "111628"
     },
     {
@@ -891,6 +938,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 318,
       "gameId": "111628"
     },
     {
@@ -903,6 +951,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 319,
       "gameId": "111628"
     },
     {
@@ -915,6 +964,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 328,
       "gameId": "111628"
     },
     {
@@ -927,6 +977,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 329,
       "gameId": "111628"
     },
     {
@@ -939,6 +990,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 330,
       "gameId": "111628"
     },
     {
@@ -951,6 +1003,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 339,
       "gameId": "111628"
     },
     {
@@ -963,6 +1016,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 342,
       "gameId": "111628"
     },
     {
@@ -975,6 +1029,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 343,
       "gameId": "111628"
     },
     {
@@ -987,6 +1042,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 348,
       "gameId": "111628"
     },
     {
@@ -999,6 +1055,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 355,
       "gameId": "111628"
     },
     {
@@ -1011,6 +1068,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 369,
       "gameId": "111628"
     },
     {
@@ -1023,6 +1081,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 374,
       "gameId": "111628"
     },
     {
@@ -1035,6 +1094,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 382,
       "gameId": "111628"
     },
     {
@@ -1047,6 +1107,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 383,
       "gameId": "111628"
     },
     {
@@ -1059,6 +1120,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 395,
       "gameId": "111628"
     },
     {
@@ -1071,6 +1133,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 396,
       "gameId": "111628"
     },
     {
@@ -1083,6 +1146,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 397,
       "gameId": "111628"
     },
     {
@@ -1095,6 +1159,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 398,
       "gameId": "111628"
     },
     {
@@ -1107,6 +1172,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 399,
       "gameId": "111628"
     },
     {
@@ -1119,6 +1185,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 401,
       "gameId": "111628"
     },
     {
@@ -1131,6 +1198,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 403,
       "gameId": "111628"
     },
     {
@@ -1143,6 +1211,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 409,
       "gameId": "111628"
     },
     {
@@ -1155,6 +1224,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 410,
       "gameId": "111628"
     },
     {
@@ -1167,6 +1237,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 411,
       "gameId": "111628"
     },
     {
@@ -1179,6 +1250,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 412,
       "gameId": "111628"
     },
     {
@@ -1191,6 +1263,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 414,
       "gameId": "111628"
     },
     {
@@ -1203,6 +1276,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 415,
       "gameId": "111628"
     },
     {
@@ -1215,6 +1289,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 429,
       "gameId": "111628"
     },
     {
@@ -1227,6 +1302,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 436,
       "gameId": "111628"
     },
     {
@@ -1239,6 +1315,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 437,
       "gameId": "111628"
     },
     {
@@ -1251,6 +1328,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 439,
       "gameId": "111628"
     },
     {
@@ -1263,6 +1341,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 442,
       "gameId": "111628"
     },
     {
@@ -1275,6 +1354,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 446,
       "gameId": "111628"
     },
     {
@@ -1287,6 +1367,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 447,
       "gameId": "111628"
     },
     {
@@ -1299,6 +1380,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 448,
       "gameId": "111628"
     },
     {
@@ -1311,6 +1393,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 449,
       "gameId": "111628"
     },
     {
@@ -1323,6 +1406,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 450,
       "gameId": "111628"
     },
     {
@@ -1335,6 +1419,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 451,
       "gameId": "111628"
     },
     {
@@ -1347,6 +1432,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 469,
       "gameId": "111628"
     },
     {
@@ -1359,6 +1445,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 474,
       "gameId": "111628"
     },
     {
@@ -1371,6 +1458,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 477,
       "gameId": "111628"
     },
     {
@@ -1383,6 +1471,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 482,
       "gameId": "111628"
     },
     {
@@ -1395,6 +1484,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 483,
       "gameId": "111628"
     },
     {
@@ -1407,6 +1497,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 484,
       "gameId": "111628"
     },
     {
@@ -1419,6 +1510,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 485,
       "gameId": "111628"
     },
     {
@@ -1431,6 +1523,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 486,
       "gameId": "111628"
     },
     {
@@ -1443,6 +1536,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 487,
       "gameId": "111628"
     },
     {
@@ -1455,6 +1549,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
+      "rank": 514,
       "gameId": "111628"
     },
     {
@@ -1467,6 +1562,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 520,
       "gameId": "111628"
     },
     {
@@ -1479,6 +1575,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 527,
       "gameId": "111628"
     },
     {
@@ -1491,6 +1588,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 528,
       "gameId": "111628"
     },
     {
@@ -1503,6 +1601,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 534,
       "gameId": "111628"
     },
     {
@@ -1515,6 +1614,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 536,
       "gameId": "111628"
     },
     {
@@ -1527,6 +1627,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 537,
       "gameId": "111628"
     },
     {
@@ -1539,6 +1640,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 538,
       "gameId": "111628"
     },
     {
@@ -1551,18 +1653,7 @@
       "oddsType": "standard",
       "Team": "BKN/NOP",
       "Opponent": null,
-      "gameId": "111628"
-    },
-    {
-      "player": "Jeremiah Fears",
-      "stat": "Rebounds",
-      "line": 4,
-      "sport": "NBA",
-      "startTime": "12/06/25 04:10 PM CST",
-      "startTimeIso": "2025-12-06T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Pelicans",
-      "Opponent": "Brooklyn Nets",
+      "rank": 559,
       "gameId": "111628"
     },
     {
@@ -1575,6 +1666,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 576,
       "gameId": "111628"
     },
     {
@@ -1587,6 +1679,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 577,
       "gameId": "111628"
     },
     {
@@ -1599,6 +1692,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 582,
       "gameId": "111628"
     },
     {
@@ -1611,6 +1705,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 585,
       "gameId": "111628"
     },
     {
@@ -1623,6 +1718,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 601,
       "gameId": "111628"
     },
     {
@@ -1635,6 +1731,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 627,
       "gameId": "111628"
     },
     {
@@ -1647,6 +1744,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 649,
       "gameId": "111628"
     },
     {
@@ -1659,6 +1757,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 673,
       "gameId": "111628"
     },
     {
@@ -1671,6 +1770,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 679,
       "gameId": "111628"
     },
     {
@@ -1683,6 +1783,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 686,
       "gameId": "111628"
     },
     {
@@ -1695,6 +1796,20 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 697,
+      "gameId": "111628"
+    },
+    {
+      "player": "Tyrese Martin",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 04:10 PM CST",
+      "startTimeIso": "2025-12-06T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Brooklyn Nets",
+      "Opponent": "New Orleans Pelicans",
+      "rank": 698,
       "gameId": "111628"
     },
     {
@@ -1707,6 +1822,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 700,
       "gameId": "111628"
     },
     {
@@ -1719,6 +1835,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 707,
       "gameId": "111628"
     },
     {
@@ -1731,6 +1848,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 710,
       "gameId": "111628"
     },
     {
@@ -1743,18 +1861,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
-      "gameId": "111628"
-    },
-    {
-      "player": "Egor Dëmin",
-      "stat": "Turnovers",
-      "line": 1.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 04:10 PM CST",
-      "startTimeIso": "2025-12-06T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Brooklyn Nets",
-      "Opponent": "New Orleans Pelicans",
+      "rank": 716,
       "gameId": "111628"
     },
     {
@@ -1767,6 +1874,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 747,
       "gameId": "111628"
     },
     {
@@ -1779,6 +1887,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 772,
       "gameId": "111628"
     },
     {
@@ -1791,6 +1900,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 793,
       "gameId": "111628"
     },
     {
@@ -1803,6 +1913,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 800,
       "gameId": "111628"
     },
     {
@@ -1815,6 +1926,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 801,
       "gameId": "111628"
     },
     {
@@ -1827,6 +1939,7 @@
       "oddsType": "standard",
       "Team": "New Orleans Pelicans",
       "Opponent": "Brooklyn Nets",
+      "rank": 805,
       "gameId": "111628"
     },
     {
@@ -1839,6 +1952,7 @@
       "oddsType": "standard",
       "Team": "Brooklyn Nets",
       "Opponent": "New Orleans Pelicans",
+      "rank": 830,
       "gameId": "111628"
     },
     {
@@ -1851,6 +1965,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 845,
       "gameId": "111629"
     },
     {
@@ -1863,6 +1978,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 850,
       "gameId": "111629"
     },
     {
@@ -1875,6 +1991,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 853,
       "gameId": "111629"
     },
     {
@@ -1887,6 +2004,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 856,
       "gameId": "111629"
     },
     {
@@ -1899,18 +2017,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
-      "gameId": "111629"
-    },
-    {
-      "player": "Jalen Johnson",
-      "stat": "Pts+Rebs",
-      "line": 36.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:10 PM CST",
-      "startTimeIso": "2025-12-06T19:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Hawks",
-      "Opponent": "Washington Wizards",
+      "rank": 860,
       "gameId": "111629"
     },
     {
@@ -1923,6 +2030,20 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 862,
+      "gameId": "111629"
+    },
+    {
+      "player": "Jalen Johnson",
+      "stat": "Pts+Rebs",
+      "line": 35.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 06:10 PM CST",
+      "startTimeIso": "2025-12-06T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Hawks",
+      "Opponent": "Washington Wizards",
+      "rank": 863,
       "gameId": "111629"
     },
     {
@@ -1935,6 +2056,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 864,
       "gameId": "111629"
     },
     {
@@ -1947,6 +2069,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 865,
       "gameId": "111629"
     },
     {
@@ -1959,6 +2082,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 873,
       "gameId": "111629"
     },
     {
@@ -1971,6 +2095,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 875,
       "gameId": "111629"
     },
     {
@@ -1983,6 +2108,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 878,
       "gameId": "111629"
     },
     {
@@ -1995,6 +2121,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 880,
       "gameId": "111629"
     },
     {
@@ -2007,6 +2134,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 888,
       "gameId": "111629"
     },
     {
@@ -2019,6 +2147,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 890,
       "gameId": "111629"
     },
     {
@@ -2031,6 +2160,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 910,
       "gameId": "111629"
     },
     {
@@ -2043,6 +2173,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 912,
       "gameId": "111629"
     },
     {
@@ -2055,6 +2186,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 914,
       "gameId": "111629"
     },
     {
@@ -2067,6 +2199,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 915,
       "gameId": "111629"
     },
     {
@@ -2079,6 +2212,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 917,
       "gameId": "111629"
     },
     {
@@ -2091,6 +2225,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 922,
       "gameId": "111629"
     },
     {
@@ -2103,6 +2238,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 929,
       "gameId": "111629"
     },
     {
@@ -2115,6 +2251,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 931,
       "gameId": "111629"
     },
     {
@@ -2127,6 +2264,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 932,
       "gameId": "111629"
     },
     {
@@ -2139,6 +2277,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 953,
       "gameId": "111629"
     },
     {
@@ -2151,6 +2290,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 955,
       "gameId": "111629"
     },
     {
@@ -2163,6 +2303,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 959,
       "gameId": "111629"
     },
     {
@@ -2175,6 +2316,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 960,
       "gameId": "111629"
     },
     {
@@ -2187,6 +2329,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 964,
       "gameId": "111629"
     },
     {
@@ -2199,6 +2342,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 968,
       "gameId": "111629"
     },
     {
@@ -2211,6 +2355,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 969,
       "gameId": "111629"
     },
     {
@@ -2223,6 +2368,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 976,
       "gameId": "111629"
     },
     {
@@ -2235,6 +2381,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 978,
       "gameId": "111629"
     },
     {
@@ -2247,6 +2394,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 979,
       "gameId": "111629"
     },
     {
@@ -2259,6 +2407,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 980,
       "gameId": "111629"
     },
     {
@@ -2271,6 +2420,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 991,
       "gameId": "111629"
     },
     {
@@ -2283,6 +2433,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1014,
       "gameId": "111629"
     },
     {
@@ -2295,6 +2446,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1018,
       "gameId": "111629"
     },
     {
@@ -2307,6 +2459,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1019,
       "gameId": "111629"
     },
     {
@@ -2319,6 +2472,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1020,
       "gameId": "111629"
     },
     {
@@ -2331,6 +2485,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1021,
       "gameId": "111629"
     },
     {
@@ -2343,6 +2498,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1022,
       "gameId": "111629"
     },
     {
@@ -2355,6 +2511,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1027,
       "gameId": "111629"
     },
     {
@@ -2367,6 +2524,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1040,
       "gameId": "111629"
     },
     {
@@ -2379,6 +2537,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1041,
       "gameId": "111629"
     },
     {
@@ -2391,6 +2550,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1046,
       "gameId": "111629"
     },
     {
@@ -2403,6 +2563,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1047,
       "gameId": "111629"
     },
     {
@@ -2415,6 +2576,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1057,
       "gameId": "111629"
     },
     {
@@ -2427,6 +2589,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1059,
       "gameId": "111629"
     },
     {
@@ -2439,6 +2602,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1061,
       "gameId": "111629"
     },
     {
@@ -2451,6 +2615,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1064,
       "gameId": "111629"
     },
     {
@@ -2463,6 +2628,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1077,
       "gameId": "111629"
     },
     {
@@ -2475,6 +2641,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1078,
       "gameId": "111629"
     },
     {
@@ -2487,6 +2654,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1091,
       "gameId": "111629"
     },
     {
@@ -2499,6 +2667,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1097,
       "gameId": "111629"
     },
     {
@@ -2511,6 +2680,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1100,
       "gameId": "111629"
     },
     {
@@ -2523,6 +2693,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1102,
       "gameId": "111629"
     },
     {
@@ -2535,6 +2706,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1107,
       "gameId": "111629"
     },
     {
@@ -2547,6 +2719,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1108,
       "gameId": "111629"
     },
     {
@@ -2559,6 +2732,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1112,
       "gameId": "111629"
     },
     {
@@ -2571,6 +2745,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1113,
       "gameId": "111629"
     },
     {
@@ -2583,6 +2758,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1114,
       "gameId": "111629"
     },
     {
@@ -2595,6 +2771,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1121,
       "gameId": "111629"
     },
     {
@@ -2607,6 +2784,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1126,
       "gameId": "111629"
     },
     {
@@ -2619,6 +2797,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1127,
       "gameId": "111629"
     },
     {
@@ -2631,6 +2810,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1128,
       "gameId": "111629"
     },
     {
@@ -2643,6 +2823,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1132,
       "gameId": "111629"
     },
     {
@@ -2655,6 +2836,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1134,
       "gameId": "111629"
     },
     {
@@ -2667,6 +2849,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1136,
       "gameId": "111629"
     },
     {
@@ -2679,6 +2862,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1137,
       "gameId": "111629"
     },
     {
@@ -2691,6 +2875,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1151,
       "gameId": "111629"
     },
     {
@@ -2703,6 +2888,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1152,
       "gameId": "111629"
     },
     {
@@ -2715,6 +2901,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1153,
       "gameId": "111629"
     },
     {
@@ -2727,6 +2914,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1154,
       "gameId": "111629"
     },
     {
@@ -2739,6 +2927,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1160,
       "gameId": "111629"
     },
     {
@@ -2751,6 +2940,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1169,
       "gameId": "111629"
     },
     {
@@ -2763,6 +2953,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1182,
       "gameId": "111629"
     },
     {
@@ -2775,6 +2966,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1184,
       "gameId": "111629"
     },
     {
@@ -2787,6 +2979,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1190,
       "gameId": "111629"
     },
     {
@@ -2799,6 +2992,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1191,
       "gameId": "111629"
     },
     {
@@ -2811,6 +3005,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1204,
       "gameId": "111629"
     },
     {
@@ -2823,6 +3018,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1206,
       "gameId": "111629"
     },
     {
@@ -2835,6 +3031,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1218,
       "gameId": "111629"
     },
     {
@@ -2847,6 +3044,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1224,
       "gameId": "111629"
     },
     {
@@ -2859,6 +3057,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1225,
       "gameId": "111629"
     },
     {
@@ -2871,6 +3070,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1226,
       "gameId": "111629"
     },
     {
@@ -2883,6 +3083,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1227,
       "gameId": "111629"
     },
     {
@@ -2895,6 +3096,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1233,
       "gameId": "111629"
     },
     {
@@ -2907,6 +3109,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1234,
       "gameId": "111629"
     },
     {
@@ -2919,6 +3122,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1235,
       "gameId": "111629"
     },
     {
@@ -2931,6 +3135,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1236,
       "gameId": "111629"
     },
     {
@@ -2943,6 +3148,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1241,
       "gameId": "111629"
     },
     {
@@ -2955,6 +3161,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1247,
       "gameId": "111629"
     },
     {
@@ -2967,6 +3174,20 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1248,
+      "gameId": "111629"
+    },
+    {
+      "player": "Mouhamed Gueye",
+      "stat": "Points",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 06:10 PM CST",
+      "startTimeIso": "2025-12-06T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Hawks",
+      "Opponent": "Washington Wizards",
+      "rank": 1251,
       "gameId": "111629"
     },
     {
@@ -2979,6 +3200,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1255,
       "gameId": "111629"
     },
     {
@@ -2991,18 +3213,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
-      "gameId": "111629"
-    },
-    {
-      "player": "Mouhamed Gueye",
-      "stat": "Points",
-      "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:10 PM CST",
-      "startTimeIso": "2025-12-06T19:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Hawks",
-      "Opponent": "Washington Wizards",
+      "rank": 1256,
       "gameId": "111629"
     },
     {
@@ -3015,6 +3226,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1278,
       "gameId": "111629"
     },
     {
@@ -3027,6 +3239,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1279,
       "gameId": "111629"
     },
     {
@@ -3039,6 +3252,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1295,
       "gameId": "111629"
     },
     {
@@ -3051,6 +3265,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1298,
       "gameId": "111629"
     },
     {
@@ -3063,6 +3278,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1301,
       "gameId": "111629"
     },
     {
@@ -3075,6 +3291,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1305,
       "gameId": "111629"
     },
     {
@@ -3087,18 +3304,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
-      "gameId": "111629"
-    },
-    {
-      "player": "Kyshawn George + Nickeil Alexander-Walker",
-      "stat": "3-PT Made",
-      "line": 5.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:10 PM CST",
-      "startTimeIso": "2025-12-06T19:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "WAS/ATL",
-      "Opponent": null,
+      "rank": 1308,
       "gameId": "111629"
     },
     {
@@ -3111,6 +3317,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1315,
       "gameId": "111629"
     },
     {
@@ -3123,6 +3330,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1316,
       "gameId": "111629"
     },
     {
@@ -3135,6 +3343,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1319,
       "gameId": "111629"
     },
     {
@@ -3147,6 +3356,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1324,
       "gameId": "111629"
     },
     {
@@ -3159,6 +3369,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1341,
       "gameId": "111629"
     },
     {
@@ -3171,6 +3382,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1345,
       "gameId": "111629"
     },
     {
@@ -3183,6 +3395,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1350,
       "gameId": "111629"
     },
     {
@@ -3195,6 +3408,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1351,
       "gameId": "111629"
     },
     {
@@ -3207,6 +3421,7 @@
       "oddsType": "standard",
       "Team": "WAS/ATL",
       "Opponent": null,
+      "rank": 1355,
       "gameId": "111629"
     },
     {
@@ -3219,6 +3434,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1360,
       "gameId": "111629"
     },
     {
@@ -3231,6 +3447,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1364,
       "gameId": "111629"
     },
     {
@@ -3243,6 +3460,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1365,
       "gameId": "111629"
     },
     {
@@ -3255,6 +3473,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1375,
       "gameId": "111629"
     },
     {
@@ -3267,6 +3486,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1380,
       "gameId": "111629"
     },
     {
@@ -3279,6 +3499,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1390,
       "gameId": "111629"
     },
     {
@@ -3291,6 +3512,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1407,
       "gameId": "111629"
     },
     {
@@ -3303,6 +3525,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1457,
       "gameId": "111629"
     },
     {
@@ -3315,6 +3538,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1490,
       "gameId": "111629"
     },
     {
@@ -3327,6 +3551,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1502,
       "gameId": "111629"
     },
     {
@@ -3339,6 +3564,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1509,
       "gameId": "111629"
     },
     {
@@ -3351,6 +3577,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1510,
       "gameId": "111629"
     },
     {
@@ -3363,6 +3590,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1511,
       "gameId": "111629"
     },
     {
@@ -3375,6 +3603,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1521,
       "gameId": "111629"
     },
     {
@@ -3387,6 +3616,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1526,
       "gameId": "111629"
     },
     {
@@ -3399,6 +3629,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1528,
       "gameId": "111629"
     },
     {
@@ -3411,6 +3642,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1536,
       "gameId": "111629"
     },
     {
@@ -3423,6 +3655,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1548,
       "gameId": "111629"
     },
     {
@@ -3435,6 +3668,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1552,
       "gameId": "111629"
     },
     {
@@ -3447,6 +3681,7 @@
       "oddsType": "standard",
       "Team": "Washington Wizards",
       "Opponent": "Atlanta Hawks",
+      "rank": 1583,
       "gameId": "111629"
     },
     {
@@ -3459,6 +3694,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1586,
       "gameId": "111629"
     },
     {
@@ -3471,6 +3707,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1589,
       "gameId": "111629"
     },
     {
@@ -3483,6 +3720,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1612,
       "gameId": "111629"
     },
     {
@@ -3495,6 +3733,7 @@
       "oddsType": "standard",
       "Team": "Atlanta Hawks",
       "Opponent": "Washington Wizards",
+      "rank": 1615,
       "gameId": "111629"
     },
     {
@@ -3507,6 +3746,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1640,
       "gameId": "112017"
     },
     {
@@ -3519,18 +3759,20 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1642,
       "gameId": "112017"
     },
     {
       "player": "Cade Cunningham + Ryan Rollins",
       "stat": "Points",
-      "line": 47.5,
+      "line": 46.5,
       "sport": "NBA",
       "startTime": "12/06/25 06:40 PM CST",
       "startTimeIso": "2025-12-06T19:40:00.000-05:00",
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1646,
       "gameId": "112017"
     },
     {
@@ -3543,6 +3785,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1649,
       "gameId": "112017"
     },
     {
@@ -3555,6 +3798,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1651,
       "gameId": "112017"
     },
     {
@@ -3567,6 +3811,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1660,
       "gameId": "112017"
     },
     {
@@ -3579,6 +3824,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1661,
       "gameId": "112017"
     },
     {
@@ -3591,6 +3837,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1665,
       "gameId": "112017"
     },
     {
@@ -3603,6 +3850,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1666,
       "gameId": "112017"
     },
     {
@@ -3615,6 +3863,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1667,
       "gameId": "112017"
     },
     {
@@ -3627,6 +3876,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1671,
       "gameId": "112017"
     },
     {
@@ -3639,6 +3889,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1677,
       "gameId": "112017"
     },
     {
@@ -3651,6 +3902,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1680,
       "gameId": "112017"
     },
     {
@@ -3663,6 +3915,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1683,
       "gameId": "112017"
     },
     {
@@ -3675,6 +3928,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1684,
       "gameId": "112017"
     },
     {
@@ -3687,6 +3941,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1685,
       "gameId": "112017"
     },
     {
@@ -3699,6 +3954,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1686,
       "gameId": "112017"
     },
     {
@@ -3711,6 +3967,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1689,
       "gameId": "112017"
     },
     {
@@ -3723,6 +3980,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1703,
       "gameId": "112017"
     },
     {
@@ -3735,6 +3993,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1707,
       "gameId": "112017"
     },
     {
@@ -3747,6 +4006,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1708,
       "gameId": "112017"
     },
     {
@@ -3759,6 +4019,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1709,
       "gameId": "112017"
     },
     {
@@ -3771,6 +4032,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1715,
       "gameId": "112017"
     },
     {
@@ -3783,6 +4045,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1716,
       "gameId": "112017"
     },
     {
@@ -3795,6 +4058,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1719,
       "gameId": "112017"
     },
     {
@@ -3807,6 +4071,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1720,
       "gameId": "112017"
     },
     {
@@ -3819,6 +4084,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1721,
       "gameId": "112017"
     },
     {
@@ -3831,6 +4097,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1723,
       "gameId": "112017"
     },
     {
@@ -3843,6 +4110,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1743,
       "gameId": "112017"
     },
     {
@@ -3855,6 +4123,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1753,
       "gameId": "112017"
     },
     {
@@ -3867,11 +4136,12 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1758,
       "gameId": "112017"
     },
     {
-      "player": "Bobby Portis",
-      "stat": "Pts+Rebs+Asts",
+      "player": "Kevin Porter",
+      "stat": "Points",
       "line": 20.5,
       "sport": "NBA",
       "startTime": "12/06/25 06:40 PM CST",
@@ -3879,6 +4149,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1759,
       "gameId": "112017"
     },
     {
@@ -3891,6 +4162,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1762,
       "gameId": "112017"
     },
     {
@@ -3903,30 +4175,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
-      "gameId": "112017"
-    },
-    {
-      "player": "Bobby Portis",
-      "stat": "Pts+Rebs",
-      "line": 19.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:40 PM CST",
-      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Milwaukee Bucks",
-      "Opponent": "Detroit Pistons",
-      "gameId": "112017"
-    },
-    {
-      "player": "Kevin Porter",
-      "stat": "Points",
-      "line": 19.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:40 PM CST",
-      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Milwaukee Bucks",
-      "Opponent": "Detroit Pistons",
+      "rank": 1763,
       "gameId": "112017"
     },
     {
@@ -3939,6 +4188,20 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1771,
+      "gameId": "112017"
+    },
+    {
+      "player": "Bobby Portis",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 06:40 PM CST",
+      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Bucks",
+      "Opponent": "Detroit Pistons",
+      "rank": 1774,
       "gameId": "112017"
     },
     {
@@ -3951,6 +4214,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1777,
       "gameId": "112017"
     },
     {
@@ -3963,6 +4227,20 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1794,
+      "gameId": "112017"
+    },
+    {
+      "player": "Bobby Portis",
+      "stat": "Pts+Rebs",
+      "line": 19,
+      "sport": "NBA",
+      "startTime": "12/06/25 06:40 PM CST",
+      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Bucks",
+      "Opponent": "Detroit Pistons",
+      "rank": 1801,
       "gameId": "112017"
     },
     {
@@ -3975,6 +4253,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1802,
       "gameId": "112017"
     },
     {
@@ -3987,6 +4266,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1803,
       "gameId": "112017"
     },
     {
@@ -3999,6 +4279,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1804,
       "gameId": "112017"
     },
     {
@@ -4011,6 +4292,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1805,
       "gameId": "112017"
     },
     {
@@ -4023,6 +4305,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1812,
       "gameId": "112017"
     },
     {
@@ -4035,6 +4318,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1817,
       "gameId": "112017"
     },
     {
@@ -4047,6 +4331,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1826,
       "gameId": "112017"
     },
     {
@@ -4059,6 +4344,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1833,
       "gameId": "112017"
     },
     {
@@ -4071,6 +4357,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1834,
       "gameId": "112017"
     },
     {
@@ -4083,6 +4370,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1838,
       "gameId": "112017"
     },
     {
@@ -4095,6 +4383,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1839,
       "gameId": "112017"
     },
     {
@@ -4107,6 +4396,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1843,
       "gameId": "112017"
     },
     {
@@ -4119,6 +4409,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1845,
       "gameId": "112017"
     },
     {
@@ -4131,6 +4422,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1852,
       "gameId": "112017"
     },
     {
@@ -4143,6 +4435,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1861,
       "gameId": "112017"
     },
     {
@@ -4155,6 +4448,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1862,
       "gameId": "112017"
     },
     {
@@ -4167,6 +4461,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1863,
       "gameId": "112017"
     },
     {
@@ -4179,6 +4474,20 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1870,
+      "gameId": "112017"
+    },
+    {
+      "player": "Isaiah Stewart",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 06:40 PM CST",
+      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Pistons",
+      "Opponent": "Milwaukee Bucks",
+      "rank": 1891,
       "gameId": "112017"
     },
     {
@@ -4191,6 +4500,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1893,
       "gameId": "112017"
     },
     {
@@ -4203,6 +4513,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1902,
       "gameId": "112017"
     },
     {
@@ -4215,18 +4526,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
-      "gameId": "112017"
-    },
-    {
-      "player": "Isaiah Stewart",
-      "stat": "Pts+Rebs",
-      "line": 13.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:40 PM CST",
-      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Pistons",
-      "Opponent": "Milwaukee Bucks",
+      "rank": 1903,
       "gameId": "112017"
     },
     {
@@ -4239,6 +4539,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1905,
       "gameId": "112017"
     },
     {
@@ -4251,6 +4552,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1909,
       "gameId": "112017"
     },
     {
@@ -4263,6 +4565,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1912,
       "gameId": "112017"
     },
     {
@@ -4275,6 +4578,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1914,
       "gameId": "112017"
     },
     {
@@ -4287,18 +4591,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
-      "gameId": "112017"
-    },
-    {
-      "player": "Bobby Portis",
-      "stat": "Points",
-      "line": 13,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:40 PM CST",
-      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Milwaukee Bucks",
-      "Opponent": "Detroit Pistons",
+      "rank": 1919,
       "gameId": "112017"
     },
     {
@@ -4311,6 +4604,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1920,
       "gameId": "112017"
     },
     {
@@ -4323,6 +4617,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1921,
       "gameId": "112017"
     },
     {
@@ -4335,6 +4630,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1922,
       "gameId": "112017"
     },
     {
@@ -4347,6 +4643,20 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1923,
+      "gameId": "112017"
+    },
+    {
+      "player": "Isaiah Stewart",
+      "stat": "Pts+Rebs",
+      "line": 12.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 06:40 PM CST",
+      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Pistons",
+      "Opponent": "Milwaukee Bucks",
+      "rank": 1924,
       "gameId": "112017"
     },
     {
@@ -4359,6 +4669,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1934,
       "gameId": "112017"
     },
     {
@@ -4371,6 +4682,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1935,
       "gameId": "112017"
     },
     {
@@ -4383,6 +4695,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 1936,
       "gameId": "112017"
     },
     {
@@ -4395,6 +4708,20 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1938,
+      "gameId": "112017"
+    },
+    {
+      "player": "Bobby Portis",
+      "stat": "Points",
+      "line": 12,
+      "sport": "NBA",
+      "startTime": "12/06/25 06:40 PM CST",
+      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Bucks",
+      "Opponent": "Detroit Pistons",
+      "rank": 1943,
       "gameId": "112017"
     },
     {
@@ -4407,6 +4734,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1945,
       "gameId": "112017"
     },
     {
@@ -4419,6 +4747,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1949,
       "gameId": "112017"
     },
     {
@@ -4431,6 +4760,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1950,
       "gameId": "112017"
     },
     {
@@ -4443,6 +4773,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1952,
       "gameId": "112017"
     },
     {
@@ -4455,6 +4786,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1962,
       "gameId": "112017"
     },
     {
@@ -4467,6 +4799,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1964,
       "gameId": "112017"
     },
     {
@@ -4479,6 +4812,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1966,
       "gameId": "112017"
     },
     {
@@ -4491,6 +4825,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1968,
       "gameId": "112017"
     },
     {
@@ -4503,6 +4838,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1971,
       "gameId": "112017"
     },
     {
@@ -4515,6 +4851,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1972,
       "gameId": "112017"
     },
     {
@@ -4527,6 +4864,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1973,
       "gameId": "112017"
     },
     {
@@ -4539,6 +4877,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1978,
       "gameId": "112017"
     },
     {
@@ -4551,6 +4890,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1980,
       "gameId": "112017"
     },
     {
@@ -4563,6 +4903,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1982,
       "gameId": "112017"
     },
     {
@@ -4575,6 +4916,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1984,
       "gameId": "112017"
     },
     {
@@ -4587,6 +4929,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 1989,
       "gameId": "112017"
     },
     {
@@ -4599,6 +4942,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1994,
       "gameId": "112017"
     },
     {
@@ -4611,6 +4955,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 1997,
       "gameId": "112017"
     },
     {
@@ -4623,6 +4968,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2013,
       "gameId": "112017"
     },
     {
@@ -4635,6 +4981,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2062,
       "gameId": "112017"
     },
     {
@@ -4647,6 +4994,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2063,
       "gameId": "112017"
     },
     {
@@ -4659,6 +5007,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2065,
       "gameId": "112017"
     },
     {
@@ -4671,6 +5020,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2069,
       "gameId": "112017"
     },
     {
@@ -4683,6 +5033,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2076,
       "gameId": "112017"
     },
     {
@@ -4695,6 +5046,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2084,
       "gameId": "112017"
     },
     {
@@ -4707,6 +5059,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2088,
       "gameId": "112017"
     },
     {
@@ -4719,6 +5072,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2090,
       "gameId": "112017"
     },
     {
@@ -4731,6 +5085,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2102,
       "gameId": "112017"
     },
     {
@@ -4743,6 +5098,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2103,
       "gameId": "112017"
     },
     {
@@ -4755,18 +5111,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
-      "gameId": "112017"
-    },
-    {
-      "player": "Bobby Portis",
-      "stat": "Rebounds",
-      "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:40 PM CST",
-      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Milwaukee Bucks",
-      "Opponent": "Detroit Pistons",
+      "rank": 2104,
       "gameId": "112017"
     },
     {
@@ -4779,6 +5124,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2105,
       "gameId": "112017"
     },
     {
@@ -4791,6 +5137,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2115,
       "gameId": "112017"
     },
     {
@@ -4803,6 +5150,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2117,
       "gameId": "112017"
     },
     {
@@ -4815,6 +5163,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2123,
       "gameId": "112017"
     },
     {
@@ -4827,6 +5176,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2124,
       "gameId": "112017"
     },
     {
@@ -4839,6 +5189,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2127,
       "gameId": "112017"
     },
     {
@@ -4851,6 +5202,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2135,
       "gameId": "112017"
     },
     {
@@ -4863,6 +5215,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 2158,
       "gameId": "112017"
     },
     {
@@ -4875,6 +5228,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2159,
       "gameId": "112017"
     },
     {
@@ -4887,6 +5241,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2164,
       "gameId": "112017"
     },
     {
@@ -4899,6 +5254,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2176,
       "gameId": "112017"
     },
     {
@@ -4911,6 +5267,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2186,
       "gameId": "112017"
     },
     {
@@ -4923,6 +5280,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2195,
       "gameId": "112017"
     },
     {
@@ -4935,6 +5293,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 2196,
       "gameId": "112017"
     },
     {
@@ -4947,6 +5306,7 @@
       "oddsType": "standard",
       "Team": "DET/MIL",
       "Opponent": null,
+      "rank": 2197,
       "gameId": "112017"
     },
     {
@@ -4959,6 +5319,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2198,
       "gameId": "112017"
     },
     {
@@ -4971,6 +5332,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2199,
       "gameId": "112017"
     },
     {
@@ -4983,6 +5345,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2224,
       "gameId": "112017"
     },
     {
@@ -4995,6 +5358,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2226,
       "gameId": "112017"
     },
     {
@@ -5007,6 +5371,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2230,
       "gameId": "112017"
     },
     {
@@ -5019,6 +5384,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2233,
       "gameId": "112017"
     },
     {
@@ -5031,6 +5397,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2268,
       "gameId": "112017"
     },
     {
@@ -5043,6 +5410,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2276,
       "gameId": "112017"
     },
     {
@@ -5055,6 +5423,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2282,
       "gameId": "112017"
     },
     {
@@ -5067,6 +5436,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2283,
       "gameId": "112017"
     },
     {
@@ -5079,6 +5449,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2319,
       "gameId": "112017"
     },
     {
@@ -5091,6 +5462,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2332,
       "gameId": "112017"
     },
     {
@@ -5103,6 +5475,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2363,
       "gameId": "112017"
     },
     {
@@ -5115,6 +5488,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2367,
       "gameId": "112017"
     },
     {
@@ -5127,6 +5501,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2375,
       "gameId": "112017"
     },
     {
@@ -5139,6 +5514,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2376,
       "gameId": "112017"
     },
     {
@@ -5151,6 +5527,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2387,
       "gameId": "112017"
     },
     {
@@ -5163,6 +5540,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2388,
       "gameId": "112017"
     },
     {
@@ -5175,6 +5553,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2390,
       "gameId": "112017"
     },
     {
@@ -5187,6 +5566,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2394,
       "gameId": "112017"
     },
     {
@@ -5199,6 +5579,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2398,
       "gameId": "112017"
     },
     {
@@ -5211,6 +5592,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2407,
       "gameId": "112017"
     },
     {
@@ -5223,6 +5605,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2413,
       "gameId": "112017"
     },
     {
@@ -5235,6 +5618,7 @@
       "oddsType": "standard",
       "Team": "Milwaukee Bucks",
       "Opponent": "Detroit Pistons",
+      "rank": 2415,
       "gameId": "112017"
     },
     {
@@ -5247,6 +5631,7 @@
       "oddsType": "standard",
       "Team": "Detroit Pistons",
       "Opponent": "Milwaukee Bucks",
+      "rank": 2425,
       "gameId": "112017"
     },
     {
@@ -5259,6 +5644,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2449,
       "gameId": "112018"
     },
     {
@@ -5271,6 +5657,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2454,
       "gameId": "112018"
     },
     {
@@ -5283,6 +5670,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2455,
       "gameId": "112018"
     },
     {
@@ -5295,6 +5683,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2456,
       "gameId": "112018"
     },
     {
@@ -5307,6 +5696,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2462,
       "gameId": "112018"
     },
     {
@@ -5319,6 +5709,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2466,
       "gameId": "112018"
     },
     {
@@ -5331,6 +5722,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2470,
       "gameId": "112018"
     },
     {
@@ -5343,6 +5735,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2471,
       "gameId": "112018"
     },
     {
@@ -5355,6 +5748,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2480,
       "gameId": "112018"
     },
     {
@@ -5367,6 +5761,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2482,
       "gameId": "112018"
     },
     {
@@ -5379,6 +5774,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2483,
       "gameId": "112018"
     },
     {
@@ -5391,6 +5787,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2484,
       "gameId": "112018"
     },
     {
@@ -5403,6 +5800,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2486,
       "gameId": "112018"
     },
     {
@@ -5415,6 +5813,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2489,
       "gameId": "112018"
     },
     {
@@ -5427,6 +5826,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2490,
       "gameId": "112018"
     },
     {
@@ -5439,6 +5839,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2492,
       "gameId": "112018"
     },
     {
@@ -5451,6 +5852,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2506,
       "gameId": "112018"
     },
     {
@@ -5463,6 +5865,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2510,
       "gameId": "112018"
     },
     {
@@ -5475,6 +5878,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2511,
       "gameId": "112018"
     },
     {
@@ -5487,6 +5891,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2514,
       "gameId": "112018"
     },
     {
@@ -5499,6 +5904,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2516,
       "gameId": "112018"
     },
     {
@@ -5511,6 +5917,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2520,
       "gameId": "112018"
     },
     {
@@ -5523,6 +5930,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2521,
       "gameId": "112018"
     },
     {
@@ -5535,6 +5943,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2523,
       "gameId": "112018"
     },
     {
@@ -5547,6 +5956,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2529,
       "gameId": "112018"
     },
     {
@@ -5559,6 +5969,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2550,
       "gameId": "112018"
     },
     {
@@ -5571,6 +5982,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2551,
       "gameId": "112018"
     },
     {
@@ -5583,6 +5995,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2557,
       "gameId": "112018"
     },
     {
@@ -5595,6 +6008,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2558,
       "gameId": "112018"
     },
     {
@@ -5607,6 +6021,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2560,
       "gameId": "112018"
     },
     {
@@ -5619,6 +6034,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2561,
       "gameId": "112018"
     },
     {
@@ -5631,6 +6047,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2564,
       "gameId": "112018"
     },
     {
@@ -5643,6 +6060,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2566,
       "gameId": "112018"
     },
     {
@@ -5655,6 +6073,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2567,
       "gameId": "112018"
     },
     {
@@ -5667,6 +6086,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2568,
       "gameId": "112018"
     },
     {
@@ -5679,6 +6099,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2569,
       "gameId": "112018"
     },
     {
@@ -5691,6 +6112,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2570,
       "gameId": "112018"
     },
     {
@@ -5703,6 +6125,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2578,
       "gameId": "112018"
     },
     {
@@ -5715,6 +6138,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2584,
       "gameId": "112018"
     },
     {
@@ -5727,6 +6151,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2592,
       "gameId": "112018"
     },
     {
@@ -5739,6 +6164,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2603,
       "gameId": "112018"
     },
     {
@@ -5751,6 +6177,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2605,
       "gameId": "112018"
     },
     {
@@ -5763,6 +6190,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2606,
       "gameId": "112018"
     },
     {
@@ -5775,6 +6203,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2611,
       "gameId": "112018"
     },
     {
@@ -5787,6 +6216,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2623,
       "gameId": "112018"
     },
     {
@@ -5799,6 +6229,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2624,
       "gameId": "112018"
     },
     {
@@ -5811,6 +6242,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2626,
       "gameId": "112018"
     },
     {
@@ -5823,6 +6255,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2627,
       "gameId": "112018"
     },
     {
@@ -5835,6 +6268,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2629,
       "gameId": "112018"
     },
     {
@@ -5847,6 +6281,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2632,
       "gameId": "112018"
     },
     {
@@ -5859,6 +6294,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2636,
       "gameId": "112018"
     },
     {
@@ -5871,6 +6307,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2637,
       "gameId": "112018"
     },
     {
@@ -5883,6 +6320,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2638,
       "gameId": "112018"
     },
     {
@@ -5895,6 +6333,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2643,
       "gameId": "112018"
     },
     {
@@ -5907,6 +6346,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2648,
       "gameId": "112018"
     },
     {
@@ -5919,6 +6359,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2652,
       "gameId": "112018"
     },
     {
@@ -5931,6 +6372,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2653,
       "gameId": "112018"
     },
     {
@@ -5943,6 +6385,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2671,
       "gameId": "112018"
     },
     {
@@ -5955,6 +6398,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2672,
       "gameId": "112018"
     },
     {
@@ -5967,6 +6411,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2676,
       "gameId": "112018"
     },
     {
@@ -5979,6 +6424,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2677,
       "gameId": "112018"
     },
     {
@@ -5991,6 +6437,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2682,
       "gameId": "112018"
     },
     {
@@ -6003,6 +6450,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2683,
       "gameId": "112018"
     },
     {
@@ -6015,6 +6463,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2685,
       "gameId": "112018"
     },
     {
@@ -6027,6 +6476,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2690,
       "gameId": "112018"
     },
     {
@@ -6039,6 +6489,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2695,
       "gameId": "112018"
     },
     {
@@ -6051,6 +6502,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2696,
       "gameId": "112018"
     },
     {
@@ -6063,6 +6515,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2697,
       "gameId": "112018"
     },
     {
@@ -6075,6 +6528,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2698,
       "gameId": "112018"
     },
     {
@@ -6087,6 +6541,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2699,
       "gameId": "112018"
     },
     {
@@ -6099,6 +6554,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2700,
       "gameId": "112018"
     },
     {
@@ -6111,6 +6567,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2708,
       "gameId": "112018"
     },
     {
@@ -6123,6 +6580,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2718,
       "gameId": "112018"
     },
     {
@@ -6135,6 +6593,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2719,
       "gameId": "112018"
     },
     {
@@ -6147,6 +6606,20 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2724,
+      "gameId": "112018"
+    },
+    {
+      "player": "De'Andre Hunter",
+      "stat": "FG Attempted",
+      "line": 10.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 06:40 PM CST",
+      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "Opponent": "Golden State Warriors",
+      "rank": 2728,
       "gameId": "112018"
     },
     {
@@ -6159,6 +6632,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2729,
       "gameId": "112018"
     },
     {
@@ -6171,6 +6645,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2733,
       "gameId": "112018"
     },
     {
@@ -6183,6 +6658,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2736,
       "gameId": "112018"
     },
     {
@@ -6195,6 +6671,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2737,
       "gameId": "112018"
     },
     {
@@ -6207,6 +6684,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2743,
       "gameId": "112018"
     },
     {
@@ -6219,6 +6697,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2746,
       "gameId": "112018"
     },
     {
@@ -6231,18 +6710,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
-      "gameId": "112018"
-    },
-    {
-      "player": "Quinten Post",
-      "stat": "Pts+Asts",
-      "line": 9.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:40 PM CST",
-      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Golden State Warriors",
-      "Opponent": "Cleveland Cavaliers",
+      "rank": 2752,
       "gameId": "112018"
     },
     {
@@ -6255,6 +6723,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2755,
       "gameId": "112018"
     },
     {
@@ -6267,6 +6736,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2759,
       "gameId": "112018"
     },
     {
@@ -6279,6 +6749,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2760,
       "gameId": "112018"
     },
     {
@@ -6291,6 +6762,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2773,
       "gameId": "112018"
     },
     {
@@ -6303,6 +6775,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2782,
       "gameId": "112018"
     },
     {
@@ -6315,6 +6788,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2795,
       "gameId": "112018"
     },
     {
@@ -6327,6 +6801,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2803,
       "gameId": "112018"
     },
     {
@@ -6339,6 +6814,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2806,
       "gameId": "112018"
     },
     {
@@ -6351,6 +6827,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2807,
       "gameId": "112018"
     },
     {
@@ -6363,6 +6840,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2810,
       "gameId": "112018"
     },
     {
@@ -6375,6 +6853,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2814,
       "gameId": "112018"
     },
     {
@@ -6387,6 +6866,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2824,
       "gameId": "112018"
     },
     {
@@ -6399,6 +6879,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2828,
       "gameId": "112018"
     },
     {
@@ -6411,6 +6892,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2831,
       "gameId": "112018"
     },
     {
@@ -6423,6 +6905,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2832,
       "gameId": "112018"
     },
     {
@@ -6435,6 +6918,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2833,
       "gameId": "112018"
     },
     {
@@ -6447,6 +6931,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2842,
       "gameId": "112018"
     },
     {
@@ -6459,6 +6944,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2845,
       "gameId": "112018"
     },
     {
@@ -6471,6 +6957,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2853,
       "gameId": "112018"
     },
     {
@@ -6483,6 +6970,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2854,
       "gameId": "112018"
     },
     {
@@ -6495,6 +6983,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2858,
       "gameId": "112018"
     },
     {
@@ -6507,6 +6996,20 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2860,
+      "gameId": "112018"
+    },
+    {
+      "player": "Dean Wade",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 06:40 PM CST",
+      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "Opponent": "Golden State Warriors",
+      "rank": 2862,
       "gameId": "112018"
     },
     {
@@ -6519,6 +7022,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2863,
       "gameId": "112018"
     },
     {
@@ -6531,6 +7035,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2864,
       "gameId": "112018"
     },
     {
@@ -6543,6 +7048,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2865,
       "gameId": "112018"
     },
     {
@@ -6555,6 +7061,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2866,
       "gameId": "112018"
     },
     {
@@ -6567,6 +7074,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2867,
       "gameId": "112018"
     },
     {
@@ -6579,6 +7087,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2871,
       "gameId": "112018"
     },
     {
@@ -6591,6 +7100,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2885,
       "gameId": "112018"
     },
     {
@@ -6603,6 +7113,7 @@
       "oddsType": "standard",
       "Team": "CLE/GSW",
       "Opponent": null,
+      "rank": 2892,
       "gameId": "112018"
     },
     {
@@ -6615,6 +7126,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2897,
       "gameId": "112018"
     },
     {
@@ -6627,6 +7139,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2899,
       "gameId": "112018"
     },
     {
@@ -6639,6 +7152,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2900,
       "gameId": "112018"
     },
     {
@@ -6651,18 +7165,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
-      "gameId": "112018"
-    },
-    {
-      "player": "Draymond Green",
-      "stat": "Two Pointers Attempted",
-      "line": 3.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 06:40 PM CST",
-      "startTimeIso": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Golden State Warriors",
-      "Opponent": "Cleveland Cavaliers",
+      "rank": 2914,
       "gameId": "112018"
     },
     {
@@ -6675,6 +7178,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2927,
       "gameId": "112018"
     },
     {
@@ -6687,6 +7191,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2939,
       "gameId": "112018"
     },
     {
@@ -6699,6 +7204,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2962,
       "gameId": "112018"
     },
     {
@@ -6711,6 +7217,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2974,
       "gameId": "112018"
     },
     {
@@ -6723,6 +7230,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2976,
       "gameId": "112018"
     },
     {
@@ -6735,6 +7243,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 2989,
       "gameId": "112018"
     },
     {
@@ -6747,6 +7256,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 2993,
       "gameId": "112018"
     },
     {
@@ -6759,6 +7269,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 3002,
       "gameId": "112018"
     },
     {
@@ -6771,6 +7282,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 3023,
       "gameId": "112018"
     },
     {
@@ -6783,6 +7295,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 3025,
       "gameId": "112018"
     },
     {
@@ -6795,6 +7308,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 3030,
       "gameId": "112018"
     },
     {
@@ -6807,6 +7321,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 3033,
       "gameId": "112018"
     },
     {
@@ -6819,6 +7334,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 3037,
       "gameId": "112018"
     },
     {
@@ -6831,6 +7347,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 3043,
       "gameId": "112018"
     },
     {
@@ -6843,6 +7360,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 3044,
       "gameId": "112018"
     },
     {
@@ -6855,6 +7373,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 3060,
       "gameId": "112018"
     },
     {
@@ -6867,6 +7386,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 3089,
       "gameId": "112018"
     },
     {
@@ -6879,6 +7399,7 @@
       "oddsType": "standard",
       "Team": "Golden State Warriors",
       "Opponent": "Cleveland Cavaliers",
+      "rank": 3097,
       "gameId": "112018"
     },
     {
@@ -6891,6 +7412,7 @@
       "oddsType": "standard",
       "Team": "Cleveland Cavaliers",
       "Opponent": "Golden State Warriors",
+      "rank": 3131,
       "gameId": "112018"
     },
     {
@@ -6903,6 +7425,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3135,
       "gameId": "112020"
     },
     {
@@ -6915,6 +7438,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3136,
       "gameId": "112020"
     },
     {
@@ -6927,6 +7451,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3138,
       "gameId": "112020"
     },
     {
@@ -6939,6 +7464,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3139,
       "gameId": "112020"
     },
     {
@@ -6951,6 +7477,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3146,
       "gameId": "112020"
     },
     {
@@ -6963,6 +7490,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3147,
       "gameId": "112020"
     },
     {
@@ -6975,6 +7503,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3154,
       "gameId": "112020"
     },
     {
@@ -6987,6 +7516,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3163,
       "gameId": "112020"
     },
     {
@@ -6999,6 +7529,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3167,
       "gameId": "112020"
     },
     {
@@ -7011,6 +7542,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3168,
       "gameId": "112020"
     },
     {
@@ -7023,6 +7555,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3174,
       "gameId": "112020"
     },
     {
@@ -7035,6 +7568,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3176,
       "gameId": "112020"
     },
     {
@@ -7047,6 +7581,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3177,
       "gameId": "112020"
     },
     {
@@ -7059,6 +7594,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3189,
       "gameId": "112020"
     },
     {
@@ -7071,6 +7607,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3190,
       "gameId": "112020"
     },
     {
@@ -7083,6 +7620,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3191,
       "gameId": "112020"
     },
     {
@@ -7095,6 +7633,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3194,
       "gameId": "112020"
     },
     {
@@ -7107,6 +7646,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3198,
       "gameId": "112020"
     },
     {
@@ -7119,6 +7659,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3204,
       "gameId": "112020"
     },
     {
@@ -7131,6 +7672,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3208,
       "gameId": "112020"
     },
     {
@@ -7143,6 +7685,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3221,
       "gameId": "112020"
     },
     {
@@ -7155,6 +7698,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3222,
       "gameId": "112020"
     },
     {
@@ -7167,6 +7711,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3223,
       "gameId": "112020"
     },
     {
@@ -7179,6 +7724,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3225,
       "gameId": "112020"
     },
     {
@@ -7191,6 +7737,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3226,
       "gameId": "112020"
     },
     {
@@ -7203,6 +7750,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3230,
       "gameId": "112020"
     },
     {
@@ -7215,6 +7763,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3236,
       "gameId": "112020"
     },
     {
@@ -7227,6 +7776,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3237,
       "gameId": "112020"
     },
     {
@@ -7239,6 +7789,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3238,
       "gameId": "112020"
     },
     {
@@ -7251,6 +7802,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3239,
       "gameId": "112020"
     },
     {
@@ -7263,6 +7815,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3243,
       "gameId": "112020"
     },
     {
@@ -7275,6 +7828,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3244,
       "gameId": "112020"
     },
     {
@@ -7287,6 +7841,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3250,
       "gameId": "112020"
     },
     {
@@ -7299,6 +7854,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3271,
       "gameId": "112020"
     },
     {
@@ -7311,6 +7867,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3272,
       "gameId": "112020"
     },
     {
@@ -7323,6 +7880,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3282,
       "gameId": "112020"
     },
     {
@@ -7335,6 +7893,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3285,
       "gameId": "112020"
     },
     {
@@ -7347,6 +7906,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3286,
       "gameId": "112020"
     },
     {
@@ -7359,6 +7919,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3287,
       "gameId": "112020"
     },
     {
@@ -7371,6 +7932,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3289,
       "gameId": "112020"
     },
     {
@@ -7383,6 +7945,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3292,
       "gameId": "112020"
     },
     {
@@ -7395,6 +7958,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3293,
       "gameId": "112020"
     },
     {
@@ -7407,6 +7971,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3298,
       "gameId": "112020"
     },
     {
@@ -7419,6 +7984,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3299,
       "gameId": "112020"
     },
     {
@@ -7431,6 +7997,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3310,
       "gameId": "112020"
     },
     {
@@ -7443,6 +8010,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3319,
       "gameId": "112020"
     },
     {
@@ -7455,18 +8023,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
-      "gameId": "112020"
-    },
-    {
-      "player": "Kawhi Leonard",
-      "stat": "FG Attempted",
-      "line": 18.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 07:10 PM CST",
-      "startTimeIso": "2025-12-06T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "LA Clippers",
-      "Opponent": "Minnesota Timberwolves",
+      "rank": 3320,
       "gameId": "112020"
     },
     {
@@ -7479,6 +8036,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3328,
       "gameId": "112020"
     },
     {
@@ -7491,6 +8049,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3329,
       "gameId": "112020"
     },
     {
@@ -7503,6 +8062,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3331,
       "gameId": "112020"
     },
     {
@@ -7515,6 +8075,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3342,
       "gameId": "112020"
     },
     {
@@ -7527,6 +8088,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3347,
       "gameId": "112020"
     },
     {
@@ -7539,6 +8101,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3352,
       "gameId": "112020"
     },
     {
@@ -7551,6 +8114,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3361,
       "gameId": "112020"
     },
     {
@@ -7563,6 +8127,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3362,
       "gameId": "112020"
     },
     {
@@ -7575,6 +8140,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3385,
       "gameId": "112020"
     },
     {
@@ -7587,6 +8153,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3387,
       "gameId": "112020"
     },
     {
@@ -7599,6 +8166,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3389,
       "gameId": "112020"
     },
     {
@@ -7611,6 +8179,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3391,
       "gameId": "112020"
     },
     {
@@ -7623,6 +8192,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3393,
       "gameId": "112020"
     },
     {
@@ -7635,6 +8205,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3399,
       "gameId": "112020"
     },
     {
@@ -7647,6 +8218,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3400,
       "gameId": "112020"
     },
     {
@@ -7659,6 +8231,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3401,
       "gameId": "112020"
     },
     {
@@ -7671,6 +8244,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3402,
       "gameId": "112020"
     },
     {
@@ -7683,6 +8257,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3403,
       "gameId": "112020"
     },
     {
@@ -7695,6 +8270,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3411,
       "gameId": "112020"
     },
     {
@@ -7707,6 +8283,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3414,
       "gameId": "112020"
     },
     {
@@ -7719,6 +8296,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3415,
       "gameId": "112020"
     },
     {
@@ -7731,6 +8309,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3422,
       "gameId": "112020"
     },
     {
@@ -7743,6 +8322,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3426,
       "gameId": "112020"
     },
     {
@@ -7755,6 +8335,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3431,
       "gameId": "112020"
     },
     {
@@ -7767,6 +8348,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3433,
       "gameId": "112020"
     },
     {
@@ -7779,6 +8361,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3438,
       "gameId": "112020"
     },
     {
@@ -7791,6 +8374,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3439,
       "gameId": "112020"
     },
     {
@@ -7803,6 +8387,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3440,
       "gameId": "112020"
     },
     {
@@ -7815,6 +8400,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3441,
       "gameId": "112020"
     },
     {
@@ -7827,6 +8413,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3444,
       "gameId": "112020"
     },
     {
@@ -7839,6 +8426,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3453,
       "gameId": "112020"
     },
     {
@@ -7851,6 +8439,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3456,
       "gameId": "112020"
     },
     {
@@ -7863,6 +8452,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3457,
       "gameId": "112020"
     },
     {
@@ -7875,6 +8465,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3460,
       "gameId": "112020"
     },
     {
@@ -7887,6 +8478,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3472,
       "gameId": "112020"
     },
     {
@@ -7899,6 +8491,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3476,
       "gameId": "112020"
     },
     {
@@ -7911,6 +8504,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3491,
       "gameId": "112020"
     },
     {
@@ -7923,6 +8517,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3504,
       "gameId": "112020"
     },
     {
@@ -7935,6 +8530,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3506,
       "gameId": "112020"
     },
     {
@@ -7947,6 +8543,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3507,
       "gameId": "112020"
     },
     {
@@ -7959,6 +8556,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3509,
       "gameId": "112020"
     },
     {
@@ -7971,6 +8569,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3513,
       "gameId": "112020"
     },
     {
@@ -7983,6 +8582,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3522,
       "gameId": "112020"
     },
     {
@@ -7995,6 +8595,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3523,
       "gameId": "112020"
     },
     {
@@ -8007,6 +8608,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3525,
       "gameId": "112020"
     },
     {
@@ -8019,6 +8621,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3530,
       "gameId": "112020"
     },
     {
@@ -8031,6 +8634,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3532,
       "gameId": "112020"
     },
     {
@@ -8043,6 +8647,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3538,
       "gameId": "112020"
     },
     {
@@ -8055,6 +8660,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3539,
       "gameId": "112020"
     },
     {
@@ -8067,6 +8673,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3540,
       "gameId": "112020"
     },
     {
@@ -8079,18 +8686,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
-      "gameId": "112020"
-    },
-    {
-      "player": "Donte DiVincenzo + James Harden",
-      "stat": "3-PT Made",
-      "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 07:10 PM CST",
-      "startTimeIso": "2025-12-06T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "MIN/LAC",
-      "Opponent": null,
+      "rank": 3550,
       "gameId": "112020"
     },
     {
@@ -8103,6 +8699,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3562,
       "gameId": "112020"
     },
     {
@@ -8115,6 +8712,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3568,
       "gameId": "112020"
     },
     {
@@ -8127,6 +8725,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3571,
       "gameId": "112020"
     },
     {
@@ -8139,6 +8738,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3585,
       "gameId": "112020"
     },
     {
@@ -8151,6 +8751,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3588,
       "gameId": "112020"
     },
     {
@@ -8163,6 +8764,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3589,
       "gameId": "112020"
     },
     {
@@ -8175,6 +8777,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3590,
       "gameId": "112020"
     },
     {
@@ -8187,6 +8790,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3597,
       "gameId": "112020"
     },
     {
@@ -8199,6 +8803,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3599,
       "gameId": "112020"
     },
     {
@@ -8211,6 +8816,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3600,
       "gameId": "112020"
     },
     {
@@ -8223,6 +8829,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3601,
       "gameId": "112020"
     },
     {
@@ -8235,6 +8842,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3605,
       "gameId": "112020"
     },
     {
@@ -8247,6 +8855,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3606,
       "gameId": "112020"
     },
     {
@@ -8259,6 +8868,7 @@
       "oddsType": "standard",
       "Team": "MIN/LAC",
       "Opponent": null,
+      "rank": 3607,
       "gameId": "112020"
     },
     {
@@ -8271,6 +8881,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3608,
       "gameId": "112020"
     },
     {
@@ -8283,6 +8894,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3609,
       "gameId": "112020"
     },
     {
@@ -8295,6 +8907,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3616,
       "gameId": "112020"
     },
     {
@@ -8307,6 +8920,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3618,
       "gameId": "112020"
     },
     {
@@ -8319,6 +8933,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3632,
       "gameId": "112020"
     },
     {
@@ -8331,6 +8946,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3636,
       "gameId": "112020"
     },
     {
@@ -8343,6 +8959,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3646,
       "gameId": "112020"
     },
     {
@@ -8355,6 +8972,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3650,
       "gameId": "112020"
     },
     {
@@ -8367,6 +8985,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3690,
       "gameId": "112020"
     },
     {
@@ -8379,6 +8998,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3707,
       "gameId": "112020"
     },
     {
@@ -8391,6 +9011,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3709,
       "gameId": "112020"
     },
     {
@@ -8403,18 +9024,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
-      "gameId": "112020"
-    },
-    {
-      "player": "Julius Randle",
-      "stat": "Turnovers",
-      "line": 2.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 07:10 PM CST",
-      "startTimeIso": "2025-12-06T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Timberwolves",
-      "Opponent": "LA Clippers",
+      "rank": 3724,
       "gameId": "112020"
     },
     {
@@ -8427,6 +9037,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3730,
       "gameId": "112020"
     },
     {
@@ -8439,6 +9050,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3736,
       "gameId": "112020"
     },
     {
@@ -8451,6 +9063,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3743,
       "gameId": "112020"
     },
     {
@@ -8463,6 +9076,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3764,
       "gameId": "112020"
     },
     {
@@ -8475,6 +9089,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3786,
       "gameId": "112020"
     },
     {
@@ -8487,6 +9102,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3799,
       "gameId": "112020"
     },
     {
@@ -8499,6 +9115,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3803,
       "gameId": "112020"
     },
     {
@@ -8511,6 +9128,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3804,
       "gameId": "112020"
     },
     {
@@ -8523,6 +9141,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3821,
       "gameId": "112020"
     },
     {
@@ -8535,6 +9154,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3824,
       "gameId": "112020"
     },
     {
@@ -8547,6 +9167,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3825,
       "gameId": "112020"
     },
     {
@@ -8559,6 +9180,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3849,
       "gameId": "112020"
     },
     {
@@ -8571,6 +9193,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3862,
       "gameId": "112020"
     },
     {
@@ -8583,6 +9206,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3871,
       "gameId": "112020"
     },
     {
@@ -8595,6 +9219,7 @@
       "oddsType": "standard",
       "Team": "Minnesota Timberwolves",
       "Opponent": "LA Clippers",
+      "rank": 3872,
       "gameId": "112020"
     },
     {
@@ -8607,6 +9232,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3873,
       "gameId": "112020"
     },
     {
@@ -8619,6 +9245,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3874,
       "gameId": "112020"
     },
     {
@@ -8631,6 +9258,7 @@
       "oddsType": "standard",
       "Team": "LA Clippers",
       "Opponent": "Minnesota Timberwolves",
+      "rank": 3877,
       "gameId": "112020"
     },
     {
@@ -8643,6 +9271,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 3912,
       "gameId": "112019"
     },
     {
@@ -8655,6 +9284,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 3913,
       "gameId": "112019"
     },
     {
@@ -8667,6 +9297,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 3914,
       "gameId": "112019"
     },
     {
@@ -8679,6 +9310,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 3917,
       "gameId": "112019"
     },
     {
@@ -8691,6 +9323,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 3919,
       "gameId": "112019"
     },
     {
@@ -8703,6 +9336,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 3932,
       "gameId": "112019"
     },
     {
@@ -8715,6 +9349,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 3938,
       "gameId": "112019"
     },
     {
@@ -8727,6 +9362,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 3939,
       "gameId": "112019"
     },
     {
@@ -8739,6 +9375,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 3964,
       "gameId": "112019"
     },
     {
@@ -8751,6 +9388,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 3969,
       "gameId": "112019"
     },
     {
@@ -8763,6 +9401,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 3970,
       "gameId": "112019"
     },
     {
@@ -8775,6 +9414,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 3982,
       "gameId": "112019"
     },
     {
@@ -8787,6 +9427,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 3983,
       "gameId": "112019"
     },
     {
@@ -8799,6 +9440,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 3990,
       "gameId": "112019"
     },
     {
@@ -8811,6 +9453,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 3991,
       "gameId": "112019"
     },
     {
@@ -8823,6 +9466,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 3992,
       "gameId": "112019"
     },
     {
@@ -8835,6 +9479,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 3993,
       "gameId": "112019"
     },
     {
@@ -8847,6 +9492,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 3994,
       "gameId": "112019"
     },
     {
@@ -8859,6 +9505,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4016,
       "gameId": "112019"
     },
     {
@@ -8871,6 +9518,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4017,
       "gameId": "112019"
     },
     {
@@ -8883,6 +9531,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4022,
       "gameId": "112019"
     },
     {
@@ -8895,6 +9544,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4028,
       "gameId": "112019"
     },
     {
@@ -8907,6 +9557,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4029,
       "gameId": "112019"
     },
     {
@@ -8919,6 +9570,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4030,
       "gameId": "112019"
     },
     {
@@ -8931,6 +9583,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4043,
       "gameId": "112019"
     },
     {
@@ -8943,6 +9596,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4044,
       "gameId": "112019"
     },
     {
@@ -8955,18 +9609,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
-      "gameId": "112019"
-    },
-    {
-      "player": "Russell Westbrook",
-      "stat": "Pts+Asts",
-      "line": 21.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 07:10 PM CST",
-      "startTimeIso": "2025-12-06T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Sacramento Kings",
-      "Opponent": "Miami Heat",
+      "rank": 4045,
       "gameId": "112019"
     },
     {
@@ -8979,6 +9622,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4055,
       "gameId": "112019"
     },
     {
@@ -8991,6 +9635,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4056,
       "gameId": "112019"
     },
     {
@@ -9003,6 +9648,20 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4057,
+      "gameId": "112019"
+    },
+    {
+      "player": "Russell Westbrook",
+      "stat": "Pts+Asts",
+      "line": 20.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 07:10 PM CST",
+      "startTimeIso": "2025-12-06T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Sacramento Kings",
+      "Opponent": "Miami Heat",
+      "rank": 4058,
       "gameId": "112019"
     },
     {
@@ -9015,6 +9674,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4059,
       "gameId": "112019"
     },
     {
@@ -9027,6 +9687,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4065,
       "gameId": "112019"
     },
     {
@@ -9039,6 +9700,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4071,
       "gameId": "112019"
     },
     {
@@ -9051,6 +9713,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4095,
       "gameId": "112019"
     },
     {
@@ -9063,6 +9726,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4101,
       "gameId": "112019"
     },
     {
@@ -9075,6 +9739,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4102,
       "gameId": "112019"
     },
     {
@@ -9087,6 +9752,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4112,
       "gameId": "112019"
     },
     {
@@ -9099,6 +9765,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4113,
       "gameId": "112019"
     },
     {
@@ -9111,6 +9778,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4114,
       "gameId": "112019"
     },
     {
@@ -9123,6 +9791,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4115,
       "gameId": "112019"
     },
     {
@@ -9135,6 +9804,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4116,
       "gameId": "112019"
     },
     {
@@ -9147,6 +9817,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4117,
       "gameId": "112019"
     },
     {
@@ -9159,6 +9830,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 4122,
       "gameId": "112019"
     },
     {
@@ -9171,6 +9843,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4131,
       "gameId": "112019"
     },
     {
@@ -9183,6 +9856,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4132,
       "gameId": "112019"
     },
     {
@@ -9195,6 +9869,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4145,
       "gameId": "112019"
     },
     {
@@ -9207,6 +9882,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 4147,
       "gameId": "112019"
     },
     {
@@ -9219,6 +9895,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4156,
       "gameId": "112019"
     },
     {
@@ -9231,6 +9908,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4157,
       "gameId": "112019"
     },
     {
@@ -9243,6 +9921,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4174,
       "gameId": "112019"
     },
     {
@@ -9255,6 +9934,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4178,
       "gameId": "112019"
     },
     {
@@ -9267,6 +9947,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4181,
       "gameId": "112019"
     },
     {
@@ -9279,6 +9960,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4184,
       "gameId": "112019"
     },
     {
@@ -9291,6 +9973,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4188,
       "gameId": "112019"
     },
     {
@@ -9303,6 +9986,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4193,
       "gameId": "112019"
     },
     {
@@ -9315,6 +9999,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4200,
       "gameId": "112019"
     },
     {
@@ -9327,6 +10012,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4205,
       "gameId": "112019"
     },
     {
@@ -9339,6 +10025,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4206,
       "gameId": "112019"
     },
     {
@@ -9351,6 +10038,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4220,
       "gameId": "112019"
     },
     {
@@ -9363,6 +10051,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4230,
       "gameId": "112019"
     },
     {
@@ -9375,6 +10064,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4231,
       "gameId": "112019"
     },
     {
@@ -9387,6 +10077,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4237,
       "gameId": "112019"
     },
     {
@@ -9399,6 +10090,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4238,
       "gameId": "112019"
     },
     {
@@ -9411,6 +10103,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4239,
       "gameId": "112019"
     },
     {
@@ -9423,6 +10116,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4264,
       "gameId": "112019"
     },
     {
@@ -9435,6 +10129,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4265,
       "gameId": "112019"
     },
     {
@@ -9447,6 +10142,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4266,
       "gameId": "112019"
     },
     {
@@ -9459,6 +10155,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4287,
       "gameId": "112019"
     },
     {
@@ -9471,6 +10168,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4289,
       "gameId": "112019"
     },
     {
@@ -9483,6 +10181,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4299,
       "gameId": "112019"
     },
     {
@@ -9495,6 +10194,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4302,
       "gameId": "112019"
     },
     {
@@ -9507,6 +10207,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4306,
       "gameId": "112019"
     },
     {
@@ -9519,6 +10220,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4307,
       "gameId": "112019"
     },
     {
@@ -9531,6 +10233,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4312,
       "gameId": "112019"
     },
     {
@@ -9543,6 +10246,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4313,
       "gameId": "112019"
     },
     {
@@ -9555,6 +10259,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4314,
       "gameId": "112019"
     },
     {
@@ -9567,6 +10272,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4315,
       "gameId": "112019"
     },
     {
@@ -9579,18 +10285,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
-      "gameId": "112019"
-    },
-    {
-      "player": "DeMar DeRozan",
-      "stat": "Rebs+Asts",
-      "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 07:10 PM CST",
-      "startTimeIso": "2025-12-06T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Sacramento Kings",
-      "Opponent": "Miami Heat",
+      "rank": 4316,
       "gameId": "112019"
     },
     {
@@ -9603,6 +10298,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4336,
       "gameId": "112019"
     },
     {
@@ -9615,6 +10311,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4338,
       "gameId": "112019"
     },
     {
@@ -9627,6 +10324,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4340,
       "gameId": "112019"
     },
     {
@@ -9639,6 +10337,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4358,
       "gameId": "112019"
     },
     {
@@ -9651,6 +10350,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 4363,
       "gameId": "112019"
     },
     {
@@ -9663,6 +10363,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 4369,
       "gameId": "112019"
     },
     {
@@ -9675,6 +10376,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4370,
       "gameId": "112019"
     },
     {
@@ -9687,6 +10389,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4373,
       "gameId": "112019"
     },
     {
@@ -9699,6 +10402,7 @@
       "oddsType": "standard",
       "Team": "MIA/SAC",
       "Opponent": null,
+      "rank": 4405,
       "gameId": "112019"
     },
     {
@@ -9711,6 +10415,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4406,
       "gameId": "112019"
     },
     {
@@ -9723,6 +10428,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4407,
       "gameId": "112019"
     },
     {
@@ -9735,6 +10441,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4459,
       "gameId": "112019"
     },
     {
@@ -9747,6 +10454,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4466,
       "gameId": "112019"
     },
     {
@@ -9759,6 +10467,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4534,
       "gameId": "112019"
     },
     {
@@ -9771,6 +10480,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4539,
       "gameId": "112019"
     },
     {
@@ -9783,6 +10493,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4565,
       "gameId": "112019"
     },
     {
@@ -9795,6 +10506,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4578,
       "gameId": "112019"
     },
     {
@@ -9807,6 +10519,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4609,
       "gameId": "112019"
     },
     {
@@ -9819,6 +10532,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4614,
       "gameId": "112019"
     },
     {
@@ -9831,6 +10545,7 @@
       "oddsType": "standard",
       "Team": "Miami Heat",
       "Opponent": "Sacramento Kings",
+      "rank": 4632,
       "gameId": "112019"
     },
     {
@@ -9843,6 +10558,7 @@
       "oddsType": "standard",
       "Team": "Sacramento Kings",
       "Opponent": "Miami Heat",
+      "rank": 4637,
       "gameId": "112019"
     },
     {
@@ -9855,6 +10571,7 @@
       "oddsType": "standard",
       "Team": "DAL/HOU",
       "Opponent": null,
+      "rank": 4667,
       "gameId": "112021"
     },
     {
@@ -9867,6 +10584,7 @@
       "oddsType": "standard",
       "Team": "DAL/HOU",
       "Opponent": null,
+      "rank": 4672,
       "gameId": "112021"
     },
     {
@@ -9879,6 +10597,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4673,
       "gameId": "112021"
     },
     {
@@ -9891,6 +10610,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4674,
       "gameId": "112021"
     },
     {
@@ -9903,18 +10623,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
-      "gameId": "112021"
-    },
-    {
-      "player": "Kevin Durant",
-      "stat": "Pts+Asts",
-      "line": 32.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 07:40 PM CST",
-      "startTimeIso": "2025-12-06T20:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Rockets",
-      "Opponent": "Dallas Mavericks",
+      "rank": 4682,
       "gameId": "112021"
     },
     {
@@ -9927,6 +10636,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4683,
       "gameId": "112021"
     },
     {
@@ -9939,6 +10649,20 @@
       "oddsType": "standard",
       "Team": "DAL/HOU",
       "Opponent": null,
+      "rank": 4684,
+      "gameId": "112021"
+    },
+    {
+      "player": "Kevin Durant",
+      "stat": "Pts+Asts",
+      "line": 31.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 07:40 PM CST",
+      "startTimeIso": "2025-12-06T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "Opponent": "Dallas Mavericks",
+      "rank": 4685,
       "gameId": "112021"
     },
     {
@@ -9951,6 +10675,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4686,
       "gameId": "112021"
     },
     {
@@ -9963,6 +10688,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4687,
       "gameId": "112021"
     },
     {
@@ -9975,6 +10701,7 @@
       "oddsType": "standard",
       "Team": "DAL/HOU",
       "Opponent": null,
+      "rank": 4688,
       "gameId": "112021"
     },
     {
@@ -9987,6 +10714,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4704,
       "gameId": "112021"
     },
     {
@@ -9999,6 +10727,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4705,
       "gameId": "112021"
     },
     {
@@ -10011,6 +10740,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4706,
       "gameId": "112021"
     },
     {
@@ -10023,6 +10753,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4707,
       "gameId": "112021"
     },
     {
@@ -10035,6 +10766,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4709,
       "gameId": "112021"
     },
     {
@@ -10047,6 +10779,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4710,
       "gameId": "112021"
     },
     {
@@ -10059,18 +10792,20 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4731,
       "gameId": "112021"
     },
     {
       "player": "Anthony Davis",
       "stat": "Pts+Asts",
-      "line": 22.5,
+      "line": 23.5,
       "sport": "NBA",
       "startTime": "12/06/25 07:40 PM CST",
       "startTimeIso": "2025-12-06T20:40:00.000-05:00",
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4732,
       "gameId": "112021"
     },
     {
@@ -10083,6 +10818,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4733,
       "gameId": "112021"
     },
     {
@@ -10095,6 +10831,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4735,
       "gameId": "112021"
     },
     {
@@ -10107,6 +10844,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4736,
       "gameId": "112021"
     },
     {
@@ -10119,6 +10857,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4737,
       "gameId": "112021"
     },
     {
@@ -10131,6 +10870,7 @@
       "oddsType": "standard",
       "Team": "DAL/HOU",
       "Opponent": null,
+      "rank": 4739,
       "gameId": "112021"
     },
     {
@@ -10143,6 +10883,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4740,
       "gameId": "112021"
     },
     {
@@ -10155,6 +10896,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4742,
       "gameId": "112021"
     },
     {
@@ -10167,6 +10909,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4746,
       "gameId": "112021"
     },
     {
@@ -10179,6 +10922,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4750,
       "gameId": "112021"
     },
     {
@@ -10191,6 +10935,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4767,
       "gameId": "112021"
     },
     {
@@ -10203,6 +10948,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4768,
       "gameId": "112021"
     },
     {
@@ -10215,6 +10961,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4770,
       "gameId": "112021"
     },
     {
@@ -10227,6 +10974,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4778,
       "gameId": "112021"
     },
     {
@@ -10239,6 +10987,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4780,
       "gameId": "112021"
     },
     {
@@ -10251,6 +11000,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4781,
       "gameId": "112021"
     },
     {
@@ -10263,6 +11013,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4782,
       "gameId": "112021"
     },
     {
@@ -10275,6 +11026,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4785,
       "gameId": "112021"
     },
     {
@@ -10287,6 +11039,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4786,
       "gameId": "112021"
     },
     {
@@ -10299,6 +11052,7 @@
       "oddsType": "standard",
       "Team": "DAL/HOU",
       "Opponent": null,
+      "rank": 4787,
       "gameId": "112021"
     },
     {
@@ -10311,6 +11065,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4788,
       "gameId": "112021"
     },
     {
@@ -10323,6 +11078,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4790,
       "gameId": "112021"
     },
     {
@@ -10335,6 +11091,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4791,
       "gameId": "112021"
     },
     {
@@ -10347,6 +11104,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4792,
       "gameId": "112021"
     },
     {
@@ -10359,6 +11117,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4796,
       "gameId": "112021"
     },
     {
@@ -10371,6 +11130,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4797,
       "gameId": "112021"
     },
     {
@@ -10383,6 +11143,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4801,
       "gameId": "112021"
     },
     {
@@ -10395,6 +11156,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4803,
       "gameId": "112021"
     },
     {
@@ -10407,6 +11169,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4804,
       "gameId": "112021"
     },
     {
@@ -10419,6 +11182,20 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4815,
+      "gameId": "112021"
+    },
+    {
+      "player": "Naji Marshall",
+      "stat": "Pts+Asts",
+      "line": 13.5,
+      "sport": "NBA",
+      "startTime": "12/06/25 07:40 PM CST",
+      "startTimeIso": "2025-12-06T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "Opponent": "Houston Rockets",
+      "rank": 4816,
       "gameId": "112021"
     },
     {
@@ -10431,6 +11208,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4817,
       "gameId": "112021"
     },
     {
@@ -10443,6 +11221,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4818,
       "gameId": "112021"
     },
     {
@@ -10455,6 +11234,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4819,
       "gameId": "112021"
     },
     {
@@ -10467,6 +11247,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4820,
       "gameId": "112021"
     },
     {
@@ -10479,18 +11260,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
-      "gameId": "112021"
-    },
-    {
-      "player": "Naji Marshall",
-      "stat": "Pts+Asts",
-      "line": 12.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 07:40 PM CST",
-      "startTimeIso": "2025-12-06T20:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Mavericks",
-      "Opponent": "Houston Rockets",
+      "rank": 4821,
       "gameId": "112021"
     },
     {
@@ -10503,6 +11273,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4827,
       "gameId": "112021"
     },
     {
@@ -10515,6 +11286,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4828,
       "gameId": "112021"
     },
     {
@@ -10527,6 +11299,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4829,
       "gameId": "112021"
     },
     {
@@ -10539,6 +11312,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4831,
       "gameId": "112021"
     },
     {
@@ -10551,6 +11325,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4832,
       "gameId": "112021"
     },
     {
@@ -10563,6 +11338,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4833,
       "gameId": "112021"
     },
     {
@@ -10575,6 +11351,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4850,
       "gameId": "112021"
     },
     {
@@ -10587,6 +11364,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4851,
       "gameId": "112021"
     },
     {
@@ -10599,6 +11377,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4852,
       "gameId": "112021"
     },
     {
@@ -10611,6 +11390,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4853,
       "gameId": "112021"
     },
     {
@@ -10623,6 +11403,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4854,
       "gameId": "112021"
     },
     {
@@ -10635,6 +11416,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4856,
       "gameId": "112021"
     },
     {
@@ -10647,6 +11429,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4857,
       "gameId": "112021"
     },
     {
@@ -10659,6 +11442,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4859,
       "gameId": "112021"
     },
     {
@@ -10671,6 +11455,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4868,
       "gameId": "112021"
     },
     {
@@ -10683,6 +11468,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4869,
       "gameId": "112021"
     },
     {
@@ -10695,6 +11481,7 @@
       "oddsType": "standard",
       "Team": "DAL/HOU",
       "Opponent": null,
+      "rank": 4877,
       "gameId": "112021"
     },
     {
@@ -10707,6 +11494,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4880,
       "gameId": "112021"
     },
     {
@@ -10719,6 +11507,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4884,
       "gameId": "112021"
     },
     {
@@ -10731,6 +11520,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4891,
       "gameId": "112021"
     },
     {
@@ -10743,6 +11533,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4892,
       "gameId": "112021"
     },
     {
@@ -10755,6 +11546,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4899,
       "gameId": "112021"
     },
     {
@@ -10767,6 +11559,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4900,
       "gameId": "112021"
     },
     {
@@ -10779,6 +11572,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4914,
       "gameId": "112021"
     },
     {
@@ -10791,6 +11585,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4915,
       "gameId": "112021"
     },
     {
@@ -10803,6 +11598,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4917,
       "gameId": "112021"
     },
     {
@@ -10815,6 +11611,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4920,
       "gameId": "112021"
     },
     {
@@ -10827,6 +11624,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4924,
       "gameId": "112021"
     },
     {
@@ -10839,6 +11637,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4926,
       "gameId": "112021"
     },
     {
@@ -10851,6 +11650,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4927,
       "gameId": "112021"
     },
     {
@@ -10863,6 +11663,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4948,
       "gameId": "112021"
     },
     {
@@ -10875,6 +11676,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 4949,
       "gameId": "112021"
     },
     {
@@ -10887,6 +11689,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4950,
       "gameId": "112021"
     },
     {
@@ -10899,6 +11702,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4986,
       "gameId": "112021"
     },
     {
@@ -10911,6 +11715,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4988,
       "gameId": "112021"
     },
     {
@@ -10923,6 +11728,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4989,
       "gameId": "112021"
     },
     {
@@ -10935,6 +11741,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 4999,
       "gameId": "112021"
     },
     {
@@ -10947,6 +11754,7 @@
       "oddsType": "standard",
       "Team": "DAL/HOU",
       "Opponent": null,
+      "rank": 5003,
       "gameId": "112021"
     },
     {
@@ -10959,6 +11767,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5019,
       "gameId": "112021"
     },
     {
@@ -10971,6 +11780,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5026,
       "gameId": "112021"
     },
     {
@@ -10983,6 +11793,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5030,
       "gameId": "112021"
     },
     {
@@ -10995,6 +11806,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5040,
       "gameId": "112021"
     },
     {
@@ -11007,6 +11819,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 5052,
       "gameId": "112021"
     },
     {
@@ -11019,6 +11832,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5071,
       "gameId": "112021"
     },
     {
@@ -11031,6 +11845,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5081,
       "gameId": "112021"
     },
     {
@@ -11043,18 +11858,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
-      "gameId": "112021"
-    },
-    {
-      "player": "Josh Okogie",
-      "stat": "Blks+Stls",
-      "line": 1.5,
-      "sport": "NBA",
-      "startTime": "12/06/25 07:40 PM CST",
-      "startTimeIso": "2025-12-06T20:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Rockets",
-      "Opponent": "Dallas Mavericks",
+      "rank": 5084,
       "gameId": "112021"
     },
     {
@@ -11067,6 +11871,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5093,
       "gameId": "112021"
     },
     {
@@ -11079,6 +11884,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5138,
       "gameId": "112021"
     },
     {
@@ -11091,6 +11897,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 5146,
       "gameId": "112021"
     },
     {
@@ -11103,6 +11910,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5154,
       "gameId": "112021"
     },
     {
@@ -11115,6 +11923,7 @@
       "oddsType": "standard",
       "Team": "Houston Rockets",
       "Opponent": "Dallas Mavericks",
+      "rank": 5170,
       "gameId": "112021"
     },
     {
@@ -11127,6 +11936,7 @@
       "oddsType": "standard",
       "Team": "Dallas Mavericks",
       "Opponent": "Houston Rockets",
+      "rank": 5189,
       "gameId": "112021"
     }
   ]
