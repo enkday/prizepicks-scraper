@@ -1,0 +1,23 @@
+{
+  "name": "prizepicks-scraper",
+  "version": "1.0.0",
+  "description": "Daily scraper for PrizePicks prop bet data",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "test": "node scraper.js"
+  },
+  "keywords": [
+    "prizepicks",
+    "scraper",
+    "sports",
+    "betting"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "playwright": "^1.40.1"
+  }
+}

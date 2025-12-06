@@ -1,0 +1,88 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "PrizePicks Data API",
+    "description": "Provides current PrizePicks prop bet data scraped daily",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://raw.githubusercontent.com/ENKDAY/prizepicks-scraper/main"
+    }
+  ],
+  "paths": {
+    "/data/prizepicks.json": {
+      "get": {
+        "summary": "Get current PrizePicks prop bets",
+        "description": "Returns all available prop bets scraped from PrizePicks, updated daily",
+        "operationId": "getPrizePicks",
+        "responses": {
+          "200": {
+            "description": "Successful response with prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "PrizePicksData": {
+        "type": "object",
+        "properties": {
+          "scrapedAt": {
+            "type": "string",
+            "format": "date-time",
+            "description": "ISO 8601 timestamp of when data was scraped"
+          },
+          "scrapedDate": {
+            "type": "string",
+            "description": "Human-readable date of scraping"
+          },
+          "source": {
+            "type": "string",
+            "description": "Data source (PrizePicks)"
+          },
+          "totalProps": {
+            "type": "integer",
+            "description": "Total number of prop bets available"
+          },
+          "props": {
+            "type": "array",
+            "description": "Array of all prop bets",
+            "items": {
+              "$ref": "#/components/schemas/PropBet"
+            }
+          }
+        }
+      },
+      "PropBet": {
+        "type": "object",
+        "properties": {
+          "player": {
+            "type": "string",
+            "description": "Player name"
+          },
+          "stat": {
+            "type": "string",
+            "description": "Stat type (Points, Rebounds, Passing Yards, etc.)"
+          },
+          "line": {
+            "type": "number",
+            "description": "Over/under line value"
+          },
+          "sport": {
+            "type": "string",
+            "description": "Sport (NBA, NFL, MLB, etc.)"
+          }
+        }
+      }
+    }
+  }
+}

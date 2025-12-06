@@ -1,0 +1,62 @@
+name: Daily PrizePicks Scraper
+
+on:
+  # Run every day at 12:00 PM UTC (adjust as needed)
+  schedule:
+    - cron: '0 12 * * *'
+  
+  # Allow manual triggering from GitHub Actions tab
+  workflow_dispatch:
+  
+  # Run on push to main for testing
+  push:
+    branches: [ main ]
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: 📦 Install dependencies
+        run: npm ci
+      
+      - name: 🎭 Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+      
+      - name: 🕷️ Run scraper
+        run: npm run scrape
+        env:
+          NODE_ENV: production
+      
+      - name: 📊 Check if data changed
+        id: check_changes
+        run: |
+          if git diff --quiet data/prizepicks.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: 💾 Commit and push updated data
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/prizepicks.json
+          git commit -m "🤖 Update PrizePicks data - $(date +'%Y-%m-%d %H:%M UTC')"
+          git push
+      
+      - name: ✅ No changes detected
+        if: steps.check_changes.outputs.changed == 'false'
+        run: echo "No changes in scraped data"
