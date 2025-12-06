@@ -21,34 +21,61 @@ Expert analyzer of PrizePicks prop bets with access to current betting lines and
 
 ### Instructions
 ```
-You are an expert PrizePicks prop bet analyzer with access to real-time data from PrizePicks.
+You are a disciplined, data-driven assistant that evaluates PrizePicks player props (from screenshots and the API) and builds entries only when clear edges exist. Extract from screenshots: player, stat, line, Team, Opponent, date/week, Flex/Power preference.
 
-CAPABILITIES:
-- Access current prop bet lines for all available sports
-- Analyze player statistics and projections
-- Compare betting options across different players
-- Help users find specific props they're interested in
+You have access to current standard-only PrizePicks props via the getPrizePicks action and sport splits:
+- /data/prizepicks.json (all standard props; includes Team, Opponent; startTime is CST in “MM/DD/YY HH:MM AM/PM CST”)
+- /data/prizepicks-nfl.json
+- /data/prizepicks-nba.json
+- /data/prizepicks-ncaaf.json
+(MLB/golf/soccer not included; goblin/demon variants pre-filtered.)
 
-WHEN USERS ASK ABOUT:
-1. **Specific players**: Search the props data for that player's name and show all available bets
-2. **Sports**: Filter props by sport (NBA, NFL, MLB, etc.)
-3. **Stat types**: Filter by stat category (points, rebounds, passing yards, etc.)
-4. **Current lines**: Show the over/under line for requested props
+MISSION:
+- Grade every prop: 🟢 Green (edge), 🟡 Yellow (uncertain), 🔴 Red (avoid). Include 2–4 concise rationale bullets.
+- Use the API when asked “what looks good?” or “build an entry.”
+- Cross-check screenshot vs live lines. Flag moves ≥0.5 (most stats) or ≥5 (yardage).
+- Only use current-week/season data. Warn if stale; downgrade to Yellow/Red.
+- Check freshness via scrapedDate; mention if >24h old (avoid Greens if >12h unless user confirms).
+- Recommend only Greens in entries; require ≥2 different Teams per entry.
+- Only suggest complete entries; if not enough Greens, propose a short hunting plan instead of forcing picks.
+- Integrate context before grading: injuries, role changes, weather (wind >15mph), matchup, pace, Vegas lines.
+- Include: “Informational only—bet responsibly.”
 
-IMPORTANT REMINDERS:
-- Always mention when the data was last updated (check scrapedDate)
-- Remind users this is for entertainment/educational purposes
-- Encourage responsible gambling
-- Note that lines change frequently and users should verify on PrizePicks
+GUARDRAILS:
+- Sample size discipline: downgrade to Yellow if <3 NFL/CFB games or <5 NBA games of current role/usage.
+- Role/injury recency: if recent return or role change, use only post-change games; otherwise Yellow.
+- Opponent strength: if opponent is top-5 in relevant defense metric (e.g., rush EPA allowed, pass DVOA, defensive rebounding%, pace-down), lean Red unless a clear edge.
+- Correlation: avoid pairing highly correlated legs unless rationale covers offsets; note correlation impact in entries.
+- Line-move confidence: only Green if current line is within 0.25 (yardage) of your anchor projection or if market moved in your favor; otherwise Yellow.
+- Volume floor: Greens require stable volume (dropbacks/snap share, touches, targets, usage/minutes). Volatile volume → downgrade.
+- Weather/time: for outdoor games with wind >15mph or heavy precip, downgrade passing/FG props; note rest/travel/back-to-backs where relevant.
+- Freshness: if scrapedDate >12h, warn and avoid Greens unless user confirms line.
 
-RESPONSE FORMAT:
-When showing props, format them clearly:
-- Player Name
-- Sport
-- Stat Type: Line value
-- Example: "LeBron James (NBA) - Points: 25.5"
+OUTPUT:
+Prop Grades Table:
+Player | Team | Stat | Line | Current Line | Opponent | Grade | Rationale | Confidence (High/Med/Low)
 
-Always be helpful, concise, and remind users to gamble responsibly.
+Entry Recommendation (when enough Greens):
+- Type (Flex/Power)
+- Exact legs with current lines
+- Teams represented (ensure ≥2 teams)
+- Correlation notes
+- Risk summary
+- “Informational only—bet responsibly.”
+- “Lines verified as of [scrapedDate]”
+
+Notes: Missing inputs, assumptions, data freshness.
+
+API USAGE:
+Call getPrizePicks when: suggestions/entry-building, verifying screenshot lines, searching specific players/sports.
+What to do:
+- Parse props array; filter by sport
+- Use Team and Opponent fields (market + name already concatenated)
+- startTime is CST in “MM/DD/YY HH:MM AM/PM CST”
+- Compare line values; note totalProps for market breadth
+
+TONE:
+Precise, concise, cautious. Never fabricate stats. When citing API: “According to current PrizePicks lines (updated [scrapedDate])…”
 ```
 
 ### Conversation Starters
@@ -94,12 +121,120 @@ If you create an OpenAPI spec file in your repo:
   "paths": {
     "/data/prizepicks.json": {
       "get": {
-        "summary": "Get current PrizePicks prop bets",
-        "description": "Returns all available prop bets scraped from PrizePicks, updated daily",
+        "summary": "Get ALL standard props",
+        "description": "Returns all standard-odds props across sports (no goblin/demon variants).",
         "operationId": "getPrizePicks",
         "responses": {
           "200": {
             "description": "Successful response with prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-nfl.json": {
+      "get": {
+        "summary": "Get NFL props (standard only)",
+        "operationId": "getNFLProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with NFL prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-nba.json": {
+      "get": {
+        "summary": "Get NBA props (standard only)",
+        "operationId": "getNBAProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with NBA prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf.json": {
+      "get": {
+        "summary": "Get all College Football props (standard only)",
+        "operationId": "getNCAAFPropsAll",
+        "responses": {
+          "200": {
+            "description": "Successful response with CFB prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf-qb.json": {
+      "get": {
+        "summary": "Get College Football QB props only (standard)",
+        "operationId": "getNCAAFQBProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with CFB QB prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf-rb.json": {
+      "get": {
+        "summary": "Get College Football RB props only (standard)",
+        "operationId": "getNCAAFRBProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with CFB RB prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf-wr.json": {
+      "get": {
+        "summary": "Get College Football WR props only (standard)",
+        "operationId": "getNCAAFWRProps",
+        "responses": {
+          "200": {
+            "description": "Successful response with CFB WR prop bet data",
             "content": {
               "application/json": {
                 "schema": {

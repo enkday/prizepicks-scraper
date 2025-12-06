@@ -1,1625 +1,1571 @@
 {
-  "scrapedAt": "2025-12-06T16:19:30.579Z",
-  "scrapedDate": "Saturday, December 6, 2025 at 10:19 AM CST",
+  "scrapedAt": "2025-12-06T18:05:54.685Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 12:05 PM CST",
   "source": "PrizePicks API",
   "sport": "NCAAF",
-  "totalProps": 202,
+  "totalProps": 142,
   "props": [
-    {
-      "player": "Broc Lowry",
-      "stat": "Pass+Rush Yds",
-      "line": 215.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass+Rush Yds",
-      "line": 205.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass Yards",
-      "line": 185.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Pass Yards",
-      "line": 130.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Rush Yards",
-      "line": 81.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush+Rec Yds",
-      "line": 63.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Receiving Yards",
-      "line": 60.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush Yards",
-      "line": 55.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Cole Weaver",
-      "stat": "Receiving Yards",
-      "line": 51.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Longest Completion",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Longest Completion",
-      "line": 31.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receiving Yards",
-      "line": 28.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Longest Reception",
-      "line": 26.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Cole Weaver",
-      "stat": "Longest Reception",
-      "line": 22.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receiving Yards",
-      "line": 21.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Rush Yards",
-      "line": 21.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Longest Rush",
-      "line": 20.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Receiving Yards",
-      "line": 18.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Longest Reception",
-      "line": 16.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Longest Rush",
-      "line": 15.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Longest Reception",
-      "line": 15.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Longest Rush",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Longest Rush",
-      "line": 13.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Longest Reception",
-      "line": 12.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Keith Reynolds",
-      "stat": "Longest Reception",
-      "line": 11.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Blake Bosma",
-      "stat": "Longest Reception",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Dom Dzioban",
-      "stat": "Kicking Points",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Palmer Domschke",
-      "stat": "Kicking Points",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Palmer Domschke",
-      "stat": "PAT Made",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass Yards",
-      "line": 250.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Pass+Rush Yds",
-      "line": 218.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Pass Yards",
-      "line": 186.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Rush+Rec Yds",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rush+Rec Yds",
-      "line": 94.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Rush+Rec Yds",
-      "line": 88.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Rush Yards",
-      "line": 86.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rush Yards",
-      "line": 68.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receiving Yards",
-      "line": 60.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receiving Yards",
-      "line": 53.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receiving Yards",
-      "line": 51.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Receiving Yards",
-      "line": 47.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receiving Yards",
-      "line": 46.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Longest Completion",
-      "line": 41.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Receiving Yards",
-      "line": 36.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receiving Yards",
-      "line": 35.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Longest Completion",
-      "line": 33.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Rush Yards",
-      "line": 31.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Longest Reception",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Receiving Yards",
-      "line": 23.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Longest Reception",
-      "line": 22.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Longest Reception",
-      "line": 21.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Longest Reception",
-      "line": 20.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass Completions",
-      "line": 20.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Longest Rush",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Longest Reception",
-      "line": 18.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receiving Yards",
-      "line": 17.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Longest Reception",
-      "line": 17.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Fantasy Score",
-      "line": 17.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Longest Rush",
-      "line": 16.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Longest Rush",
-      "line": 16.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Fantasy Score",
-      "line": 16.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Receiving Yards",
-      "line": 13.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Longest Reception",
-      "line": 13.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Fantasy Score",
-      "line": 12.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Fantasy Score",
-      "line": 11.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Longest Reception",
-      "line": 10.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Fantasy Score",
-      "line": 10.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Longest Reception",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Will Ferrin",
-      "stat": "Kicking Points",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Stone Harrington",
-      "stat": "PAT Made",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "standard"
-    },
     {
       "player": "Keali'i Yat",
       "stat": "Pass Yards",
-      "line": 239.5,
+      "line": 229.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 01:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Montana Grizzlies",
+      "Opponent": "South Dakota State Jackrabbits",
+      "gameId": "117227"
     },
     {
       "player": "Chase Mason",
       "stat": "Pass Yards",
       "line": 218.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 01:00 PM CST",
+      "oddsType": "standard",
+      "Team": "South Dakota State Jackrabbits",
+      "Opponent": "Montana Grizzlies",
+      "gameId": "117227"
     },
     {
       "player": "Eli Gillman",
       "stat": "Rush Yards",
       "line": 93.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 01:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Montana Grizzlies",
+      "Opponent": "South Dakota State Jackrabbits",
+      "gameId": "117227"
     },
     {
       "player": "Julius Loughridge",
       "stat": "Rush Yards",
       "line": 84.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 01:00 PM CST",
+      "oddsType": "standard",
+      "Team": "South Dakota State Jackrabbits",
+      "Opponent": "Montana Grizzlies",
+      "gameId": "117227"
     },
     {
       "player": "Alex Bullock",
       "stat": "Receiving Yards",
       "line": 65.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 01:00 PM CST",
+      "oddsType": "standard",
+      "Team": "South Dakota State Jackrabbits",
+      "Opponent": "Montana Grizzlies",
+      "gameId": "117227"
     },
     {
       "player": "Michael Wortham",
       "stat": "Receiving Yards",
       "line": 57.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 01:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Montana Grizzlies",
+      "Opponent": "South Dakota State Jackrabbits",
+      "gameId": "117227"
     },
     {
       "player": "Grahm Goering",
       "stat": "Receiving Yards",
       "line": 51.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 01:00 PM CST",
+      "oddsType": "standard",
+      "Team": "South Dakota State Jackrabbits",
+      "Opponent": "Montana Grizzlies",
+      "gameId": "117227"
     },
     {
       "player": "Brooks Davis",
       "stat": "Receiving Yards",
       "line": 47.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 01:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Montana Grizzlies",
+      "Opponent": "South Dakota State Jackrabbits",
+      "gameId": "117227"
     },
     {
       "player": "Keali'i Yat",
       "stat": "Pass TDs",
       "line": 1.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 01:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Montana Grizzlies",
+      "Opponent": "South Dakota State Jackrabbits",
+      "gameId": "117227"
     },
     {
       "player": "Ty Simpson",
       "stat": "Pass+Rush Yds",
-      "line": 262.5,
+      "line": 261.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Ty Simpson",
       "stat": "Pass Yards",
       "line": 250.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Gunner Stockton",
       "stat": "Pass+Rush Yds",
       "line": 239.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Gunner Stockton",
       "stat": "Pass Yards",
       "line": 202.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Nate Frazier",
       "stat": "Rush+Rec Yds",
       "line": 68.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Germie Bernard",
       "stat": "Receiving Yards",
       "line": 61.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Nate Frazier",
       "stat": "Rush Yards",
       "line": 59.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Zachariah Branch",
       "stat": "Receiving Yards",
       "line": 56.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Ryan Williams",
       "stat": "Receiving Yards",
       "line": 46.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Ty Simpson",
       "stat": "Longest Completion",
       "line": 41.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Chauncey Bowens",
       "stat": "Rush+Rec Yds",
       "line": 39.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Gunner Stockton",
       "stat": "Longest Completion",
       "line": 37.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Isaiah Horton",
       "stat": "Receiving Yards",
       "line": 35.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Chauncey Bowens",
       "stat": "Rush Yards",
+      "line": 35.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
+    },
+    {
+      "player": "Ty Simpson",
+      "stat": "Pass Attempts",
       "line": 34.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Gunner Stockton",
       "stat": "Rush Yards",
       "line": 33.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Lotzeir Brooks",
       "stat": "Receiving Yards",
       "line": 33.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Noah Thomas",
       "stat": "Receiving Yards",
-      "line": 29.5,
+      "line": 28.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Gunner Stockton",
       "stat": "Pass Attempts",
       "line": 28.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Germie Bernard",
       "stat": "Longest Reception",
       "line": 24.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Ryan Williams",
       "stat": "Longest Reception",
-      "line": 22.5,
+      "line": 21.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
+    },
+    {
+      "player": "Ty Simpson",
+      "stat": "Pass Completions",
+      "line": 21.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
+    },
+    {
+      "player": "Lotzeir Brooks",
+      "stat": "Longest Reception",
+      "line": 19.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Zachariah Branch",
       "stat": "Longest Reception",
       "line": 19.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Gunner Stockton",
       "stat": "Pass Completions",
       "line": 19.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Gunner Stockton",
       "stat": "Fantasy Score",
       "line": 19.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Dillon Bell",
       "stat": "Receiving Yards",
       "line": 18.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Ty Simpson",
       "stat": "Fantasy Score",
       "line": 18.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Longest Reception",
-      "line": 17.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Oscar Delp",
       "stat": "Receiving Yards",
       "line": 17.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Noah Thomas",
       "stat": "Longest Reception",
       "line": 17.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Isaiah Horton",
       "stat": "Longest Reception",
       "line": 16.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Nate Frazier",
       "stat": "Longest Rush",
-      "line": 15.5,
+      "line": 16.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
+    },
+    {
+      "player": "Zachariah Branch",
+      "stat": "Fantasy Score",
+      "line": 14,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Gunner Stockton",
       "stat": "Longest Rush",
       "line": 13.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Oscar Delp",
       "stat": "Longest Reception",
       "line": 13.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
+    },
+    {
+      "player": "Germie Bernard",
+      "stat": "Fantasy Score",
+      "line": 13.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Ty Simpson",
       "stat": "Longest Rush",
       "line": 12.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Dillon Bell",
       "stat": "Longest Reception",
       "line": 12.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Chauncey Bowens",
       "stat": "Longest Rush",
       "line": 12.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
+    },
+    {
+      "player": "Ryan Williams",
+      "stat": "Fantasy Score",
+      "line": 10,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Ty Simpson",
       "stat": "Rush Yards",
-      "line": 11.5,
+      "line": 7.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Daniel Hill",
-      "stat": "Longest Reception",
-      "line": 10.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Peyton Woodring",
       "stat": "Kicking Points",
       "line": 6.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Lotzeir Brooks",
       "stat": "Receptions",
       "line": 2.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Ty Simpson",
       "stat": "Pass TDs",
       "line": 1.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Ty Simpson",
       "stat": "INT",
       "line": 0.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "Opponent": "Georgia Bulldogs",
+      "gameId": "117360"
     },
     {
       "player": "Gunner Stockton",
       "stat": "INT",
       "line": 0.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 03:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Georgia Bulldogs",
+      "Opponent": "Alabama Crimson Tide",
+      "gameId": "117360"
     },
     {
       "player": "Julian Sayin",
       "stat": "Pass+Rush Yds",
       "line": 239.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Julian Sayin",
       "stat": "Pass Yards",
-      "line": 235.5,
+      "line": 232.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Fernando Mendoza",
       "stat": "Pass+Rush Yds",
-      "line": 231.5,
+      "line": 229.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Fernando Mendoza",
       "stat": "Pass Yards",
-      "line": 212.5,
+      "line": 206.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Bo Jackson",
       "stat": "Rush+Rec Yds",
-      "line": 88.5,
+      "line": 87.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Jeremiah Smith",
       "stat": "Receiving Yards",
-      "line": 74.5,
+      "line": 75.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Bo Jackson",
       "stat": "Rush Yards",
-      "line": 71.5,
+      "line": 73.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Carnell Tate",
       "stat": "Receiving Yards",
       "line": 66.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Roman Hemby",
       "stat": "Rush+Rec Yds",
       "line": 63.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Roman Hemby",
       "stat": "Rush Yards",
       "line": 57.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Elijah Sarratt",
       "stat": "Receiving Yards",
       "line": 56.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Omar Cooper",
       "stat": "Receiving Yards",
-      "line": 53.5,
+      "line": 54.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Julian Sayin",
       "stat": "Longest Completion",
-      "line": 41.5,
+      "line": 42.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
-      "player": "Fernando Mendoza",
-      "stat": "Longest Completion",
-      "line": 40.5,
+      "player": "Kaelon Black",
+      "stat": "Rush Yards",
+      "line": 39.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Max Klare",
       "stat": "Receiving Yards",
       "line": 29.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Longest Reception",
-      "line": 27.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Fernando Mendoza",
       "stat": "Pass Attempts",
       "line": 27.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
+    },
+    {
+      "player": "Carnell Tate",
+      "stat": "Longest Reception",
+      "line": 26.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Jeremiah Smith",
       "stat": "Longest Reception",
       "line": 26.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
+    },
+    {
+      "player": "Julian Sayin",
+      "stat": "Pass Attempts",
+      "line": 26.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Elijah Sarratt",
       "stat": "Longest Reception",
-      "line": 24.5,
+      "line": 23.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Omar Cooper",
       "stat": "Longest Reception",
       "line": 22.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "CJ Donaldson",
       "stat": "Rush Yards",
       "line": 22.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
+    },
+    {
+      "player": "Julian Sayin",
+      "stat": "Pass Completions",
+      "line": 20.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Fernando Mendoza",
       "stat": "Rush Yards",
       "line": 19.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Brandon Inniss",
-      "stat": "Receiving Yards",
-      "line": 18.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Brandon Inniss",
-      "stat": "Receiving Yards",
-      "line": 18.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Bo Jackson",
       "stat": "Longest Rush",
-      "line": 17.5,
+      "line": 18.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
+    },
+    {
+      "player": "Brandon Inniss",
+      "stat": "Receiving Yards",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
+    },
+    {
+      "player": "Brandon Inniss",
+      "stat": "Receiving Yards",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Julian Sayin",
       "stat": "Fantasy Score",
       "line": 17.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
+    },
+    {
+      "player": "Jeremiah Smith",
+      "stat": "Fantasy Score",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Fernando Mendoza",
       "stat": "Pass Completions",
       "line": 16.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Fernando Mendoza",
       "stat": "Fantasy Score",
       "line": 16.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
+    },
+    {
+      "player": "Charlie Becker",
+      "stat": "Longest Reception",
+      "line": 16.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Max Klare",
       "stat": "Longest Reception",
       "line": 14.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Fernando Mendoza",
       "stat": "Longest Rush",
       "line": 12.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
+    },
+    {
+      "player": "Kaelon Black",
+      "stat": "Longest Rush",
+      "line": 12.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Bo Jackson",
       "stat": "Receiving Yards",
       "line": 11.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Brandon Inniss",
       "stat": "Longest Reception",
       "line": 11.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
+    },
+    {
+      "player": "Riley Nowakowski",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "CJ Donaldson",
       "stat": "Longest Rush",
       "line": 9.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Bo Jackson",
       "stat": "Longest Reception",
       "line": 8.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
+    },
+    {
+      "player": "Isaiah West",
+      "stat": "Longest Rush",
+      "line": 7.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Jayden Fielding",
       "stat": "Kicking Points",
       "line": 6.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Nico Radicic",
       "stat": "Kicking Points",
       "line": 6.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Julian Sayin",
       "stat": "Longest Rush",
       "line": 6.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
-      "player": "Roman Hemby",
-      "stat": "Longest Reception",
-      "line": 3.5,
+      "player": "Julian Sayin",
+      "stat": "Rush Yards",
+      "line": 2.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Bo Jackson",
       "stat": "Receptions",
       "line": 1.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Bo Jackson",
       "stat": "Rush+Rec TDs",
       "line": 0.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Carnell Tate",
       "stat": "Rush+Rec TDs",
       "line": 0.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "Opponent": "Indiana Hoosiers",
+      "gameId": "117228"
     },
     {
       "player": "Fernando Mendoza",
       "stat": "INT",
       "line": 0.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "Opponent": "Ohio State Buckeyes",
+      "gameId": "117228"
     },
     {
       "player": "Chandler Morris",
       "stat": "Pass+Rush Yds",
-      "line": 274.5,
+      "line": 275.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Darian Mensah",
       "stat": "Pass Yards",
-      "line": 259.5,
+      "line": 257.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Chandler Morris",
       "stat": "Pass Yards",
       "line": 251.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "J'Mari Taylor",
       "stat": "Rush+Rec Yds",
-      "line": 123.5,
+      "line": 122.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Nate Sheppard",
       "stat": "Rush+Rec Yds",
-      "line": 103.5,
+      "line": 95.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "J'Mari Taylor",
       "stat": "Rush Yards",
       "line": 89.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Trell Harris",
       "stat": "Receiving Yards",
       "line": 75.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Nate Sheppard",
       "stat": "Rush Yards",
-      "line": 70.5,
+      "line": 69.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Cooper Barkate",
       "stat": "Receiving Yards",
-      "line": 67.5,
+      "line": 65.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Que'Sean Brown",
       "stat": "Receiving Yards",
       "line": 47.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Chandler Morris",
       "stat": "Longest Completion",
       "line": 41.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Darian Mensah",
       "stat": "Longest Completion",
       "line": 41.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
+    },
+    {
+      "player": "Darian Mensah",
+      "stat": "Pass Attempts",
+      "line": 35.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Jahmal Edrine",
       "stat": "Receiving Yards",
       "line": 33.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Jeremiah Hasley",
       "stat": "Receiving Yards",
       "line": 33.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
+    },
+    {
+      "player": "Chandler Morris",
+      "stat": "Pass Attempts",
+      "line": 33.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Trell Harris",
       "stat": "Longest Reception",
       "line": 28.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Cooper Barkate",
       "stat": "Longest Reception",
       "line": 26.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "J'Mari Taylor",
       "stat": "Receiving Yards",
       "line": 24.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Que'Sean Brown",
       "stat": "Longest Reception",
       "line": 21.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
+    },
+    {
+      "player": "Darian Mensah",
+      "stat": "Pass Completions",
+      "line": 21.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
+    },
+    {
+      "player": "Chandler Morris",
+      "stat": "Pass Completions",
+      "line": 21.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "J'Mari Taylor",
       "stat": "Longest Rush",
       "line": 20.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Darian Mensah",
       "stat": "Fantasy Score",
       "line": 19.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Jeremiah Hasley",
       "stat": "Longest Reception",
       "line": 18.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Chandler Morris",
       "stat": "Fantasy Score",
       "line": 18.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Nate Sheppard",
       "stat": "Receiving Yards",
       "line": 17.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Jahmal Edrine",
       "stat": "Longest Reception",
       "line": 17.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Longest Rush",
-      "line": 17.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Sahmir Hagans",
       "stat": "Longest Reception",
       "line": 17.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Cam Ross",
       "stat": "Longest Reception",
       "line": 17.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
+    },
+    {
+      "player": "Nate Sheppard",
+      "stat": "Longest Rush",
+      "line": 16.5,
+      "sport": "NCAAF",
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Sage Ennis",
       "stat": "Longest Reception",
       "line": 15.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "J'Mari Taylor",
       "stat": "Longest Reception",
       "line": 12.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Nate Sheppard",
       "stat": "Longest Reception",
       "line": 11.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Will Bettridge",
       "stat": "Kicking Points",
       "line": 7.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Virginia Cavaliers",
+      "Opponent": "Duke Blue Devils",
+      "gameId": "117361"
     },
     {
       "player": "Todd Pelino",
       "stat": "Kicking Points",
       "line": 6.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Cooper Barkate",
       "stat": "Receptions",
       "line": 4.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     },
     {
       "player": "Nate Sheppard",
       "stat": "Rush+Rec TDs",
       "line": 0.5,
       "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "standard"
+      "startTime": "12/06/25 07:00 PM CST",
+      "oddsType": "standard",
+      "Team": "Duke Blue Devils",
+      "Opponent": "Virginia Cavaliers",
+      "gameId": "117361"
     }
   ]
 }

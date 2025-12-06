@@ -16,13 +16,37 @@ async function splitBySport() {
   );
   const data = JSON.parse(mainFile);
   
-  // Group by sport
+  // Build player-to-team and game-to-opponent mapping from included array if present
+  let playerTeamMap = {};
+  let gameOpponentMap = {};
+  if (data.included && Array.isArray(data.included)) {
+    // Map player id to { team, team_name }
+    data.included.forEach(item => {
+      if (item.type === 'new_player') {
+        playerTeamMap[item.attributes?.name] = {
+          team: item.attributes?.team || null,
+          team_name: item.attributes?.team_name || null
+        };
+      }
+      if (item.type === 'game') {
+        gameOpponentMap[item.id] = item.attributes?.opponent_name || null;
+      }
+    });
+  }
+
+  // Group by sport and fill missing team/opponent fields
   const bySport = {};
-  
   data.props.forEach(prop => {
     const sport = prop.sport || 'Unknown';
-    if (!bySport[sport]) {
-      bySport[sport] = [];
+    if (!bySport[sport]) bySport[sport] = [];
+    // Fill team if missing
+    if ((!prop.team || prop.team === null) && playerTeamMap[prop.player]) {
+      prop.team = playerTeamMap[prop.player].team;
+      prop.team_name = playerTeamMap[prop.player].team_name;
+    }
+    // Fill opponent if missing (if startTime and player are present, this could be improved with a schedule lookup)
+    if ((!prop.opponent || prop.opponent === null) && prop.gameId && gameOpponentMap[prop.gameId]) {
+      prop.opponent = gameOpponentMap[prop.gameId];
     }
     bySport[sport].push(prop);
   });

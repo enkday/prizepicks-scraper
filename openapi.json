@@ -13,8 +13,8 @@
   "paths": {
     "/data/prizepicks.json": {
       "get": {
-        "summary": "Get ALL PrizePicks prop bets (may be large)",
-        "description": "Returns all available prop bets across all sports. Warning: This file is large (1MB+) and may timeout. Consider using sport-specific endpoints instead.",
+        "summary": "Get ALL standard PrizePicks props",
+        "description": "Returns all available standard-odds prop bets across supported sports (no goblin/demon variants). Use sport-specific endpoints for smaller payloads.",
         "operationId": "getPrizePicks",
         "responses": {
           "200": {
@@ -30,29 +30,10 @@
         }
       }
     },
-    "/data/prizepicks-ncaaf-top100.json": {
-      "get": {
-        "summary": "Get Top 100 College Football props (RECOMMENDED)",
-        "description": "Returns the top 100 NCAAF props prioritized by PrizePicks API. This is the recommended endpoint - small file size (~12KB) with live games first.",
-        "operationId": "getNCAAFPropsTop100",
-        "responses": {
-          "200": {
-            "description": "Successful response with top 100 CFB props",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/PrizePicksData"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/data/prizepicks-ncaaf.json": {
       "get": {
-        "summary": "Get ALL College Football props (WARNING: 900+ props, may timeout)",
-        "description": "Returns ALL College Football prop bets including future bowl games. WARNING: 100KB+ file. Use /ncaaf-top100 instead.",
+        "summary": "Get ALL standard College Football props",
+        "description": "Returns ALL College Football prop bets (standard odds only; excludes goblin/demon variants).",
         "operationId": "getNCAAFPropsAll",
         "responses": {
           "200": {
@@ -70,8 +51,8 @@
     },
     "/data/prizepicks-ncaaf-qb.json": {
       "get": {
-        "summary": "Get College Football QB props only",
-        "description": "Returns only QB-related props (passing yards, passing TDs, completions, etc.) for faster loading",
+        "summary": "Get College Football QB props only (standard)",
+        "description": "Returns only QB-related props (passing yards, passing TDs, completions, etc.) for faster loading. Standard odds only.",
         "operationId": "getNCAAFQBProps",
         "responses": {
           "200": {
@@ -89,8 +70,8 @@
     },
     "/data/prizepicks-ncaaf-rb.json": {
       "get": {
-        "summary": "Get College Football RB props only",
-        "description": "Returns only RB-related props (rushing yards, rushing TDs, etc.)",
+        "summary": "Get College Football RB props only (standard)",
+        "description": "Returns only RB-related props (rushing yards, rushing TDs, etc.). Standard odds only.",
         "operationId": "getNCAAFRBProps",
         "responses": {
           "200": {
@@ -108,8 +89,8 @@
     },
     "/data/prizepicks-ncaaf-wr.json": {
       "get": {
-        "summary": "Get College Football WR props only",
-        "description": "Returns only WR-related props (receiving yards, receptions, receiving TDs, etc.)",
+        "summary": "Get College Football WR props only (standard)",
+        "description": "Returns only WR-related props (receiving yards, receptions, receiving TDs, etc.). Standard odds only.",
         "operationId": "getNCAAFWRProps",
         "responses": {
           "200": {
@@ -127,8 +108,8 @@
     },
     "/data/prizepicks-nfl.json": {
       "get": {
-        "summary": "Get NFL props only",
-        "description": "Returns only NFL prop bets",
+        "summary": "Get NFL props (standard only)",
+        "description": "Returns only NFL prop bets (standard odds).",
         "operationId": "getNFLProps",
         "responses": {
           "200": {
@@ -146,8 +127,8 @@
     },
     "/data/prizepicks-nba.json": {
       "get": {
-        "summary": "Get NBA props only",
-        "description": "Returns only NBA prop bets",
+        "summary": "Get NBA props (standard only)",
+        "description": "Returns only NBA prop bets (standard odds).",
         "operationId": "getNBAProps",
         "responses": {
           "200": {
@@ -202,6 +183,10 @@
             "type": "string",
             "description": "Player name"
           },
+          "Team": {
+            "type": "string",
+            "description": "Team name (market + mascot)"
+          },
           "stat": {
             "type": "string",
             "description": "Stat type (Points, Rebounds, Passing Yards, etc.)"
@@ -213,6 +198,22 @@
           "sport": {
             "type": "string",
             "description": "Sport (NBA, NFL, MLB, etc.)"
+          },
+          "Opponent": {
+            "type": "string",
+            "description": "Opponent name (market + mascot)"
+          },
+          "startTime": {
+            "type": "string",
+            "description": "Game start time in CST formatted as MM/DD/YY HH:MM AM/PM CST"
+          },
+          "oddsType": {
+            "type": "string",
+            "description": "Odds type (standard only in this dataset)"
+          },
+          "gameId": {
+            "type": "string",
+            "description": "Game identifier from PrizePicks"
           }
         }
       }
