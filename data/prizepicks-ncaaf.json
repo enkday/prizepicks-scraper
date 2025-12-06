@@ -1,26 +1,10 @@
 {
-  "scrapedAt": "2025-12-06T16:17:05.172Z",
-  "scrapedDate": "Saturday, December 6, 2025 at 10:17 AM CST",
+  "scrapedAt": "2025-12-06T16:19:30.579Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 10:19 AM CST",
   "source": "PrizePicks API",
   "sport": "NCAAF",
-  "totalProps": 935,
+  "totalProps": 202,
   "props": [
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass Yards",
-      "line": 249.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass Yards",
-      "line": 224.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
     {
       "player": "Broc Lowry",
       "stat": "Pass+Rush Yds",
@@ -40,42 +24,10 @@
     {
       "player": "Thomas Gotkowski",
       "stat": "Pass Yards",
-      "line": 199.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass Yards",
       "line": 185.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Pass Yards",
-      "line": 174.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Pass Yards",
-      "line": 149.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass Yards",
-      "line": 149.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Broc Lowry",
@@ -88,162 +40,10 @@
     {
       "player": "Broc Lowry",
       "stat": "Rush Yards",
-      "line": 124.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass Yards",
-      "line": 124.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Rush Yards",
-      "line": 109.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Pass Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Rush Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cole Weaver",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Rush Yards",
       "line": 81.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cole Weaver",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Rush Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cole Weaver",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Jalen Buckley",
@@ -262,36 +62,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Broc Lowry",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Jalen Buckley",
       "stat": "Rush Yards",
       "line": 59.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Jordan Brunson",
@@ -310,132 +86,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Broc Lowry",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush Yards",
-      "line": 44.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Cole Weaver",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Thomas Gotkowski",
       "stat": "Longest Completion",
       "line": 39.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Broc Lowry",
@@ -444,38 +100,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Cole Weaver",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Tailique Williams",
@@ -492,22 +116,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Cole Weaver",
@@ -540,22 +148,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Rush Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Aveion Chenault",
@@ -598,38 +190,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Aveion Chenault",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Rush Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Thomas Gotkowski",
       "stat": "Longest Rush",
       "line": 13.5,
@@ -654,30 +214,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Aveion Chenault",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Rush Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Blake Bosma",
       "stat": "Longest Reception",
       "line": 7.5,
@@ -686,14 +222,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Tailique Williams",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Dom Dzioban",
       "stat": "Kicking Points",
       "line": 5.5,
@@ -710,102 +238,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Aveion Chenault",
-      "stat": "Receiving Yards",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Dom Dzioban",
-      "stat": "PAT Made",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Palmer Domschke",
       "stat": "PAT Made",
       "line": 2.5,
@@ -814,412 +246,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Broc Lowry",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Blake Bosma",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Dom Dzioban",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Palmer Domschke",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Blake Bosma",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Braylon Isom",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Brian Shane",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Christian Leary",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cole Weaver",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "D'Shawntae Jones",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Deion Colzie",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Devin Miles",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Josh Ringer",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Keith Reynolds",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Michael Brescia",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ofa Mataele",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Pass TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "Pass TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Aveion Chenault",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Baylin Brooks",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Blake Bosma",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Braylon Isom",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Broc Lowry",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "D'Shawntae Jones",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Deion Colzie",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Jalen Buckley",
       "stat": "Rush+Rec TDs",
       "line": 0.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Jordan Brunson",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kam Perry",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Keith Reynolds",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ofa Mataele",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Tailique Williams",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Thomas Gotkowski",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jalen Buckley",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass Yards",
-      "line": 324.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass Yards",
-      "line": 299.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass Yards",
-      "line": 274.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Behren Morton",
@@ -1231,59 +263,11 @@
     },
     {
       "player": "Bear Bachmeier",
-      "stat": "Pass Yards",
-      "line": 249.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Pass Yards",
-      "line": 224.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass Yards",
-      "line": 224.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bear Bachmeier",
       "stat": "Pass+Rush Yds",
       "line": 218.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass Yards",
-      "line": 209.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Pass Yards",
-      "line": 199.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass Yards",
-      "line": 199.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Bear Bachmeier",
@@ -1294,76 +278,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Bear Bachmeier",
-      "stat": "Pass Yards",
-      "line": 174.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Pass Yards",
-      "line": 149.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Pass Yards",
-      "line": 124.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Rush Yards",
-      "line": 109.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rush Yards",
-      "line": 109.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Cameron Dickey",
       "stat": "Rush+Rec Yds",
       "line": 99.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Rush Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rush Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receiving Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "LJ Martin",
@@ -1372,30 +292,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Rush Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rush Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "J'Koby Williams",
@@ -1412,94 +308,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Rush Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Rush Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Rush Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "LJ Martin",
@@ -1526,65 +334,9 @@
       "oddsType": "standard"
     },
     {
-      "player": "Cameron Dickey",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Parker Kingston",
       "stat": "Receiving Yards",
-      "line": 52.5,
+      "line": 53.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
@@ -1596,54 +348,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Terrance Carter",
@@ -1668,70 +372,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Coy Eakin",
@@ -1766,116 +406,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "J'Koby Williams",
-      "stat": "Rush Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Caleb Douglas",
       "stat": "Longest Reception",
       "line": 24.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Rush Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "J'Koby Williams",
@@ -1926,38 +462,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Bear Bachmeier",
-      "stat": "Rush Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Coy Eakin",
       "stat": "Longest Reception",
       "line": 18.5,
@@ -2014,54 +518,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Bear Bachmeier",
-      "stat": "Rush Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Longest Reception",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Cameron Dickey",
       "stat": "Receiving Yards",
       "line": 13.5,
@@ -2086,14 +542,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "J'Koby Williams",
-      "stat": "Rush Attempts",
-      "line": 11.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Chase Roberts",
       "stat": "Fantasy Score",
       "line": 11.5,
@@ -2126,268 +574,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "J'Koby Williams",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receptions",
-      "line": 8.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Stone Harrington",
-      "stat": "Kicking Points",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receptions",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receptions",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Will Ferrin",
       "stat": "Kicking Points",
       "line": 5.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass TDs",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Stone Harrington",
@@ -2398,516 +590,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Reggie Virgil",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Pass TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Rush+Rec TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Will Ferrin",
-      "stat": "PAT Made",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Will Ferrin",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Stone Harrington",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Behren Morton",
       "stat": "INT",
       "line": 0.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Behren Morton",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Caleb Douglas",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cameron Dickey",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carsen Ryan",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Roberts",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Coy Eakin",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Enoch Nawahine",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Koby Williams",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jojo Phillips",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jojo Phillips",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Terrance Carter",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Tiger Bachmeier",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Reggie Virgil",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Parker Kingston",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bear Bachmeier",
-      "stat": "Pass TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Adam Hill",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bryson Jones",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cody Hagen",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Johncarlos Miller",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Micah Hudson",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Preston Rex",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Sione Moa",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Sione Moa",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "LJ Martin",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T12:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Keali'i Yat",
@@ -2982,94 +670,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Alex Bullock",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Brooks Davis",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chase Mason",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Eli Gillman",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Grahm Goering",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Julius Loughridge",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Keali'i Yat",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T14:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Pass Yards",
-      "line": 324.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Pass Yards",
-      "line": 299.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Pass Yards",
-      "line": 274.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Pass Yards",
-      "line": 274.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Ty Simpson",
       "stat": "Pass+Rush Yds",
       "line": 262.5,
@@ -3087,14 +687,6 @@
     },
     {
       "player": "Gunner Stockton",
-      "stat": "Pass Yards",
-      "line": 249.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Gunner Stockton",
       "stat": "Pass+Rush Yds",
       "line": 239.5,
       "sport": "NCAAF",
@@ -3104,154 +696,10 @@
     {
       "player": "Gunner Stockton",
       "stat": "Pass Yards",
-      "line": 224.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Pass Yards",
-      "line": 224.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Pass Yards",
-      "line": 209.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Pass Yards",
       "line": 202.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Pass Yards",
-      "line": 199.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Pass Yards",
-      "line": 174.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Pass Yards",
-      "line": 159.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Pass Yards",
-      "line": 149.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Nate Frazier",
-      "stat": "Rush Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Frazier",
-      "stat": "Rush Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Frazier",
-      "stat": "Rush Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Nate Frazier",
@@ -3270,60 +718,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Gunner Stockton",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Nate Frazier",
       "stat": "Rush Yards",
       "line": 59.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chauncey Bowens",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Noah Thomas",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Zachariah Branch",
@@ -3332,78 +732,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Frazier",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Chauncey Bowens",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Dillon Bell",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Noah Thomas",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Ryan Williams",
@@ -3420,78 +748,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Frazier",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Dillon Bell",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Noah Thomas",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Oscar Delp",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Chauncey Bowens",
@@ -3542,60 +798,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Ryan Williams",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Rush Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Dillon Bell",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Noah Thomas",
       "stat": "Receiving Yards",
       "line": 29.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Oscar Delp",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Gunner Stockton",
@@ -3606,52 +814,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Ryan Williams",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Germie Bernard",
       "stat": "Longest Reception",
       "line": 24.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Rush Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chauncey Bowens",
-      "stat": "Rush Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Oscar Delp",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Ryan Williams",
@@ -3662,60 +830,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Gunner Stockton",
-      "stat": "Rush Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Zachariah Branch",
       "stat": "Longest Reception",
       "line": 19.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Rush Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chauncey Bowens",
-      "stat": "Rush Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Noah Thomas",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Gunner Stockton",
@@ -3732,14 +852,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Longest Reception",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Dillon Bell",
@@ -3756,14 +868,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Pass Completions",
-      "line": 18.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Lotzeir Brooks",
@@ -3804,54 +908,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Rush Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Chauncey Bowens",
-      "stat": "Rush Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Dillon Bell",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Noah Thomas",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Gunner Stockton",
@@ -3910,276 +966,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Gunner Stockton",
-      "stat": "Rush Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Dillon Bell",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Noah Thomas",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Oscar Delp",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receptions",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receptions",
-      "line": 8.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receptions",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receptions",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Peyton Woodring",
       "stat": "Kicking Points",
       "line": 6.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Conor Talty",
-      "stat": "Kicking Points",
-      "line": 6,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Conor Talty",
-      "stat": "Kicking Points",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Rush Yards",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Dillon Bell",
-      "stat": "Receiving Yards",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Oscar Delp",
-      "stat": "Receiving Yards",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Pass TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Pass TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Conor Talty",
-      "stat": "PAT Made",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Peyton Woodring",
-      "stat": "PAT Made",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Lotzeir Brooks",
@@ -4190,244 +982,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Isaiah Horton",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Ty Simpson",
       "stat": "Pass TDs",
       "line": 1.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Peyton Woodring",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Frazier",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Dillon Bell",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Oscar Delp",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Daniel Hill",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chauncey Bowens",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Daniel Hill",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Dillon Bell",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Pass TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Josh McCray",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kaleb Edwards",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Lawson Luckie",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "London Humphreys",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Frazier",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Noah Thomas",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Oscar Delp",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Conor Talty",
-      "stat": "FG Made",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Ty Simpson",
@@ -4438,212 +998,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Dillon Bell",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Germie Bernard",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Gunner Stockton",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "London Humphreys",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Lotzeir Brooks",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Frazier",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Noah Thomas",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Oscar Delp",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ryan Williams",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Ty Simpson",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Zachariah Branch",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Lawson Luckie",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "AK Dear",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Gunner Stockton",
       "stat": "INT",
       "line": 0.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "MJ Chirgwin",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Rico Scott",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Frazier",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chauncey Bowens",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Josh McCray",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Daniel Hill",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T16:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Pass Yards",
-      "line": 299.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Pass Yards",
-      "line": 274.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Pass Yards",
-      "line": 274.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Pass Yards",
-      "line": 249.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Pass Yards",
-      "line": 249.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Julian Sayin",
@@ -4672,162 +1032,10 @@
     {
       "player": "Fernando Mendoza",
       "stat": "Pass Yards",
-      "line": 224.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Pass Yards",
       "line": 212.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Pass Yards",
-      "line": 199.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Pass Yards",
-      "line": 199.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Pass Yards",
-      "line": 189.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Pass Yards",
-      "line": 174.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Pass Yards",
-      "line": 174.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Pass Yards",
-      "line": 149.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Rush Yards",
-      "line": 109.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Receiving Yards",
-      "line": 109.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receiving Yards",
-      "line": 109.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Rush Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Receiving Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receiving Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Rush Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Roman Hemby",
-      "stat": "Rush Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Bo Jackson",
@@ -4836,30 +1044,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Roman Hemby",
-      "stat": "Rush Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Jeremiah Smith",
@@ -4878,38 +1062,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Elijah Sarratt",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kaelon Black",
-      "stat": "Rush Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Roman Hemby",
-      "stat": "Rush Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Carnell Tate",
       "stat": "Receiving Yards",
       "line": 66.5,
@@ -4920,50 +1072,10 @@
     {
       "player": "Roman Hemby",
       "stat": "Rush+Rec Yds",
-      "line": 64.5,
+      "line": 63.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Kaelon Black",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Roman Hemby",
@@ -4990,102 +1102,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Bo Jackson",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Kaelon Black",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Roman Hemby",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "CJ Donaldson",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Rush Yards",
-      "line": 44.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Roman Hemby",
-      "stat": "Rush Yards",
-      "line": 44.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Julian Sayin",
       "stat": "Longest Completion",
       "line": 41.5,
@@ -5102,140 +1118,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Carnell Tate",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Roman Hemby",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "CJ Donaldson",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Brandon Inniss",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kaelon Black",
-      "stat": "Rush Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Max Klare",
       "stat": "Receiving Yards",
       "line": 29.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Rush Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "CJ Donaldson",
-      "stat": "Rush Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Brandon Inniss",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Carnell Tate",
@@ -5262,44 +1150,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Kaelon Black",
-      "stat": "Rush Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Elijah Sarratt",
       "stat": "Longest Reception",
       "line": 24.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Brandon Inniss",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Omar Cooper",
@@ -5318,44 +1174,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Kaelon Black",
-      "stat": "Rush Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Fernando Mendoza",
       "stat": "Rush Yards",
       "line": 19.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "CJ Donaldson",
-      "stat": "Rush Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Brandon Inniss",
@@ -5415,30 +1239,6 @@
     },
     {
       "player": "Fernando Mendoza",
-      "stat": "Rush Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "CJ Donaldson",
-      "stat": "Rush Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Fernando Mendoza",
       "stat": "Longest Rush",
       "line": 12.5,
       "sport": "NCAAF",
@@ -5470,76 +1270,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Fernando Mendoza",
-      "stat": "Rush Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "CJ Donaldson",
-      "stat": "Rush Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Brandon Inniss",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Bo Jackson",
       "stat": "Longest Reception",
       "line": 8.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receptions",
-      "line": 8.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "CJ Donaldson",
-      "stat": "Rush Attempts",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Receptions",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receptions",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receptions",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Jayden Fielding",
@@ -5566,316 +1302,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Carnell Tate",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Rush Yards",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Receiving Yards",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Brandon Inniss",
-      "stat": "Receiving Yards",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Pass TDs",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jayden Fielding",
-      "stat": "PAT Made",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Pass TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Pass TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nico Radicic",
-      "stat": "PAT Made",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Smith",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Roman Hemby",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
+      "stat": "Longest Reception",
+      "line": 3.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jayden Fielding",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nico Radicic",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
+      "oddsType": "standard"
     },
     {
       "player": "Bo Jackson",
@@ -5886,156 +1318,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Brandon Inniss",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Brandon Inniss",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "CJ Donaldson",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Charlie Becker",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "E.J. Williams",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Elijah Sarratt",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Pass TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Fernando Mendoza",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Isaiah West",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kaelon Black",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Max Klare",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Omar Cooper",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Riley Nowakowski",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Roman Hemby",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Will Kacmarek",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Bo Jackson",
       "stat": "Rush+Rec TDs",
       "line": 0.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Julian Sayin",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Khobie Martin",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Carnell Tate",
@@ -6044,14 +1332,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "James Peoples",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Fernando Mendoza",
@@ -6060,46 +1340,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Pass Yards",
-      "line": 324.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chandler Morris",
-      "stat": "Pass Yards",
-      "line": 299.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Pass Yards",
-      "line": 299.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chandler Morris",
-      "stat": "Pass Yards",
-      "line": 274.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Pass Yards",
-      "line": 274.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Chandler Morris",
@@ -6126,68 +1366,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Chandler Morris",
-      "stat": "Pass Yards",
-      "line": 224.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Pass Yards",
-      "line": 224.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Chandler Morris",
-      "stat": "Pass Yards",
-      "line": 199.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Pass Yards",
-      "line": 199.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rush Yards",
-      "line": 149.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rush Yards",
-      "line": 124.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "J'Mari Taylor",
       "stat": "Rush+Rec Yds",
       "line": 123.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rush Yards",
-      "line": 109.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Nate Sheppard",
@@ -6198,84 +1382,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Cooper Barkate",
-      "stat": "Receiving Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Rush Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receiving Yards",
-      "line": 99.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "J'Mari Taylor",
       "stat": "Rush Yards",
       "line": 89.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Rush Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receiving Yards",
-      "line": 89.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rush Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receiving Yards",
-      "line": 79.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Trell Harris",
@@ -6294,148 +1406,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "J'Mari Taylor",
-      "stat": "Rush Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receiving Yards",
-      "line": 69.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Cooper Barkate",
       "stat": "Receiving Yards",
       "line": 67.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Rush Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receiving Yards",
-      "line": 59.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Rush Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receiving Yards",
-      "line": 49.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Que'Sean Brown",
@@ -6462,54 +1438,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Cooper Barkate",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Jahmal Edrine",
       "stat": "Receiving Yards",
       "line": 33.5,
@@ -6524,30 +1452,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Trell Harris",
@@ -6566,44 +1470,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Que'Sean Brown",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "J'Mari Taylor",
       "stat": "Receiving Yards",
       "line": 24.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Que'Sean Brown",
@@ -6620,30 +1492,6 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Darian Mensah",
@@ -6719,30 +1567,6 @@
     },
     {
       "player": "J'Mari Taylor",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Mari Taylor",
       "stat": "Longest Reception",
       "line": 12.5,
       "sport": "NCAAF",
@@ -6758,36 +1582,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Nate Sheppard",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Will Bettridge",
       "stat": "Kicking Points",
       "line": 7.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Receptions",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receptions",
-      "line": 7.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Todd Pelino",
@@ -6800,130 +1600,10 @@
     {
       "player": "Cooper Barkate",
       "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receptions",
-      "line": 5.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Receptions",
       "line": 4.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Pass TDs",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
     },
     {
       "player": "Que'Sean Brown",
@@ -6934,556 +1614,12 @@
       "oddsType": "standard"
     },
     {
-      "player": "Will Bettridge",
-      "stat": "PAT Made",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rush+Rec TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chandler Morris",
-      "stat": "Pass TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Pass TDs",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Todd Pelino",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Harrison Waylee",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chandler Morris",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Anderson Castle",
-      "stat": "Rush+Rec TDs",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Will Bettridge",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Anderson Castle",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Anderson Castle",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Chandler Morris",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cooper Barkate",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Darian Mensah",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jahmal Edrine",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jeremiah Hasley",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Nate Sheppard",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Que'Sean Brown",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Sage Ennis",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Sage Ennis",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Sahmir Hagans",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Sahmir Hagans",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Trell Harris",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Andrel Anthony",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cam Ross",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Eli Wood",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jaquez Moore",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jayden Moore",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "John Rogers",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Kameron Courtney",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Landen King",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Xay Davis",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
       "player": "Nate Sheppard",
       "stat": "Rush+Rec TDs",
       "line": 0.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Chandler Morris",
-      "stat": "Pass TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Chandler Morris",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Chandler Morris",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "J'Mari Taylor",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Anderson Castle",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Cam Ross",
-      "stat": "Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Caden Pinnick",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T22:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Devin Farrell",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T22:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Greg Gaines",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T22:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Jordan Fisher",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T22:00:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Marquis Buchanan",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T22:00:00.000-05:00",
-      "oddsType": "demon"
-    },
-    {
-      "player": "Samuel Gbatu",
-      "stat": "Rush+Rec TDs",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "2025-12-06T22:00:00.000-05:00",
-      "oddsType": "goblin"
     }
   ]
 }

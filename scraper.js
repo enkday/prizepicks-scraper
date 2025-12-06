@@ -108,7 +108,10 @@ async function scrapePrizePicks() {
     allProps.forEach(prop => {
       const sport = prop.sport.toLowerCase();
       if (!bySport[sport]) bySport[sport] = [];
-      bySport[sport].push(prop);
+      // Only include standard odds (exclude demon/goblin variants)
+      if (!prop.oddsType || (prop.oddsType !== 'demon' && prop.oddsType !== 'goblin')) {
+        bySport[sport].push(prop);
+      }
     });
 
     for (const [sport, props] of Object.entries(bySport)) {
@@ -124,7 +127,7 @@ async function scrapePrizePicks() {
       await fs.writeFile(sportFile, JSON.stringify(sportData, null, 2));
       console.log(`   ✅ ${sport.toUpperCase()}: ${props.length} props → ${sportFile}`);
       
-      // Create top-100 file for NCAAF (GPT response size limit)
+      // Create filtered file for NCAAF (excludes goblins, old games)
       if (sport === 'ncaaf') {
         const now = new Date();
         
@@ -138,17 +141,17 @@ async function scrapePrizePicks() {
           }
           // Exclude demon/goblin odds, keep only standard
           return !p.oddsType || (p.oddsType !== 'demon' && p.oddsType !== 'goblin');
-        }).slice(0, 100);
+        });
         
         const top100File = path.join(dataDir, `prizepicks-${sport}-top100.json`);
         const top100Data = {
           ...sportData,
           totalProps: standardProps.length,
           props: standardProps,
-          note: 'Top 100 standard lines (excludes goblin/demon variants) for upcoming games'
+          note: 'Standard lines only (excludes goblin/demon variants) for upcoming games'
         };
         await fs.writeFile(top100File, JSON.stringify(top100Data, null, 2));
-        console.log(`   ✅ ${sport.toUpperCase()} TOP-100: ${standardProps.length} standard props → ${top100File}`);
+        console.log(`   ✅ ${sport.toUpperCase()} FILTERED: ${standardProps.length} standard props → ${top100File}`);
       }
     }
     

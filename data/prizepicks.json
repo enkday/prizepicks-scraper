@@ -1,8 +1,8 @@
 {
-  "scrapedAt": "2025-12-06T16:17:05.172Z",
-  "scrapedDate": "Saturday, December 6, 2025 at 10:17 AM CST",
+  "scrapedAt": "2025-12-06T16:19:30.579Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 10:19 AM CST",
   "source": "PrizePicks API",
-  "totalProps": 11658,
+  "totalProps": 11646,
   "props": [
     {
       "player": "Josh Allen",
@@ -46167,7 +46167,7 @@
     {
       "player": "Parker Kingston",
       "stat": "Receiving Yards",
-      "line": 52.5,
+      "line": 53.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
@@ -49503,7 +49503,7 @@
     {
       "player": "Roman Hemby",
       "stat": "Rush+Rec Yds",
-      "line": 64.5,
+      "line": 63.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
       "oddsType": "standard"
@@ -50301,12 +50301,12 @@
       "oddsType": "demon"
     },
     {
-      "player": "Jayden Fielding",
-      "stat": "PAT Made",
+      "player": "Roman Hemby",
+      "stat": "Longest Reception",
       "line": 3.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T20:00:00.000-05:00",
-      "oddsType": "demon"
+      "oddsType": "standard"
     },
     {
       "player": "Carnell Tate",
@@ -52901,14 +52901,6 @@
       "oddsType": "standard"
     },
     {
-      "player": "Noah Clowney",
-      "stat": "Pts+Rebs",
-      "line": 21.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T17:10:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
       "player": "Trey Murphy",
       "stat": "Points",
       "line": 21.5,
@@ -52976,6 +52968,14 @@
       "player": "Egor Dëmin",
       "stat": "Fantasy Score",
       "line": 21.5,
+      "sport": "NBA",
+      "startTime": "2025-12-06T17:10:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Noah Clowney",
+      "stat": "Pts+Rebs",
+      "line": 21,
       "sport": "NBA",
       "startTime": "2025-12-06T17:10:00.000-05:00",
       "oddsType": "standard"
@@ -59877,6 +59877,14 @@
       "oddsType": "goblin"
     },
     {
+      "player": "Bub Carrington",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "sport": "NBA",
+      "startTime": "2025-12-06T19:10:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
       "player": "Jalen Johnson",
       "stat": "Rebounds",
       "line": 15.5,
@@ -59955,14 +59963,6 @@
       "sport": "NBA",
       "startTime": "2025-12-06T19:10:00.000-05:00",
       "oddsType": "demon"
-    },
-    {
-      "player": "Bub Carrington",
-      "stat": "Pts+Rebs+Asts",
-      "line": 14.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:10:00.000-05:00",
-      "oddsType": "standard"
     },
     {
       "player": "CJ McCollum",
@@ -64262,14 +64262,6 @@
     },
     {
       "player": "Cade Cunningham",
-      "stat": "Pts+Asts",
-      "line": 35.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Cade Cunningham",
       "stat": "Points",
       "line": 34.5,
       "sport": "NBA",
@@ -64371,14 +64363,6 @@
       "sport": "NBA",
       "startTime": "2025-12-06T19:40:00.000-05:00",
       "oddsType": "standard"
-    },
-    {
-      "player": "Cade Cunningham",
-      "stat": "Pts+Rebs",
-      "line": 32.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Ryan Rollins",
@@ -64630,14 +64614,6 @@
     },
     {
       "player": "Kevin Porter",
-      "stat": "Pts+Asts",
-      "line": 26.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Kevin Porter",
       "stat": "Pts+Rebs",
       "line": 25.5,
       "sport": "NBA",
@@ -64667,14 +64643,6 @@
       "sport": "NBA",
       "startTime": "2025-12-06T19:40:00.000-05:00",
       "oddsType": "demon"
-    },
-    {
-      "player": "Ryan Rollins",
-      "stat": "Pts+Asts",
-      "line": 25.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Ausar Thompson",
@@ -64885,14 +64853,6 @@
       "oddsType": "demon"
     },
     {
-      "player": "Ryan Rollins",
-      "stat": "Pts+Rebs",
-      "line": 23.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Bobby Portis",
       "stat": "Pts+Rebs+Asts",
       "line": 22.5,
@@ -64907,6 +64867,14 @@
       "sport": "NBA",
       "startTime": "2025-12-06T19:40:00.000-05:00",
       "oddsType": "demon"
+    },
+    {
+      "player": "Jalen Duren",
+      "stat": "Pts+Asts",
+      "line": 21.5,
+      "sport": "NBA",
+      "startTime": "2025-12-06T19:40:00.000-05:00",
+      "oddsType": "standard"
     },
     {
       "player": "Tobias Harris",
@@ -64944,14 +64912,6 @@
       "player": "Kyle Kuzma",
       "stat": "Pts+Rebs+Asts",
       "line": 21.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "standard"
-    },
-    {
-      "player": "Jalen Duren",
-      "stat": "Pts+Asts",
-      "line": 20.5,
       "sport": "NBA",
       "startTime": "2025-12-06T19:40:00.000-05:00",
       "oddsType": "standard"
@@ -65355,14 +65315,6 @@
       "sport": "NBA",
       "startTime": "2025-12-06T19:40:00.000-05:00",
       "oddsType": "demon"
-    },
-    {
-      "player": "Bobby Portis",
-      "stat": "Pts+Rebs",
-      "line": 18.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Tobias Harris",
@@ -65461,22 +65413,6 @@
       "oddsType": "goblin"
     },
     {
-      "player": "Tobias Harris",
-      "stat": "Pts+Rebs",
-      "line": 17.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Myles Turner",
-      "stat": "Pts+Rebs",
-      "line": 17.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Caris LeVert",
       "stat": "Fantasy Score",
       "line": 17.5,
@@ -65549,22 +65485,6 @@
       "oddsType": "demon"
     },
     {
-      "player": "Jalen Duren",
-      "stat": "Points",
-      "line": 16.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
-      "player": "Kyle Kuzma",
-      "stat": "Pts+Rebs",
-      "line": 16.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Gary Trent",
       "stat": "Fantasy Score",
       "line": 16.5,
@@ -65627,14 +65547,6 @@
       "sport": "NBA",
       "startTime": "2025-12-06T19:40:00.000-05:00",
       "oddsType": "demon"
-    },
-    {
-      "player": "Tobias Harris",
-      "stat": "Pts+Asts",
-      "line": 15.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Cade Cunningham",
@@ -66165,14 +66077,6 @@
       "oddsType": "demon"
     },
     {
-      "player": "Jalen Duren",
-      "stat": "Rebs+Asts",
-      "line": 12.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
-    },
-    {
       "player": "Cade Cunningham",
       "stat": "Rebs+Asts",
       "line": 12.5,
@@ -66523,14 +66427,6 @@
       "sport": "NBA",
       "startTime": "2025-12-06T19:40:00.000-05:00",
       "oddsType": "demon"
-    },
-    {
-      "player": "Kyle Kuzma",
-      "stat": "Points",
-      "line": 10.5,
-      "sport": "NBA",
-      "startTime": "2025-12-06T19:40:00.000-05:00",
-      "oddsType": "goblin"
     },
     {
       "player": "Gary Trent",
@@ -81947,6 +81843,14 @@
       "sport": "NBA",
       "startTime": "2025-12-06T20:10:00.000-05:00",
       "oddsType": "demon"
+    },
+    {
+      "player": "Norman Powell",
+      "stat": "Pts+Rebs",
+      "line": 25.5,
+      "sport": "NBA",
+      "startTime": "2025-12-06T20:10:00.000-05:00",
+      "oddsType": "goblin"
     },
     {
       "player": "Andrew Wiggins",

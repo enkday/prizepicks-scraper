@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2025-12-06T16:17:05.172Z",
-  "scrapedDate": "Saturday, December 6, 2025 at 10:17 AM CST",
+  "scrapedAt": "2025-12-06T16:19:30.579Z",
+  "scrapedDate": "Saturday, December 6, 2025 at 10:19 AM CST",
   "source": "PrizePicks API",
   "sport": "NCAAF",
-  "totalProps": 100,
+  "totalProps": 202,
   "props": [
     {
       "player": "Broc Lowry",
@@ -336,7 +336,7 @@
     {
       "player": "Parker Kingston",
       "stat": "Receiving Yards",
-      "line": 52.5,
+      "line": 53.5,
       "sport": "NCAAF",
       "startTime": "2025-12-06T12:00:00.000-05:00",
       "oddsType": "standard"
@@ -804,7 +804,823 @@
       "sport": "NCAAF",
       "startTime": "2025-12-06T16:00:00.000-05:00",
       "oddsType": "standard"
+    },
+    {
+      "player": "Gunner Stockton",
+      "stat": "Pass Attempts",
+      "line": 28.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Germie Bernard",
+      "stat": "Longest Reception",
+      "line": 24.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Ryan Williams",
+      "stat": "Longest Reception",
+      "line": 22.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Zachariah Branch",
+      "stat": "Longest Reception",
+      "line": 19.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Gunner Stockton",
+      "stat": "Pass Completions",
+      "line": 19.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Gunner Stockton",
+      "stat": "Fantasy Score",
+      "line": 19.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Dillon Bell",
+      "stat": "Receiving Yards",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Ty Simpson",
+      "stat": "Fantasy Score",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Lotzeir Brooks",
+      "stat": "Longest Reception",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Oscar Delp",
+      "stat": "Receiving Yards",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Noah Thomas",
+      "stat": "Longest Reception",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Isaiah Horton",
+      "stat": "Longest Reception",
+      "line": 16.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Nate Frazier",
+      "stat": "Longest Rush",
+      "line": 15.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Gunner Stockton",
+      "stat": "Longest Rush",
+      "line": 13.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Oscar Delp",
+      "stat": "Longest Reception",
+      "line": 13.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Ty Simpson",
+      "stat": "Longest Rush",
+      "line": 12.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Dillon Bell",
+      "stat": "Longest Reception",
+      "line": 12.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Chauncey Bowens",
+      "stat": "Longest Rush",
+      "line": 12.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Ty Simpson",
+      "stat": "Rush Yards",
+      "line": 11.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Daniel Hill",
+      "stat": "Longest Reception",
+      "line": 10.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Peyton Woodring",
+      "stat": "Kicking Points",
+      "line": 6.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Lotzeir Brooks",
+      "stat": "Receptions",
+      "line": 2.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Ty Simpson",
+      "stat": "Pass TDs",
+      "line": 1.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Ty Simpson",
+      "stat": "INT",
+      "line": 0.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Gunner Stockton",
+      "stat": "INT",
+      "line": 0.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T16:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Julian Sayin",
+      "stat": "Pass+Rush Yds",
+      "line": 239.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Julian Sayin",
+      "stat": "Pass Yards",
+      "line": 235.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "Pass+Rush Yds",
+      "line": 231.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "Pass Yards",
+      "line": 212.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Bo Jackson",
+      "stat": "Rush+Rec Yds",
+      "line": 88.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Jeremiah Smith",
+      "stat": "Receiving Yards",
+      "line": 74.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Bo Jackson",
+      "stat": "Rush Yards",
+      "line": 71.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Carnell Tate",
+      "stat": "Receiving Yards",
+      "line": 66.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Roman Hemby",
+      "stat": "Rush+Rec Yds",
+      "line": 63.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Roman Hemby",
+      "stat": "Rush Yards",
+      "line": 57.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Elijah Sarratt",
+      "stat": "Receiving Yards",
+      "line": 56.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Omar Cooper",
+      "stat": "Receiving Yards",
+      "line": 53.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Julian Sayin",
+      "stat": "Longest Completion",
+      "line": 41.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "Longest Completion",
+      "line": 40.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Max Klare",
+      "stat": "Receiving Yards",
+      "line": 29.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Carnell Tate",
+      "stat": "Longest Reception",
+      "line": 27.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "Pass Attempts",
+      "line": 27.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Jeremiah Smith",
+      "stat": "Longest Reception",
+      "line": 26.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Elijah Sarratt",
+      "stat": "Longest Reception",
+      "line": 24.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Omar Cooper",
+      "stat": "Longest Reception",
+      "line": 22.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "CJ Donaldson",
+      "stat": "Rush Yards",
+      "line": 22.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "Rush Yards",
+      "line": 19.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Brandon Inniss",
+      "stat": "Receiving Yards",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Brandon Inniss",
+      "stat": "Receiving Yards",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Bo Jackson",
+      "stat": "Longest Rush",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Julian Sayin",
+      "stat": "Fantasy Score",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "Pass Completions",
+      "line": 16.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "Fantasy Score",
+      "line": 16.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Max Klare",
+      "stat": "Longest Reception",
+      "line": 14.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "Longest Rush",
+      "line": 12.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Bo Jackson",
+      "stat": "Receiving Yards",
+      "line": 11.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Brandon Inniss",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "CJ Donaldson",
+      "stat": "Longest Rush",
+      "line": 9.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Bo Jackson",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Jayden Fielding",
+      "stat": "Kicking Points",
+      "line": 6.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Nico Radicic",
+      "stat": "Kicking Points",
+      "line": 6.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Julian Sayin",
+      "stat": "Longest Rush",
+      "line": 6.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Roman Hemby",
+      "stat": "Longest Reception",
+      "line": 3.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Bo Jackson",
+      "stat": "Receptions",
+      "line": 1.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Bo Jackson",
+      "stat": "Rush+Rec TDs",
+      "line": 0.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Carnell Tate",
+      "stat": "Rush+Rec TDs",
+      "line": 0.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "INT",
+      "line": 0.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Chandler Morris",
+      "stat": "Pass+Rush Yds",
+      "line": 274.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Darian Mensah",
+      "stat": "Pass Yards",
+      "line": 259.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Chandler Morris",
+      "stat": "Pass Yards",
+      "line": 251.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "J'Mari Taylor",
+      "stat": "Rush+Rec Yds",
+      "line": 123.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Nate Sheppard",
+      "stat": "Rush+Rec Yds",
+      "line": 103.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "J'Mari Taylor",
+      "stat": "Rush Yards",
+      "line": 89.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Trell Harris",
+      "stat": "Receiving Yards",
+      "line": 75.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Nate Sheppard",
+      "stat": "Rush Yards",
+      "line": 70.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Cooper Barkate",
+      "stat": "Receiving Yards",
+      "line": 67.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Que'Sean Brown",
+      "stat": "Receiving Yards",
+      "line": 47.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Chandler Morris",
+      "stat": "Longest Completion",
+      "line": 41.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Darian Mensah",
+      "stat": "Longest Completion",
+      "line": 41.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Jahmal Edrine",
+      "stat": "Receiving Yards",
+      "line": 33.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Jeremiah Hasley",
+      "stat": "Receiving Yards",
+      "line": 33.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Trell Harris",
+      "stat": "Longest Reception",
+      "line": 28.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Cooper Barkate",
+      "stat": "Longest Reception",
+      "line": 26.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "J'Mari Taylor",
+      "stat": "Receiving Yards",
+      "line": 24.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Que'Sean Brown",
+      "stat": "Longest Reception",
+      "line": 21.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "J'Mari Taylor",
+      "stat": "Longest Rush",
+      "line": 20.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Darian Mensah",
+      "stat": "Fantasy Score",
+      "line": 19.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Jeremiah Hasley",
+      "stat": "Longest Reception",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Chandler Morris",
+      "stat": "Fantasy Score",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Nate Sheppard",
+      "stat": "Receiving Yards",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Jahmal Edrine",
+      "stat": "Longest Reception",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Nate Sheppard",
+      "stat": "Longest Rush",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Sahmir Hagans",
+      "stat": "Longest Reception",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Cam Ross",
+      "stat": "Longest Reception",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Sage Ennis",
+      "stat": "Longest Reception",
+      "line": 15.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "J'Mari Taylor",
+      "stat": "Longest Reception",
+      "line": 12.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Nate Sheppard",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Will Bettridge",
+      "stat": "Kicking Points",
+      "line": 7.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Todd Pelino",
+      "stat": "Kicking Points",
+      "line": 6.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Cooper Barkate",
+      "stat": "Receptions",
+      "line": 4.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Que'Sean Brown",
+      "stat": "Receptions",
+      "line": 3.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
+    },
+    {
+      "player": "Nate Sheppard",
+      "stat": "Rush+Rec TDs",
+      "line": 0.5,
+      "sport": "NCAAF",
+      "startTime": "2025-12-06T20:00:00.000-05:00",
+      "oddsType": "standard"
     }
   ],
-  "note": "Top 100 standard lines (excludes goblin/demon variants) for upcoming games"
+  "note": "Standard lines only (excludes goblin/demon variants) for upcoming games"
 }
