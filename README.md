@@ -50,14 +50,6 @@ Once the scraper runs, access your data at:
 https://raw.githubusercontent.com/ENKDAY/prizepicks-scraper/main/data/prizepicks.json
 ```
 
-## 🔍 SerpApi Google Events
-
-- New OpenAPI path `/search.json` (server override to `https://serpapi.com`) connects directly to SerpApi's `google_events` engine.
-- Requires a SerpApi API key passed as `api_key` in the query string; other helpful params: `q` (required), `location`, `hl`, `gl`, `start` for pagination.
-- Example request: `https://serpapi.com/search.json?engine=google_events&q=concerts%20in%20Austin&location=Austin%2C%20TX&api_key=YOUR_KEY`.
-- The action is already defined in `openapi.json` with schema and response typing (`GoogleEventsResponse` / `GoogleEvent`).
-- If you want a standalone proxy with the key held server-side, see `serpapi-google-events-proxy/` for a separate Node/Express setup you can push to its own repo.
-
 ## 🤖 Custom GPT Setup
 
 ### Step 1: Create Your Custom GPT
