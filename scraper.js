@@ -320,6 +320,16 @@ function parseProjection(projection, includedData, leagueName) {
     // Parse stat type - remove "(Combo)" suffix if present
     let statType = attrs.stat_type || attrs.stat_display_name || 'Unknown';
     statType = statType.replace(/\s*\(Combo\)\s*/gi, '').trim();
+    // Drop fantasy score and combo/combined stat types to keep payload smaller
+    const statLower = statType.toLowerCase();
+    if (
+      statLower.includes('fantasy score') ||
+      statLower.includes('combo') ||
+      statType.includes('+') ||
+      attrs.event_type === 'combo'
+    ) {
+      return null;
+    }
     // Only include active props
     if (attrs.status === 'pre_game' || attrs.status === 'live') {
       return {
