@@ -278,6 +278,99 @@
           }
         }
       }
+    },
+    "/search.json": {
+      "get": {
+        "summary": "Search Google Events via SerpApi",
+        "description": "Proxies to SerpApi's `google_events` engine to fetch local event listings from Google. Requires a SerpApi API key.",
+        "operationId": "getGoogleEvents",
+        "servers": [
+          {
+            "url": "https://serpapi.com"
+          }
+        ],
+        "parameters": [
+          {
+            "name": "engine",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "google_events"
+              ],
+              "default": "google_events"
+            },
+            "description": "SerpApi engine; must be `google_events`."
+          },
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Search query such as a city, venue, or performer (e.g., `concerts in Austin`)."
+          },
+          {
+            "name": "location",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Location bias (city/state/country or lat,lng) to anchor results."
+          },
+          {
+            "name": "hl",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "UI language code (e.g., `en`)."
+          },
+          {
+            "name": "gl",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Geolocation country code (e.g., `us`)."
+          },
+          {
+            "name": "start",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "description": "Pagination offset for results."
+          }
+        ],
+        "security": [
+          {
+            "SerpApiKey": []
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response with Google Events results from SerpApi",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GoogleEventsResponse"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized – missing or invalid SerpApi API key"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -363,6 +456,112 @@
             "description": "PrizePicks-provided rank/order within the board"
           }
         }
+      },
+      "GoogleEventsResponse": {
+        "type": "object",
+        "properties": {
+          "search_metadata": {
+            "type": "object",
+            "description": "Metadata from SerpApi about the request (id, status, etc.)."
+          },
+          "events_results": {
+            "type": "array",
+            "description": "List of events returned by SerpApi.",
+            "items": {
+              "$ref": "#/components/schemas/GoogleEvent"
+            }
+          }
+        }
+      },
+      "GoogleEvent": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Event title."
+          },
+          "date": {
+            "type": "object",
+            "description": "Date information supplied by Google Events.",
+            "properties": {
+              "start_date": {
+                "type": "string",
+                "description": "Start date (YYYY-MM-DD)."
+              },
+              "when": {
+                "type": "string",
+                "description": "Human-readable date/time string."
+              }
+            }
+          },
+          "address": {
+            "type": "string",
+            "description": "Venue address string."
+          },
+          "description": {
+            "type": "string",
+            "description": "Short description or snippet."
+          },
+          "link": {
+            "type": "string",
+            "description": "Link to the Google event card.",
+            "format": "uri"
+          },
+          "thumbnail": {
+            "type": "string",
+            "description": "Thumbnail image URL if available.",
+            "format": "uri"
+          },
+          "venue": {
+            "type": "object",
+            "description": "Venue details when available.",
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Venue name."
+              },
+              "link": {
+                "type": "string",
+                "description": "Venue URL if provided.",
+                "format": "uri"
+              },
+              "address": {
+                "type": "string",
+                "description": "Venue address."
+              }
+            }
+          },
+          "ticket_info": {
+            "type": "array",
+            "description": "Ticket sources and pricing when provided.",
+            "items": {
+              "type": "object",
+              "properties": {
+                "source": {
+                  "type": "string",
+                  "description": "Ticket vendor/source."
+                },
+                "link": {
+                  "type": "string",
+                  "description": "Ticket purchase URL.",
+                  "format": "uri"
+                },
+                "price": {
+                  "type": "string",
+                  "description": "Displayed price text."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "securitySchemes": {
+      "SerpApiKey": {
+        "type": "apiKey",
+        "in": "query",
+        "name": "api_key",
+        "description": "Your SerpApi API key. Pass as `api_key` in the query string."
       }
     }
   }
