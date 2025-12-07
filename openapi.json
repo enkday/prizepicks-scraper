@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://raw.githubusercontent.com/ENKDAY/prizepicks-scraper/main"
+      "url": "https://raw.githubusercontent.com/enkday/prizepicks-scraper/main"
     }
   ],
   "paths": {

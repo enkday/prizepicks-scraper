@@ -99,7 +99,7 @@ If you create an OpenAPI spec file in your repo:
 
 1. Create `openapi.json` in your repo with the content below
 2. In Custom GPT settings → Actions → "Import from URL"
-3. Enter: `https://raw.githubusercontent.com/ENKDAY/prizepicks-scraper/main/openapi.json`
+3. Enter: `https://raw.githubusercontent.com/enkday/prizepicks-scraper/main/openapi.json`
 
 ### Manual Configuration
 
@@ -115,7 +115,7 @@ If you create an OpenAPI spec file in your repo:
   },
   "servers": [
     {
-      "url": "https://raw.githubusercontent.com/ENKDAY/prizepicks-scraper/main"
+      "url": "https://raw.githubusercontent.com/enkday/prizepicks-scraper/main"
     }
   ],
   "paths": {
