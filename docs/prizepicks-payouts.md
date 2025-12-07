@@ -1,19 +1,19 @@
 # PrizePicks Payout Reference (Power vs Flex)
 
-Source: https://www.prizepicks.com/resources/how-to-play-prizepicks (captured Dec 7, 2025). Update this file if PrizePicks changes multipliers.
+Source: https://www.prizepicks.com/resources/how-to-play-prizepicks (captured Dec 07, 2025 (UTC)). Update this file if PrizePicks changes multipliers.
 
 ## Power Play (must hit all legs)
-- 6-pick: **37.5x**
-- 5-pick: **20x**
-- 4-pick: **10x**
-- 3-pick: **6x**
-- 2-pick: **3x**
+- 6-Pick: **37.5x**
+- 5-Pick: **20x**
+- 4-Pick: **10x**
+- 3-Pick: **6x**
+- 2-Pick: **3x**
 
 ## Flex Play (partial-hit outcomes)
-- 6-pick: **25x** (6/6); **2x** (5/6); **0.4x** (4/6)
-- 5-pick: **10x** (5/5); **2x** (4/5); **0.4x** (3/5)
-- 4-pick: **6x** (4/4); **1.5x** (3/4)
-- 3-pick: **3x** (3/3); **1x** (2/3)
+- 6-Pick: **6/6 - 25x5/6 - 2x4/6 - 0.4x**
+- 5-Pick: **5/5 - 10x4/5 - 2x3/5 - 0.4x**
+- 4-Pick: **4/4 - 6x3/4 - 1.5x**
+- 3-Pick: **3/3 - 3x2/3 - 1x**
 
 ## Usage Notes
 - Power maximizes payout only when all legs hit; no partial returns.
