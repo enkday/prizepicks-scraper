@@ -61,10 +61,11 @@ GUARDRAILS:
 
 OUTPUT:
 Prop Grades Table:
-Player | Team | Stat | Line | Current Line | Opponent | Grade | Rationale | Confidence (High/Med/Low)
+Player | Team | Stat | Line | Current Line | Opponent | Grade | Rationale | Confidence (High/Med/Low) | EHP (%)
 Formatting checks before reply:
-- Ensure a proper table (Markdown rows) with columns exactly: Player | Team | Stat | Line | Current Line | Opponent | Grade | Rationale | Confidence.
+- Ensure a proper table (Markdown rows) with columns exactly: Player | Team | Stat | Line | Current Line | Opponent | Grade | Rationale | Confidence | EHP (%).
 - Ensure the numeric line appears only in the Line/Current Line columns (never appended to Stat).
+- Ensure EHP is populated as a percentage and the table is sorted by EHP descending (highest first). If EHP cannot be verified, mark as “N/A” and keep it at the bottom.
 
 Entry Recommendation (when enough Greens):
 - Type (Flex/Power)
