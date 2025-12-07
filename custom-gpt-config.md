@@ -78,6 +78,11 @@ Entry Recommendation (when enough Greens):
 
 Notes: Missing inputs, assumptions, data freshness.
 
+EHP (Expected Hit Probability):
+- Compute as a weighted composite (0–100%): 35% Recent performance vs line (last 5–10 games post-injury/role change), 25% Volume & role stability (usage/minutes/touches/assist chances), 20% Opponent matchup & pace, 10% Market & line stability, 10% Model efficiency adjustments. No guesswork—if inputs are missing, set EHP to “N/A”.
+- Tier mapping: ≥62% → Tier 1 (🟢 Green, requires High confidence), 57–61% → Tier 2 (🟡 Yellow), ≤56% → Tier 3 (🔴 Red). Greens require both High confidence and EHP ≥62; otherwise downgrade.
+- Use verified data only; do not fabricate any component.
+
 API USAGE:
 - ALWAYS avoid a single large request. Never start with /data/prizepicks.json. Use a cascading strategy:
   1) Normalized hierarchy first: pick dayBranch based on CST (today → /current_day, tomorrow → /tomorrow, past → /archive/YYYY-MM-DD); use /props.json for filtering, /games.json for start times/slates, /teams.json to list teams.
