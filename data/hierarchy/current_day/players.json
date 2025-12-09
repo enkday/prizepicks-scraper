@@ -1,8 +1,20 @@
 [
   {
-    "playerId": "los-angeles-chargers_justin-herbert_322b61ff",
-    "playerName": "Justin Herbert",
+    "playerId": "los-angeles-chargers_omarion-hampton_8a03112d",
+    "playerName": "Omarion Hampton",
     "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_keenan-allen_7fa74f9d",
+    "playerName": "Keenan Allen",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "philadelphia-eagles_devonta-smith_18e8029d",
+    "playerName": "DeVonta Smith",
+    "teamCode": "philadelphia-eagles",
     "sport": "NFL"
   },
   {
@@ -12,8 +24,14 @@
     "sport": "NFL"
   },
   {
-    "playerId": "los-angeles-chargers_keenan-allen_7fa74f9d",
-    "playerName": "Keenan Allen",
+    "playerId": "los-angeles-chargers_oronde-gadsden_6e831c64",
+    "playerName": "Oronde Gadsden",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_quentin-johnston_aa0003f7",
+    "playerName": "Quentin Johnston",
     "teamCode": "los-angeles-chargers",
     "sport": "NFL"
   },
@@ -24,9 +42,9 @@
     "sport": "NFL"
   },
   {
-    "playerId": "los-angeles-chargers_quentin-johnston_aa0003f7",
-    "playerName": "Quentin Johnston",
-    "teamCode": "los-angeles-chargers",
+    "playerId": "philadelphia-eagles_saquon-barkley_8410f4a3",
+    "playerName": "Saquon Barkley",
+    "teamCode": "philadelphia-eagles",
     "sport": "NFL"
   },
   {
@@ -36,50 +54,8 @@
     "sport": "NFL"
   },
   {
-    "playerId": "los-angeles-chargers_oronde-gadsden_6e831c64",
-    "playerName": "Oronde Gadsden",
-    "teamCode": "los-angeles-chargers",
-    "sport": "NFL"
-  },
-  {
-    "playerId": "philadelphia-eagles_jalen-hurts_e981ee26",
-    "playerName": "Jalen Hurts",
-    "teamCode": "philadelphia-eagles",
-    "sport": "NFL"
-  },
-  {
-    "playerId": "philadelphia-eagles_jake-elliott_83c46bdc",
-    "playerName": "Jake Elliott",
-    "teamCode": "philadelphia-eagles",
-    "sport": "NFL"
-  },
-  {
-    "playerId": "philadelphia-eagles_grant-calcaterra_bc67f8c2",
-    "playerName": "Grant Calcaterra",
-    "teamCode": "philadelphia-eagles",
-    "sport": "NFL"
-  },
-  {
-    "playerId": "philadelphia-eagles_devonta-smith_18e8029d",
-    "playerName": "DeVonta Smith",
-    "teamCode": "philadelphia-eagles",
-    "sport": "NFL"
-  },
-  {
     "playerId": "los-angeles-chargers_tre'-harris_6dbe4e59",
     "playerName": "Tre' Harris",
-    "teamCode": "los-angeles-chargers",
-    "sport": "NFL"
-  },
-  {
-    "playerId": "philadelphia-eagles_braden-mann_8b935e58",
-    "playerName": "Braden Mann",
-    "teamCode": "philadelphia-eagles",
-    "sport": "NFL"
-  },
-  {
-    "playerId": "los-angeles-chargers_omarion-hampton_8a03112d",
-    "playerName": "Omarion Hampton",
     "teamCode": "los-angeles-chargers",
     "sport": "NFL"
   },
@@ -90,20 +66,44 @@
     "sport": "NFL"
   },
   {
+    "playerId": "philadelphia-eagles_grant-calcaterra_bc67f8c2",
+    "playerName": "Grant Calcaterra",
+    "teamCode": "philadelphia-eagles",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_justin-herbert_322b61ff",
+    "playerName": "Justin Herbert",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "philadelphia-eagles_jake-elliott_83c46bdc",
+    "playerName": "Jake Elliott",
+    "teamCode": "philadelphia-eagles",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "philadelphia-eagles_jalen-hurts_e981ee26",
+    "playerName": "Jalen Hurts",
+    "teamCode": "philadelphia-eagles",
+    "sport": "NFL"
+  },
+  {
     "playerId": "los-angeles-chargers_ladd-mcconkey_6d85d40e",
     "playerName": "Ladd McConkey",
     "teamCode": "los-angeles-chargers",
     "sport": "NFL"
   },
   {
-    "playerId": "philadelphia-eagles_jahan-dotson_e1ba5aad",
-    "playerName": "Jahan Dotson",
+    "playerId": "philadelphia-eagles_braden-mann_8b935e58",
+    "playerName": "Braden Mann",
     "teamCode": "philadelphia-eagles",
     "sport": "NFL"
   },
   {
-    "playerId": "philadelphia-eagles_saquon-barkley_8410f4a3",
-    "playerName": "Saquon Barkley",
+    "playerId": "philadelphia-eagles_jahan-dotson_e1ba5aad",
+    "playerName": "Jahan Dotson",
     "teamCode": "philadelphia-eagles",
     "sport": "NFL"
   }
