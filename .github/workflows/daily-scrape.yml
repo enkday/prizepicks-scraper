@@ -31,7 +31,12 @@ jobs:
           node-version: '20'
 
       - name: 📦 Install Node.js dependencies
-        run: npm ci
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
 
       - name: 🏃 Run PrizePicks scraper
         run: node scraper.js
