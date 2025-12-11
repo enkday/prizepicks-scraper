@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "teamCode": "atlanta-falcons",
+    "teamName": "Atlanta Falcons",
+    "sport": "NFL"
+  },
+  {
+    "teamCode": "tampa-bay-buccaneers",
+    "teamName": "Tampa Bay Buccaneers",
+    "sport": "NFL"
+  }
+]

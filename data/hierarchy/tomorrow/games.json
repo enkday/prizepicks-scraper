@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "gameId": "113260",
+    "sport": "NFL",
+    "startTime": "12/11/25 07:15 PM CST",
+    "teams": [
+      "Atlanta Falcons",
+      "Tampa Bay Buccaneers"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  }
+]
