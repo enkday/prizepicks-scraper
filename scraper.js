@@ -98,7 +98,7 @@ async function scrapePrizePicks() {
     await fs.mkdir(dataDir, { recursive: true });
     
     const outputPath = path.join(dataDir, 'prizepicks.json');
-    await fs.writeFile(outputPath, JSON.stringify(allData, null, 2));
+    await fs.writeFile(outputPath, JSON.stringify(allData, null, 2), { mode: 0o666 });
     
     console.log(`💾 Data saved to ${outputPath}`);
     console.log(`📈 Total props scraped: ${allData.totalProps}`);
@@ -125,7 +125,7 @@ async function scrapePrizePicks() {
         totalProps: props.length,
         props: props
       };
-      await fs.writeFile(sportFile, JSON.stringify(sportData, null, 2));
+      await fs.writeFile(sportFile, JSON.stringify(sportData, null, 2), { mode: 0o666 });
       console.log(`   ✅ ${sport.toUpperCase()}: ${props.length} props → ${sportFile}`);
 
       // Create NBA/NFL day- and team-specific slices to keep payloads small for GPT
@@ -158,7 +158,7 @@ async function scrapePrizePicks() {
             totalProps: dayProps.length,
             props: dayProps
           };
-          await fs.writeFile(baseFile, JSON.stringify(payload, null, 2));
+          await fs.writeFile(baseFile, JSON.stringify(payload, null, 2), { mode: 0o666 });
           console.log(`   ✅ ${sport.toUpperCase()} (${label.toUpperCase()}): ${dayProps.length} props → ${baseFile}`);
 
           // Team-specific slices
@@ -185,7 +185,7 @@ async function scrapePrizePicks() {
               totalProps: teamProps.length,
               props: teamProps
             };
-            await fs.writeFile(teamFile, JSON.stringify(teamPayload, null, 2));
+            await fs.writeFile(teamFile, JSON.stringify(teamPayload, null, 2), { mode: 0o666 });
             console.log(`      • ${sport.toUpperCase()} ${label.toUpperCase()} ${teamName}: ${teamProps.length} props → ${teamFile}`);
           }
         };
@@ -199,6 +199,7 @@ async function scrapePrizePicks() {
     
   } catch (error) {
     console.error('❌ Scraping failed:', error.message);
+    console.error(error.stack);
     throw error;
   }
 }
