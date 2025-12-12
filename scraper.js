@@ -78,7 +78,13 @@ async function scrapePrizePicks() {
         // Log the full request details for debugging
         const fullUrl = `${url}?${new URLSearchParams(params).toString()}`;
         console.log(`   🌐 URL: ${fullUrl}`);
-        console.log(`   📋 Headers:`, JSON.stringify(headers, null, 2));
+        
+        // Log headers with cookie value masked for security
+        const headersForLogging = { ...headers };
+        if (headersForLogging['Cookie']) {
+          headersForLogging['Cookie'] = '[REDACTED]';
+        }
+        console.log(`   📋 Headers:`, JSON.stringify(headersForLogging, null, 2));
         console.log(`   🍪 Cookie included: ${cookieHeader ? 'Yes' : 'No'}`);
         
         const response = await axios.get(url, {
@@ -117,9 +123,16 @@ async function scrapePrizePicks() {
         console.log(`   ⚠️  ${leagueName} fetch failed:`, error.message);
         if (error.response) {
           console.log(`   📛 HTTP Status: ${error.response.status}`);
-          console.log(`   📛 Response Headers:`, JSON.stringify(error.response.headers, null, 2));
+          // Log response headers with any sensitive data redacted
+          const responseHeadersForLogging = { ...error.response.headers };
+          if (responseHeadersForLogging['set-cookie']) {
+            responseHeadersForLogging['set-cookie'] = '[REDACTED]';
+          }
+          console.log(`   📛 Response Headers:`, JSON.stringify(responseHeadersForLogging, null, 2));
+          // Only log error message from response data, not full data which may contain sensitive info
           if (error.response.data) {
-            console.log(`   📛 Response Data:`, JSON.stringify(error.response.data, null, 2));
+            const errorMsg = error.response.data.error || error.response.data.message || 'No error message available';
+            console.log(`   📛 Error Message:`, errorMsg);
           }
         }
       }
