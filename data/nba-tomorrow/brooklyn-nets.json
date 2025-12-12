@@ -1,0 +1,26 @@
+{
+  "scrapedAt": "2025-12-12T03:46:31.286Z",
+  "scrapedDate": "Thursday, December 11, 2025 at 09:46 PM CST",
+  "source": "PrizePicks API",
+  "sport": "NBA",
+  "day": "tomorrow",
+  "team": "Brooklyn Nets",
+  "totalProps": 1,
+  "props": [
+    {
+      "player": "Nic Claxton",
+      "stat": "Dunks",
+      "line": 2,
+      "sport": "NBA",
+      "startTime": "12/12/25 07:40 PM CST",
+      "startTimeIso": "2025-12-12T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Brooklyn Nets",
+      "teamCode": "BKN",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 2540,
+      "gameId": "117149"
+    }
+  ]
+}
