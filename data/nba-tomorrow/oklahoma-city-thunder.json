@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:12:34.475Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:12 AM UTC",
+  "scrapedAt": "2025-12-13T04:15:57.764Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:15 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -72,7 +72,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 805,
+      "rank": 806,
       "gameId": "119979"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 838,
+      "rank": 840,
       "gameId": "119979"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 850,
+      "rank": 852,
       "gameId": "119979"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 855,
+      "rank": 857,
       "gameId": "119979"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 865,
+      "rank": 867,
       "gameId": "119979"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 899,
+      "rank": 901,
       "gameId": "119979"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1040,
+      "rank": 1042,
       "gameId": "119979"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1074,
+      "rank": 1076,
       "gameId": "119979"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1081,
+      "rank": 1083,
       "gameId": "119979"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1095,
+      "rank": 1097,
       "gameId": "119979"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1098,
+      "rank": 1100,
       "gameId": "119979"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1127,
+      "rank": 1129,
       "gameId": "119979"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1128,
+      "rank": 1130,
       "gameId": "119979"
     }
   ]

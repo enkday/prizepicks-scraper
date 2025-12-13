@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:12:34.475Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:12 AM UTC",
+  "scrapedAt": "2025-12-13T04:15:57.764Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:15 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -15581,7 +15581,7 @@
     {
       "player": "RJ Harvey",
       "stat": "Receiving Yards",
-      "line": 21.5,
+      "line": 20.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -15592,7 +15592,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5051,
+      "rank": 5052,
       "gameId": "113749"
     },
     {
@@ -17836,7 +17836,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5699,
+      "rank": 5700,
       "gameId": "114160"
     },
     {
@@ -18079,7 +18079,7 @@
     },
     {
       "player": "Kenneth Gainwell",
-      "stat": "Rush Yards",
+      "stat": "Receiving Yards",
       "line": 23.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
@@ -18095,9 +18095,9 @@
       "gameId": "114160"
     },
     {
-      "player": "DK Metcalf",
-      "stat": "Longest Reception",
-      "line": 22.5,
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Yards",
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -18112,8 +18112,8 @@
       "gameId": "114160"
     },
     {
-      "player": "Kenneth Gainwell",
-      "stat": "Receiving Yards",
+      "player": "DK Metcalf",
+      "stat": "Longest Reception",
       "line": 22.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
