@@ -27,6 +27,11 @@
                 "schema": {
                   "$ref": "#/components/schemas/PrizePicksData"
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
               }
             }
           }
@@ -43,6 +48,11 @@
             "description": "Successful response with NBA prop bet data for today",
             "content": {
               "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
                 "schema": {
                   "$ref": "#/components/schemas/PrizePicksData"
                 }
@@ -65,6 +75,11 @@
                 "schema": {
                   "$ref": "#/components/schemas/PrizePicksData"
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
               }
             }
           }
@@ -81,6 +96,11 @@
             "description": "Successful response with all CFB props",
             "content": {
               "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
                 "schema": {
                   "$ref": "#/components/schemas/PrizePicksData"
                 }
@@ -105,6 +125,12 @@
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedGame" }
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                }
               }
             }
           }
@@ -120,6 +146,12 @@
             "description": "Array of teams",
             "content": {
               "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedTeam" }
+                }
+              },
+              "text/plain": {
                 "schema": {
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedTeam" }
@@ -143,6 +175,12 @@
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
+                }
               }
             }
           }
@@ -162,6 +200,12 @@
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedProp" }
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
               }
             }
           }
@@ -177,6 +221,12 @@
             "description": "Array of slates",
             "content": {
               "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedSlate" }
+                }
+              },
+              "text/plain": {
                 "schema": {
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedSlate" }
@@ -201,6 +251,12 @@
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedGame" }
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                }
               }
             }
           }
@@ -216,6 +272,12 @@
             "description": "Array of teams",
             "content": {
               "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedTeam" }
+                }
+              },
+              "text/plain": {
                 "schema": {
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedTeam" }
@@ -239,6 +301,12 @@
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
+                }
               }
             }
           }
@@ -258,6 +326,12 @@
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedProp" }
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
               }
             }
           }
@@ -273,6 +347,12 @@
             "description": "Array of slates",
             "content": {
               "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedSlate" }
+                }
+              },
+              "text/plain": {
                 "schema": {
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedSlate" }
@@ -305,6 +385,12 @@
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedGame" }
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                }
               }
             }
           }
@@ -328,6 +414,12 @@
             "description": "Array of teams",
             "content": {
               "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedTeam" }
+                }
+              },
+              "text/plain": {
                 "schema": {
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedTeam" }
@@ -359,6 +451,12 @@
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
+                }
               }
             }
           }
@@ -386,6 +484,12 @@
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedProp" }
                 }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
               }
             }
           }
@@ -409,6 +513,12 @@
             "description": "Array of slates",
             "content": {
               "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedSlate" }
+                }
+              },
+              "text/plain": {
                 "schema": {
                   "type": "array",
                   "items": { "$ref": "#/components/schemas/NormalizedSlate" }
