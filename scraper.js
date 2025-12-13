@@ -143,6 +143,7 @@ async function scrapePrizePicks() {
     
     // Split into sport-specific files
     console.log(`\n📂 Creating sport-specific files...`);
+    const SLICE_EXCLUDED_SPORTS = new Set(['soccer', 'golf']);
     const bySport = {};
     allProps.forEach(prop => {
       const sport = prop.sport.toLowerCase();
@@ -165,6 +166,84 @@ async function scrapePrizePicks() {
       };
       await fs.writeFile(sportFile, JSON.stringify(sportData, null, 2), { mode: 0o666 });
       console.log(`   ✅ ${sport.toUpperCase()}: ${props.length} props → ${sportFile}`);
+
+      // Create a next-7-days slice for ALL sports except Soccer/Golf
+      if (!SLICE_EXCLUDED_SPORTS.has(sport)) {
+        const toCstDateKey = (date) => {
+          const parts = new Intl.DateTimeFormat('en-US', {
+            timeZone: 'America/Chicago',
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit'
+          })
+            .formatToParts(date)
+            .reduce((acc, part) => {
+              acc[part.type] = part.value;
+              return acc;
+            }, {});
+          return `${parts.year}-${parts.month}-${parts.day}`;
+        };
+
+        const getCstDayKey = (offsetDays) => {
+          const cstTodayKey = toCstDateKey(new Date());
+          const [y, m, d] = cstTodayKey.split('-').map(n => parseInt(n, 10));
+          const baseUtcNoon = new Date(Date.UTC(y, m - 1, d, 18, 0, 0));
+          baseUtcNoon.setUTCDate(baseUtcNoon.getUTCDate() + offsetDays);
+          return toCstDateKey(baseUtcNoon);
+        };
+
+        const buildNextDaysSlice = async (label, days, includeTeams) => {
+          const dayKeys = new Set(Array.from({ length: days }, (_, i) => getCstDayKey(i)));
+          const rangeProps = props.filter(p => {
+            if (!p.startTimeIso) return false;
+            const startDateCST = p.startDateCST || getCstStartFields(p.startTimeIso).startDateCST;
+            return startDateCST && dayKeys.has(startDateCST);
+          });
+
+          const baseFile = path.join(dataDir, `prizepicks-${sport}-${label}.json`);
+          const payload = {
+            scrapedAt: allData.scrapedAt,
+            scrapedDate: allData.scrapedDate,
+            source: allData.source,
+            sport: sport.toUpperCase(),
+            day: label,
+            totalProps: rangeProps.length,
+            props: rangeProps
+          };
+          await fs.writeFile(baseFile, JSON.stringify(payload, null, 2), { mode: 0o666 });
+          console.log(`   ✅ ${sport.toUpperCase()} (${label.toUpperCase()}): ${rangeProps.length} props → ${baseFile}`);
+
+          if (!includeTeams) return;
+
+          const byTeam = {};
+          rangeProps.forEach(p => {
+            if (!p.Team) return;
+            if (!byTeam[p.Team]) byTeam[p.Team] = [];
+            byTeam[p.Team].push(p);
+          });
+
+          const teamDir = path.join(dataDir, `${sport}-${label}`);
+          await fs.mkdir(teamDir, { recursive: true });
+          for (const [teamName, teamProps] of Object.entries(byTeam)) {
+            const slug = slugifyTeam(teamName);
+            if (!slug) continue;
+            const teamFile = path.join(teamDir, `${slug}.json`);
+            const teamPayload = {
+              scrapedAt: allData.scrapedAt,
+              scrapedDate: allData.scrapedDate,
+              source: allData.source,
+              sport: sport.toUpperCase(),
+              day: label,
+              team: teamName,
+              totalProps: teamProps.length,
+              props: teamProps
+            };
+            await fs.writeFile(teamFile, JSON.stringify(teamPayload, null, 2), { mode: 0o666 });
+          }
+        };
+
+        await buildNextDaysSlice('next-7-days', 7, sport === 'nba' || sport === 'nfl');
+      }
 
       // Create NBA/NFL day- and team-specific slices to keep payloads small for GPT
       if (sport === 'nba' || sport === 'nfl') {
@@ -243,57 +322,9 @@ async function scrapePrizePicks() {
           }
         };
 
-        const buildNextDaysSlice = async (label, days) => {
-          const dayKeys = new Set(Array.from({ length: days }, (_, i) => getCstDayKey(i)));
-          const rangeProps = props.filter(p => {
-            if (!p.startTimeIso) return false;
-            const startDateCST = p.startDateCST || getCstStartFields(p.startTimeIso).startDateCST;
-            return startDateCST && dayKeys.has(startDateCST);
-          });
-
-          const baseFile = path.join(dataDir, `prizepicks-${sport}-${label}.json`);
-          const payload = {
-            scrapedAt: allData.scrapedAt,
-            scrapedDate: allData.scrapedDate,
-            source: allData.source,
-            sport: sport.toUpperCase(),
-            day: label,
-            totalProps: rangeProps.length,
-            props: rangeProps
-          };
-          await fs.writeFile(baseFile, JSON.stringify(payload, null, 2), { mode: 0o666 });
-          console.log(`   ✅ ${sport.toUpperCase()} (${label.toUpperCase()}): ${rangeProps.length} props → ${baseFile}`);
-
-          const byTeam = {};
-          rangeProps.forEach(p => {
-            if (!p.Team) return;
-            if (!byTeam[p.Team]) byTeam[p.Team] = [];
-            byTeam[p.Team].push(p);
-          });
-
-          const teamDir = path.join(dataDir, `${sport}-${label}`);
-          await fs.mkdir(teamDir, { recursive: true });
-          for (const [teamName, teamProps] of Object.entries(byTeam)) {
-            const slug = slugifyTeam(teamName);
-            if (!slug) continue;
-            const teamFile = path.join(teamDir, `${slug}.json`);
-            const teamPayload = {
-              scrapedAt: allData.scrapedAt,
-              scrapedDate: allData.scrapedDate,
-              source: allData.source,
-              sport: sport.toUpperCase(),
-              day: label,
-              team: teamName,
-              totalProps: teamProps.length,
-              props: teamProps
-            };
-            await fs.writeFile(teamFile, JSON.stringify(teamPayload, null, 2), { mode: 0o666 });
-          }
-        };
 
         await buildDaySlice('today', 0);
         await buildDaySlice('tomorrow', 1);
-        await buildNextDaysSlice('next-7-days', 7);
       }
     }
     
