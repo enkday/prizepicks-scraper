@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:27:33.180Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:27 PM UTC",
+  "scrapedAt": "2025-12-13T14:35:31.850Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -174,7 +174,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1170,
+      "rank": 1171,
       "gameId": "113746"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1172,
+      "rank": 1173,
       "gameId": "113746"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1200,
+      "rank": 1201,
       "gameId": "113746"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1203,
+      "rank": 1204,
       "gameId": "113746"
     },
     {
@@ -242,28 +242,11 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1207,
+      "rank": 1208,
       "gameId": "113746"
     },
     {
       "player": "Xavier Hutchinson",
-      "stat": "Receiving Yards",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1225,
-      "gameId": "113746"
-    },
-    {
-      "player": "Christian Kirk",
       "stat": "Receiving Yards",
       "line": 13.5,
       "sport": "NFL",
@@ -280,6 +263,23 @@
       "gameId": "113746"
     },
     {
+      "player": "Christian Kirk",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1227,
+      "gameId": "113746"
+    },
+    {
       "player": "Woody Marks",
       "stat": "Receiving Yards",
       "line": 10.5,
@@ -293,7 +293,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1230,
+      "rank": 1231,
       "gameId": "113746"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1231,
+      "rank": 1232,
       "gameId": "113746"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1235,
+      "rank": 1236,
       "gameId": "113746"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1236,
+      "rank": 1237,
       "gameId": "113746"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1250,
+      "rank": 1251,
       "gameId": "113746"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1251,
+      "rank": 1252,
       "gameId": "113746"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1255,
+      "rank": 1256,
       "gameId": "113746"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1259,
+      "rank": 1260,
       "gameId": "113746"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1262,
+      "rank": 1263,
       "gameId": "113746"
     },
     {
@@ -446,28 +446,11 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1268,
+      "rank": 1269,
       "gameId": "113746"
     },
     {
       "player": "Dalton Schultz",
-      "stat": "Rec Targets",
-      "line": 5.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1278,
-      "gameId": "113746"
-    },
-    {
-      "player": "Jayden Higgins",
       "stat": "Rec Targets",
       "line": 5.5,
       "sport": "NFL",
@@ -484,6 +467,23 @@
       "gameId": "113746"
     },
     {
+      "player": "Jayden Higgins",
+      "stat": "Rec Targets",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1280,
+      "gameId": "113746"
+    },
+    {
       "player": "Nico Collins",
       "stat": "Receptions",
       "line": 5,
@@ -497,7 +497,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1281,
+      "rank": 1282,
       "gameId": "113746"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1294,
+      "rank": 1295,
       "gameId": "113746"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1295,
+      "rank": 1296,
       "gameId": "113746"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1307,
+      "rank": 1308,
       "gameId": "113746"
     },
     {
@@ -565,28 +565,11 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1316,
+      "rank": 1317,
       "gameId": "113746"
     },
     {
       "player": "Christian Kirk",
-      "stat": "Rec Targets",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1321,
-      "gameId": "113746"
-    },
-    {
-      "player": "Woody Marks",
       "stat": "Rec Targets",
       "line": 2.5,
       "sport": "NFL",
@@ -604,6 +587,23 @@
     },
     {
       "player": "Woody Marks",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1323,
+      "gameId": "113746"
+    },
+    {
+      "player": "Woody Marks",
       "stat": "Receptions",
       "line": 1.5,
       "sport": "NFL",
@@ -616,7 +616,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1335,
+      "rank": 1336,
       "gameId": "113746"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1337,
+      "rank": 1338,
       "gameId": "113746"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1349,
+      "rank": 1350,
       "gameId": "113746"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1350,
+      "rank": 1351,
       "gameId": "113746"
     }
   ]

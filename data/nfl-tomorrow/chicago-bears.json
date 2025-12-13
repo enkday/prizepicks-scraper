@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:27:33.180Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:27 PM UTC",
+  "scrapedAt": "2025-12-13T14:35:31.850Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -140,7 +140,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1798,
+      "rank": 1799,
       "gameId": "113748"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1856,
+      "rank": 1857,
       "gameId": "113748"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1857,
+      "rank": 1858,
       "gameId": "113748"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1859,
+      "rank": 1860,
       "gameId": "113748"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1874,
+      "rank": 1875,
       "gameId": "113748"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1890,
+      "rank": 1891,
       "gameId": "113748"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1894,
+      "rank": 1895,
       "gameId": "113748"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1895,
+      "rank": 1896,
       "gameId": "113748"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1898,
+      "rank": 1899,
       "gameId": "113748"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1943,
+      "rank": 1944,
       "gameId": "113748"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1944,
+      "rank": 1945,
       "gameId": "113748"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1966,
+      "rank": 1967,
       "gameId": "113748"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1968,
+      "rank": 1969,
       "gameId": "113748"
     },
     {
@@ -361,28 +361,11 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1970,
-      "gameId": "113748"
-    },
-    {
-      "player": "DJ Moore",
-      "stat": "Longest Reception",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
       "rank": 1971,
       "gameId": "113748"
     },
     {
-      "player": "Colston Loveland",
+      "player": "DJ Moore",
       "stat": "Longest Reception",
       "line": 16.5,
       "sport": "NFL",
@@ -399,9 +382,9 @@
       "gameId": "113748"
     },
     {
-      "player": "D'Andre Swift",
-      "stat": "Receiving Yards",
-      "line": 13.5,
+      "player": "Colston Loveland",
+      "stat": "Longest Reception",
+      "line": 16.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -412,12 +395,12 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1995,
+      "rank": 1973,
       "gameId": "113748"
     },
     {
       "player": "D'Andre Swift",
-      "stat": "Longest Rush",
+      "stat": "Receiving Yards",
       "line": 13.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -433,7 +416,7 @@
       "gameId": "113748"
     },
     {
-      "player": "Kyle Monangai",
+      "player": "D'Andre Swift",
       "stat": "Longest Rush",
       "line": 13.5,
       "sport": "NFL",
@@ -446,13 +429,13 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1998,
+      "rank": 1997,
       "gameId": "113748"
     },
     {
-      "player": "D'Andre Swift",
-      "stat": "Rush Attempts",
-      "line": 12.5,
+      "player": "Kyle Monangai",
+      "stat": "Longest Rush",
+      "line": 13.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -467,7 +450,7 @@
       "gameId": "113748"
     },
     {
-      "player": "Kyle Monangai",
+      "player": "D'Andre Swift",
       "stat": "Rush Attempts",
       "line": 12.5,
       "sport": "NFL",
@@ -484,6 +467,23 @@
       "gameId": "113748"
     },
     {
+      "player": "Kyle Monangai",
+      "stat": "Rush Attempts",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2001,
+      "gameId": "113748"
+    },
+    {
       "player": "Olamide Zaccheaus",
       "stat": "Longest Reception",
       "line": 12.5,
@@ -497,7 +497,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2001,
+      "rank": 2002,
       "gameId": "113748"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2003,
+      "rank": 2004,
       "gameId": "113748"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2008,
+      "rank": 2009,
       "gameId": "113748"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2016,
+      "rank": 2017,
       "gameId": "113748"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2034,
+      "rank": 2035,
       "gameId": "113748"
     },
     {
@@ -582,28 +582,11 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2052,
+      "rank": 2053,
       "gameId": "113748"
     },
     {
       "player": "DJ Moore",
-      "stat": "Rec Targets",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 2062,
-      "gameId": "113748"
-    },
-    {
-      "player": "Colston Loveland",
       "stat": "Rec Targets",
       "line": 4.5,
       "sport": "NFL",
@@ -620,6 +603,23 @@
       "gameId": "113748"
     },
     {
+      "player": "Colston Loveland",
+      "stat": "Rec Targets",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2064,
+      "gameId": "113748"
+    },
+    {
       "player": "Tory Taylor",
       "stat": "Punts",
       "line": 4,
@@ -633,7 +633,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2072,
+      "rank": 2073,
       "gameId": "113748"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2076,
+      "rank": 2077,
       "gameId": "113748"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2085,
+      "rank": 2086,
       "gameId": "113748"
     },
     {
@@ -684,7 +684,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2086,
+      "rank": 2087,
       "gameId": "113748"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2089,
+      "rank": 2090,
       "gameId": "113748"
     },
     {
@@ -718,28 +718,11 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2093,
+      "rank": 2094,
       "gameId": "113748"
     },
     {
       "player": "D'Andre Swift",
-      "stat": "Rec Targets",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 2106,
-      "gameId": "113748"
-    },
-    {
-      "player": "Cole Kmet",
       "stat": "Rec Targets",
       "line": 2.5,
       "sport": "NFL",
@@ -756,6 +739,23 @@
       "gameId": "113748"
     },
     {
+      "player": "Cole Kmet",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2108,
+      "gameId": "113748"
+    },
+    {
       "player": "D'Andre Swift",
       "stat": "Receptions",
       "line": 2,
@@ -769,7 +769,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2114,
+      "rank": 2115,
       "gameId": "113748"
     },
     {
@@ -786,7 +786,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2136,
+      "rank": 2137,
       "gameId": "113748"
     },
     {
@@ -803,7 +803,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2138,
+      "rank": 2139,
       "gameId": "113748"
     },
     {
@@ -820,7 +820,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2158,
+      "rank": 2159,
       "gameId": "113748"
     },
     {
@@ -837,7 +837,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2171,
+      "rank": 2172,
       "gameId": "113748"
     },
     {
@@ -854,7 +854,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2175,
+      "rank": 2176,
       "gameId": "113748"
     }
   ]

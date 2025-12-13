@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:27:33.180Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:27 PM UTC",
+  "scrapedAt": "2025-12-13T14:35:31.850Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "POR",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 3732,
+      "rank": 3740,
       "gameId": "117156"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "POR",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 3757,
+      "rank": 3765,
       "gameId": "117156"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "POR",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 3760,
+      "rank": 3768,
       "gameId": "117156"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "POR",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 3797,
+      "rank": 3805,
       "gameId": "117156"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "POR",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 3817,
+      "rank": 3825,
       "gameId": "117156"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "POR",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 3818,
+      "rank": 3826,
       "gameId": "117156"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "POR",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 3860,
+      "rank": 3868,
       "gameId": "117156"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "POR",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 3893,
+      "rank": 3901,
       "gameId": "117156"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "POR",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 3895,
+      "rank": 3903,
       "gameId": "117156"
     }
   ]

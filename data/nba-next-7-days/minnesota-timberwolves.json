@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:27:33.180Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:27 PM UTC",
+  "scrapedAt": "2025-12-13T14:35:31.850Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "MIN",
       "Opponent": "Sacramento Kings",
       "opponentCode": "SAC",
-      "rank": 3122,
+      "rank": 3130,
       "gameId": "117155"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "MIN",
       "Opponent": "Sacramento Kings",
       "opponentCode": "SAC",
-      "rank": 3156,
+      "rank": 3164,
       "gameId": "117155"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "MIN",
       "Opponent": "Sacramento Kings",
       "opponentCode": "SAC",
-      "rank": 3206,
+      "rank": 3214,
       "gameId": "117155"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "MIN",
       "Opponent": "Sacramento Kings",
       "opponentCode": "SAC",
-      "rank": 3211,
+      "rank": 3219,
       "gameId": "117155"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "MIN",
       "Opponent": "Sacramento Kings",
       "opponentCode": "SAC",
-      "rank": 3224,
+      "rank": 3232,
       "gameId": "117155"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "MIN",
       "Opponent": "Sacramento Kings",
       "opponentCode": "SAC",
-      "rank": 3230,
+      "rank": 3238,
       "gameId": "117155"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "MIN",
       "Opponent": "Sacramento Kings",
       "opponentCode": "SAC",
-      "rank": 3297,
+      "rank": 3305,
       "gameId": "117155"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "MIN",
       "Opponent": "Sacramento Kings",
       "opponentCode": "SAC",
-      "rank": 3347,
+      "rank": 3355,
       "gameId": "117155"
     }
   ]

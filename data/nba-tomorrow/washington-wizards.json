@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:27:33.180Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:27 PM UTC",
+  "scrapedAt": "2025-12-13T14:35:31.850Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1720,
+      "rank": 1728,
       "gameId": "117151"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1751,
+      "rank": 1759,
       "gameId": "117151"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1767,
+      "rank": 1775,
       "gameId": "117151"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1773,
+      "rank": 1781,
       "gameId": "117151"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1799,
+      "rank": 1807,
       "gameId": "117151"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1816,
+      "rank": 1824,
       "gameId": "117151"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1823,
+      "rank": 1831,
       "gameId": "117151"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1835,
+      "rank": 1843,
       "gameId": "117151"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1842,
+      "rank": 1850,
       "gameId": "117151"
     }
   ]

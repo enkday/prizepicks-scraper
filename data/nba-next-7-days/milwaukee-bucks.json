@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:27:33.180Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:27 PM UTC",
+  "scrapedAt": "2025-12-13T14:35:31.850Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2176,
+      "rank": 2184,
       "gameId": "117154"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2194,
+      "rank": 2202,
       "gameId": "117154"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2204,
+      "rank": 2212,
       "gameId": "117154"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2220,
+      "rank": 2228,
       "gameId": "117154"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2261,
+      "rank": 2269,
       "gameId": "117154"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2287,
+      "rank": 2295,
       "gameId": "117154"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2290,
+      "rank": 2298,
       "gameId": "117154"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2291,
+      "rank": 2299,
       "gameId": "117154"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2317,
+      "rank": 2325,
       "gameId": "117154"
     }
   ]
