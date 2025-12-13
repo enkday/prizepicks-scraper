@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T02:35:04.620Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 AM UTC",
+  "scrapedAt": "2025-12-13T02:36:25.124Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:36 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "totalProps": 1105,
@@ -10497,7 +10497,7 @@
     {
       "player": "Matthew Stafford",
       "stat": "Pass Yards",
-      "line": 284.5,
+      "line": 281.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -10508,7 +10508,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3320,
+      "rank": 3321,
       "gameId": "113751"
     },
     {

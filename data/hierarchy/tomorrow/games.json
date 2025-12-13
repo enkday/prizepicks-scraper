@@ -1,27 +1,5 @@
 [
   {
-    "gameId": "113529",
-    "sport": "NCAAF",
-    "startTime": "12/13/25 02:00 PM CST",
-    "teams": [
-      "Navy Midshipmen",
-      "Army Black Knights"
-    ],
-    "slate": "Early",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "gameId": "119007",
-    "sport": "NCAAF",
-    "startTime": "12/13/25 07:00 PM CST",
-    "teams": [
-      "Boise State Broncos",
-      "Washington Huskies"
-    ],
-    "slate": "Late",
-    "dayBranch": "tomorrow"
-  },
-  {
     "gameId": "119503",
     "sport": "NBA",
     "startTime": "12/13/25 04:40 PM CST",
@@ -39,6 +17,28 @@
     "teams": [
       "Oklahoma City Thunder",
       "San Antonio Spurs"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "113529",
+    "sport": "NCAAF",
+    "startTime": "12/13/25 02:00 PM CST",
+    "teams": [
+      "Navy Midshipmen",
+      "Army Black Knights"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "119007",
+    "sport": "NCAAF",
+    "startTime": "12/13/25 07:00 PM CST",
+    "teams": [
+      "Boise State Broncos",
+      "Washington Huskies"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"

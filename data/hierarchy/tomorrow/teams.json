@@ -1,25 +1,5 @@
 [
   {
-    "teamCode": "navy-midshipmen",
-    "teamName": "Navy Midshipmen",
-    "sport": "NCAAF"
-  },
-  {
-    "teamCode": "army-black-knights",
-    "teamName": "Army Black Knights",
-    "sport": "NCAAF"
-  },
-  {
-    "teamCode": "boise-state-broncos",
-    "teamName": "Boise State Broncos",
-    "sport": "NCAAF"
-  },
-  {
-    "teamCode": "washington-huskies",
-    "teamName": "Washington Huskies",
-    "sport": "NCAAF"
-  },
-  {
     "teamCode": "new-york-knicks",
     "teamName": "New York Knicks",
     "sport": "NBA"
@@ -38,5 +18,25 @@
     "teamCode": "san-antonio-spurs",
     "teamName": "San Antonio Spurs",
     "sport": "NBA"
+  },
+  {
+    "teamCode": "navy-midshipmen",
+    "teamName": "Navy Midshipmen",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "army-black-knights",
+    "teamName": "Army Black Knights",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "boise-state-broncos",
+    "teamName": "Boise State Broncos",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "washington-huskies",
+    "teamName": "Washington Huskies",
+    "sport": "NCAAF"
   }
 ]

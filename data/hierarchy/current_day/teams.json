@@ -1,72 +1,12 @@
 [
   {
-    "teamCode": "philadelphia-76ers",
-    "teamName": "Philadelphia 76ers",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "indiana-pacers",
-    "teamName": "Indiana Pacers",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "detroit-pistons",
-    "teamName": "Detroit Pistons",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "atlanta-hawks",
-    "teamName": "Atlanta Hawks",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "cleveland-cavaliers",
-    "teamName": "Cleveland Cavaliers",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "washington-wizards",
-    "teamName": "Washington Wizards",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "chicago-bulls",
-    "teamName": "Chicago Bulls",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "charlotte-hornets",
-    "teamName": "Charlotte Hornets",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "utah-jazz",
-    "teamName": "Utah Jazz",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "memphis-grizzlies",
-    "teamName": "Memphis Grizzlies",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "brooklyn-nets",
-    "teamName": "Brooklyn Nets",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "dallas-mavericks",
-    "teamName": "Dallas Mavericks",
+    "teamCode": "golden-state-warriors",
+    "teamName": "Golden State Warriors",
     "sport": "NBA"
   },
   {
     "teamCode": "minnesota-timberwolves",
     "teamName": "Minnesota Timberwolves",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "golden-state-warriors",
-    "teamName": "Golden State Warriors",
     "sport": "NBA"
   }
 ]
