@@ -9,7 +9,10 @@ This document is **reference material** for grading props after a successful mir
 ## Workflow (after mirror fetch)
 1) Select smallest relevant mirror endpoint(s) per `custom-gpt-config.md`.
 2) Confirm `scrapedDate` and list the endpoint(s) used.
-3) Build a candidate set:
+3) If an endpoint is too large, walk down the hierarchy automatically:
+	- Props-by-slate too big → fetch each props-by-game in that slate.
+	- Props-index only → follow each game `path` (props-by-game) needed.
+4) Build a candidate set:
 	- Broad request: take top 10 by `rank`.
 	- Specific matchup/team: filter by `gameId` or team slug endpoints.
 4) Grade each prop using the rubric below.
