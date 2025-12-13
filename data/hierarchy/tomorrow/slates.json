@@ -7,7 +7,7 @@
       "119979",
       "119007"
     ],
-    "totalProps": 64
+    "totalProps": 66
   },
   {
     "dayBranch": "tomorrow",
@@ -15,6 +15,6 @@
     "gameIds": [
       "113529"
     ],
-    "totalProps": 6
+    "totalProps": 15
   }
 ]
