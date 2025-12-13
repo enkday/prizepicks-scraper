@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:55:33.119Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:55 AM UTC",
+  "scrapedAt": "2025-12-13T04:05:05.248Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:05 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "totalProps": 1108,
@@ -2235,7 +2235,7 @@
     {
       "player": "Mike Gesicki",
       "stat": "Receiving Yards",
-      "line": 39.5,
+      "line": 38.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -2246,7 +2246,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 659,
+      "rank": 666,
       "gameId": "113742"
     },
     {
@@ -2471,6 +2471,23 @@
       "gameId": "113742"
     },
     {
+      "player": "Isaiah Likely",
+      "stat": "Longest Reception",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 733,
+      "gameId": "113742"
+    },
+    {
       "player": "Chase Brown",
       "stat": "Receiving Yards",
       "line": 19.5,
@@ -2484,7 +2501,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 735,
+      "rank": 736,
       "gameId": "113742"
     },
     {
@@ -2501,24 +2518,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 758,
-      "gameId": "113742"
-    },
-    {
-      "player": "Isaiah Likely",
-      "stat": "Longest Reception",
-      "line": 18.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Cincinnati Bengals",
-      "opponentCode": "CIN",
-      "rank": 760,
+      "rank": 759,
       "gameId": "113742"
     },
     {
@@ -5816,7 +5816,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1755,
+      "rank": 1756,
       "gameId": "113748"
     },
     {
@@ -11855,8 +11855,8 @@
       "gameId": "113750"
     },
     {
-      "player": "Tetairoa McMillan",
-      "stat": "Receiving Yards",
+      "player": "Rico Dowdle",
+      "stat": "Rush Yards",
       "line": 57.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
@@ -11872,9 +11872,9 @@
       "gameId": "113750"
     },
     {
-      "player": "Rico Dowdle",
-      "stat": "Rush Yards",
-      "line": 56.5,
+      "player": "Tetairoa McMillan",
+      "stat": "Receiving Yards",
+      "line": 57.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -17852,7 +17852,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5700,
+      "rank": 5699,
       "gameId": "114160"
     },
     {

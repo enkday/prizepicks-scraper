@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:55:33.119Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:55 AM UTC",
+  "scrapedAt": "2025-12-13T04:05:05.248Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:05 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -263,6 +263,23 @@
       "gameId": "113742"
     },
     {
+      "player": "Isaiah Likely",
+      "stat": "Longest Reception",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 733,
+      "gameId": "113742"
+    },
+    {
       "player": "Lamar Jackson",
       "stat": "Pass Completions",
       "line": 19,
@@ -276,24 +293,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 758,
-      "gameId": "113742"
-    },
-    {
-      "player": "Isaiah Likely",
-      "stat": "Longest Reception",
-      "line": 18.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Cincinnati Bengals",
-      "opponentCode": "CIN",
-      "rank": 760,
+      "rank": 759,
       "gameId": "113742"
     },
     {

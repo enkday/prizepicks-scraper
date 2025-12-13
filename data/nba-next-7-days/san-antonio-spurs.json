@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:55:33.119Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:55 AM UTC",
+  "scrapedAt": "2025-12-13T04:05:05.248Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:05 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -157,7 +157,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 899,
+      "rank": 900,
       "gameId": "119979"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 939,
+      "rank": 940,
       "gameId": "119979"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1033,
+      "rank": 1035,
       "gameId": "119979"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1108,
+      "rank": 1110,
       "gameId": "119979"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1114,
+      "rank": 1116,
       "gameId": "119979"
     }
   ]

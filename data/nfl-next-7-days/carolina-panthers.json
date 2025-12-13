@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:55:33.119Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:55 AM UTC",
+  "scrapedAt": "2025-12-13T04:05:05.248Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:05 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -42,8 +42,8 @@
       "gameId": "113750"
     },
     {
-      "player": "Tetairoa McMillan",
-      "stat": "Receiving Yards",
+      "player": "Rico Dowdle",
+      "stat": "Rush Yards",
       "line": 57.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
@@ -59,9 +59,9 @@
       "gameId": "113750"
     },
     {
-      "player": "Rico Dowdle",
-      "stat": "Rush Yards",
-      "line": 56.5,
+      "player": "Tetairoa McMillan",
+      "stat": "Receiving Yards",
+      "line": 57.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
