@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:05:05.248Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:05 AM UTC",
+  "scrapedAt": "2025-12-13T04:10:04.192Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:10 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -514,7 +514,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3690,
+      "rank": 3689,
       "gameId": "113751"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3695,
+      "rank": 3694,
       "gameId": "113751"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3702,
+      "rank": 3701,
       "gameId": "113751"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3751,
+      "rank": 3750,
       "gameId": "113751"
     }
   ]

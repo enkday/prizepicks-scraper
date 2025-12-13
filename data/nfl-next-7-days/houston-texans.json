@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:05:05.248Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:05 AM UTC",
+  "scrapedAt": "2025-12-13T04:10:04.192Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:10 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -76,6 +76,23 @@
       "gameId": "113746"
     },
     {
+      "player": "Dalton Schultz",
+      "stat": "Receiving Yards",
+      "line": 39.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1081,
+      "gameId": "113746"
+    },
+    {
       "player": "Jayden Higgins",
       "stat": "Receiving Yards",
       "line": 38.5,
@@ -89,24 +106,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1094,
-      "gameId": "113746"
-    },
-    {
-      "player": "Dalton Schultz",
-      "stat": "Receiving Yards",
-      "line": 37.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1096,
+      "rank": 1095,
       "gameId": "113746"
     },
     {

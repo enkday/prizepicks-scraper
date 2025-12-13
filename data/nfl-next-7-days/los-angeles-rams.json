@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T04:05:05.248Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:05 AM UTC",
+  "scrapedAt": "2025-12-13T04:10:04.192Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:10 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Rams",
-  "totalProps": 39,
+  "totalProps": 38,
   "props": [
     {
       "player": "Matthew Stafford",
@@ -620,23 +620,6 @@
       "gameId": "113751"
     },
     {
-      "player": "Harrison Mevis",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 3689,
-      "gameId": "113751"
-    },
-    {
       "player": "Blake Corum",
       "stat": "Longest Reception",
       "line": 0.5,
@@ -650,7 +633,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3741,
+      "rank": 3740,
       "gameId": "113751"
     },
     {
@@ -667,7 +650,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3742,
+      "rank": 3741,
       "gameId": "113751"
     }
   ]

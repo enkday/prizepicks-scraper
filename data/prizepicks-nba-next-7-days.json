@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:05:05.248Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:05 AM UTC",
+  "scrapedAt": "2025-12-13T04:10:04.192Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:10 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -9,7 +9,7 @@
     {
       "player": "Jalen Brunson",
       "stat": "Points",
-      "line": 28.5,
+      "line": 29.5,
       "sport": "NBA",
       "startTime": "12/13/25 04:40 PM CST",
       "startTimeCST": "12/13/25 04:40 PM CST",
@@ -20,7 +20,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 74,
+      "rank": 46,
       "gameId": "119503"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:05:05.248Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:05 AM UTC",
+  "scrapedAt": "2025-12-13T04:10:04.192Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:10 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -208,7 +208,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 307,
+      "rank": 308,
       "gameId": "113743"
     },
     {
@@ -230,8 +230,8 @@
     },
     {
       "player": "Tyquan Thornton",
-      "stat": "Receiving Yards",
-      "line": 13.5,
+      "stat": "Longest Reception",
+      "line": 12.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -242,12 +242,12 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 340,
+      "rank": 341,
       "gameId": "113743"
     },
     {
       "player": "Tyquan Thornton",
-      "stat": "Longest Reception",
+      "stat": "Receiving Yards",
       "line": 12.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -331,23 +331,6 @@
       "gameId": "113743"
     },
     {
-      "player": "Noah Gray",
-      "stat": "Longest Reception",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 351,
-      "gameId": "113743"
-    },
-    {
       "player": "JuJu Smith-Schuster",
       "stat": "Longest Reception",
       "line": 10.5,
@@ -361,7 +344,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 354,
+      "rank": 353,
       "gameId": "113743"
     },
     {
@@ -378,12 +361,29 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 355,
+      "rank": 354,
       "gameId": "113743"
     },
     {
       "player": "Noah Gray",
       "stat": "Receiving Yards",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 359,
+      "gameId": "113743"
+    },
+    {
+      "player": "Noah Gray",
+      "stat": "Longest Reception",
       "line": 9.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
