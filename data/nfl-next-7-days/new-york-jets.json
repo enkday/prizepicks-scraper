@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:35:31.850Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
+  "scrapedAt": "2025-12-13T14:47:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:47 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3068,
+      "rank": 3065,
       "gameId": "113744"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3107,
+      "rank": 3104,
       "gameId": "113744"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3108,
+      "rank": 3105,
       "gameId": "113744"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3132,
+      "rank": 3129,
       "gameId": "113744"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3133,
+      "rank": 3130,
       "gameId": "113744"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3139,
+      "rank": 3136,
       "gameId": "113744"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3159,
+      "rank": 3156,
       "gameId": "113744"
     },
     {
       "player": "Jeremy Ruckert",
       "stat": "Receiving Yards",
-      "line": 20.5,
+      "line": 22.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3177,
+      "rank": 3171,
       "gameId": "113744"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3202,
+      "rank": 3199,
       "gameId": "113744"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3205,
+      "rank": 3202,
       "gameId": "113744"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3206,
+      "rank": 3203,
       "gameId": "113744"
     },
     {
@@ -208,7 +208,24 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3212,
+      "rank": 3209,
+      "gameId": "113744"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Receiving Yards",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 3222,
       "gameId": "113744"
     },
     {
@@ -225,24 +242,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3231,
-      "gameId": "113744"
-    },
-    {
-      "player": "Breece Hall",
-      "stat": "Receiving Yards",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3232,
+      "rank": 3229,
       "gameId": "113744"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3237,
+      "rank": 3234,
       "gameId": "113744"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3238,
+      "rank": 3235,
       "gameId": "113744"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3245,
+      "rank": 3242,
       "gameId": "113744"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3254,
+      "rank": 3250,
       "gameId": "113744"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3255,
+      "rank": 3251,
       "gameId": "113744"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3256,
+      "rank": 3252,
       "gameId": "113744"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3258,
+      "rank": 3254,
       "gameId": "113744"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3266,
+      "rank": 3262,
       "gameId": "113744"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3267,
+      "rank": 3263,
       "gameId": "113744"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3268,
+      "rank": 3264,
       "gameId": "113744"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3276,
+      "rank": 3272,
       "gameId": "113744"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3293,
+      "rank": 3289,
       "gameId": "113744"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3295,
+      "rank": 3291,
       "gameId": "113744"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3305,
+      "rank": 3301,
       "gameId": "113744"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3328,
+      "rank": 3324,
       "gameId": "113744"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3340,
+      "rank": 3336,
       "gameId": "113744"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3366,
+      "rank": 3362,
       "gameId": "113744"
     }
   ]

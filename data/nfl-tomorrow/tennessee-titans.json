@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:35:31.850Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
+  "scrapedAt": "2025-12-13T14:47:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:47 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4276,
+      "rank": 4272,
       "gameId": "113753"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4304,
+      "rank": 4300,
       "gameId": "113753"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4332,
+      "rank": 4328,
       "gameId": "113753"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4359,
+      "rank": 4355,
       "gameId": "113753"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4360,
+      "rank": 4356,
       "gameId": "113753"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4361,
+      "rank": 4357,
       "gameId": "113753"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4362,
+      "rank": 4358,
       "gameId": "113753"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4386,
+      "rank": 4383,
       "gameId": "113753"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4387,
+      "rank": 4384,
       "gameId": "113753"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4408,
+      "rank": 4404,
       "gameId": "113753"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4409,
+      "rank": 4405,
       "gameId": "113753"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4411,
+      "rank": 4407,
       "gameId": "113753"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4435,
+      "rank": 4431,
       "gameId": "113753"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4441,
+      "rank": 4437,
       "gameId": "113753"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4442,
+      "rank": 4438,
       "gameId": "113753"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4444,
+      "rank": 4440,
       "gameId": "113753"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4464,
+      "rank": 4460,
       "gameId": "113753"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4465,
+      "rank": 4461,
       "gameId": "113753"
     },
     {
@@ -327,24 +327,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4466,
-      "gameId": "113753"
-    },
-    {
-      "player": "Tyjae Spears",
-      "stat": "Longest Reception",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 4467,
+      "rank": 4462,
       "gameId": "113753"
     },
     {
@@ -361,7 +344,24 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4468,
+      "rank": 4463,
+      "gameId": "113753"
+    },
+    {
+      "player": "Tyjae Spears",
+      "stat": "Longest Reception",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4464,
       "gameId": "113753"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4490,
+      "rank": 4486,
       "gameId": "113753"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4491,
+      "rank": 4487,
       "gameId": "113753"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4493,
+      "rank": 4489,
       "gameId": "113753"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4503,
+      "rank": 4499,
       "gameId": "113753"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4511,
+      "rank": 4507,
       "gameId": "113753"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4512,
+      "rank": 4508,
       "gameId": "113753"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4520,
+      "rank": 4516,
       "gameId": "113753"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4522,
+      "rank": 4518,
       "gameId": "113753"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4525,
+      "rank": 4521,
       "gameId": "113753"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4540,
+      "rank": 4536,
       "gameId": "113753"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4541,
+      "rank": 4537,
       "gameId": "113753"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4561,
+      "rank": 4557,
       "gameId": "113753"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4562,
+      "rank": 4558,
       "gameId": "113753"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4575,
+      "rank": 4571,
       "gameId": "113753"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4585,
+      "rank": 4581,
       "gameId": "113753"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4594,
+      "rank": 4590,
       "gameId": "113753"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4602,
+      "rank": 4598,
       "gameId": "113753"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4603,
+      "rank": 4599,
       "gameId": "113753"
     }
   ]

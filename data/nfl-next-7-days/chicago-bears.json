@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:35:31.850Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
+  "scrapedAt": "2025-12-13T14:47:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:47 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -140,7 +140,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1799,
+      "rank": 1795,
       "gameId": "113748"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1857,
+      "rank": 1854,
       "gameId": "113748"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1858,
+      "rank": 1855,
       "gameId": "113748"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1860,
+      "rank": 1857,
       "gameId": "113748"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1875,
+      "rank": 1872,
       "gameId": "113748"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1891,
+      "rank": 1888,
       "gameId": "113748"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1895,
+      "rank": 1892,
       "gameId": "113748"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1896,
+      "rank": 1893,
       "gameId": "113748"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1899,
+      "rank": 1896,
       "gameId": "113748"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1944,
+      "rank": 1941,
       "gameId": "113748"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1945,
+      "rank": 1942,
       "gameId": "113748"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1967,
+      "rank": 1964,
       "gameId": "113748"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1969,
+      "rank": 1966,
       "gameId": "113748"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1971,
+      "rank": 1968,
       "gameId": "113748"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1972,
+      "rank": 1969,
       "gameId": "113748"
     },
     {
@@ -395,12 +395,46 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1973,
+      "rank": 1970,
       "gameId": "113748"
     },
     {
       "player": "D'Andre Swift",
       "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 1993,
+      "gameId": "113748"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Longest Rush",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 1994,
+      "gameId": "113748"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Longest Rush",
       "line": 13.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -417,8 +451,8 @@
     },
     {
       "player": "D'Andre Swift",
-      "stat": "Longest Rush",
-      "line": 13.5,
+      "stat": "Rush Attempts",
+      "line": 12.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -434,23 +468,6 @@
     },
     {
       "player": "Kyle Monangai",
-      "stat": "Longest Rush",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 1999,
-      "gameId": "113748"
-    },
-    {
-      "player": "D'Andre Swift",
       "stat": "Rush Attempts",
       "line": 12.5,
       "sport": "NFL",
@@ -463,24 +480,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2000,
-      "gameId": "113748"
-    },
-    {
-      "player": "Kyle Monangai",
-      "stat": "Rush Attempts",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 2001,
+      "rank": 1998,
       "gameId": "113748"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2002,
+      "rank": 1999,
       "gameId": "113748"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2004,
+      "rank": 2001,
       "gameId": "113748"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2009,
+      "rank": 2006,
       "gameId": "113748"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2017,
+      "rank": 2014,
       "gameId": "113748"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2035,
+      "rank": 2032,
       "gameId": "113748"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2053,
+      "rank": 2050,
       "gameId": "113748"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2063,
+      "rank": 2060,
       "gameId": "113748"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2064,
+      "rank": 2061,
       "gameId": "113748"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2073,
+      "rank": 2070,
       "gameId": "113748"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2077,
+      "rank": 2074,
       "gameId": "113748"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2086,
+      "rank": 2083,
       "gameId": "113748"
     },
     {
@@ -684,7 +684,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2087,
+      "rank": 2084,
       "gameId": "113748"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2090,
+      "rank": 2087,
       "gameId": "113748"
     },
     {
@@ -718,7 +718,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2094,
+      "rank": 2091,
       "gameId": "113748"
     },
     {
@@ -735,7 +735,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2107,
+      "rank": 2104,
       "gameId": "113748"
     },
     {
@@ -752,7 +752,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2108,
+      "rank": 2105,
       "gameId": "113748"
     },
     {
@@ -769,7 +769,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2115,
+      "rank": 2112,
       "gameId": "113748"
     },
     {
@@ -786,7 +786,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2137,
+      "rank": 2134,
       "gameId": "113748"
     },
     {
@@ -803,7 +803,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2139,
+      "rank": 2136,
       "gameId": "113748"
     },
     {
@@ -820,7 +820,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2159,
+      "rank": 2156,
       "gameId": "113748"
     },
     {
@@ -837,7 +837,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2172,
+      "rank": 2169,
       "gameId": "113748"
     },
     {
@@ -854,7 +854,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2176,
+      "rank": 2173,
       "gameId": "113748"
     }
   ]

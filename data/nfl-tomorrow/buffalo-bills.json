@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:35:31.850Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
+  "scrapedAt": "2025-12-13T14:47:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:47 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -123,7 +123,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2584,
+      "rank": 2580,
       "gameId": "113745"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2606,
+      "rank": 2602,
       "gameId": "113745"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2625,
+      "rank": 2621,
       "gameId": "113745"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2660,
+      "rank": 2656,
       "gameId": "113745"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2662,
+      "rank": 2658,
       "gameId": "113745"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2684,
+      "rank": 2680,
       "gameId": "113745"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2685,
+      "rank": 2681,
       "gameId": "113745"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2692,
+      "rank": 2688,
       "gameId": "113745"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2754,
+      "rank": 2751,
       "gameId": "113745"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2755,
+      "rank": 2752,
       "gameId": "113745"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2756,
+      "rank": 2753,
       "gameId": "113745"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2789,
+      "rank": 2786,
       "gameId": "113745"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2791,
+      "rank": 2788,
       "gameId": "113745"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2792,
+      "rank": 2789,
       "gameId": "113745"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2793,
+      "rank": 2790,
       "gameId": "113745"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2798,
+      "rank": 2795,
       "gameId": "113745"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2800,
+      "rank": 2797,
       "gameId": "113745"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2803,
+      "rank": 2800,
       "gameId": "113745"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2825,
+      "rank": 2821,
       "gameId": "113745"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2826,
+      "rank": 2822,
       "gameId": "113745"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2831,
+      "rank": 2828,
       "gameId": "113745"
     },
     {
@@ -480,11 +480,28 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2832,
+      "rank": 2829,
       "gameId": "113745"
     },
     {
       "player": "James Cook",
+      "stat": "Longest Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 2840,
+      "gameId": "113745"
+    },
+    {
+      "player": "Ty Johnson",
       "stat": "Longest Reception",
       "line": 9.5,
       "sport": "NFL",
@@ -501,23 +518,6 @@
       "gameId": "113745"
     },
     {
-      "player": "Ty Johnson",
-      "stat": "Longest Reception",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "New England Patriots",
-      "opponentCode": "NE",
-      "rank": 2846,
-      "gameId": "113745"
-    },
-    {
       "player": "Matt Prater",
       "stat": "Kicking Points",
       "line": 7,
@@ -531,7 +531,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2873,
+      "rank": 2870,
       "gameId": "113745"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2874,
+      "rank": 2871,
       "gameId": "113745"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2881,
+      "rank": 2878,
       "gameId": "113745"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2883,
+      "rank": 2880,
       "gameId": "113745"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2896,
+      "rank": 2893,
       "gameId": "113745"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2908,
+      "rank": 2905,
       "gameId": "113745"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2914,
+      "rank": 2911,
       "gameId": "113745"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2917,
+      "rank": 2914,
       "gameId": "113745"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2930,
+      "rank": 2927,
       "gameId": "113745"
     },
     {
@@ -684,7 +684,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2943,
+      "rank": 2940,
       "gameId": "113745"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2945,
+      "rank": 2942,
       "gameId": "113745"
     },
     {
@@ -718,7 +718,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2962,
+      "rank": 2959,
       "gameId": "113745"
     },
     {
@@ -735,7 +735,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2966,
+      "rank": 2963,
       "gameId": "113745"
     },
     {
@@ -752,7 +752,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2967,
+      "rank": 2964,
       "gameId": "113745"
     },
     {
@@ -769,7 +769,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2968,
+      "rank": 2965,
       "gameId": "113745"
     },
     {
@@ -786,7 +786,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2969,
+      "rank": 2966,
       "gameId": "113745"
     },
     {
@@ -803,7 +803,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2976,
+      "rank": 2973,
       "gameId": "113745"
     },
     {
@@ -820,7 +820,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2995,
+      "rank": 2992,
       "gameId": "113745"
     },
     {
@@ -837,7 +837,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2996,
+      "rank": 2993,
       "gameId": "113745"
     },
     {
@@ -854,7 +854,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3009,
+      "rank": 3006,
       "gameId": "113745"
     }
   ]

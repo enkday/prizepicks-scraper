@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:35:31.850Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
+  "scrapedAt": "2025-12-13T14:47:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:47 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -72,7 +72,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 578,
+      "rank": 576,
       "gameId": "113742"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 608,
+      "rank": 606,
       "gameId": "113742"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 622,
+      "rank": 620,
       "gameId": "113742"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 623,
+      "rank": 621,
       "gameId": "113742"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 666,
+      "rank": 664,
       "gameId": "113742"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 676,
+      "rank": 675,
       "gameId": "113742"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 680,
+      "rank": 678,
       "gameId": "113742"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 685,
+      "rank": 683,
       "gameId": "113742"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 688,
+      "rank": 686,
       "gameId": "113742"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 720,
+      "rank": 718,
       "gameId": "113742"
     },
     {
@@ -242,7 +242,24 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 743,
+      "rank": 741,
+      "gameId": "113742"
+    },
+    {
+      "player": "Rashod Bateman",
+      "stat": "Receiving Yards",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 751,
       "gameId": "113742"
     },
     {
@@ -259,7 +276,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 770,
+      "rank": 769,
       "gameId": "113742"
     },
     {
@@ -276,24 +293,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 772,
-      "gameId": "113742"
-    },
-    {
-      "player": "DeAndre Hopkins",
-      "stat": "Receiving Yards",
-      "line": 18.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Cincinnati Bengals",
-      "opponentCode": "CIN",
-      "rank": 773,
+      "rank": 771,
       "gameId": "113742"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 774,
+      "rank": 772,
       "gameId": "113742"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 776,
+      "rank": 774,
       "gameId": "113742"
     },
     {
@@ -344,11 +344,11 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 777,
+      "rank": 775,
       "gameId": "113742"
     },
     {
-      "player": "Rashod Bateman",
+      "player": "DeAndre Hopkins",
       "stat": "Receiving Yards",
       "line": 16.5,
       "sport": "NFL",
@@ -361,7 +361,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 778,
+      "rank": 776,
       "gameId": "113742"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 807,
+      "rank": 805,
       "gameId": "113742"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 809,
+      "rank": 807,
       "gameId": "113742"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 810,
+      "rank": 808,
       "gameId": "113742"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 825,
+      "rank": 823,
       "gameId": "113742"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 848,
+      "rank": 846,
       "gameId": "113742"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 849,
+      "rank": 847,
       "gameId": "113742"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 852,
+      "rank": 850,
       "gameId": "113742"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 855,
+      "rank": 853,
       "gameId": "113742"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 859,
+      "rank": 857,
       "gameId": "113742"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 872,
+      "rank": 870,
       "gameId": "113742"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 873,
+      "rank": 871,
       "gameId": "113742"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 875,
+      "rank": 873,
       "gameId": "113742"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 876,
+      "rank": 874,
       "gameId": "113742"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 886,
+      "rank": 884,
       "gameId": "113742"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 894,
+      "rank": 892,
       "gameId": "113742"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 895,
+      "rank": 893,
       "gameId": "113742"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 900,
+      "rank": 898,
       "gameId": "113742"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 910,
+      "rank": 908,
       "gameId": "113742"
     },
     {
@@ -684,7 +684,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 925,
+      "rank": 923,
       "gameId": "113742"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 926,
+      "rank": 924,
       "gameId": "113742"
     },
     {
@@ -718,7 +718,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 927,
+      "rank": 925,
       "gameId": "113742"
     },
     {
@@ -735,7 +735,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 942,
+      "rank": 940,
       "gameId": "113742"
     },
     {
@@ -752,7 +752,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 944,
+      "rank": 942,
       "gameId": "113742"
     },
     {
@@ -769,7 +769,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 946,
+      "rank": 944,
       "gameId": "113742"
     },
     {
@@ -786,7 +786,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 947,
+      "rank": 945,
       "gameId": "113742"
     },
     {
@@ -803,7 +803,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 955,
+      "rank": 953,
       "gameId": "113742"
     },
     {
@@ -820,7 +820,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 957,
+      "rank": 955,
       "gameId": "113742"
     },
     {
@@ -837,7 +837,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 959,
+      "rank": 957,
       "gameId": "113742"
     },
     {
@@ -854,7 +854,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 961,
+      "rank": 959,
       "gameId": "113742"
     },
     {
@@ -871,7 +871,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 963,
+      "rank": 961,
       "gameId": "113742"
     },
     {
@@ -888,7 +888,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 978,
+      "rank": 976,
       "gameId": "113742"
     }
   ]

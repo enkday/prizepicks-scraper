@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:35:31.850Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
+  "scrapedAt": "2025-12-13T14:47:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:47 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,13 +21,13 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4649,
+      "rank": 4645,
       "gameId": "113752"
     },
     {
       "player": "Jaxon Smith-Njigba",
       "stat": "Receiving Yards",
-      "line": 97.5,
+      "line": 96.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4676,
+      "rank": 4672,
       "gameId": "113752"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4696,
+      "rank": 4692,
       "gameId": "113752"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4707,
+      "rank": 4703,
       "gameId": "113752"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4737,
+      "rank": 4733,
       "gameId": "113752"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4738,
+      "rank": 4734,
       "gameId": "113752"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4744,
+      "rank": 4740,
       "gameId": "113752"
     },
     {
-      "player": "Jaxon Smith-Njigba",
-      "stat": "Longest Reception",
-      "line": 29.5,
+      "player": "AJ Barner",
+      "stat": "Receiving Yards",
+      "line": 30.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4757,
+      "rank": 4742,
       "gameId": "113752"
     },
     {
@@ -157,13 +157,30 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4763,
+      "rank": 4759,
+      "gameId": "113752"
+    },
+    {
+      "player": "Jaxon Smith-Njigba",
+      "stat": "Longest Reception",
+      "line": 28.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 4760,
       "gameId": "113752"
     },
     {
       "player": "Rashid Shaheed",
       "stat": "Receiving Yards",
-      "line": 28.5,
+      "line": 26.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -174,24 +191,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4764,
-      "gameId": "113752"
-    },
-    {
-      "player": "AJ Barner",
-      "stat": "Receiving Yards",
-      "line": 28.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 4765,
+      "rank": 4763,
       "gameId": "113752"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4812,
+      "rank": 4808,
       "gameId": "113752"
     },
     {
@@ -225,13 +225,13 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4818,
+      "rank": 4814,
       "gameId": "113752"
     },
     {
       "player": "Rashid Shaheed",
       "stat": "Longest Reception",
-      "line": 15.5,
+      "line": 16.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -242,7 +242,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4822,
+      "rank": 4815,
       "gameId": "113752"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4823,
+      "rank": 4819,
       "gameId": "113752"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4826,
+      "rank": 4822,
       "gameId": "113752"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4827,
+      "rank": 4823,
       "gameId": "113752"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4840,
+      "rank": 4836,
       "gameId": "113752"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4842,
+      "rank": 4838,
       "gameId": "113752"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4845,
+      "rank": 4841,
       "gameId": "113752"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4848,
+      "rank": 4844,
       "gameId": "113752"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4861,
+      "rank": 4857,
       "gameId": "113752"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4862,
+      "rank": 4858,
       "gameId": "113752"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4876,
+      "rank": 4872,
       "gameId": "113752"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4907,
+      "rank": 4903,
       "gameId": "113752"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4915,
+      "rank": 4911,
       "gameId": "113752"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4927,
+      "rank": 4923,
       "gameId": "113752"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4931,
+      "rank": 4927,
       "gameId": "113752"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4932,
+      "rank": 4928,
       "gameId": "113752"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4953,
+      "rank": 4949,
       "gameId": "113752"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4954,
+      "rank": 4950,
       "gameId": "113752"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4955,
+      "rank": 4951,
       "gameId": "113752"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4956,
+      "rank": 4952,
       "gameId": "113752"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4975,
+      "rank": 4971,
       "gameId": "113752"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4978,
+      "rank": 4974,
       "gameId": "113752"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4994,
+      "rank": 4990,
       "gameId": "113752"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4995,
+      "rank": 4991,
       "gameId": "113752"
     }
   ]

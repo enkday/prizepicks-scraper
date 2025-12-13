@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:35:31.850Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
+  "scrapedAt": "2025-12-13T14:47:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:47 PM UTC",
   "source": "PrizePicks API",
   "sport": "NCAAF",
   "totalProps": 134,
@@ -195,7 +195,7 @@
     {
       "player": "Eli Heidenreich",
       "stat": "Receiving Yards",
-      "line": 42.5,
+      "line": 45.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 02:00 PM CST",
       "startTimeCST": "12/13/25 02:00 PM CST",
@@ -1181,7 +1181,7 @@
     {
       "player": "Marcel Reed",
       "stat": "Pass Yards",
-      "line": 224.5,
+      "line": 228.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 11:00 AM CST",
       "startTimeCST": "12/20/25 11:00 AM CST",
@@ -1198,7 +1198,7 @@
     {
       "player": "Malachi Toney",
       "stat": "Receiving Yards",
-      "line": 76.5,
+      "line": 78.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 11:00 AM CST",
       "startTimeCST": "12/20/25 11:00 AM CST",
@@ -1209,7 +1209,7 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 479,
+      "rank": 480,
       "gameId": "119011"
     },
     {
@@ -1226,7 +1226,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 488,
+      "rank": 489,
       "gameId": "119011"
     },
     {
@@ -1243,7 +1243,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 489,
+      "rank": 490,
       "gameId": "119011"
     },
     {
@@ -1260,7 +1260,7 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 498,
+      "rank": 499,
       "gameId": "119011"
     },
     {
@@ -1277,7 +1277,7 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 499,
+      "rank": 500,
       "gameId": "119011"
     },
     {
@@ -1294,7 +1294,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 503,
+      "rank": 504,
       "gameId": "119011"
     },
     {
@@ -1311,7 +1311,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 504,
+      "rank": 505,
       "gameId": "119011"
     },
     {
@@ -1328,7 +1328,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 507,
+      "rank": 508,
       "gameId": "119011"
     },
     {
@@ -1345,7 +1345,7 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 511,
+      "rank": 512,
       "gameId": "119011"
     },
     {
@@ -1362,7 +1362,7 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 519,
+      "rank": 521,
       "gameId": "119011"
     },
     {
@@ -1379,7 +1379,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 525,
+      "rank": 531,
       "gameId": "119011"
     },
     {
@@ -1396,7 +1396,7 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 533,
+      "rank": 540,
       "gameId": "119011"
     },
     {
@@ -1413,7 +1413,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 535,
+      "rank": 542,
       "gameId": "119011"
     },
     {
@@ -1430,7 +1430,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 577,
+      "rank": 584,
       "gameId": "119012"
     },
     {
@@ -1447,7 +1447,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 584,
+      "rank": 592,
       "gameId": "119012"
     },
     {
@@ -1464,7 +1464,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 590,
+      "rank": 599,
       "gameId": "119012"
     },
     {
@@ -1481,7 +1481,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 605,
+      "rank": 614,
       "gameId": "119012"
     },
     {
@@ -1498,7 +1498,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 616,
+      "rank": 625,
       "gameId": "119012"
     },
     {
@@ -1515,7 +1515,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 627,
+      "rank": 636,
       "gameId": "119012"
     },
     {
@@ -1532,7 +1532,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 628,
+      "rank": 637,
       "gameId": "119012"
     },
     {
@@ -1549,7 +1549,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 638,
+      "rank": 647,
       "gameId": "119012"
     },
     {
@@ -1566,7 +1566,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 639,
+      "rank": 648,
       "gameId": "119012"
     },
     {
@@ -1583,7 +1583,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 640,
+      "rank": 649,
       "gameId": "119012"
     },
     {
@@ -1600,7 +1600,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 642,
+      "rank": 651,
       "gameId": "119012"
     },
     {
@@ -1617,7 +1617,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 643,
+      "rank": 652,
       "gameId": "119012"
     },
     {
@@ -1634,7 +1634,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 644,
+      "rank": 653,
       "gameId": "119012"
     },
     {
@@ -1651,7 +1651,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 654,
+      "rank": 663,
       "gameId": "119012"
     },
     {
@@ -1668,7 +1668,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 655,
+      "rank": 664,
       "gameId": "119012"
     },
     {
@@ -1685,7 +1685,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 666,
+      "rank": 675,
       "gameId": "119012"
     },
     {
@@ -1702,7 +1702,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 667,
+      "rank": 676,
       "gameId": "119012"
     },
     {
@@ -1719,7 +1719,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 668,
+      "rank": 677,
       "gameId": "119012"
     },
     {
@@ -1736,7 +1736,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 669,
+      "rank": 678,
       "gameId": "119012"
     },
     {
@@ -1753,7 +1753,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 678,
+      "rank": 687,
       "gameId": "119012"
     },
     {
@@ -1770,7 +1770,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 680,
+      "rank": 689,
       "gameId": "119012"
     },
     {
@@ -1787,7 +1787,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 681,
+      "rank": 690,
       "gameId": "119012"
     },
     {
@@ -1804,7 +1804,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 682,
+      "rank": 691,
       "gameId": "119012"
     },
     {
@@ -1821,7 +1821,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 683,
+      "rank": 692,
       "gameId": "119012"
     },
     {
@@ -1838,7 +1838,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 684,
+      "rank": 693,
       "gameId": "119012"
     },
     {
@@ -1855,7 +1855,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 685,
+      "rank": 694,
       "gameId": "119012"
     },
     {
@@ -1872,7 +1872,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 686,
+      "rank": 695,
       "gameId": "119012"
     },
     {
@@ -1889,7 +1889,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 694,
+      "rank": 703,
       "gameId": "119012"
     },
     {
@@ -1906,7 +1906,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 695,
+      "rank": 704,
       "gameId": "119012"
     },
     {
@@ -1923,7 +1923,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 696,
+      "rank": 705,
       "gameId": "119012"
     },
     {
@@ -1940,7 +1940,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 697,
+      "rank": 706,
       "gameId": "119012"
     },
     {
@@ -1957,7 +1957,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 710,
+      "rank": 719,
       "gameId": "119012"
     },
     {
@@ -1974,7 +1974,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 802,
+      "rank": 812,
       "gameId": "119013"
     },
     {
@@ -1991,7 +1991,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 812,
+      "rank": 822,
       "gameId": "119013"
     },
     {
@@ -2008,7 +2008,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 825,
+      "rank": 835,
       "gameId": "119013"
     },
     {
@@ -2025,7 +2025,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 834,
+      "rank": 844,
       "gameId": "119013"
     },
     {
@@ -2042,7 +2042,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 845,
+      "rank": 855,
       "gameId": "119013"
     },
     {
@@ -2059,7 +2059,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 851,
+      "rank": 861,
       "gameId": "119013"
     },
     {
@@ -2076,7 +2076,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 852,
+      "rank": 862,
       "gameId": "119013"
     },
     {
@@ -2093,7 +2093,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 853,
+      "rank": 863,
       "gameId": "119013"
     },
     {
@@ -2110,7 +2110,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 858,
+      "rank": 868,
       "gameId": "119013"
     },
     {
@@ -2127,7 +2127,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 859,
+      "rank": 869,
       "gameId": "119013"
     },
     {
@@ -2144,7 +2144,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 860,
+      "rank": 870,
       "gameId": "119013"
     },
     {
@@ -2161,7 +2161,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 866,
+      "rank": 876,
       "gameId": "119013"
     },
     {
@@ -2178,7 +2178,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 867,
+      "rank": 877,
       "gameId": "119013"
     },
     {
@@ -2195,7 +2195,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 874,
+      "rank": 884,
       "gameId": "119013"
     },
     {
@@ -2212,7 +2212,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 875,
+      "rank": 885,
       "gameId": "119013"
     },
     {
@@ -2229,7 +2229,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 876,
+      "rank": 886,
       "gameId": "119013"
     },
     {
@@ -2246,7 +2246,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 877,
+      "rank": 887,
       "gameId": "119013"
     },
     {
@@ -2263,7 +2263,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 884,
+      "rank": 894,
       "gameId": "119013"
     },
     {
@@ -2280,7 +2280,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 889,
+      "rank": 899,
       "gameId": "119013"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T14:35:31.850Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 PM UTC",
+  "scrapedAt": "2025-12-13T14:47:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:47 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 2787,
+      "rank": 2790,
       "gameId": "117158"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 2792,
+      "rank": 2795,
       "gameId": "117158"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 2849,
+      "rank": 2852,
       "gameId": "117158"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 2884,
+      "rank": 2887,
       "gameId": "117158"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 2902,
+      "rank": 2905,
       "gameId": "117158"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 2926,
+      "rank": 2929,
       "gameId": "117158"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 2929,
+      "rank": 2932,
       "gameId": "117158"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 2948,
+      "rank": 2951,
       "gameId": "117158"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 2991,
+      "rank": 2994,
       "gameId": "117158"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 3036,
+      "rank": 3039,
       "gameId": "117158"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 3049,
+      "rank": 3052,
       "gameId": "117158"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 3065,
+      "rank": 3068,
       "gameId": "117158"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Pelicans",
       "opponentCode": "NOP",
-      "rank": 3066,
+      "rank": 3069,
       "gameId": "117158"
     }
   ]
