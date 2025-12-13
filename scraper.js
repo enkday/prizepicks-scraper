@@ -130,22 +130,37 @@ async function scrapePrizePicks() {
 
       // Create NBA/NFL day- and team-specific slices to keep payloads small for GPT
       if (sport === 'nba' || sport === 'nfl') {
-        const now = new Date();
-        const getWindow = (offsetDays) => {
-          const start = new Date(now);
-          start.setDate(now.getDate() + offsetDays);
-          start.setHours(0, 0, 0, 0);
-          const end = new Date(start);
-          end.setHours(23, 59, 59, 999);
-          return { start, end };
+        const toCstDateKey = (date) => {
+          const parts = new Intl.DateTimeFormat('en-US', {
+            timeZone: 'America/Chicago',
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit'
+          })
+            .formatToParts(date)
+            .reduce((acc, part) => {
+              acc[part.type] = part.value;
+              return acc;
+            }, {});
+          return `${parts.year}-${parts.month}-${parts.day}`;
+        };
+
+        const getCstDayKey = (offsetDays) => {
+          // Compute “today” in America/Chicago, then add offset days.
+          const cstTodayKey = toCstDateKey(new Date());
+          const [y, m, d] = cstTodayKey.split('-').map(n => parseInt(n, 10));
+          // Use UTC noon for a stable day addition across DST boundaries.
+          const baseUtcNoon = new Date(Date.UTC(y, m - 1, d, 18, 0, 0));
+          baseUtcNoon.setUTCDate(baseUtcNoon.getUTCDate() + offsetDays);
+          return toCstDateKey(baseUtcNoon);
         };
 
         const buildDaySlice = async (label, offsetDays) => {
-          const { start, end } = getWindow(offsetDays);
+          const dayKey = getCstDayKey(offsetDays);
           const dayProps = props.filter(p => {
             if (!p.startTimeIso) return false;
-            const d = new Date(p.startTimeIso);
-            return d >= start && d <= end;
+            const startDateCST = p.startDateCST || getCstStartFields(p.startTimeIso).startDateCST;
+            return startDateCST === dayKey;
           });
 
           const baseFile = path.join(dataDir, `prizepicks-${sport}-${label}.json`);
@@ -320,6 +335,44 @@ function formatStartTimeToCentral(isoString) {
   return `${parts.month}/${parts.day}/${parts.year} ${parts.hour}:${parts.minute} ${parts.dayPeriod} CST`;
 }
 
+function getCstStartFields(isoString) {
+  if (!isoString) return { startTimeCST: null, startDateCST: null };
+  const date = new Date(isoString);
+  if (Number.isNaN(date.getTime())) return { startTimeCST: isoString, startDateCST: null };
+
+  const timeParts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Chicago',
+    year: '2-digit',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: true
+  })
+    .formatToParts(date)
+    .reduce((acc, part) => {
+      acc[part.type] = part.value;
+      return acc;
+    }, {});
+
+  const dateParts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Chicago',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit'
+  })
+    .formatToParts(date)
+    .reduce((acc, part) => {
+      acc[part.type] = part.value;
+      return acc;
+    }, {});
+
+  const startTimeCST = `${timeParts.month}/${timeParts.day}/${timeParts.year} ${timeParts.hour}:${timeParts.minute} ${timeParts.dayPeriod} CST`;
+  const startDateCST = `${dateParts.year}-${dateParts.month}-${dateParts.day}`;
+
+  return { startTimeCST, startDateCST };
+}
+
 function slugifyTeam(name) {
   if (!name) return null;
   return name
@@ -354,6 +407,7 @@ function parseProjection(projection, includedData, leagueName) {
     const opponentInfo = getOpponentFull(opponentName, includedData);
     const startTimeCentral = formatStartTimeToCentral(attrs.start_time);
     const startTimeIso = attrs.start_time || null;
+    const { startTimeCST, startDateCST } = getCstStartFields(startTimeIso);
     const rank = attrs.rank;
 
     // Parse stat type - remove "(Combo)" suffix if present
@@ -377,6 +431,8 @@ function parseProjection(projection, includedData, leagueName) {
         line: parseFloat(attrs.line_score),
         sport: leagueName,
         startTime: startTimeCentral,
+        startTimeCST,
+        startDateCST,
         startTimeIso,
         oddsType: oddsType,
         Team: teamFull || null,
