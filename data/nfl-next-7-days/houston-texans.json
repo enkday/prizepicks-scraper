@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:29:35.071Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:29 PM UTC",
+  "scrapedAt": "2025-12-13T15:41:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -76,9 +76,9 @@
       "gameId": "113746"
     },
     {
-      "player": "Jayden Higgins",
+      "player": "Dalton Schultz",
       "stat": "Receiving Yards",
-      "line": 38.5,
+      "line": 37.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -89,11 +89,11 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1117,
+      "rank": 1118,
       "gameId": "113746"
     },
     {
-      "player": "Dalton Schultz",
+      "player": "Jayden Higgins",
       "stat": "Receiving Yards",
       "line": 37.5,
       "sport": "NFL",
@@ -229,23 +229,6 @@
       "gameId": "113746"
     },
     {
-      "player": "Christian Kirk",
-      "stat": "Receiving Yards",
-      "line": 15.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1203,
-      "gameId": "113746"
-    },
-    {
       "player": "Woody Marks",
       "stat": "Longest Rush",
       "line": 14.5,
@@ -263,9 +246,9 @@
       "gameId": "113746"
     },
     {
-      "player": "Xavier Hutchinson",
+      "player": "Christian Kirk",
       "stat": "Receiving Yards",
-      "line": 13.5,
+      "line": 14.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -276,7 +259,24 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1223,
+      "rank": 1206,
+      "gameId": "113746"
+    },
+    {
+      "player": "Xavier Hutchinson",
+      "stat": "Receiving Yards",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1225,
       "gameId": "113746"
     },
     {
@@ -297,7 +297,7 @@
       "gameId": "113746"
     },
     {
-      "player": "Xavier Hutchinson",
+      "player": "Christian Kirk",
       "stat": "Longest Reception",
       "line": 10.5,
       "sport": "NFL",
@@ -314,26 +314,9 @@
       "gameId": "113746"
     },
     {
-      "player": "C.J. Stroud",
-      "stat": "Rush Yards",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1232,
-      "gameId": "113746"
-    },
-    {
-      "player": "Christian Kirk",
+      "player": "Xavier Hutchinson",
       "stat": "Longest Reception",
-      "line": 9.5,
+      "line": 10.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -344,7 +327,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1233,
+      "rank": 1229,
       "gameId": "113746"
     },
     {
@@ -361,7 +344,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1248,
+      "rank": 1247,
       "gameId": "113746"
     },
     {
@@ -378,7 +361,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1249,
+      "rank": 1248,
       "gameId": "113746"
     },
     {
@@ -395,7 +378,24 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1253,
+      "rank": 1252,
+      "gameId": "113746"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1256,
       "gameId": "113746"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1305,
+      "rank": 1304,
       "gameId": "113746"
     },
     {

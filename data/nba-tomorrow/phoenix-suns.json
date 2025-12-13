@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:29:35.071Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:29 PM UTC",
+  "scrapedAt": "2025-12-13T15:41:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "PHX",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 3440,
+      "rank": 3435,
       "gameId": "119980"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "PHX",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 3473,
+      "rank": 3468,
       "gameId": "119980"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "PHX",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 3495,
+      "rank": 3490,
       "gameId": "119980"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "PHX",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 3522,
+      "rank": 3517,
       "gameId": "119980"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "PHX",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 3579,
+      "rank": 3574,
       "gameId": "119980"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "PHX",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 3648,
+      "rank": 3643,
       "gameId": "119980"
     }
   ]

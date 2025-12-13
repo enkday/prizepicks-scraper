@@ -3,7 +3,7 @@
   "sportSlug": "nfl",
   "dayBranch": "tomorrow",
   "gameCount": 14,
-  "propCount": 1056,
+  "propCount": 1041,
   "games": [
     {
       "gameId": "113741",
@@ -38,7 +38,7 @@
         "Kansas City Chiefs",
         "Los Angeles Chargers"
       ],
-      "propCount": 89,
+      "propCount": 88,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/113743.json"
     },
     {
@@ -98,7 +98,7 @@
         "Chicago Bears",
         "Cleveland Browns"
       ],
-      "propCount": 78,
+      "propCount": 64,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/113748.json"
     },
     {
@@ -177,7 +177,7 @@
   "slates": [
     {
       "slate": "early",
-      "propCount": 626,
+      "propCount": 611,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/early.json"
     },
     {

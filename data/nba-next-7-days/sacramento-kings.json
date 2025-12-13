@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:29:35.071Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:29 PM UTC",
+  "scrapedAt": "2025-12-13T15:41:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3148,
+      "rank": 3143,
       "gameId": "117155"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3178,
+      "rank": 3173,
       "gameId": "117155"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3215,
+      "rank": 3210,
       "gameId": "117155"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3217,
+      "rank": 3212,
       "gameId": "117155"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3218,
+      "rank": 3213,
       "gameId": "117155"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3231,
+      "rank": 3226,
       "gameId": "117155"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3269,
+      "rank": 3264,
       "gameId": "117155"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3272,
+      "rank": 3267,
       "gameId": "117155"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3303,
+      "rank": 3298,
       "gameId": "117155"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3322,
+      "rank": 3317,
       "gameId": "117155"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3323,
+      "rank": 3318,
       "gameId": "117155"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3327,
+      "rank": 3322,
       "gameId": "117155"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3347,
+      "rank": 3342,
       "gameId": "117155"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3353,
+      "rank": 3348,
       "gameId": "117155"
     }
   ]

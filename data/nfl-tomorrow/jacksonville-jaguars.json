@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:29:35.071Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:29 PM UTC",
+  "scrapedAt": "2025-12-13T15:41:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2991,
+      "rank": 2976,
       "gameId": "113744"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3028,
+      "rank": 3013,
       "gameId": "113744"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3036,
+      "rank": 3021,
       "gameId": "113744"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3045,
+      "rank": 3030,
       "gameId": "113744"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3055,
+      "rank": 3040,
       "gameId": "113744"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3070,
+      "rank": 3055,
       "gameId": "113744"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3071,
+      "rank": 3056,
       "gameId": "113744"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3074,
+      "rank": 3059,
       "gameId": "113744"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3111,
+      "rank": 3096,
       "gameId": "113744"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3113,
+      "rank": 3098,
       "gameId": "113744"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3137,
+      "rank": 3122,
       "gameId": "113744"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3140,
+      "rank": 3125,
       "gameId": "113744"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3144,
+      "rank": 3129,
       "gameId": "113744"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3146,
+      "rank": 3131,
       "gameId": "113744"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3147,
+      "rank": 3132,
       "gameId": "113744"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3172,
+      "rank": 3157,
       "gameId": "113744"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3175,
+      "rank": 3160,
       "gameId": "113744"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3187,
+      "rank": 3172,
       "gameId": "113744"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3188,
+      "rank": 3173,
       "gameId": "113744"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3200,
+      "rank": 3185,
       "gameId": "113744"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3210,
+      "rank": 3195,
       "gameId": "113744"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3214,
+      "rank": 3199,
       "gameId": "113744"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3219,
+      "rank": 3204,
       "gameId": "113744"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3222,
+      "rank": 3207,
       "gameId": "113744"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3231,
+      "rank": 3216,
       "gameId": "113744"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3234,
+      "rank": 3219,
       "gameId": "113744"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3250,
+      "rank": 3235,
       "gameId": "113744"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3262,
+      "rank": 3247,
       "gameId": "113744"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3265,
+      "rank": 3250,
       "gameId": "113744"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3270,
+      "rank": 3255,
       "gameId": "113744"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3278,
+      "rank": 3263,
       "gameId": "113744"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:29:35.071Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:29 PM UTC",
+  "scrapedAt": "2025-12-13T15:41:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -38,7 +38,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2141,
+      "rank": 2126,
       "gameId": "113747"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2174,
+      "rank": 2159,
       "gameId": "113747"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2185,
+      "rank": 2170,
       "gameId": "113747"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2190,
+      "rank": 2175,
       "gameId": "113747"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2205,
+      "rank": 2190,
       "gameId": "113747"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2228,
+      "rank": 2213,
       "gameId": "113747"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2231,
+      "rank": 2216,
       "gameId": "113747"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2248,
+      "rank": 2233,
       "gameId": "113747"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2263,
+      "rank": 2248,
       "gameId": "113747"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2266,
+      "rank": 2251,
       "gameId": "113747"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2294,
+      "rank": 2279,
       "gameId": "113747"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2316,
+      "rank": 2301,
       "gameId": "113747"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2325,
+      "rank": 2310,
       "gameId": "113747"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2326,
+      "rank": 2311,
       "gameId": "113747"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2327,
+      "rank": 2312,
       "gameId": "113747"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2329,
+      "rank": 2314,
       "gameId": "113747"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2344,
+      "rank": 2329,
       "gameId": "113747"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2350,
+      "rank": 2335,
       "gameId": "113747"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2357,
+      "rank": 2342,
       "gameId": "113747"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2358,
+      "rank": 2343,
       "gameId": "113747"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2361,
+      "rank": 2346,
       "gameId": "113747"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2367,
+      "rank": 2352,
       "gameId": "113747"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2379,
+      "rank": 2364,
       "gameId": "113747"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2391,
+      "rank": 2376,
       "gameId": "113747"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2392,
+      "rank": 2377,
       "gameId": "113747"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2403,
+      "rank": 2388,
       "gameId": "113747"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2408,
+      "rank": 2393,
       "gameId": "113747"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2442,
+      "rank": 2427,
       "gameId": "113747"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2443,
+      "rank": 2428,
       "gameId": "113747"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2483,
+      "rank": 2468,
       "gameId": "113747"
     }
   ]

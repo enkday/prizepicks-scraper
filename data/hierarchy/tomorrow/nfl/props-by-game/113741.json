@@ -84,6 +84,20 @@
     "dayBranch": "tomorrow"
   },
   {
+    "propId": "113741_las-vegas-raiders_ashton-jeanty_2b5c9482_rush-yards",
+    "gameId": "113741",
+    "playerId": "las-vegas-raiders_ashton-jeanty_2b5c9482",
+    "stat": "Rush Yards",
+    "line": 56.5,
+    "teamCode": "las-vegas-raiders",
+    "opponentCode": "philadelphia-eagles",
+    "oddsType": "standard",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
     "propId": "113741_philadelphia-eagles_devonta-smith_18e8029d_receiving-yards",
     "gameId": "113741",
     "playerId": "philadelphia-eagles_devonta-smith_18e8029d",
@@ -103,20 +117,6 @@
     "playerId": "las-vegas-raiders_brock-bowers_4e9e1435",
     "stat": "Receiving Yards",
     "line": 52.5,
-    "teamCode": "las-vegas-raiders",
-    "opponentCode": "philadelphia-eagles",
-    "oddsType": "standard",
-    "sport": "NFL",
-    "startTime": "12/14/25 12:00 PM CST",
-    "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "propId": "113741_las-vegas-raiders_ashton-jeanty_2b5c9482_rush-yards",
-    "gameId": "113741",
-    "playerId": "las-vegas-raiders_ashton-jeanty_2b5c9482",
-    "stat": "Rush Yards",
-    "line": 51.5,
     "teamCode": "las-vegas-raiders",
     "opponentCode": "philadelphia-eagles",
     "oddsType": "standard",

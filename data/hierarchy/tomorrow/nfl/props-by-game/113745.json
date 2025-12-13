@@ -546,6 +546,20 @@
     "dayBranch": "tomorrow"
   },
   {
+    "propId": "113745_buffalo-bills_gabe-davis_ea344057_receiving-yards",
+    "gameId": "113745",
+    "playerId": "buffalo-bills_gabe-davis_ea344057",
+    "stat": "Receiving Yards",
+    "line": 20.5,
+    "teamCode": "buffalo-bills",
+    "opponentCode": "new-england-patriots",
+    "oddsType": "standard",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
     "propId": "113745_buffalo-bills_dalton-kincaid_10fb04c4_longest-reception",
     "gameId": "113745",
     "playerId": "buffalo-bills_dalton-kincaid_10fb04c4",
@@ -581,20 +595,6 @@
     "line": 19.5,
     "teamCode": "new-england-patriots",
     "opponentCode": "buffalo-bills",
-    "oddsType": "standard",
-    "sport": "NFL",
-    "startTime": "12/14/25 12:00 PM CST",
-    "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "propId": "113745_buffalo-bills_gabe-davis_ea344057_receiving-yards",
-    "gameId": "113745",
-    "playerId": "buffalo-bills_gabe-davis_ea344057",
-    "stat": "Receiving Yards",
-    "line": 19.5,
-    "teamCode": "buffalo-bills",
-    "opponentCode": "new-england-patriots",
     "oddsType": "standard",
     "sport": "NFL",
     "startTime": "12/14/25 12:00 PM CST",
@@ -798,6 +798,20 @@
     "dayBranch": "tomorrow"
   },
   {
+    "propId": "113745_buffalo-bills_keon-coleman_3744c543_longest-reception",
+    "gameId": "113745",
+    "playerId": "buffalo-bills_keon-coleman_3744c543",
+    "stat": "Longest Reception",
+    "line": 12.5,
+    "teamCode": "buffalo-bills",
+    "opponentCode": "new-england-patriots",
+    "oddsType": "standard",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
     "propId": "113745_new-england-patriots_drake-maye_391b9518_longest-rush",
     "gameId": "113745",
     "playerId": "new-england-patriots_drake-maye_391b9518",
@@ -819,20 +833,6 @@
     "line": 11.5,
     "teamCode": "new-england-patriots",
     "opponentCode": "buffalo-bills",
-    "oddsType": "standard",
-    "sport": "NFL",
-    "startTime": "12/14/25 12:00 PM CST",
-    "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "propId": "113745_buffalo-bills_keon-coleman_3744c543_longest-reception",
-    "gameId": "113745",
-    "playerId": "buffalo-bills_keon-coleman_3744c543",
-    "stat": "Longest Reception",
-    "line": 11.5,
-    "teamCode": "buffalo-bills",
-    "opponentCode": "new-england-patriots",
     "oddsType": "standard",
     "sport": "NFL",
     "startTime": "12/14/25 12:00 PM CST",

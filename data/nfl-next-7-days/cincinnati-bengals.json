@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:29:35.071Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:29 PM UTC",
+  "scrapedAt": "2025-12-13T15:41:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -89,13 +89,13 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 568,
+      "rank": 567,
       "gameId": "113742"
     },
     {
       "player": "Ja'Marr Chase",
       "stat": "Receiving Yards",
-      "line": 91.5,
+      "line": 90.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 599,
+      "rank": 598,
       "gameId": "113742"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 620,
+      "rank": 619,
       "gameId": "113742"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 634,
+      "rank": 633,
       "gameId": "113742"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 665,
+      "rank": 664,
       "gameId": "113742"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 674,
+      "rank": 673,
       "gameId": "113742"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 675,
+      "rank": 674,
       "gameId": "113742"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 705,
+      "rank": 704,
       "gameId": "113742"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 712,
+      "rank": 711,
       "gameId": "113742"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 713,
+      "rank": 712,
       "gameId": "113742"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 731,
+      "rank": 730,
       "gameId": "113742"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 733,
+      "rank": 732,
       "gameId": "113742"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 778,
+      "rank": 777,
       "gameId": "113742"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 808,
+      "rank": 807,
       "gameId": "113742"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 809,
+      "rank": 808,
       "gameId": "113742"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 811,
+      "rank": 810,
       "gameId": "113742"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 812,
+      "rank": 811,
       "gameId": "113742"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 814,
+      "rank": 813,
       "gameId": "113742"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 815,
+      "rank": 814,
       "gameId": "113742"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 842,
+      "rank": 841,
       "gameId": "113742"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 846,
+      "rank": 845,
       "gameId": "113742"
     },
     {
@@ -446,12 +446,29 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 849,
+      "rank": 848,
       "gameId": "113742"
     },
     {
       "player": "Tanner Hudson",
       "stat": "Receiving Yards",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 857,
+      "gameId": "113742"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "Rush Yards",
       "line": 5.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -480,24 +497,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 859,
-      "gameId": "113742"
-    },
-    {
-      "player": "Joe Burrow",
-      "stat": "Rush Yards",
-      "line": 5.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 866,
+      "rank": 865,
       "gameId": "113742"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 867,
+      "rank": 866,
       "gameId": "113742"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 881,
+      "rank": 880,
       "gameId": "113742"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 883,
+      "rank": 882,
       "gameId": "113742"
     },
     {
@@ -565,11 +565,28 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 884,
+      "rank": 883,
       "gameId": "113742"
     },
     {
       "player": "Chase Brown",
+      "stat": "Rec Targets",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 886,
+      "gameId": "113742"
+    },
+    {
+      "player": "Andrei Iosivas",
       "stat": "Rec Targets",
       "line": 4.5,
       "sport": "NFL",
@@ -586,23 +603,6 @@
       "gameId": "113742"
     },
     {
-      "player": "Andrei Iosivas",
-      "stat": "Rec Targets",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 888,
-      "gameId": "113742"
-    },
-    {
       "player": "Chase Brown",
       "stat": "Yards on First Rush Attempt",
       "line": 3.5,
@@ -616,7 +616,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 898,
+      "rank": 897,
       "gameId": "113742"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 902,
+      "rank": 901,
       "gameId": "113742"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 916,
+      "rank": 915,
       "gameId": "113742"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 926,
+      "rank": 925,
       "gameId": "113742"
     },
     {
@@ -684,7 +684,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 939,
+      "rank": 938,
       "gameId": "113742"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 947,
+      "rank": 946,
       "gameId": "113742"
     },
     {
@@ -718,7 +718,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 961,
+      "rank": 960,
       "gameId": "113742"
     },
     {
@@ -735,7 +735,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 968,
+      "rank": 967,
       "gameId": "113742"
     },
     {
@@ -752,7 +752,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 969,
+      "rank": 968,
       "gameId": "113742"
     },
     {
@@ -769,7 +769,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 975,
+      "rank": 974,
       "gameId": "113742"
     }
   ]

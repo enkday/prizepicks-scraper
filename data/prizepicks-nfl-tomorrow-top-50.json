@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:29:35.071Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:29 PM UTC",
+  "scrapedAt": "2025-12-13T15:41:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -262,23 +262,6 @@
       "gameId": "113748"
     },
     {
-      "player": "Cole Kmet",
-      "stat": "Yards on First Reception",
-      "line": 7.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 43,
-      "gameId": "113748"
-    },
-    {
       "player": "D'Andre Swift",
       "stat": "Yards on First Reception",
       "line": 4.5,
@@ -292,7 +275,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 46,
+      "rank": 45,
       "gameId": "113748"
     },
     {
@@ -309,7 +292,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 50,
+      "rank": 49,
       "gameId": "113745"
     },
     {
@@ -326,7 +309,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 51,
+      "rank": 50,
       "gameId": "113745"
     },
     {
@@ -343,7 +326,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 52,
+      "rank": 51,
       "gameId": "113745"
     },
     {
@@ -360,7 +343,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 53,
+      "rank": 52,
       "gameId": "113745"
     },
     {
@@ -377,7 +360,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 54,
+      "rank": 53,
       "gameId": "113745"
     },
     {
@@ -394,7 +377,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 55,
+      "rank": 54,
       "gameId": "113745"
     },
     {
@@ -411,7 +394,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 56,
+      "rank": 55,
       "gameId": "113745"
     },
     {
@@ -428,7 +411,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 57,
+      "rank": 56,
       "gameId": "113745"
     },
     {
@@ -445,7 +428,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 58,
+      "rank": 57,
       "gameId": "113745"
     },
     {
@@ -462,7 +445,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 59,
+      "rank": 58,
       "gameId": "113745"
     },
     {
@@ -479,7 +462,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 60,
+      "rank": 59,
       "gameId": "113745"
     },
     {
@@ -496,7 +479,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 61,
+      "rank": 60,
       "gameId": "113745"
     },
     {
@@ -513,7 +496,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 62,
+      "rank": 61,
       "gameId": "113745"
     },
     {
@@ -530,7 +513,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 63,
+      "rank": 62,
       "gameId": "113745"
     },
     {
@@ -547,7 +530,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 64,
+      "rank": 63,
       "gameId": "113745"
     },
     {
@@ -564,7 +547,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 67,
+      "rank": 66,
       "gameId": "113745"
     },
     {
@@ -581,7 +564,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 68,
+      "rank": 67,
       "gameId": "113745"
     },
     {
@@ -598,7 +581,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 69,
+      "rank": 68,
       "gameId": "113745"
     },
     {
@@ -615,7 +598,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 91,
+      "rank": 90,
       "gameId": "113743"
     },
     {
@@ -632,7 +615,7 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 101,
+      "rank": 100,
       "gameId": "113743"
     },
     {
@@ -649,7 +632,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 131,
+      "rank": 130,
       "gameId": "113743"
     },
     {
@@ -666,7 +649,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 132,
+      "rank": 131,
       "gameId": "113743"
     },
     {
@@ -683,7 +666,7 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 133,
+      "rank": 132,
       "gameId": "113743"
     },
     {
@@ -700,7 +683,7 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 172,
+      "rank": 171,
       "gameId": "113743"
     },
     {
@@ -717,7 +700,7 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 175,
+      "rank": 174,
       "gameId": "113743"
     },
     {
@@ -734,7 +717,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 178,
+      "rank": 177,
       "gameId": "113743"
     },
     {
@@ -751,7 +734,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 188,
+      "rank": 187,
       "gameId": "113743"
     },
     {
@@ -768,7 +751,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 204,
+      "rank": 203,
       "gameId": "113743"
     },
     {
@@ -785,7 +768,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 205,
+      "rank": 204,
       "gameId": "113743"
     },
     {
@@ -802,7 +785,7 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 206,
+      "rank": 205,
       "gameId": "113743"
     },
     {
@@ -819,7 +802,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 212,
+      "rank": 211,
       "gameId": "113743"
     },
     {
@@ -836,7 +819,7 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 213,
+      "rank": 212,
       "gameId": "113743"
     },
     {
@@ -853,7 +836,24 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 214,
+      "rank": 213,
+      "gameId": "113743"
+    },
+    {
+      "player": "Quentin Johnston",
+      "stat": "Receiving Yards",
+      "line": 31.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 215,
       "gameId": "113743"
     }
   ]

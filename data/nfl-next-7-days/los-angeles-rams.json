@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:29:35.071Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:29 PM UTC",
+  "scrapedAt": "2025-12-13T15:41:33.987Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,13 +21,13 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3360,
+      "rank": 3345,
       "gameId": "113751"
     },
     {
       "player": "Puka Nacua",
       "stat": "Receiving Yards",
-      "line": 96.5,
+      "line": 100.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3400,
+      "rank": 3378,
       "gameId": "113751"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3426,
+      "rank": 3411,
       "gameId": "113751"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3428,
+      "rank": 3413,
       "gameId": "113751"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3439,
+      "rank": 3424,
       "gameId": "113751"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3459,
+      "rank": 3444,
       "gameId": "113751"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3471,
+      "rank": 3456,
       "gameId": "113751"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3474,
+      "rank": 3459,
       "gameId": "113751"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3484,
+      "rank": 3469,
       "gameId": "113751"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3503,
+      "rank": 3488,
       "gameId": "113751"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3516,
+      "rank": 3501,
       "gameId": "113751"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3518,
+      "rank": 3503,
       "gameId": "113751"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3558,
+      "rank": 3543,
       "gameId": "113751"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3563,
+      "rank": 3548,
       "gameId": "113751"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3577,
+      "rank": 3562,
       "gameId": "113751"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3578,
+      "rank": 3563,
       "gameId": "113751"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3586,
+      "rank": 3571,
       "gameId": "113751"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3588,
+      "rank": 3573,
       "gameId": "113751"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3589,
+      "rank": 3574,
       "gameId": "113751"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3603,
+      "rank": 3588,
       "gameId": "113751"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3608,
+      "rank": 3593,
       "gameId": "113751"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3609,
+      "rank": 3594,
       "gameId": "113751"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3612,
+      "rank": 3597,
       "gameId": "113751"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3615,
+      "rank": 3600,
       "gameId": "113751"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3620,
+      "rank": 3605,
       "gameId": "113751"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3633,
+      "rank": 3618,
       "gameId": "113751"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3634,
+      "rank": 3619,
       "gameId": "113751"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3644,
+      "rank": 3629,
       "gameId": "113751"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3653,
+      "rank": 3638,
       "gameId": "113751"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3655,
+      "rank": 3640,
       "gameId": "113751"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3657,
+      "rank": 3642,
       "gameId": "113751"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3663,
+      "rank": 3648,
       "gameId": "113751"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3678,
+      "rank": 3663,
       "gameId": "113751"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3679,
+      "rank": 3664,
       "gameId": "113751"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3684,
+      "rank": 3669,
       "gameId": "113751"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3686,
+      "rank": 3671,
       "gameId": "113751"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3756,
+      "rank": 3741,
       "gameId": "113751"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3757,
+      "rank": 3742,
       "gameId": "113751"
     }
   ]

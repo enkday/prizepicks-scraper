@@ -350,11 +350,11 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113750_new-orleans-saints_mason-tipton_5f694edd_receiving-yards",
+    "propId": "113750_new-orleans-saints_devin-neal_36afc466_receiving-yards",
     "gameId": "113750",
-    "playerId": "new-orleans-saints_mason-tipton_5f694edd",
+    "playerId": "new-orleans-saints_devin-neal_36afc466",
     "stat": "Receiving Yards",
-    "line": 15.5,
+    "line": 16.5,
     "teamCode": "new-orleans-saints",
     "opponentCode": "carolina-panthers",
     "oddsType": "standard",
@@ -364,9 +364,9 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113750_new-orleans-saints_devin-neal_36afc466_receiving-yards",
+    "propId": "113750_new-orleans-saints_mason-tipton_5f694edd_receiving-yards",
     "gameId": "113750",
-    "playerId": "new-orleans-saints_devin-neal_36afc466",
+    "playerId": "new-orleans-saints_mason-tipton_5f694edd",
     "stat": "Receiving Yards",
     "line": 15.5,
     "teamCode": "new-orleans-saints",
