@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
   "team": "Tennessee Titans",
-  "totalProps": 39,
+  "totalProps": 38,
   "props": [
     {
       "player": "Cam Ward",
@@ -21,7 +21,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4196,
+      "rank": 4302,
       "gameId": "113753"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4224,
+      "rank": 4330,
       "gameId": "113753"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4252,
+      "rank": 4358,
       "gameId": "113753"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4279,
+      "rank": 4385,
       "gameId": "113753"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4280,
+      "rank": 4386,
       "gameId": "113753"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4281,
+      "rank": 4387,
       "gameId": "113753"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4282,
+      "rank": 4388,
       "gameId": "113753"
     },
     {
       "player": "Chig Okonkwo",
       "stat": "Receiving Yards",
-      "line": 29.5,
+      "line": 25.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4291,
+      "rank": 4412,
       "gameId": "113753"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4308,
+      "rank": 4413,
       "gameId": "113753"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4327,
+      "rank": 4433,
       "gameId": "113753"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4328,
+      "rank": 4434,
       "gameId": "113753"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4330,
+      "rank": 4436,
       "gameId": "113753"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4354,
+      "rank": 4460,
       "gameId": "113753"
     },
     {
@@ -242,28 +242,11 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4360,
+      "rank": 4466,
       "gameId": "113753"
     },
     {
       "player": "Elic Ayomanor",
-      "stat": "Longest Reception",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 4361,
-      "gameId": "113753"
-    },
-    {
-      "player": "Chimere Dike",
       "stat": "Longest Reception",
       "line": 15.5,
       "sport": "NFL",
@@ -276,7 +259,24 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4363,
+      "rank": 4468,
+      "gameId": "113753"
+    },
+    {
+      "player": "Chimere Dike",
+      "stat": "Longest Reception",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4470,
       "gameId": "113753"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4383,
+      "rank": 4489,
       "gameId": "113753"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4384,
+      "rank": 4490,
       "gameId": "113753"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4385,
+      "rank": 4491,
       "gameId": "113753"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4386,
+      "rank": 4492,
       "gameId": "113753"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4387,
+      "rank": 4493,
       "gameId": "113753"
     },
     {
@@ -378,7 +378,24 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4409,
+      "rank": 4515,
+      "gameId": "113753"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Receiving Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4516,
       "gameId": "113753"
     },
     {
@@ -395,13 +412,13 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4411,
+      "rank": 4518,
       "gameId": "113753"
     },
     {
-      "player": "Tony Pollard",
-      "stat": "Receiving Yards",
-      "line": 7.5,
+      "player": "Cam Ward",
+      "stat": "Longest Rush",
+      "line": 6.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -412,7 +429,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4412,
+      "rank": 4526,
       "gameId": "113753"
     },
     {
@@ -429,7 +446,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4422,
+      "rank": 4529,
       "gameId": "113753"
     },
     {
@@ -446,24 +463,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4430,
-      "gameId": "113753"
-    },
-    {
-      "player": "Cam Ward",
-      "stat": "Longest Rush",
-      "line": 5.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 4431,
+      "rank": 4537,
       "gameId": "113753"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4439,
+      "rank": 4545,
       "gameId": "113753"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4441,
+      "rank": 4547,
       "gameId": "113753"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4444,
+      "rank": 4550,
       "gameId": "113753"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4459,
+      "rank": 4565,
       "gameId": "113753"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4460,
+      "rank": 4566,
       "gameId": "113753"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4480,
+      "rank": 4586,
       "gameId": "113753"
     },
     {
@@ -582,24 +582,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4481,
-      "gameId": "113753"
-    },
-    {
-      "player": "Cam Ward",
-      "stat": "Rush Attempts",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 4494,
+      "rank": 4587,
       "gameId": "113753"
     },
     {
@@ -616,7 +599,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4504,
+      "rank": 4610,
       "gameId": "113753"
     },
     {
@@ -633,7 +616,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4512,
+      "rank": 4619,
       "gameId": "113753"
     },
     {
@@ -650,7 +633,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4520,
+      "rank": 4627,
       "gameId": "113753"
     },
     {
@@ -667,7 +650,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4521,
+      "rank": 4628,
       "gameId": "113753"
     }
   ]

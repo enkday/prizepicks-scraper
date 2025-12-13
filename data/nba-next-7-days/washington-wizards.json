@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1706,
+      "rank": 1766,
       "gameId": "117151"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1737,
+      "rank": 1797,
       "gameId": "117151"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1753,
+      "rank": 1813,
       "gameId": "117151"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1759,
+      "rank": 1819,
       "gameId": "117151"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1785,
+      "rank": 1845,
       "gameId": "117151"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1802,
+      "rank": 1862,
       "gameId": "117151"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1809,
+      "rank": 1869,
       "gameId": "117151"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1821,
+      "rank": 1881,
       "gameId": "117151"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1828,
+      "rank": 1888,
       "gameId": "117151"
     }
   ]

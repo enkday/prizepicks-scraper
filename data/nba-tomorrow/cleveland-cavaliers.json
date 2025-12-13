@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 1896,
+      "rank": 1956,
       "gameId": "117152"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 1965,
+      "rank": 2025,
       "gameId": "117152"
     },
     {
       "player": "Darius Garland",
       "stat": "Points",
-      "line": 16.5,
+      "line": 17.5,
       "sport": "NBA",
       "startTime": "12/14/25 02:40 PM CST",
       "startTimeCST": "12/14/25 02:40 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 1972,
+      "rank": 2026,
       "gameId": "117152"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 1980,
+      "rank": 2040,
       "gameId": "117152"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 1986,
+      "rank": 2046,
       "gameId": "117152"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2041,
+      "rank": 2101,
       "gameId": "117152"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2054,
+      "rank": 2114,
       "gameId": "117152"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2069,
+      "rank": 2129,
       "gameId": "117152"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2075,
+      "rank": 2135,
       "gameId": "117152"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2088,
+      "rank": 2148,
       "gameId": "117152"
     }
   ]

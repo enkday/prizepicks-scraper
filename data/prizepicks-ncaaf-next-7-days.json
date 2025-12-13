@@ -1,113 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NCAAF",
   "day": "next-7-days",
-  "totalProps": 68,
+  "totalProps": 62,
   "props": [
-    {
-      "player": "Victor Gabalis",
-      "stat": "Pass Yards",
-      "line": 232.5,
-      "sport": "NCAAF",
-      "startTime": "12/13/25 11:00 AM CST",
-      "startTimeCST": "12/13/25 11:00 AM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T12:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tarleton State Texans",
-      "teamCode": "TARL",
-      "Opponent": "Villanova Wildcats",
-      "opponentCode": "VILL",
-      "rank": 1,
-      "gameId": "120313"
-    },
-    {
-      "player": "Pat McQuaide",
-      "stat": "Pass Yards",
-      "line": 199.5,
-      "sport": "NCAAF",
-      "startTime": "12/13/25 11:00 AM CST",
-      "startTimeCST": "12/13/25 11:00 AM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T12:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Villanova Wildcats",
-      "teamCode": "VILL",
-      "Opponent": "Tarleton State Texans",
-      "opponentCode": "TARL",
-      "rank": 2,
-      "gameId": "120313"
-    },
-    {
-      "player": "Tylan Hines",
-      "stat": "Rush Yards",
-      "line": 100.5,
-      "sport": "NCAAF",
-      "startTime": "12/13/25 11:00 AM CST",
-      "startTimeCST": "12/13/25 11:00 AM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T12:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tarleton State Texans",
-      "teamCode": "TARL",
-      "Opponent": "Villanova Wildcats",
-      "opponentCode": "VILL",
-      "rank": 3,
-      "gameId": "120313"
-    },
-    {
-      "player": "Luke Colella",
-      "stat": "Receiving Yards",
-      "line": 57.5,
-      "sport": "NCAAF",
-      "startTime": "12/13/25 11:00 AM CST",
-      "startTimeCST": "12/13/25 11:00 AM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T12:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Villanova Wildcats",
-      "teamCode": "VILL",
-      "Opponent": "Tarleton State Texans",
-      "opponentCode": "TARL",
-      "rank": 4,
-      "gameId": "120313"
-    },
-    {
-      "player": "Ja'briel Mace",
-      "stat": "Rush Yards",
-      "line": 53.5,
-      "sport": "NCAAF",
-      "startTime": "12/13/25 11:00 AM CST",
-      "startTimeCST": "12/13/25 11:00 AM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T12:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Villanova Wildcats",
-      "teamCode": "VILL",
-      "Opponent": "Tarleton State Texans",
-      "opponentCode": "TARL",
-      "rank": 5,
-      "gameId": "120313"
-    },
-    {
-      "player": "Peyton Kramer",
-      "stat": "Receiving Yards",
-      "line": 47.5,
-      "sport": "NCAAF",
-      "startTime": "12/13/25 11:00 AM CST",
-      "startTimeCST": "12/13/25 11:00 AM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T12:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tarleton State Texans",
-      "teamCode": "TARL",
-      "Opponent": "Villanova Wildcats",
-      "opponentCode": "VILL",
-      "rank": 6,
-      "gameId": "120313"
-    },
     {
       "player": "Cale Hellums",
       "stat": "Rush Yards",
@@ -122,7 +20,7 @@
       "teamCode": "ARMY",
       "Opponent": "Navy Midshipmen",
       "opponentCode": "NAVY",
-      "rank": 26,
+      "rank": 14,
       "gameId": "113529"
     },
     {
@@ -139,7 +37,7 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 27,
+      "rank": 15,
       "gameId": "113529"
     },
     {
@@ -156,13 +54,13 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 28,
+      "rank": 16,
       "gameId": "113529"
     },
     {
       "player": "Alex Tecza",
       "stat": "Rush Yards",
-      "line": 64.5,
+      "line": 68.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 02:00 PM CST",
       "startTimeCST": "12/13/25 02:00 PM CST",
@@ -173,13 +71,13 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 44,
+      "rank": 32,
       "gameId": "113529"
     },
     {
       "player": "Cale Hellums",
       "stat": "Pass Yards",
-      "line": 64.5,
+      "line": 65.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 02:00 PM CST",
       "startTimeCST": "12/13/25 02:00 PM CST",
@@ -190,13 +88,13 @@
       "teamCode": "ARMY",
       "Opponent": "Navy Midshipmen",
       "opponentCode": "NAVY",
-      "rank": 45,
+      "rank": 33,
       "gameId": "113529"
     },
     {
       "player": "Eli Heidenreich",
       "stat": "Receiving Yards",
-      "line": 45.5,
+      "line": 43.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 02:00 PM CST",
       "startTimeCST": "12/13/25 02:00 PM CST",
@@ -207,7 +105,7 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 54,
+      "rank": 42,
       "gameId": "113529"
     },
     {
@@ -224,7 +122,7 @@
       "teamCode": "ARMY",
       "Opponent": "Navy Midshipmen",
       "opponentCode": "NAVY",
-      "rank": 60,
+      "rank": 48,
       "gameId": "113529"
     },
     {
@@ -241,13 +139,13 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 64,
+      "rank": 52,
       "gameId": "113529"
     },
     {
       "player": "Brandon Chatman",
       "stat": "Rush Yards",
-      "line": 25.5,
+      "line": 26.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 02:00 PM CST",
       "startTimeCST": "12/13/25 02:00 PM CST",
@@ -258,7 +156,7 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 65,
+      "rank": 53,
       "gameId": "113529"
     },
     {
@@ -275,7 +173,7 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 68,
+      "rank": 56,
       "gameId": "113529"
     },
     {
@@ -292,7 +190,7 @@
       "teamCode": "ARMY",
       "Opponent": "Navy Midshipmen",
       "opponentCode": "NAVY",
-      "rank": 69,
+      "rank": 57,
       "gameId": "113529"
     },
     {
@@ -309,7 +207,7 @@
       "teamCode": "ARMY",
       "Opponent": "Navy Midshipmen",
       "opponentCode": "NAVY",
-      "rank": 70,
+      "rank": 58,
       "gameId": "113529"
     },
     {
@@ -326,7 +224,7 @@
       "teamCode": "ARMY",
       "Opponent": "Navy Midshipmen",
       "opponentCode": "NAVY",
-      "rank": 74,
+      "rank": 62,
       "gameId": "113529"
     },
     {
@@ -343,7 +241,7 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 75,
+      "rank": 63,
       "gameId": "113529"
     },
     {
@@ -360,7 +258,7 @@
       "teamCode": "ARMY",
       "Opponent": "Navy Midshipmen",
       "opponentCode": "NAVY",
-      "rank": 76,
+      "rank": 64,
       "gameId": "113529"
     },
     {
@@ -377,7 +275,7 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 80,
+      "rank": 68,
       "gameId": "113529"
     },
     {
@@ -394,7 +292,7 @@
       "teamCode": "NAVY",
       "Opponent": "Army Black Knights",
       "opponentCode": "ARMY",
-      "rank": 81,
+      "rank": 69,
       "gameId": "113529"
     },
     {
@@ -411,7 +309,7 @@
       "teamCode": "MONT",
       "Opponent": "South Dakota Coyotes",
       "opponentCode": "SDAK",
-      "rank": 124,
+      "rank": 112,
       "gameId": "118953"
     },
     {
@@ -428,7 +326,7 @@
       "teamCode": "SDAK",
       "Opponent": "Montana Grizzlies",
       "opponentCode": "MONT",
-      "rank": 125,
+      "rank": 113,
       "gameId": "118953"
     },
     {
@@ -445,7 +343,7 @@
       "teamCode": "MONT",
       "Opponent": "South Dakota Coyotes",
       "opponentCode": "SDAK",
-      "rank": 126,
+      "rank": 114,
       "gameId": "118953"
     },
     {
@@ -462,7 +360,7 @@
       "teamCode": "SDAK",
       "Opponent": "Montana Grizzlies",
       "opponentCode": "MONT",
-      "rank": 127,
+      "rank": 115,
       "gameId": "118953"
     },
     {
@@ -479,7 +377,7 @@
       "teamCode": "SDAK",
       "Opponent": "Montana Grizzlies",
       "opponentCode": "MONT",
-      "rank": 128,
+      "rank": 116,
       "gameId": "118953"
     },
     {
@@ -496,7 +394,7 @@
       "teamCode": "MONT",
       "Opponent": "South Dakota Coyotes",
       "opponentCode": "SDAK",
-      "rank": 129,
+      "rank": 117,
       "gameId": "118953"
     },
     {
@@ -513,7 +411,7 @@
       "teamCode": "SDAK",
       "Opponent": "Montana Grizzlies",
       "opponentCode": "MONT",
-      "rank": 130,
+      "rank": 118,
       "gameId": "118953"
     },
     {
@@ -530,7 +428,7 @@
       "teamCode": "ILST",
       "Opponent": "UC Davis Aggies",
       "opponentCode": "UCD",
-      "rank": 138,
+      "rank": 126,
       "gameId": "120312"
     },
     {
@@ -547,7 +445,7 @@
       "teamCode": "UCD",
       "Opponent": "Illinois State Redbirds",
       "opponentCode": "ILST",
-      "rank": 139,
+      "rank": 127,
       "gameId": "120312"
     },
     {
@@ -564,7 +462,7 @@
       "teamCode": "UCD",
       "Opponent": "Illinois State Redbirds",
       "opponentCode": "ILST",
-      "rank": 140,
+      "rank": 128,
       "gameId": "120312"
     },
     {
@@ -581,7 +479,7 @@
       "teamCode": "UCD",
       "Opponent": "Illinois State Redbirds",
       "opponentCode": "ILST",
-      "rank": 141,
+      "rank": 129,
       "gameId": "120312"
     },
     {
@@ -598,7 +496,7 @@
       "teamCode": "ILST",
       "Opponent": "UC Davis Aggies",
       "opponentCode": "UCD",
-      "rank": 142,
+      "rank": 130,
       "gameId": "120312"
     },
     {
@@ -615,7 +513,7 @@
       "teamCode": "ILST",
       "Opponent": "UC Davis Aggies",
       "opponentCode": "UCD",
-      "rank": 143,
+      "rank": 131,
       "gameId": "120312"
     },
     {
@@ -632,7 +530,7 @@
       "teamCode": "UCD",
       "Opponent": "Illinois State Redbirds",
       "opponentCode": "ILST",
-      "rank": 144,
+      "rank": 132,
       "gameId": "120312"
     },
     {
@@ -649,13 +547,13 @@
       "teamCode": "WASH",
       "Opponent": "Boise State Broncos",
       "opponentCode": "BSU",
-      "rank": 159,
+      "rank": 147,
       "gameId": "119007"
     },
     {
       "player": "Maddux Madsen",
       "stat": "Pass Yards",
-      "line": 204.5,
+      "line": 203.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 07:00 PM CST",
       "startTimeCST": "12/13/25 07:00 PM CST",
@@ -666,7 +564,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 160,
+      "rank": 148,
       "gameId": "119007"
     },
     {
@@ -683,7 +581,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 174,
+      "rank": 162,
       "gameId": "119007"
     },
     {
@@ -700,13 +598,13 @@
       "teamCode": "WASH",
       "Opponent": "Boise State Broncos",
       "opponentCode": "BSU",
-      "rank": 183,
+      "rank": 171,
       "gameId": "119007"
     },
     {
       "player": "Latrell Caples",
       "stat": "Receiving Yards",
-      "line": 42.5,
+      "line": 37.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 07:00 PM CST",
       "startTimeCST": "12/13/25 07:00 PM CST",
@@ -717,7 +615,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 184,
+      "rank": 174,
       "gameId": "119007"
     },
     {
@@ -734,7 +632,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 192,
+      "rank": 179,
       "gameId": "119007"
     },
     {
@@ -751,7 +649,7 @@
       "teamCode": "WASH",
       "Opponent": "Boise State Broncos",
       "opponentCode": "BSU",
-      "rank": 193,
+      "rank": 180,
       "gameId": "119007"
     },
     {
@@ -768,7 +666,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 194,
+      "rank": 181,
       "gameId": "119007"
     },
     {
@@ -785,7 +683,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 196,
+      "rank": 183,
       "gameId": "119007"
     },
     {
@@ -802,7 +700,7 @@
       "teamCode": "WASH",
       "Opponent": "Boise State Broncos",
       "opponentCode": "BSU",
-      "rank": 197,
+      "rank": 184,
       "gameId": "119007"
     },
     {
@@ -819,7 +717,7 @@
       "teamCode": "DEL",
       "Opponent": "Louisiana Ragin' Cajuns",
       "opponentCode": "ULL",
-      "rank": 277,
+      "rank": 265,
       "gameId": "118896"
     },
     {
@@ -836,7 +734,7 @@
       "teamCode": "ULL",
       "Opponent": "Delaware Blue Hens",
       "opponentCode": "DEL",
-      "rank": 279,
+      "rank": 267,
       "gameId": "118896"
     },
     {
@@ -853,7 +751,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 306,
+      "rank": 294,
       "gameId": "119010"
     },
     {
@@ -870,7 +768,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 309,
+      "rank": 297,
       "gameId": "119010"
     },
     {
@@ -887,7 +785,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 324,
+      "rank": 312,
       "gameId": "119010"
     },
     {
@@ -904,7 +802,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 333,
+      "rank": 321,
       "gameId": "119010"
     },
     {
@@ -921,7 +819,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 342,
+      "rank": 330,
       "gameId": "119010"
     },
     {
@@ -938,7 +836,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 349,
+      "rank": 337,
       "gameId": "119010"
     },
     {
@@ -955,7 +853,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 350,
+      "rank": 338,
       "gameId": "119010"
     },
     {
@@ -972,7 +870,24 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 351,
+      "rank": 339,
+      "gameId": "119010"
+    },
+    {
+      "player": "Isaiah Horton",
+      "stat": "Receiving Yards",
+      "line": 29.5,
+      "sport": "NCAAF",
+      "startTime": "12/19/25 07:00 PM CST",
+      "startTimeCST": "12/19/25 07:00 PM CST",
+      "startDateCST": "2025-12-19",
+      "startTimeIso": "2025-12-19T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "teamCode": "ALA",
+      "Opponent": "Oklahoma Sooners",
+      "opponentCode": "OKLA",
+      "rank": 340,
       "gameId": "119010"
     },
     {
@@ -989,24 +904,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 354,
-      "gameId": "119010"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receiving Yards",
-      "line": 26.5,
-      "sport": "NCAAF",
-      "startTime": "12/19/25 07:00 PM CST",
-      "startTimeCST": "12/19/25 07:00 PM CST",
-      "startDateCST": "2025-12-19",
-      "startTimeIso": "2025-12-19T20:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Alabama Crimson Tide",
-      "teamCode": "ALA",
-      "Opponent": "Oklahoma Sooners",
-      "opponentCode": "OKLA",
-      "rank": 355,
+      "rank": 343,
       "gameId": "119010"
     },
     {
@@ -1023,7 +921,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 356,
+      "rank": 344,
       "gameId": "119010"
     },
     {
@@ -1040,7 +938,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 357,
+      "rank": 345,
       "gameId": "119010"
     },
     {
@@ -1057,7 +955,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 362,
+      "rank": 350,
       "gameId": "119010"
     },
     {
@@ -1074,7 +972,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 363,
+      "rank": 351,
       "gameId": "119010"
     },
     {
@@ -1091,7 +989,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 371,
+      "rank": 359,
       "gameId": "119010"
     },
     {
@@ -1108,7 +1006,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 372,
+      "rank": 360,
       "gameId": "119010"
     },
     {
@@ -1125,7 +1023,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 373,
+      "rank": 361,
       "gameId": "119010"
     },
     {
@@ -1142,7 +1040,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 384,
+      "rank": 372,
       "gameId": "119010"
     },
     {
@@ -1159,7 +1057,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 387,
+      "rank": 375,
       "gameId": "119010"
     }
   ]

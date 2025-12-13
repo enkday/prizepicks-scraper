@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1678,
+      "rank": 1738,
       "gameId": "117151"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1701,
+      "rank": 1761,
       "gameId": "117151"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1728,
+      "rank": 1788,
       "gameId": "117151"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1754,
+      "rank": 1814,
       "gameId": "117151"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1783,
+      "rank": 1843,
       "gameId": "117151"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1784,
+      "rank": 1844,
       "gameId": "117151"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1799,
+      "rank": 1859,
       "gameId": "117151"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1839,
+      "rank": 1899,
       "gameId": "117151"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1844,
+      "rank": 1904,
       "gameId": "117151"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "IND",
       "Opponent": "Washington Wizards",
       "opponentCode": "WAS",
-      "rank": 1850,
+      "rank": 1910,
       "gameId": "117151"
     }
   ]

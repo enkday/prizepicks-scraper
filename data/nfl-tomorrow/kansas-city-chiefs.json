@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -10,7 +10,7 @@
     {
       "player": "Patrick Mahomes",
       "stat": "Pass Yards",
-      "line": 241.5,
+      "line": 236.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 90,
+      "rank": 99,
       "gameId": "113743"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 130,
+      "rank": 138,
       "gameId": "113743"
     },
     {
@@ -55,7 +55,24 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 131,
+      "rank": 139,
+      "gameId": "113743"
+    },
+    {
+      "player": "Travis Kelce",
+      "stat": "Receiving Yards",
+      "line": 43.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 182,
       "gameId": "113743"
     },
     {
@@ -72,24 +89,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 177,
-      "gameId": "113743"
-    },
-    {
-      "player": "Travis Kelce",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 187,
+      "rank": 186,
       "gameId": "113743"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 203,
+      "rank": 211,
       "gameId": "113743"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 204,
+      "rank": 212,
       "gameId": "113743"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 211,
+      "rank": 219,
       "gameId": "113743"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 213,
+      "rank": 221,
       "gameId": "113743"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 266,
+      "rank": 274,
       "gameId": "113743"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 267,
+      "rank": 275,
       "gameId": "113743"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 269,
+      "rank": 277,
       "gameId": "113743"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 308,
+      "rank": 316,
       "gameId": "113743"
     },
     {
@@ -242,7 +242,41 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 309,
+      "rank": 317,
+      "gameId": "113743"
+    },
+    {
+      "player": "Tyquan Thornton",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 349,
+      "gameId": "113743"
+    },
+    {
+      "player": "JuJu Smith-Schuster",
+      "stat": "Receiving Yards",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 350,
       "gameId": "113743"
     },
     {
@@ -259,24 +293,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 342,
-      "gameId": "113743"
-    },
-    {
-      "player": "Tyquan Thornton",
-      "stat": "Receiving Yards",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 343,
+      "rank": 353,
       "gameId": "113743"
     },
     {
@@ -293,7 +310,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 345,
+      "rank": 355,
       "gameId": "113743"
     },
     {
@@ -310,7 +327,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 346,
+      "rank": 356,
       "gameId": "113743"
     },
     {
@@ -327,24 +344,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 350,
-      "gameId": "113743"
-    },
-    {
-      "player": "JuJu Smith-Schuster",
-      "stat": "Receiving Yards",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 351,
+      "rank": 359,
       "gameId": "113743"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 354,
+      "rank": 362,
       "gameId": "113743"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 359,
+      "rank": 367,
       "gameId": "113743"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 360,
+      "rank": 368,
       "gameId": "113743"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 384,
+      "rank": 392,
       "gameId": "113743"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 385,
+      "rank": 393,
       "gameId": "113743"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 387,
+      "rank": 395,
       "gameId": "113743"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 396,
+      "rank": 404,
       "gameId": "113743"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 399,
+      "rank": 407,
       "gameId": "113743"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 401,
+      "rank": 409,
       "gameId": "113743"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 404,
+      "rank": 412,
       "gameId": "113743"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 413,
+      "rank": 421,
       "gameId": "113743"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 417,
+      "rank": 425,
       "gameId": "113743"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 434,
+      "rank": 442,
       "gameId": "113743"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 438,
+      "rank": 446,
       "gameId": "113743"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 439,
+      "rank": 447,
       "gameId": "113743"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 462,
+      "rank": 470,
       "gameId": "113743"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 464,
+      "rank": 472,
       "gameId": "113743"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 471,
+      "rank": 479,
       "gameId": "113743"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 487,
+      "rank": 495,
       "gameId": "113743"
     },
     {
@@ -684,7 +684,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 492,
+      "rank": 500,
       "gameId": "113743"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 508,
+      "rank": 516,
       "gameId": "113743"
     },
     {
@@ -718,7 +718,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 509,
+      "rank": 517,
       "gameId": "113743"
     },
     {
@@ -735,7 +735,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 514,
+      "rank": 522,
       "gameId": "113743"
     },
     {
@@ -752,7 +752,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 548,
+      "rank": 556,
       "gameId": "113743"
     },
     {
@@ -769,7 +769,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 551,
+      "rank": 559,
       "gameId": "113743"
     }
   ]

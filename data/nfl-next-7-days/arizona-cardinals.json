@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Arizona Cardinals",
-  "totalProps": 28,
+  "totalProps": 33,
   "props": [
     {
       "player": "Jacoby Brissett",
@@ -21,13 +21,13 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1039,
+      "rank": 1047,
       "gameId": "113746"
     },
     {
       "player": "Trey McBride",
       "stat": "Receiving Yards",
-      "line": 70.5,
+      "line": 65.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1075,
+      "rank": 1086,
       "gameId": "113746"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1080,
+      "rank": 1088,
       "gameId": "113746"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1081,
+      "rank": 1089,
       "gameId": "113746"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1117,
+      "rank": 1125,
       "gameId": "113746"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1120,
+      "rank": 1128,
       "gameId": "113746"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1123,
+      "rank": 1131,
       "gameId": "113746"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1165,
+      "rank": 1173,
       "gameId": "113746"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1166,
+      "rank": 1174,
       "gameId": "113746"
     },
     {
@@ -174,12 +174,12 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1168,
+      "rank": 1176,
       "gameId": "113746"
     },
     {
-      "player": "Zonovan Knight",
-      "stat": "Receiving Yards",
+      "player": "Emari Demercado",
+      "stat": "Rush Yards",
       "line": 15.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -191,7 +191,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1203,
+      "rank": 1214,
       "gameId": "113746"
     },
     {
@@ -208,7 +208,24 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1216,
+      "rank": 1226,
+      "gameId": "113746"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Receiving Yards",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1227,
       "gameId": "113746"
     },
     {
@@ -225,7 +242,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1224,
+      "rank": 1235,
       "gameId": "113746"
     },
     {
@@ -242,13 +259,13 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1226,
+      "rank": 1237,
       "gameId": "113746"
     },
     {
       "player": "Jalen Brooks",
       "stat": "Receiving Yards",
-      "line": 10.5,
+      "line": 11.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -259,13 +276,13 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1230,
+      "rank": 1238,
       "gameId": "113746"
     },
     {
-      "player": "Zonovan Knight",
-      "stat": "Longest Rush",
-      "line": 10.5,
+      "player": "Emari Demercado",
+      "stat": "Receiving Yards",
+      "line": 11.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -276,7 +293,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1231,
+      "rank": 1239,
       "gameId": "113746"
     },
     {
@@ -293,7 +310,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1232,
+      "rank": 1243,
       "gameId": "113746"
     },
     {
@@ -310,7 +327,24 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1239,
+      "rank": 1251,
+      "gameId": "113746"
+    },
+    {
+      "player": "Jalen Brooks",
+      "stat": "Longest Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1253,
       "gameId": "113746"
     },
     {
@@ -327,7 +361,24 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1241,
+      "rank": 1254,
+      "gameId": "113746"
+    },
+    {
+      "player": "Zonovan Knight",
+      "stat": "Longest Rush",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1255,
       "gameId": "113746"
     },
     {
@@ -344,11 +395,11 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1250,
+      "rank": 1264,
       "gameId": "113746"
     },
     {
-      "player": "Jalen Brooks",
+      "player": "Emari Demercado",
       "stat": "Longest Reception",
       "line": 8.5,
       "sport": "NFL",
@@ -361,7 +412,24 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1251,
+      "rank": 1266,
+      "gameId": "113746"
+    },
+    {
+      "player": "Emari Demercado",
+      "stat": "Longest Rush",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1272,
       "gameId": "113746"
     },
     {
@@ -378,7 +446,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1258,
+      "rank": 1273,
       "gameId": "113746"
     },
     {
@@ -395,7 +463,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1261,
+      "rank": 1276,
       "gameId": "113746"
     },
     {
@@ -412,7 +480,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1270,
+      "rank": 1285,
       "gameId": "113746"
     },
     {
@@ -429,7 +497,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1274,
+      "rank": 1289,
       "gameId": "113746"
     },
     {
@@ -446,7 +514,24 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1287,
+      "rank": 1302,
+      "gameId": "113746"
+    },
+    {
+      "player": "Cody Simon",
+      "stat": "Assists",
+      "line": 3.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1322,
       "gameId": "113746"
     },
     {
@@ -463,7 +548,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1322,
+      "rank": 1339,
       "gameId": "113746"
     },
     {
@@ -480,7 +565,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1341,
+      "rank": 1358,
       "gameId": "113746"
     }
   ]

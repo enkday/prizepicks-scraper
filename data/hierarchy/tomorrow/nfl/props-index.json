@@ -3,7 +3,7 @@
   "sportSlug": "nfl",
   "dayBranch": "tomorrow",
   "gameCount": 14,
-  "propCount": 1041,
+  "propCount": 1037,
   "games": [
     {
       "gameId": "113741",
@@ -98,7 +98,7 @@
         "Chicago Bears",
         "Cleveland Browns"
       ],
-      "propCount": 64,
+      "propCount": 60,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/113748.json"
     },
     {
@@ -177,7 +177,7 @@
   "slates": [
     {
       "slate": "early",
-      "propCount": 611,
+      "propCount": 607,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/early.json"
     },
     {

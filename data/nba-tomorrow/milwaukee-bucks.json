@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2162,
+      "rank": 2222,
       "gameId": "117154"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2180,
+      "rank": 2240,
       "gameId": "117154"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2190,
+      "rank": 2250,
       "gameId": "117154"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2206,
+      "rank": 2266,
       "gameId": "117154"
     },
     {
@@ -89,24 +89,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2247,
-      "gameId": "117154"
-    },
-    {
-      "player": "Kevin Porter",
-      "stat": "Rebounds",
-      "line": 5.5,
-      "sport": "NBA",
-      "startTime": "12/14/25 05:10 PM CST",
-      "startTimeCST": "12/14/25 05:10 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T18:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Milwaukee Bucks",
-      "teamCode": "MIL",
-      "Opponent": "Brooklyn Nets",
-      "opponentCode": "BKN",
-      "rank": 2273,
+      "rank": 2307,
       "gameId": "117154"
     },
     {
@@ -123,7 +106,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2276,
+      "rank": 2335,
       "gameId": "117154"
     },
     {
@@ -140,7 +123,24 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2277,
+      "rank": 2336,
+      "gameId": "117154"
+    },
+    {
+      "player": "Kevin Porter",
+      "stat": "3-PT Made",
+      "line": 2.5,
+      "sport": "NBA",
+      "startTime": "12/14/25 05:10 PM CST",
+      "startTimeCST": "12/14/25 05:10 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T18:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Bucks",
+      "teamCode": "MIL",
+      "Opponent": "Brooklyn Nets",
+      "opponentCode": "BKN",
+      "rank": 2362,
       "gameId": "117154"
     }
   ]

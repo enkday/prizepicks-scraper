@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Hawks",
       "opponentCode": "ATL",
-      "rank": 2394,
+      "rank": 2454,
       "gameId": "117153"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Hawks",
       "opponentCode": "ATL",
-      "rank": 2428,
+      "rank": 2488,
       "gameId": "117153"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Hawks",
       "opponentCode": "ATL",
-      "rank": 2474,
+      "rank": 2534,
       "gameId": "117153"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Hawks",
       "opponentCode": "ATL",
-      "rank": 2475,
+      "rank": 2535,
       "gameId": "117153"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Hawks",
       "opponentCode": "ATL",
-      "rank": 2500,
+      "rank": 2560,
       "gameId": "117153"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Hawks",
       "opponentCode": "ATL",
-      "rank": 2529,
+      "rank": 2589,
       "gameId": "117153"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Hawks",
       "opponentCode": "ATL",
-      "rank": 2549,
+      "rank": 2609,
       "gameId": "117153"
     }
   ]

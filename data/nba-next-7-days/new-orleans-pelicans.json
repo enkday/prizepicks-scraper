@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2768,
+      "rank": 2828,
       "gameId": "117158"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2821,
+      "rank": 2881,
       "gameId": "117158"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2823,
+      "rank": 2883,
       "gameId": "117158"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2824,
+      "rank": 2884,
       "gameId": "117158"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2828,
+      "rank": 2888,
       "gameId": "117158"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2904,
+      "rank": 2964,
       "gameId": "117158"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2928,
+      "rank": 2988,
       "gameId": "117158"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2955,
+      "rank": 3015,
       "gameId": "117158"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2994,
+      "rank": 3054,
       "gameId": "117158"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 2997,
+      "rank": 3057,
       "gameId": "117158"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 3014,
+      "rank": 3074,
       "gameId": "117158"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 3025,
+      "rank": 3085,
       "gameId": "117158"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "NOP",
       "Opponent": "Chicago Bulls",
       "opponentCode": "CHI",
-      "rank": 3047,
+      "rank": 3107,
       "gameId": "117158"
     }
   ]

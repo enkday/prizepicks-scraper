@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2396,
+      "rank": 2456,
       "gameId": "117153"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2429,
+      "rank": 2489,
       "gameId": "117153"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2463,
+      "rank": 2523,
       "gameId": "117153"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2504,
+      "rank": 2564,
       "gameId": "117153"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2510,
+      "rank": 2570,
       "gameId": "117153"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2533,
+      "rank": 2593,
       "gameId": "117153"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2541,
+      "rank": 2601,
       "gameId": "117153"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2580,
+      "rank": 2640,
       "gameId": "117153"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2603,
+      "rank": 2663,
       "gameId": "117153"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2624,
+      "rank": 2684,
       "gameId": "117153"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 2654,
+      "rank": 2714,
       "gameId": "117153"
     }
   ]

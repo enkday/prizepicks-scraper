@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3716,
+      "rank": 3777,
       "gameId": "117156"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3747,
+      "rank": 3808,
       "gameId": "117156"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3794,
+      "rank": 3855,
       "gameId": "117156"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3818,
+      "rank": 3879,
       "gameId": "117156"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3838,
+      "rank": 3899,
       "gameId": "117156"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3846,
+      "rank": 3907,
       "gameId": "117156"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3847,
+      "rank": 3908,
       "gameId": "117156"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3883,
+      "rank": 3944,
       "gameId": "117156"
     }
   ]

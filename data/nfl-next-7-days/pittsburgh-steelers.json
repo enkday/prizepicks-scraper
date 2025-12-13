@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5751,
+      "rank": 5858,
       "gameId": "114160"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5795,
+      "rank": 5902,
       "gameId": "114160"
     },
     {
       "player": "DK Metcalf",
       "stat": "Receiving Yards",
-      "line": 54.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5806,
+      "rank": 5913,
       "gameId": "114160"
     },
     {
       "player": "Jaylen Warren",
       "stat": "Rush Yards",
-      "line": 52.5,
+      "line": 51.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5807,
+      "rank": 5914,
       "gameId": "114160"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5844,
+      "rank": 5952,
       "gameId": "114160"
     },
     {
@@ -106,7 +106,24 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5847,
+      "rank": 5954,
+      "gameId": "114160"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "stat": "Rush Yards",
+      "line": 24.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 5984,
       "gameId": "114160"
     },
     {
@@ -123,24 +140,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5882,
-      "gameId": "114160"
-    },
-    {
-      "player": "Kenneth Gainwell",
-      "stat": "Rush Yards",
-      "line": 23.5,
-      "sport": "NFL",
-      "startTime": "12/15/25 07:15 PM CST",
-      "startTimeCST": "12/15/25 07:15 PM CST",
-      "startDateCST": "2025-12-15",
-      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 5883,
+      "rank": 5989,
       "gameId": "114160"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5884,
+      "rank": 5991,
       "gameId": "114160"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5885,
+      "rank": 5992,
       "gameId": "114160"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5922,
+      "rank": 6029,
       "gameId": "114160"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5940,
+      "rank": 6047,
       "gameId": "114160"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5942,
+      "rank": 6049,
       "gameId": "114160"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5943,
+      "rank": 6050,
       "gameId": "114160"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5947,
+      "rank": 6054,
       "gameId": "114160"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5952,
+      "rank": 6059,
       "gameId": "114160"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5953,
+      "rank": 6060,
       "gameId": "114160"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5954,
+      "rank": 6061,
       "gameId": "114160"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5960,
+      "rank": 6067,
       "gameId": "114160"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5973,
+      "rank": 6080,
       "gameId": "114160"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5976,
+      "rank": 6084,
       "gameId": "114160"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5978,
+      "rank": 6086,
       "gameId": "114160"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6004,
+      "rank": 6112,
       "gameId": "114160"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6006,
+      "rank": 6114,
       "gameId": "114160"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6024,
+      "rank": 6132,
       "gameId": "114160"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6039,
+      "rank": 6147,
       "gameId": "114160"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6050,
+      "rank": 6158,
       "gameId": "114160"
     }
   ]

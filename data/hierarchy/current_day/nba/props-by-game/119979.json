@@ -42,6 +42,20 @@
     "dayBranch": "current_day"
   },
   {
+    "propId": "119979_oklahoma-city-thunder_shai-gilgeous-alexander_bb98add3_fg-attempted",
+    "gameId": "119979",
+    "playerId": "oklahoma-city-thunder_shai-gilgeous-alexander_bb98add3",
+    "stat": "FG Attempted",
+    "line": 18.5,
+    "teamCode": "oklahoma-city-thunder",
+    "opponentCode": "san-antonio-spurs",
+    "oddsType": "standard",
+    "sport": "NBA",
+    "startTime": "12/13/25 08:10 PM CST",
+    "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+    "dayBranch": "current_day"
+  },
+  {
     "propId": "119979_san-antonio-spurs_victor-wembanyama_b7f89491_points",
     "gameId": "119979",
     "playerId": "san-antonio-spurs_victor-wembanyama_b7f89491",
@@ -126,20 +140,6 @@
     "dayBranch": "current_day"
   },
   {
-    "propId": "119979_oklahoma-city-thunder_chet-holmgren_b2794426_fg-attempted",
-    "gameId": "119979",
-    "playerId": "oklahoma-city-thunder_chet-holmgren_b2794426",
-    "stat": "FG Attempted",
-    "line": 11.5,
-    "teamCode": "oklahoma-city-thunder",
-    "opponentCode": "san-antonio-spurs",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/13/25 08:10 PM CST",
-    "startTimeIso": "2025-12-13T21:10:00.000-05:00",
-    "dayBranch": "current_day"
-  },
-  {
     "propId": "119979_san-antonio-spurs_harrison-barnes_11ba66a3_points",
     "gameId": "119979",
     "playerId": "san-antonio-spurs_harrison-barnes_11ba66a3",
@@ -189,20 +189,6 @@
     "line": 9.5,
     "teamCode": "oklahoma-city-thunder",
     "opponentCode": "san-antonio-spurs",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/13/25 08:10 PM CST",
-    "startTimeIso": "2025-12-13T21:10:00.000-05:00",
-    "dayBranch": "current_day"
-  },
-  {
-    "propId": "119979_san-antonio-spurs_devin-vassell_268f15bb_fg-attempted",
-    "gameId": "119979",
-    "playerId": "san-antonio-spurs_devin-vassell_268f15bb",
-    "stat": "FG Attempted",
-    "line": 9.5,
-    "teamCode": "san-antonio-spurs",
-    "opponentCode": "oklahoma-city-thunder",
     "oddsType": "standard",
     "sport": "NBA",
     "startTime": "12/13/25 08:10 PM CST",
@@ -847,20 +833,6 @@
     "line": 1.5,
     "teamCode": "san-antonio-spurs",
     "opponentCode": "oklahoma-city-thunder",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/13/25 08:10 PM CST",
-    "startTimeIso": "2025-12-13T21:10:00.000-05:00",
-    "dayBranch": "current_day"
-  },
-  {
-    "propId": "119979_oklahoma-city-thunder_isaiah-hartenstein_e20ac1f9_turnovers",
-    "gameId": "119979",
-    "playerId": "oklahoma-city-thunder_isaiah-hartenstein_e20ac1f9",
-    "stat": "Turnovers",
-    "line": 1.5,
-    "teamCode": "oklahoma-city-thunder",
-    "opponentCode": "san-antonio-spurs",
     "oddsType": "standard",
     "sport": "NBA",
     "startTime": "12/13/25 08:10 PM CST",

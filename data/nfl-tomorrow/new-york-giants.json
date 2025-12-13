@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -10,7 +10,7 @@
     {
       "player": "Jaxson Dart",
       "stat": "Pass Yards",
-      "line": 208.5,
+      "line": 207.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2125,
+      "rank": 2231,
       "gameId": "113747"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2158,
+      "rank": 2264,
       "gameId": "113747"
     },
     {
       "player": "Wan'Dale Robinson",
       "stat": "Receiving Yards",
-      "line": 57.5,
+      "line": 56.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2171,
+      "rank": 2277,
       "gameId": "113747"
     },
     {
       "player": "Tyrone Tracy",
       "stat": "Rush Yards",
-      "line": 51.5,
+      "line": 49.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2173,
+      "rank": 2285,
       "gameId": "113747"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2189,
+      "rank": 2295,
       "gameId": "113747"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2208,
+      "rank": 2313,
       "gameId": "113747"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2209,
+      "rank": 2314,
       "gameId": "113747"
     },
     {
@@ -140,24 +140,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2212,
-      "gameId": "113747"
-    },
-    {
-      "player": "Jaxson Dart",
-      "stat": "Rush Yards",
-      "line": 28.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 2234,
+      "rank": 2317,
       "gameId": "113747"
     },
     {
@@ -174,7 +157,24 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2235,
+      "rank": 2339,
+      "gameId": "113747"
+    },
+    {
+      "player": "Jaxson Dart",
+      "stat": "Rush Yards",
+      "line": 26.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2342,
       "gameId": "113747"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2252,
+      "rank": 2357,
       "gameId": "113747"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2253,
+      "rank": 2358,
       "gameId": "113747"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2277,
+      "rank": 2382,
       "gameId": "113747"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2278,
+      "rank": 2383,
       "gameId": "113747"
     },
     {
@@ -259,24 +259,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2284,
-      "gameId": "113747"
-    },
-    {
-      "player": "Tyrone Tracy",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 2287,
+      "rank": 2389,
       "gameId": "113747"
     },
     {
@@ -293,7 +276,24 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2304,
+      "rank": 2408,
+      "gameId": "113747"
+    },
+    {
+      "player": "Tyrone Tracy",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2410,
       "gameId": "113747"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2307,
+      "rank": 2412,
       "gameId": "113747"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2308,
+      "rank": 2413,
       "gameId": "113747"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2309,
+      "rank": 2414,
       "gameId": "113747"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2316,
+      "rank": 2421,
       "gameId": "113747"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2319,
+      "rank": 2424,
       "gameId": "113747"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2336,
+      "rank": 2441,
       "gameId": "113747"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2347,
+      "rank": 2452,
       "gameId": "113747"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2354,
+      "rank": 2459,
       "gameId": "113747"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2374,
+      "rank": 2479,
       "gameId": "113747"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2375,
+      "rank": 2480,
       "gameId": "113747"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2392,
+      "rank": 2497,
       "gameId": "113747"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2404,
+      "rank": 2509,
       "gameId": "113747"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2410,
+      "rank": 2515,
       "gameId": "113747"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2411,
+      "rank": 2516,
       "gameId": "113747"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2431,
+      "rank": 2536,
       "gameId": "113747"
     }
   ]

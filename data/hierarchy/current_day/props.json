@@ -854,6 +854,20 @@
     "dayBranch": "current_day"
   },
   {
+    "propId": "119503_orlando-magic_jalen-suggs_fde90e90_two-pointers-made",
+    "gameId": "119503",
+    "playerId": "orlando-magic_jalen-suggs_fde90e90",
+    "stat": "Two Pointers Made",
+    "line": 3.5,
+    "teamCode": "orlando-magic",
+    "opponentCode": "new-york-knicks",
+    "oddsType": "standard",
+    "sport": "NBA",
+    "startTime": "12/13/25 04:40 PM CST",
+    "startTimeIso": "2025-12-13T17:40:00.000-05:00",
+    "dayBranch": "current_day"
+  },
+  {
     "propId": "119503_new-york-knicks_karl-anthony-towns_766a74e9_personal-fouls",
     "gameId": "119503",
     "playerId": "new-york-knicks_karl-anthony-towns_766a74e9",
@@ -886,20 +900,6 @@
     "gameId": "119503",
     "playerId": "orlando-magic_wendell-carter_b30665ce",
     "stat": "Personal Fouls",
-    "line": 3.5,
-    "teamCode": "orlando-magic",
-    "opponentCode": "new-york-knicks",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/13/25 04:40 PM CST",
-    "startTimeIso": "2025-12-13T17:40:00.000-05:00",
-    "dayBranch": "current_day"
-  },
-  {
-    "propId": "119503_orlando-magic_wendell-carter_b30665ce_fg-made",
-    "gameId": "119503",
-    "playerId": "orlando-magic_wendell-carter_b30665ce",
-    "stat": "FG Made",
     "line": 3.5,
     "teamCode": "orlando-magic",
     "opponentCode": "new-york-knicks",
@@ -1386,6 +1386,20 @@
     "dayBranch": "current_day"
   },
   {
+    "propId": "119979_oklahoma-city-thunder_shai-gilgeous-alexander_bb98add3_fg-attempted",
+    "gameId": "119979",
+    "playerId": "oklahoma-city-thunder_shai-gilgeous-alexander_bb98add3",
+    "stat": "FG Attempted",
+    "line": 18.5,
+    "teamCode": "oklahoma-city-thunder",
+    "opponentCode": "san-antonio-spurs",
+    "oddsType": "standard",
+    "sport": "NBA",
+    "startTime": "12/13/25 08:10 PM CST",
+    "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+    "dayBranch": "current_day"
+  },
+  {
     "propId": "119979_san-antonio-spurs_victor-wembanyama_b7f89491_points",
     "gameId": "119979",
     "playerId": "san-antonio-spurs_victor-wembanyama_b7f89491",
@@ -1470,20 +1484,6 @@
     "dayBranch": "current_day"
   },
   {
-    "propId": "119979_oklahoma-city-thunder_chet-holmgren_b2794426_fg-attempted",
-    "gameId": "119979",
-    "playerId": "oklahoma-city-thunder_chet-holmgren_b2794426",
-    "stat": "FG Attempted",
-    "line": 11.5,
-    "teamCode": "oklahoma-city-thunder",
-    "opponentCode": "san-antonio-spurs",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/13/25 08:10 PM CST",
-    "startTimeIso": "2025-12-13T21:10:00.000-05:00",
-    "dayBranch": "current_day"
-  },
-  {
     "propId": "119979_san-antonio-spurs_harrison-barnes_11ba66a3_points",
     "gameId": "119979",
     "playerId": "san-antonio-spurs_harrison-barnes_11ba66a3",
@@ -1533,20 +1533,6 @@
     "line": 9.5,
     "teamCode": "oklahoma-city-thunder",
     "opponentCode": "san-antonio-spurs",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/13/25 08:10 PM CST",
-    "startTimeIso": "2025-12-13T21:10:00.000-05:00",
-    "dayBranch": "current_day"
-  },
-  {
-    "propId": "119979_san-antonio-spurs_devin-vassell_268f15bb_fg-attempted",
-    "gameId": "119979",
-    "playerId": "san-antonio-spurs_devin-vassell_268f15bb",
-    "stat": "FG Attempted",
-    "line": 9.5,
-    "teamCode": "san-antonio-spurs",
-    "opponentCode": "oklahoma-city-thunder",
     "oddsType": "standard",
     "sport": "NBA",
     "startTime": "12/13/25 08:10 PM CST",
@@ -2198,20 +2184,6 @@
     "dayBranch": "current_day"
   },
   {
-    "propId": "119979_oklahoma-city-thunder_isaiah-hartenstein_e20ac1f9_turnovers",
-    "gameId": "119979",
-    "playerId": "oklahoma-city-thunder_isaiah-hartenstein_e20ac1f9",
-    "stat": "Turnovers",
-    "line": 1.5,
-    "teamCode": "oklahoma-city-thunder",
-    "opponentCode": "san-antonio-spurs",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/13/25 08:10 PM CST",
-    "startTimeIso": "2025-12-13T21:10:00.000-05:00",
-    "dayBranch": "current_day"
-  },
-  {
     "propId": "119979_oklahoma-city-thunder_chet-holmgren_b2794426_dunks",
     "gameId": "119979",
     "playerId": "oklahoma-city-thunder_chet-holmgren_b2794426",
@@ -2496,7 +2468,7 @@
     "gameId": "113529",
     "playerId": "navy-midshipmen_blake-horvath_999f626e",
     "stat": "Pass Yards",
-    "line": 109.5,
+    "line": 110.5,
     "teamCode": "navy-midshipmen",
     "opponentCode": "army-black-knights",
     "oddsType": "standard",

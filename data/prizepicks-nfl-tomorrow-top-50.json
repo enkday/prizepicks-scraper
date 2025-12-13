@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T15:41:33.987Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:41 PM UTC",
+  "scrapedAt": "2025-12-13T17:09:03.820Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
@@ -211,6 +211,91 @@
       "gameId": "113748"
     },
     {
+      "player": "Luther Burden",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 40,
+      "gameId": "113748"
+    },
+    {
+      "player": "DJ Moore",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 41,
+      "gameId": "113748"
+    },
+    {
+      "player": "Olamide Zaccheaus",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 42,
+      "gameId": "113748"
+    },
+    {
+      "player": "Cole Kmet",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 43,
+      "gameId": "113748"
+    },
+    {
+      "player": "Luther Burden",
+      "stat": "Yards on First Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 44,
+      "gameId": "113748"
+    },
+    {
       "player": "Jerry Jeudy",
       "stat": "Yards on First Reception",
       "line": 8.5,
@@ -224,7 +309,24 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 40,
+      "rank": 45,
+      "gameId": "113748"
+    },
+    {
+      "player": "DJ Moore",
+      "stat": "Yards on First Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 46,
       "gameId": "113748"
     },
     {
@@ -241,7 +343,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 41,
+      "rank": 47,
       "gameId": "113748"
     },
     {
@@ -258,7 +360,41 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 42,
+      "rank": 48,
+      "gameId": "113748"
+    },
+    {
+      "player": "Cole Kmet",
+      "stat": "Yards on First Reception",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 49,
+      "gameId": "113748"
+    },
+    {
+      "player": "Olamide Zaccheaus",
+      "stat": "Yards on First Reception",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 52,
       "gameId": "113748"
     },
     {
@@ -275,7 +411,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 45,
+      "rank": 53,
       "gameId": "113748"
     },
     {
@@ -292,7 +428,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 49,
+      "rank": 57,
       "gameId": "113745"
     },
     {
@@ -309,7 +445,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 50,
+      "rank": 58,
       "gameId": "113745"
     },
     {
@@ -326,7 +462,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 51,
+      "rank": 59,
       "gameId": "113745"
     },
     {
@@ -343,7 +479,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 52,
+      "rank": 60,
       "gameId": "113745"
     },
     {
@@ -360,7 +496,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 53,
+      "rank": 61,
       "gameId": "113745"
     },
     {
@@ -377,7 +513,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 54,
+      "rank": 62,
       "gameId": "113745"
     },
     {
@@ -394,7 +530,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 55,
+      "rank": 63,
       "gameId": "113745"
     },
     {
@@ -411,7 +547,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 56,
+      "rank": 64,
       "gameId": "113745"
     },
     {
@@ -428,7 +564,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 57,
+      "rank": 65,
       "gameId": "113745"
     },
     {
@@ -445,7 +581,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 58,
+      "rank": 66,
       "gameId": "113745"
     },
     {
@@ -462,7 +598,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 59,
+      "rank": 67,
       "gameId": "113745"
     },
     {
@@ -479,7 +615,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 60,
+      "rank": 68,
       "gameId": "113745"
     },
     {
@@ -496,7 +632,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 61,
+      "rank": 69,
       "gameId": "113745"
     },
     {
@@ -513,7 +649,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 62,
+      "rank": 70,
       "gameId": "113745"
     },
     {
@@ -530,7 +666,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 63,
+      "rank": 71,
       "gameId": "113745"
     },
     {
@@ -547,7 +683,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 66,
+      "rank": 74,
       "gameId": "113745"
     },
     {
@@ -564,7 +700,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 67,
+      "rank": 75,
       "gameId": "113745"
     },
     {
@@ -581,13 +717,13 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 68,
+      "rank": 76,
       "gameId": "113745"
     },
     {
       "player": "Patrick Mahomes",
       "stat": "Pass Yards",
-      "line": 241.5,
+      "line": 236.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -598,7 +734,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 90,
+      "rank": 99,
       "gameId": "113743"
     },
     {
@@ -615,7 +751,7 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 100,
+      "rank": 108,
       "gameId": "113743"
     },
     {
@@ -632,7 +768,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 130,
+      "rank": 138,
       "gameId": "113743"
     },
     {
@@ -649,7 +785,7 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 131,
+      "rank": 139,
       "gameId": "113743"
     },
     {
@@ -666,7 +802,7 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 132,
+      "rank": 140,
       "gameId": "113743"
     },
     {
@@ -683,7 +819,24 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 171,
+      "rank": 179,
+      "gameId": "113743"
+    },
+    {
+      "player": "Travis Kelce",
+      "stat": "Receiving Yards",
+      "line": 43.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 182,
       "gameId": "113743"
     },
     {
@@ -700,160 +853,7 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 174,
-      "gameId": "113743"
-    },
-    {
-      "player": "Kareem Hunt",
-      "stat": "Rush Yards",
-      "line": 39.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 177,
-      "gameId": "113743"
-    },
-    {
-      "player": "Travis Kelce",
-      "stat": "Receiving Yards",
-      "line": 39.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 187,
-      "gameId": "113743"
-    },
-    {
-      "player": "Patrick Mahomes",
-      "stat": "Longest Completion",
-      "line": 35.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 203,
-      "gameId": "113743"
-    },
-    {
-      "player": "Xavier Worthy",
-      "stat": "Receiving Yards",
-      "line": 35.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 204,
-      "gameId": "113743"
-    },
-    {
-      "player": "Justin Herbert",
-      "stat": "Longest Completion",
-      "line": 34.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 205,
-      "gameId": "113743"
-    },
-    {
-      "player": "Patrick Mahomes",
-      "stat": "Pass Attempts",
-      "line": 34,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 211,
-      "gameId": "113743"
-    },
-    {
-      "player": "Oronde Gadsden",
-      "stat": "Receiving Yards",
-      "line": 33.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 212,
-      "gameId": "113743"
-    },
-    {
-      "player": "Isiah Pacheco",
-      "stat": "Rush Yards",
-      "line": 32.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 213,
-      "gameId": "113743"
-    },
-    {
-      "player": "Quentin Johnston",
-      "stat": "Receiving Yards",
-      "line": 31.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 215,
+      "rank": 183,
       "gameId": "113743"
     }
   ]
