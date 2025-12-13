@@ -1,0 +1,289 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "PrizePicks Data API (Actions)",
+    "description": "Minimal OpenAPI surface (<=30 ops) for GPT Actions. Prefer hierarchy connector-safe slices.",
+    "version": "1.1.0"
+  },
+  "servers": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/enkday/prizepicks-data-mirror@main"
+    }
+  ],
+  "paths": {
+    "/data/hierarchy/current_day/games.json": {
+      "get": {
+        "summary": "Normalized games (current_day)",
+        "operationId": "getNormalizedGamesCurrentDay",
+        "responses": {
+          "200": {
+            "description": "Array of games",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/hierarchy/tomorrow/games.json": {
+      "get": {
+        "summary": "Normalized games (tomorrow)",
+        "operationId": "getNormalizedGamesTomorrow",
+        "responses": {
+          "200": {
+            "description": "Array of games",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "/data/hierarchy/current_day/{sport}/props-index.json": {
+      "get": {
+        "summary": "Connector-safe props index (current_day)",
+        "description": "Small index listing games/slates and paths to per-game/per-slate prop slice files.",
+        "operationId": "getSportPropsIndexCurrentDay",
+        "parameters": [
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" },
+            "description": "Lowercase sport slug (e.g., nfl, nba, ncaaf)"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Sport props index",
+            "content": {
+              "application/json": { "schema": { "$ref": "#/components/schemas/SportPropsIndex" } }
+            }
+          }
+        }
+      }
+    },
+    "/data/hierarchy/tomorrow/{sport}/props-index.json": {
+      "get": {
+        "summary": "Connector-safe props index (tomorrow)",
+        "description": "Small index listing games/slates and paths to per-game/per-slate prop slice files.",
+        "operationId": "getSportPropsIndexTomorrow",
+        "parameters": [
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" },
+            "description": "Lowercase sport slug (e.g., nfl, nba, ncaaf)"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Sport props index",
+            "content": {
+              "application/json": { "schema": { "$ref": "#/components/schemas/SportPropsIndex" } }
+            }
+          }
+        }
+      }
+    },
+
+    "/data/hierarchy/current_day/{sport}/props-by-game/{gameId}.json": {
+      "get": {
+        "summary": "Connector-safe props by game (current_day)",
+        "operationId": "getSportPropsByGameCurrentDay",
+        "parameters": [
+          { "name": "sport", "in": "path", "required": true, "schema": { "type": "string" } },
+          { "name": "gameId", "in": "path", "required": true, "schema": { "type": "string" } }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of normalized props",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/hierarchy/tomorrow/{sport}/props-by-game/{gameId}.json": {
+      "get": {
+        "summary": "Connector-safe props by game (tomorrow)",
+        "operationId": "getSportPropsByGameTomorrow",
+        "parameters": [
+          { "name": "sport", "in": "path", "required": true, "schema": { "type": "string" } },
+          { "name": "gameId", "in": "path", "required": true, "schema": { "type": "string" } }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of normalized props",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "/data/hierarchy/current_day/{sport}/props-by-slate/{slate}.json": {
+      "get": {
+        "summary": "Connector-safe props by slate (current_day)",
+        "operationId": "getSportPropsBySlateCurrentDay",
+        "parameters": [
+          { "name": "sport", "in": "path", "required": true, "schema": { "type": "string" } },
+          { "name": "slate", "in": "path", "required": true, "schema": { "type": "string" } }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of normalized props",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/hierarchy/tomorrow/{sport}/props-by-slate/{slate}.json": {
+      "get": {
+        "summary": "Connector-safe props by slate (tomorrow)",
+        "operationId": "getSportPropsBySlateTomorrow",
+        "parameters": [
+          { "name": "sport", "in": "path", "required": true, "schema": { "type": "string" } },
+          { "name": "slate", "in": "path", "required": true, "schema": { "type": "string" } }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of normalized props",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "/data/prizepicks-nfl-tomorrow-top-50.json": {
+      "get": {
+        "summary": "NFL tomorrow top-50 (proof-of-scrape)",
+        "description": "Small payload. Use only to read `scrapedDate` proof-of-fetch; do NOT treat as the full prop universe.",
+        "operationId": "getNFLPropsTomorrowTop50",
+        "responses": {
+          "200": {
+            "description": "PrizePicksData payload",
+            "content": {
+              "application/json": { "schema": { "$ref": "#/components/schemas/PrizePicksData" } }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "PrizePicksData": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "scrapedDate": { "type": "string" },
+          "props": {
+            "type": "array",
+            "items": { "type": "object", "additionalProperties": true }
+          }
+        }
+      },
+      "SportPropsIndex": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["sport", "sportSlug", "games"],
+        "properties": {
+          "sport": { "type": "string" },
+          "sportSlug": { "type": "string" },
+          "dayBranch": { "type": "string" },
+          "gameCount": { "type": "integer" },
+          "propCount": { "type": "integer" },
+          "games": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": true,
+              "required": ["gameId", "path"],
+              "properties": {
+                "gameId": { "type": "string" },
+                "slate": { "type": "string" },
+                "startTime": { "type": "string" },
+                "startTimeIso": { "type": "string" },
+                "teams": { "type": "array", "items": { "type": "string" } },
+                "propCount": { "type": "integer" },
+                "path": { "type": "string" }
+              }
+            }
+          },
+          "slates": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": true,
+              "properties": {
+                "slate": { "type": "string" },
+                "propCount": { "type": "integer" },
+                "path": { "type": "string" }
+              }
+            }
+          }
+        }
+      },
+      "NormalizedGame": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "gameId": { "type": "string" },
+          "sport": { "type": "string" },
+          "startTimeIso": { "type": "string" },
+          "teams": { "type": "array", "items": { "type": "string" } }
+        }
+      },
+      "NormalizedProp": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "propId": { "type": "string" },
+          "gameId": { "type": "string" },
+          "playerId": { "type": "string" },
+          "stat": { "type": "string" },
+          "line": { "type": "number" }
+        }
+      }
+    }
+  }
+}
