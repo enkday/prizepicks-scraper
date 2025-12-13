@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:19:33.047Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:19 AM UTC",
+  "scrapedAt": "2025-12-13T03:47:35.360Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 662,
+      "rank": 661,
       "gameId": "119979"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 766,
+      "rank": 767,
       "gameId": "119979"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 781,
+      "rank": 783,
       "gameId": "119979"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 785,
+      "rank": 789,
       "gameId": "119979"
     },
     {
@@ -140,7 +140,24 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 847,
+      "rank": 854,
+      "gameId": "119979"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "stat": "Assists",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 08:10 PM CST",
+      "startTimeCST": "12/13/25 08:10 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 898,
       "gameId": "119979"
     },
     {
@@ -157,24 +174,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 926,
-      "gameId": "119979"
-    },
-    {
-      "player": "Victor Wembanyama",
-      "stat": "Blocked Shots",
-      "line": 2.5,
-      "sport": "NBA",
-      "startTime": "12/13/25 08:10 PM CST",
-      "startTimeCST": "12/13/25 08:10 PM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Antonio Spurs",
-      "teamCode": "SAS",
-      "Opponent": "Oklahoma City Thunder",
-      "opponentCode": "OKC",
-      "rank": 986,
+      "rank": 938,
       "gameId": "119979"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1010,
+      "rank": 1032,
       "gameId": "119979"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1077,
+      "rank": 1107,
       "gameId": "119979"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1083,
+      "rank": 1113,
       "gameId": "119979"
     }
   ]

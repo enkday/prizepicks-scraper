@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:19:33.047Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:19 AM UTC",
+  "scrapedAt": "2025-12-13T03:47:35.360Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -180,7 +180,7 @@
     {
       "player": "Andrei Iosivas",
       "stat": "Receiving Yards",
-      "line": 27.5,
+      "line": 29.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -191,7 +191,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 704,
+      "rank": 699,
       "gameId": "113742"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 909,
+      "rank": 911,
       "gameId": "113742"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 922,
+      "rank": 924,
       "gameId": "113742"
     },
     {
@@ -684,7 +684,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 930,
+      "rank": 932,
       "gameId": "113742"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 944,
+      "rank": 946,
       "gameId": "113742"
     },
     {
@@ -718,7 +718,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 951,
+      "rank": 953,
       "gameId": "113742"
     },
     {
@@ -735,7 +735,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 952,
+      "rank": 954,
       "gameId": "113742"
     },
     {
@@ -752,7 +752,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 956,
+      "rank": 958,
       "gameId": "113742"
     }
   ]

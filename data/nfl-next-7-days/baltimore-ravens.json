@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:19:33.047Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:19 AM UTC",
+  "scrapedAt": "2025-12-13T03:47:35.360Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -684,7 +684,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 904,
+      "rank": 906,
       "gameId": "113742"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 905,
+      "rank": 907,
       "gameId": "113742"
     },
     {
@@ -718,7 +718,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 906,
+      "rank": 908,
       "gameId": "113742"
     },
     {
@@ -735,7 +735,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 921,
+      "rank": 923,
       "gameId": "113742"
     },
     {
@@ -752,7 +752,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 923,
+      "rank": 925,
       "gameId": "113742"
     },
     {
@@ -769,7 +769,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 925,
+      "rank": 927,
       "gameId": "113742"
     },
     {
@@ -786,7 +786,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 926,
+      "rank": 928,
       "gameId": "113742"
     },
     {
@@ -803,7 +803,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 934,
+      "rank": 936,
       "gameId": "113742"
     },
     {
@@ -820,7 +820,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 940,
+      "rank": 942,
       "gameId": "113742"
     },
     {
@@ -837,7 +837,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 942,
+      "rank": 944,
       "gameId": "113742"
     },
     {
@@ -854,7 +854,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 955,
+      "rank": 957,
       "gameId": "113742"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:19:33.047Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:19 AM UTC",
+  "scrapedAt": "2025-12-13T03:47:35.360Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -123,7 +123,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 267,
+      "rank": 268,
       "gameId": "119503"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 352,
+      "rank": 351,
       "gameId": "119503"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 353,
+      "rank": 352,
       "gameId": "119503"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 384,
+      "rank": 383,
       "gameId": "119503"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 487,
+      "rank": 486,
       "gameId": "119503"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 567,
+      "rank": 566,
       "gameId": "119503"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 570,
+      "rank": 569,
       "gameId": "119503"
     }
   ]
