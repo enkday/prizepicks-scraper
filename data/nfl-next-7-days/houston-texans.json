@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T02:36:25.124Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:36 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -76,7 +76,7 @@
       "gameId": "113746"
     },
     {
-      "player": "Dalton Schultz",
+      "player": "Jayden Higgins",
       "stat": "Receiving Yards",
       "line": 38.5,
       "sport": "NFL",
@@ -93,9 +93,9 @@
       "gameId": "113746"
     },
     {
-      "player": "Jayden Higgins",
+      "player": "Dalton Schultz",
       "stat": "Receiving Yards",
-      "line": 38.5,
+      "line": 37.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1092,
+      "rank": 1093,
       "gameId": "113746"
     },
     {

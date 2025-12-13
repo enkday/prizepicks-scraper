@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T02:35:04.620Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "LAL",
       "Opponent": "Phoenix Suns",
       "opponentCode": "PHX",
-      "rank": 1612,
+      "rank": 1716,
       "gameId": "119980"
     }
   ]

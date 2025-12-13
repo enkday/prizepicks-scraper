@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T02:36:25.124Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:36 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -44,7 +44,7 @@
     {
       "player": "CeeDee Lamb",
       "stat": "Receiving Yards",
-      "line": 82.5,
+      "line": 83.5,
       "sport": "NFL",
       "startTime": "12/14/25 07:20 PM CST",
       "startTimeCST": "12/14/25 07:20 PM CST",
@@ -242,7 +242,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5426,
+      "rank": 5425,
       "gameId": "113994"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T02:36:25.124Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:36 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -89,7 +89,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1093,
+      "rank": 1092,
       "gameId": "113746"
     },
     {

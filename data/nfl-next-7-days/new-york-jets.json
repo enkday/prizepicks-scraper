@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T02:36:25.124Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:36 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -78,7 +78,7 @@
     {
       "player": "John Metchie",
       "stat": "Receiving Yards",
-      "line": 37.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -229,9 +229,9 @@
       "gameId": "113744"
     },
     {
-      "player": "Isaiah Williams",
+      "player": "Breece Hall",
       "stat": "Receiving Yards",
-      "line": 11.5,
+      "line": 13.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -242,12 +242,12 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3148,
+      "rank": 3144,
       "gameId": "113744"
     },
     {
-      "player": "Jeremy Ruckert",
-      "stat": "Longest Reception",
+      "player": "Isaiah Williams",
+      "stat": "Receiving Yards",
       "line": 11.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -263,8 +263,8 @@
       "gameId": "113744"
     },
     {
-      "player": "Breece Hall",
-      "stat": "Receiving Yards",
+      "player": "Jeremy Ruckert",
+      "stat": "Longest Reception",
       "line": 11.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -297,8 +297,8 @@
       "gameId": "113744"
     },
     {
-      "player": "Isaiah Davis",
-      "stat": "Rush Yards",
+      "player": "Breece Hall",
+      "stat": "Longest Reception",
       "line": 8.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -314,9 +314,9 @@
       "gameId": "113744"
     },
     {
-      "player": "Adonai Mitchell",
-      "stat": "Rec Targets",
-      "line": 7.5,
+      "player": "Isaiah Davis",
+      "stat": "Rush Yards",
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -327,12 +327,12 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3167,
+      "rank": 3166,
       "gameId": "113744"
     },
     {
-      "player": "Breece Hall",
-      "stat": "Longest Reception",
+      "player": "Adonai Mitchell",
+      "stat": "Rec Targets",
       "line": 7.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",

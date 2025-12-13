@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T02:36:25.124Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:36 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "totalProps": 1105,
@@ -3712,7 +3712,7 @@
       "gameId": "113746"
     },
     {
-      "player": "Dalton Schultz",
+      "player": "Jayden Higgins",
       "stat": "Receiving Yards",
       "line": 38.5,
       "sport": "NFL",
@@ -3729,23 +3729,6 @@
       "gameId": "113746"
     },
     {
-      "player": "Jayden Higgins",
-      "stat": "Receiving Yards",
-      "line": 38.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1092,
-      "gameId": "113746"
-    },
-    {
       "player": "Jacoby Brissett",
       "stat": "Pass Attempts",
       "line": 38,
@@ -3759,6 +3742,23 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
+      "rank": 1092,
+      "gameId": "113746"
+    },
+    {
+      "player": "Dalton Schultz",
+      "stat": "Receiving Yards",
+      "line": 37.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
       "rank": 1093,
       "gameId": "113746"
     },
@@ -5782,7 +5782,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1743,
+      "rank": 1742,
       "gameId": "113748"
     },
     {
@@ -7964,7 +7964,7 @@
     {
       "player": "Drake Maye",
       "stat": "Pass Yards",
-      "line": 233.5,
+      "line": 236.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -8117,7 +8117,7 @@
     {
       "player": "Hunter Henry",
       "stat": "Receiving Yards",
-      "line": 39.5,
+      "line": 41.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -8134,7 +8134,7 @@
     {
       "player": "Rhamondre Stevenson",
       "stat": "Rush Yards",
-      "line": 38.5,
+      "line": 39.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -8145,7 +8145,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2607,
+      "rank": 2587,
       "gameId": "113745"
     },
     {
@@ -9630,7 +9630,7 @@
     {
       "player": "John Metchie",
       "stat": "Receiving Yards",
-      "line": 37.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -9951,6 +9951,23 @@
       "gameId": "113744"
     },
     {
+      "player": "Breece Hall",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 3144,
+      "gameId": "113744"
+    },
+    {
       "player": "Travis Etienne",
       "stat": "Receiving Yards",
       "line": 11.5,
@@ -9964,7 +9981,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3147,
+      "rank": 3148,
       "gameId": "113744"
     },
     {
@@ -9981,29 +9998,12 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3148,
+      "rank": 3149,
       "gameId": "113744"
     },
     {
       "player": "Jeremy Ruckert",
       "stat": "Longest Reception",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3149,
-      "gameId": "113744"
-    },
-    {
-      "player": "Breece Hall",
-      "stat": "Receiving Yards",
       "line": 11.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -10087,8 +10087,8 @@
       "gameId": "113744"
     },
     {
-      "player": "Isaiah Davis",
-      "stat": "Rush Yards",
+      "player": "Breece Hall",
+      "stat": "Longest Reception",
       "line": 8.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -10104,9 +10104,9 @@
       "gameId": "113744"
     },
     {
-      "player": "Adonai Mitchell",
-      "stat": "Rec Targets",
-      "line": 7.5,
+      "player": "Isaiah Davis",
+      "stat": "Rush Yards",
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -10117,12 +10117,12 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3167,
+      "rank": 3166,
       "gameId": "113744"
     },
     {
-      "player": "Breece Hall",
-      "stat": "Longest Reception",
+      "player": "Adonai Mitchell",
+      "stat": "Rec Targets",
       "line": 7.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -10497,7 +10497,7 @@
     {
       "player": "Matthew Stafford",
       "stat": "Pass Yards",
-      "line": 281.5,
+      "line": 284.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -10508,7 +10508,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3321,
+      "rank": 3320,
       "gameId": "113751"
     },
     {
@@ -11906,6 +11906,23 @@
       "gameId": "113750"
     },
     {
+      "player": "Jalen Coker",
+      "stat": "Receiving Yards",
+      "line": 34.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 3837,
+      "gameId": "113750"
+    },
+    {
       "player": "Tyler Shough",
       "stat": "Longest Completion",
       "line": 33.5,
@@ -11919,24 +11936,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3839,
-      "gameId": "113750"
-    },
-    {
-      "player": "Jalen Coker",
-      "stat": "Receiving Yards",
-      "line": 32.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 3841,
+      "rank": 3840,
       "gameId": "113750"
     },
     {
@@ -14456,7 +14456,7 @@
       "gameId": "113752"
     },
     {
-      "player": "Tyler Warren",
+      "player": "Alec Pierce",
       "stat": "Longest Reception",
       "line": 16.5,
       "sport": "NFL",
@@ -14490,23 +14490,6 @@
       "gameId": "113752"
     },
     {
-      "player": "Rashid Shaheed",
-      "stat": "Longest Reception",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 4672,
-      "gameId": "113752"
-    },
-    {
       "player": "Philip Rivers",
       "stat": "Pass Completions",
       "line": 16.5,
@@ -14520,7 +14503,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4673,
+      "rank": 4672,
       "gameId": "113752"
     },
     {
@@ -14537,11 +14520,11 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4675,
+      "rank": 4674,
       "gameId": "113752"
     },
     {
-      "player": "Alec Pierce",
+      "player": "Tyler Warren",
       "stat": "Longest Reception",
       "line": 15.5,
       "sport": "NFL",
@@ -14554,6 +14537,23 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
+      "rank": 4675,
+      "gameId": "113752"
+    },
+    {
+      "player": "Rashid Shaheed",
+      "stat": "Longest Reception",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
       "rank": 4676,
       "gameId": "113752"
     },
@@ -16583,7 +16583,7 @@
     {
       "player": "CeeDee Lamb",
       "stat": "Receiving Yards",
-      "line": 82.5,
+      "line": 83.5,
       "sport": "NFL",
       "startTime": "12/14/25 07:20 PM CST",
       "startTimeCST": "12/14/25 07:20 PM CST",
@@ -16668,7 +16668,7 @@
     {
       "player": "Justin Jefferson",
       "stat": "Receiving Yards",
-      "line": 62.5,
+      "line": 59.5,
       "sport": "NFL",
       "startTime": "12/14/25 07:20 PM CST",
       "startTimeCST": "12/14/25 07:20 PM CST",
@@ -16679,7 +16679,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5302,
+      "rank": 5307,
       "gameId": "113994"
     },
     {
@@ -16955,23 +16955,6 @@
       "gameId": "113994"
     },
     {
-      "player": "Aaron Jones",
-      "stat": "Receiving Yards",
-      "line": 17.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5425,
-      "gameId": "113994"
-    },
-    {
       "player": "Javonte Williams",
       "stat": "Rush Attempts",
       "line": 17.5,
@@ -16985,7 +16968,24 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5426,
+      "rank": 5425,
+      "gameId": "113994"
+    },
+    {
+      "player": "Aaron Jones",
+      "stat": "Receiving Yards",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 5427,
       "gameId": "113994"
     },
     {
@@ -17801,7 +17801,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5642,
+      "rank": 5643,
       "gameId": "114160"
     },
     {
@@ -17835,7 +17835,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5683,
+      "rank": 5684,
       "gameId": "114160"
     },
     {
@@ -17858,7 +17858,7 @@
     {
       "player": "Jaylen Waddle",
       "stat": "Receiving Yards",
-      "line": 63.5,
+      "line": 61.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -17875,7 +17875,7 @@
     {
       "player": "DK Metcalf",
       "stat": "Receiving Yards",
-      "line": 53.5,
+      "line": 54.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -17892,7 +17892,7 @@
     {
       "player": "Jaylen Warren",
       "stat": "Rush Yards",
-      "line": 51.5,
+      "line": 52.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -17903,7 +17903,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5698,
+      "rank": 5697,
       "gameId": "114160"
     },
     {
@@ -18009,8 +18009,8 @@
       "gameId": "114160"
     },
     {
-      "player": "Malik Washington",
-      "stat": "Receiving Yards",
+      "player": "Jaylen Waddle",
+      "stat": "Longest Reception",
       "line": 24.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
@@ -18026,9 +18026,9 @@
       "gameId": "114160"
     },
     {
-      "player": "Jaylen Waddle",
-      "stat": "Longest Reception",
-      "line": 24.5,
+      "player": "Malik Washington",
+      "stat": "Receiving Yards",
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -18039,7 +18039,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5766,
+      "rank": 5772,
       "gameId": "114160"
     },
     {
@@ -18243,7 +18243,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5832,
+      "rank": 5831,
       "gameId": "114160"
     },
     {
@@ -18260,11 +18260,28 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5833,
+      "rank": 5832,
       "gameId": "114160"
     },
     {
       "player": "Adam Thielen",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 5834,
+      "gameId": "114160"
+    },
+    {
+      "player": "Calvin Austin",
       "stat": "Receiving Yards",
       "line": 13.5,
       "sport": "NFL",
@@ -18281,23 +18298,6 @@
       "gameId": "114160"
     },
     {
-      "player": "Calvin Austin",
-      "stat": "Receiving Yards",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/15/25 07:15 PM CST",
-      "startTimeCST": "12/15/25 07:15 PM CST",
-      "startDateCST": "2025-12-15",
-      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 5836,
-      "gameId": "114160"
-    },
-    {
       "player": "Malik Washington",
       "stat": "Longest Reception",
       "line": 12.5,
@@ -18311,7 +18311,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5838,
+      "rank": 5837,
       "gameId": "114160"
     },
     {
@@ -18328,7 +18328,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5839,
+      "rank": 5838,
       "gameId": "114160"
     },
     {
@@ -18345,11 +18345,28 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5840,
+      "rank": 5839,
       "gameId": "114160"
     },
     {
       "player": "Kenneth Gainwell",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 5843,
+      "gameId": "114160"
+    },
+    {
+      "player": "Calvin Austin",
       "stat": "Longest Reception",
       "line": 11.5,
       "sport": "NFL",
@@ -18366,23 +18383,6 @@
       "gameId": "114160"
     },
     {
-      "player": "Calvin Austin",
-      "stat": "Longest Reception",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "12/15/25 07:15 PM CST",
-      "startTimeCST": "12/15/25 07:15 PM CST",
-      "startDateCST": "2025-12-15",
-      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 5845,
-      "gameId": "114160"
-    },
-    {
       "player": "Jaylen Warren",
       "stat": "Longest Reception",
       "line": 9.5,
@@ -18396,7 +18396,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5846,
+      "rank": 5845,
       "gameId": "114160"
     },
     {
@@ -18413,7 +18413,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5852,
+      "rank": 5851,
       "gameId": "114160"
     },
     {
@@ -18430,7 +18430,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5865,
+      "rank": 5864,
       "gameId": "114160"
     },
     {
@@ -18447,7 +18447,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5868,
+      "rank": 5867,
       "gameId": "114160"
     },
     {
@@ -18464,7 +18464,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5870,
+      "rank": 5869,
       "gameId": "114160"
     },
     {
@@ -18481,7 +18481,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5871,
+      "rank": 5870,
       "gameId": "114160"
     },
     {
@@ -18498,7 +18498,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5873,
+      "rank": 5872,
       "gameId": "114160"
     },
     {
@@ -18515,7 +18515,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5885,
+      "rank": 5884,
       "gameId": "114160"
     },
     {
@@ -18532,7 +18532,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5895,
+      "rank": 5894,
       "gameId": "114160"
     },
     {
@@ -18549,7 +18549,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5896,
+      "rank": 5895,
       "gameId": "114160"
     },
     {
@@ -18566,7 +18566,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5897,
+      "rank": 5896,
       "gameId": "114160"
     },
     {
@@ -18583,7 +18583,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5898,
+      "rank": 5897,
       "gameId": "114160"
     },
     {
@@ -18600,7 +18600,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5914,
+      "rank": 5913,
       "gameId": "114160"
     },
     {
@@ -18617,7 +18617,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5916,
+      "rank": 5915,
       "gameId": "114160"
     },
     {
@@ -18634,7 +18634,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5917,
+      "rank": 5916,
       "gameId": "114160"
     },
     {
@@ -18651,7 +18651,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5918,
+      "rank": 5917,
       "gameId": "114160"
     },
     {
@@ -18668,7 +18668,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5925,
+      "rank": 5924,
       "gameId": "114160"
     },
     {
@@ -18685,7 +18685,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5930,
+      "rank": 5929,
       "gameId": "114160"
     },
     {
@@ -18702,7 +18702,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5931,
+      "rank": 5930,
       "gameId": "114160"
     },
     {
@@ -18719,7 +18719,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5942,
+      "rank": 5941,
       "gameId": "114160"
     },
     {
@@ -18736,7 +18736,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5945,
+      "rank": 5944,
       "gameId": "114160"
     },
     {
@@ -18753,7 +18753,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5948,
+      "rank": 5947,
       "gameId": "114160"
     },
     {
@@ -18770,7 +18770,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5950,
+      "rank": 5949,
       "gameId": "114160"
     },
     {
@@ -18787,7 +18787,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5965,
+      "rank": 5964,
       "gameId": "114160"
     }
   ]

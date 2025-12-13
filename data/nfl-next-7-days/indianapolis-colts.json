@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T02:36:25.124Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:36 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -178,7 +178,7 @@
       "gameId": "113752"
     },
     {
-      "player": "Tyler Warren",
+      "player": "Alec Pierce",
       "stat": "Longest Reception",
       "line": 16.5,
       "sport": "NFL",
@@ -208,7 +208,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4673,
+      "rank": 4672,
       "gameId": "113752"
     },
     {
@@ -225,11 +225,11 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4675,
+      "rank": 4674,
       "gameId": "113752"
     },
     {
-      "player": "Alec Pierce",
+      "player": "Tyler Warren",
       "stat": "Longest Reception",
       "line": 15.5,
       "sport": "NFL",
@@ -242,7 +242,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4676,
+      "rank": 4675,
       "gameId": "113752"
     },
     {

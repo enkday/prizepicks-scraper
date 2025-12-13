@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T02:35:04.620Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "today",
   "team": "Golden State Warriors",
-  "totalProps": 19,
+  "totalProps": 23,
   "props": [
     {
       "player": "Stephen Curry",
@@ -38,7 +38,24 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 119,
+      "rank": 131,
+      "gameId": "117150"
+    },
+    {
+      "player": "Stephen Curry",
+      "stat": "3-PT Attempted",
+      "line": 11.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 215,
       "gameId": "117150"
     },
     {
@@ -55,7 +72,24 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 200,
+      "rank": 234,
+      "gameId": "117150"
+    },
+    {
+      "player": "Buddy Hield",
+      "stat": "Points",
+      "line": 9.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 250,
       "gameId": "117150"
     },
     {
@@ -72,24 +106,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 238,
-      "gameId": "117150"
-    },
-    {
-      "player": "Moses Moody",
-      "stat": "Points",
-      "line": 8.5,
-      "sport": "NBA",
-      "startTime": "12/12/25 09:10 PM CST",
-      "startTimeCST": "12/12/25 09:10 PM CST",
-      "startDateCST": "2025-12-12",
-      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Golden State Warriors",
-      "teamCode": "GSW",
-      "Opponent": "Minnesota Timberwolves",
-      "opponentCode": "MIN",
-      "rank": 239,
+      "rank": 281,
       "gameId": "117150"
     },
     {
@@ -106,7 +123,58 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 254,
+      "rank": 302,
+      "gameId": "117150"
+    },
+    {
+      "player": "Buddy Hield",
+      "stat": "FG Attempted",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 303,
+      "gameId": "117150"
+    },
+    {
+      "player": "Moses Moody",
+      "stat": "Points",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 305,
+      "gameId": "117150"
+    },
+    {
+      "player": "De'Anthony Melton",
+      "stat": "FG Attempted",
+      "line": 6.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 331,
       "gameId": "117150"
     },
     {
@@ -123,7 +191,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 295,
+      "rank": 354,
       "gameId": "117150"
     },
     {
@@ -140,7 +208,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 298,
+      "rank": 359,
       "gameId": "117150"
     },
     {
@@ -157,7 +225,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 300,
+      "rank": 361,
       "gameId": "117150"
     },
     {
@@ -174,7 +242,24 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 302,
+      "rank": 363,
+      "gameId": "117150"
+    },
+    {
+      "player": "Quinten Post",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 384,
       "gameId": "117150"
     },
     {
@@ -191,7 +276,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 323,
+      "rank": 390,
       "gameId": "117150"
     },
     {
@@ -208,7 +293,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 354,
+      "rank": 424,
       "gameId": "117150"
     },
     {
@@ -225,7 +310,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 376,
+      "rank": 452,
       "gameId": "117150"
     },
     {
@@ -242,24 +327,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 389,
-      "gameId": "117150"
-    },
-    {
-      "player": "Will Richard",
-      "stat": "Rebounds",
-      "line": 2.5,
-      "sport": "NBA",
-      "startTime": "12/12/25 09:10 PM CST",
-      "startTimeCST": "12/12/25 09:10 PM CST",
-      "startDateCST": "2025-12-12",
-      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Golden State Warriors",
-      "teamCode": "GSW",
-      "Opponent": "Minnesota Timberwolves",
-      "opponentCode": "MIN",
-      "rank": 410,
+      "rank": 465,
       "gameId": "117150"
     },
     {
@@ -276,12 +344,29 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 441,
+      "rank": 519,
       "gameId": "117150"
     },
     {
-      "player": "Moses Moody",
-      "stat": "Free Throws Made",
+      "player": "Jimmy Butler",
+      "stat": "Personal Fouls",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 526,
+      "gameId": "117150"
+    },
+    {
+      "player": "De'Anthony Melton",
+      "stat": "Free Throws Attempted",
       "line": 0.5,
       "sport": "NBA",
       "startTime": "12/12/25 09:10 PM CST",
@@ -293,7 +378,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 497,
+      "rank": 585,
       "gameId": "117150"
     },
     {
@@ -310,24 +395,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 532,
-      "gameId": "117150"
-    },
-    {
-      "player": "Trayce Jackson-Davis",
-      "stat": "Turnovers",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/12/25 09:10 PM CST",
-      "startTimeCST": "12/12/25 09:10 PM CST",
-      "startDateCST": "2025-12-12",
-      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Golden State Warriors",
-      "teamCode": "GSW",
-      "Opponent": "Minnesota Timberwolves",
-      "opponentCode": "MIN",
-      "rank": 534,
+      "rank": 633,
       "gameId": "117150"
     }
   ]

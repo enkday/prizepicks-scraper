@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T02:36:25.124Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:36 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -44,7 +44,7 @@
     {
       "player": "Justin Jefferson",
       "stat": "Receiving Yards",
-      "line": 62.5,
+      "line": 59.5,
       "sport": "NFL",
       "startTime": "12/14/25 07:20 PM CST",
       "startTimeCST": "12/14/25 07:20 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5302,
+      "rank": 5307,
       "gameId": "113994"
     },
     {
@@ -214,7 +214,7 @@
     {
       "player": "Aaron Jones",
       "stat": "Receiving Yards",
-      "line": 17.5,
+      "line": 16.5,
       "sport": "NFL",
       "startTime": "12/14/25 07:20 PM CST",
       "startTimeCST": "12/14/25 07:20 PM CST",
@@ -225,7 +225,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5425,
+      "rank": 5427,
       "gameId": "113994"
     },
     {

@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T02:35:04.620Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "New York Knicks",
-  "totalProps": 13,
+  "totalProps": 14,
   "props": [
     {
       "player": "Jalen Brunson",
@@ -21,7 +21,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 608,
+      "rank": 708,
       "gameId": "119503"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 656,
+      "rank": 756,
       "gameId": "119503"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 725,
+      "rank": 825,
       "gameId": "119503"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 726,
+      "rank": 826,
       "gameId": "119503"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 753,
+      "rank": 853,
       "gameId": "119503"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 774,
+      "rank": 874,
       "gameId": "119503"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 800,
+      "rank": 900,
       "gameId": "119503"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 828,
+      "rank": 929,
       "gameId": "119503"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 883,
+      "rank": 984,
       "gameId": "119503"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 884,
+      "rank": 985,
       "gameId": "119503"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 915,
+      "rank": 1016,
       "gameId": "119503"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 1016,
+      "rank": 1119,
       "gameId": "119503"
     },
     {
@@ -225,7 +225,24 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 1096,
+      "rank": 1199,
+      "gameId": "119503"
+    },
+    {
+      "player": "Mitchell Robinson",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 04:40 PM CST",
+      "startTimeCST": "12/13/25 04:40 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "Orlando Magic",
+      "opponentCode": "ORL",
+      "rank": 1202,
       "gameId": "119503"
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T02:35:04.620Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 02:35 AM UTC",
+  "scrapedAt": "2025-12-13T02:54:35.963Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 02:54 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "today",
   "team": "Minnesota Timberwolves",
-  "totalProps": 20,
+  "totalProps": 23,
   "props": [
     {
       "player": "Julius Randle",
@@ -21,7 +21,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 86,
+      "rank": 90,
       "gameId": "117150"
     },
     {
@@ -38,7 +38,24 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 135,
+      "rank": 146,
+      "gameId": "117150"
+    },
+    {
+      "player": "Julius Randle",
+      "stat": "FG Attempted",
+      "line": 16.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 147,
       "gameId": "117150"
     },
     {
@@ -55,7 +72,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 140,
+      "rank": 152,
       "gameId": "117150"
     },
     {
@@ -72,7 +89,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 148,
+      "rank": 163,
       "gameId": "117150"
     },
     {
@@ -89,7 +106,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 188,
+      "rank": 214,
       "gameId": "117150"
     },
     {
@@ -106,7 +123,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 210,
+      "rank": 243,
       "gameId": "117150"
     },
     {
@@ -123,24 +140,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 271,
-      "gameId": "117150"
-    },
-    {
-      "player": "Terrence Shannon",
-      "stat": "Points",
-      "line": 7.5,
-      "sport": "NBA",
-      "startTime": "12/12/25 09:10 PM CST",
-      "startTimeCST": "12/12/25 09:10 PM CST",
-      "startDateCST": "2025-12-12",
-      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Timberwolves",
-      "teamCode": "MIN",
-      "Opponent": "Golden State Warriors",
-      "opponentCode": "GSW",
-      "rank": 273,
+      "rank": 323,
       "gameId": "117150"
     },
     {
@@ -157,11 +157,11 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 278,
+      "rank": 332,
       "gameId": "117150"
     },
     {
-      "player": "Jaylen Clark",
+      "player": "Terrence Shannon",
       "stat": "Points",
       "line": 6.5,
       "sport": "NBA",
@@ -174,7 +174,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 292,
+      "rank": 352,
       "gameId": "117150"
     },
     {
@@ -191,7 +191,58 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 297,
+      "rank": 358,
+      "gameId": "117150"
+    },
+    {
+      "player": "Julius Randle",
+      "stat": "Free Throws Made",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 365,
+      "gameId": "117150"
+    },
+    {
+      "player": "Naz Reid",
+      "stat": "Two Pointers Attempted",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 385,
+      "gameId": "117150"
+    },
+    {
+      "player": "Jaylen Clark",
+      "stat": "Points",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/12/25 09:10 PM CST",
+      "startTimeCST": "12/12/25 09:10 PM CST",
+      "startDateCST": "2025-12-12",
+      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 386,
       "gameId": "117150"
     },
     {
@@ -208,7 +259,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 322,
+      "rank": 389,
       "gameId": "117150"
     },
     {
@@ -225,7 +276,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 396,
+      "rank": 473,
       "gameId": "117150"
     },
     {
@@ -242,7 +293,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 397,
+      "rank": 474,
       "gameId": "117150"
     },
     {
@@ -259,7 +310,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 424,
+      "rank": 503,
       "gameId": "117150"
     },
     {
@@ -276,13 +327,13 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 434,
+      "rank": 515,
       "gameId": "117150"
     },
     {
-      "player": "Terrence Shannon",
-      "stat": "Rebounds",
-      "line": 2.5,
+      "player": "Donte DiVincenzo",
+      "stat": "Turnovers",
+      "line": 1.5,
       "sport": "NBA",
       "startTime": "12/12/25 09:10 PM CST",
       "startTimeCST": "12/12/25 09:10 PM CST",
@@ -293,7 +344,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 435,
+      "rank": 556,
       "gameId": "117150"
     },
     {
@@ -310,7 +361,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 468,
+      "rank": 558,
       "gameId": "117150"
     },
     {
@@ -327,7 +378,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 494,
+      "rank": 592,
       "gameId": "117150"
     },
     {
@@ -344,7 +395,7 @@
       "teamCode": "MIN",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 515,
+      "rank": 612,
       "gameId": "117150"
     }
   ]
