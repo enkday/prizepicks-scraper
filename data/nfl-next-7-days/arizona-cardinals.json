@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:20:33.553Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:20 AM UTC",
+  "scrapedAt": "2025-12-13T04:25:34.526Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:25 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1018,
+      "rank": 1020,
       "gameId": "113746"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1054,
+      "rank": 1056,
       "gameId": "113746"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1059,
+      "rank": 1061,
       "gameId": "113746"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1060,
+      "rank": 1062,
       "gameId": "113746"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1098,
+      "rank": 1100,
       "gameId": "113746"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1099,
+      "rank": 1101,
       "gameId": "113746"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1102,
+      "rank": 1104,
       "gameId": "113746"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1142,
+      "rank": 1144,
       "gameId": "113746"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1143,
+      "rank": 1145,
       "gameId": "113746"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1145,
+      "rank": 1147,
       "gameId": "113746"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1181,
+      "rank": 1183,
       "gameId": "113746"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1193,
+      "rank": 1195,
       "gameId": "113746"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1202,
+      "rank": 1204,
       "gameId": "113746"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1203,
+      "rank": 1205,
       "gameId": "113746"
     },
     {
@@ -259,29 +259,12 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1205,
+      "rank": 1207,
       "gameId": "113746"
     },
     {
       "player": "Trey McBride",
       "stat": "Rec Targets",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 1214,
-      "gameId": "113746"
-    },
-    {
-      "player": "Zonovan Knight",
-      "stat": "Longest Reception",
       "line": 9.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -298,6 +281,23 @@
     },
     {
       "player": "Zonovan Knight",
+      "stat": "Longest Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1218,
+      "gameId": "113746"
+    },
+    {
+      "player": "Zonovan Knight",
       "stat": "Longest Rush",
       "line": 9.5,
       "sport": "NFL",
@@ -310,7 +310,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1217,
+      "rank": 1219,
       "gameId": "113746"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1218,
+      "rank": 1220,
       "gameId": "113746"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1225,
+      "rank": 1226,
       "gameId": "113746"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1226,
+      "rank": 1227,
       "gameId": "113746"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1233,
+      "rank": 1234,
       "gameId": "113746"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1236,
+      "rank": 1237,
       "gameId": "113746"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1244,
+      "rank": 1245,
       "gameId": "113746"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1248,
+      "rank": 1249,
       "gameId": "113746"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1261,
+      "rank": 1262,
       "gameId": "113746"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1311,
+      "rank": 1312,
       "gameId": "113746"
     }
   ]

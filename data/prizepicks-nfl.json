@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2025-12-13T04:20:33.553Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:20 AM UTC",
+  "scrapedAt": "2025-12-13T04:25:34.526Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:25 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
-  "totalProps": 1107,
+  "totalProps": 1106,
   "props": [
     {
       "player": "Marcus Mariota",
@@ -3555,7 +3555,7 @@
       "teamCode": "BAL",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 959,
+      "rank": 961,
       "gameId": "113742"
     },
     {
@@ -3572,7 +3572,7 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 960,
+      "rank": 962,
       "gameId": "113742"
     },
     {
@@ -3589,7 +3589,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1018,
+      "rank": 1020,
       "gameId": "113746"
     },
     {
@@ -3606,7 +3606,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1019,
+      "rank": 1021,
       "gameId": "113746"
     },
     {
@@ -3623,7 +3623,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1052,
+      "rank": 1054,
       "gameId": "113746"
     },
     {
@@ -3640,7 +3640,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1053,
+      "rank": 1055,
       "gameId": "113746"
     },
     {
@@ -3657,7 +3657,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1054,
+      "rank": 1056,
       "gameId": "113746"
     },
     {
@@ -3674,7 +3674,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1058,
+      "rank": 1060,
       "gameId": "113746"
     },
     {
@@ -3691,7 +3691,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1059,
+      "rank": 1061,
       "gameId": "113746"
     },
     {
@@ -3708,7 +3708,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1060,
+      "rank": 1062,
       "gameId": "113746"
     },
     {
@@ -3725,7 +3725,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1083,
+      "rank": 1085,
       "gameId": "113746"
     },
     {
@@ -3742,7 +3742,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1097,
+      "rank": 1099,
       "gameId": "113746"
     },
     {
@@ -3759,7 +3759,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1098,
+      "rank": 1100,
       "gameId": "113746"
     },
     {
@@ -3776,7 +3776,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1099,
+      "rank": 1101,
       "gameId": "113746"
     },
     {
@@ -3793,7 +3793,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1100,
+      "rank": 1102,
       "gameId": "113746"
     },
     {
@@ -3810,7 +3810,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1102,
+      "rank": 1104,
       "gameId": "113746"
     },
     {
@@ -3827,7 +3827,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1104,
+      "rank": 1106,
       "gameId": "113746"
     },
     {
@@ -3844,7 +3844,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1127,
+      "rank": 1129,
       "gameId": "113746"
     },
     {
@@ -3861,7 +3861,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1142,
+      "rank": 1144,
       "gameId": "113746"
     },
     {
@@ -3878,7 +3878,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1143,
+      "rank": 1145,
       "gameId": "113746"
     },
     {
@@ -3895,7 +3895,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1144,
+      "rank": 1146,
       "gameId": "113746"
     },
     {
@@ -3912,7 +3912,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1145,
+      "rank": 1147,
       "gameId": "113746"
     },
     {
@@ -3929,7 +3929,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1146,
+      "rank": 1148,
       "gameId": "113746"
     },
     {
@@ -3946,7 +3946,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1174,
+      "rank": 1176,
       "gameId": "113746"
     },
     {
@@ -3963,7 +3963,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1177,
+      "rank": 1179,
       "gameId": "113746"
     },
     {
@@ -3980,7 +3980,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1180,
+      "rank": 1182,
       "gameId": "113746"
     },
     {
@@ -3997,7 +3997,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1181,
+      "rank": 1183,
       "gameId": "113746"
     },
     {
@@ -4014,7 +4014,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1183,
+      "rank": 1185,
       "gameId": "113746"
     },
     {
@@ -4031,7 +4031,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1193,
+      "rank": 1195,
       "gameId": "113746"
     },
     {
@@ -4048,7 +4048,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1200,
+      "rank": 1202,
       "gameId": "113746"
     },
     {
@@ -4065,7 +4065,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1202,
+      "rank": 1204,
       "gameId": "113746"
     },
     {
@@ -4082,7 +4082,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1203,
+      "rank": 1205,
       "gameId": "113746"
     },
     {
@@ -4099,7 +4099,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1204,
+      "rank": 1206,
       "gameId": "113746"
     },
     {
@@ -4116,7 +4116,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1205,
+      "rank": 1207,
       "gameId": "113746"
     },
     {
@@ -4133,7 +4133,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1208,
+      "rank": 1210,
       "gameId": "113746"
     },
     {
@@ -4150,29 +4150,12 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1209,
+      "rank": 1211,
       "gameId": "113746"
     },
     {
       "player": "Trey McBride",
       "stat": "Rec Targets",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 1214,
-      "gameId": "113746"
-    },
-    {
-      "player": "Zonovan Knight",
-      "stat": "Longest Reception",
       "line": 9.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
@@ -4189,6 +4172,23 @@
     },
     {
       "player": "Zonovan Knight",
+      "stat": "Longest Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1218,
+      "gameId": "113746"
+    },
+    {
+      "player": "Zonovan Knight",
       "stat": "Longest Rush",
       "line": 9.5,
       "sport": "NFL",
@@ -4201,7 +4201,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1217,
+      "rank": 1219,
       "gameId": "113746"
     },
     {
@@ -4218,7 +4218,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1218,
+      "rank": 1220,
       "gameId": "113746"
     },
     {
@@ -4235,24 +4235,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1221,
-      "gameId": "113746"
-    },
-    {
-      "player": "Woody Marks",
-      "stat": "Receiving Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1222,
+      "rank": 1223,
       "gameId": "113746"
     },
     {
@@ -4269,7 +4252,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1223,
+      "rank": 1224,
       "gameId": "113746"
     },
     {
@@ -4286,7 +4269,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1225,
+      "rank": 1226,
       "gameId": "113746"
     },
     {
@@ -4303,7 +4286,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1226,
+      "rank": 1227,
       "gameId": "113746"
     },
     {
@@ -4320,7 +4303,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1227,
+      "rank": 1228,
       "gameId": "113746"
     },
     {
@@ -4337,7 +4320,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1231,
+      "rank": 1232,
       "gameId": "113746"
     },
     {
@@ -4354,7 +4337,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1233,
+      "rank": 1234,
       "gameId": "113746"
     },
     {
@@ -4371,7 +4354,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1234,
+      "rank": 1235,
       "gameId": "113746"
     },
     {
@@ -4388,7 +4371,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1236,
+      "rank": 1237,
       "gameId": "113746"
     },
     {
@@ -4405,7 +4388,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1240,
+      "rank": 1241,
       "gameId": "113746"
     },
     {
@@ -4422,7 +4405,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1244,
+      "rank": 1245,
       "gameId": "113746"
     },
     {
@@ -4439,7 +4422,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1248,
+      "rank": 1249,
       "gameId": "113746"
     },
     {
@@ -4456,7 +4439,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1250,
+      "rank": 1251,
       "gameId": "113746"
     },
     {
@@ -4473,7 +4456,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1251,
+      "rank": 1252,
       "gameId": "113746"
     },
     {
@@ -4490,7 +4473,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1253,
+      "rank": 1254,
       "gameId": "113746"
     },
     {
@@ -4507,7 +4490,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1261,
+      "rank": 1262,
       "gameId": "113746"
     },
     {
@@ -4524,7 +4507,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1266,
+      "rank": 1267,
       "gameId": "113746"
     },
     {
@@ -4541,7 +4524,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1273,
+      "rank": 1274,
       "gameId": "113746"
     },
     {
@@ -4558,7 +4541,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1279,
+      "rank": 1280,
       "gameId": "113746"
     },
     {
@@ -4575,28 +4558,11 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1286,
+      "rank": 1287,
       "gameId": "113746"
     },
     {
       "player": "Christian Kirk",
-      "stat": "Rec Targets",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1291,
-      "gameId": "113746"
-    },
-    {
-      "player": "Woody Marks",
       "stat": "Rec Targets",
       "line": 2.5,
       "sport": "NFL",
@@ -4613,6 +4579,23 @@
       "gameId": "113746"
     },
     {
+      "player": "Woody Marks",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1293,
+      "gameId": "113746"
+    },
+    {
       "player": "Christian Kirk",
       "stat": "Receptions",
       "line": 1.5,
@@ -4626,7 +4609,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1305,
+      "rank": 1306,
       "gameId": "113746"
     },
     {
@@ -4643,7 +4626,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1311,
+      "rank": 1312,
       "gameId": "113746"
     },
     {
@@ -4660,7 +4643,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1317,
+      "rank": 1318,
       "gameId": "113746"
     },
     {
@@ -4677,7 +4660,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1318,
+      "rank": 1319,
       "gameId": "113746"
     },
     {
@@ -4694,7 +4677,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1378,
+      "rank": 1379,
       "gameId": "113741"
     },
     {
@@ -4711,7 +4694,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1382,
+      "rank": 1383,
       "gameId": "113741"
     },
     {
@@ -4728,7 +4711,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1413,
+      "rank": 1414,
       "gameId": "113741"
     },
     {
@@ -4745,7 +4728,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1421,
+      "rank": 1422,
       "gameId": "113741"
     },
     {
@@ -4762,7 +4745,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1422,
+      "rank": 1423,
       "gameId": "113741"
     },
     {
@@ -4779,7 +4762,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1431,
+      "rank": 1432,
       "gameId": "113741"
     },
     {
@@ -4796,7 +4779,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1432,
+      "rank": 1433,
       "gameId": "113741"
     },
     {
@@ -4813,7 +4796,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1433,
+      "rank": 1434,
       "gameId": "113741"
     },
     {
@@ -4830,7 +4813,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1434,
+      "rank": 1435,
       "gameId": "113741"
     },
     {
@@ -4847,7 +4830,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1463,
+      "rank": 1464,
       "gameId": "113741"
     },
     {
@@ -4864,7 +4847,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1467,
+      "rank": 1468,
       "gameId": "113741"
     },
     {
@@ -4881,7 +4864,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1468,
+      "rank": 1469,
       "gameId": "113741"
     },
     {
@@ -4898,7 +4881,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1470,
+      "rank": 1471,
       "gameId": "113741"
     },
     {
@@ -4915,7 +4898,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1491,
+      "rank": 1492,
       "gameId": "113741"
     },
     {
@@ -4932,7 +4915,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1492,
+      "rank": 1493,
       "gameId": "113741"
     },
     {
@@ -4949,7 +4932,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1493,
+      "rank": 1494,
       "gameId": "113741"
     },
     {
@@ -4966,7 +4949,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1507,
+      "rank": 1508,
       "gameId": "113741"
     },
     {
@@ -4983,7 +4966,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1510,
+      "rank": 1511,
       "gameId": "113741"
     },
     {
@@ -5000,7 +4983,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1511,
+      "rank": 1512,
       "gameId": "113741"
     },
     {
@@ -5017,7 +5000,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1512,
+      "rank": 1513,
       "gameId": "113741"
     },
     {
@@ -5034,7 +5017,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1514,
+      "rank": 1515,
       "gameId": "113741"
     },
     {
@@ -5051,7 +5034,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1537,
+      "rank": 1538,
       "gameId": "113741"
     },
     {
@@ -5068,7 +5051,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1538,
+      "rank": 1539,
       "gameId": "113741"
     },
     {
@@ -5085,7 +5068,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1540,
+      "rank": 1541,
       "gameId": "113741"
     },
     {
@@ -5102,7 +5085,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1541,
+      "rank": 1542,
       "gameId": "113741"
     },
     {
@@ -5119,7 +5102,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1544,
+      "rank": 1545,
       "gameId": "113741"
     },
     {
@@ -5136,7 +5119,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1545,
+      "rank": 1546,
       "gameId": "113741"
     },
     {
@@ -5153,7 +5136,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1546,
+      "rank": 1547,
       "gameId": "113741"
     },
     {
@@ -5170,7 +5153,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1549,
+      "rank": 1550,
       "gameId": "113741"
     },
     {
@@ -5187,7 +5170,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1550,
+      "rank": 1551,
       "gameId": "113741"
     },
     {
@@ -5204,7 +5187,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1569,
+      "rank": 1570,
       "gameId": "113741"
     },
     {
@@ -5221,7 +5204,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1570,
+      "rank": 1571,
       "gameId": "113741"
     },
     {
@@ -5238,7 +5221,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1571,
+      "rank": 1572,
       "gameId": "113741"
     },
     {
@@ -5255,7 +5238,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1572,
+      "rank": 1573,
       "gameId": "113741"
     },
     {
@@ -5272,7 +5255,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1573,
+      "rank": 1574,
       "gameId": "113741"
     },
     {
@@ -5289,7 +5272,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1574,
+      "rank": 1575,
       "gameId": "113741"
     },
     {
@@ -5306,7 +5289,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1576,
+      "rank": 1577,
       "gameId": "113741"
     },
     {
@@ -5323,7 +5306,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1580,
+      "rank": 1581,
       "gameId": "113741"
     },
     {
@@ -5340,7 +5323,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1590,
+      "rank": 1591,
       "gameId": "113741"
     },
     {
@@ -5357,7 +5340,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1591,
+      "rank": 1592,
       "gameId": "113741"
     },
     {
@@ -5374,7 +5357,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1592,
+      "rank": 1593,
       "gameId": "113741"
     },
     {
@@ -5391,7 +5374,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1593,
+      "rank": 1594,
       "gameId": "113741"
     },
     {
@@ -5408,7 +5391,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1596,
+      "rank": 1597,
       "gameId": "113741"
     },
     {
@@ -5425,7 +5408,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1599,
+      "rank": 1600,
       "gameId": "113741"
     },
     {
@@ -5442,7 +5425,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1600,
+      "rank": 1601,
       "gameId": "113741"
     },
     {
@@ -5459,7 +5442,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1609,
+      "rank": 1610,
       "gameId": "113741"
     },
     {
@@ -5476,7 +5459,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1620,
+      "rank": 1621,
       "gameId": "113741"
     },
     {
@@ -5493,7 +5476,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1621,
+      "rank": 1622,
       "gameId": "113741"
     },
     {
@@ -5510,7 +5493,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1622,
+      "rank": 1623,
       "gameId": "113741"
     },
     {
@@ -5527,28 +5510,11 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1623,
+      "rank": 1624,
       "gameId": "113741"
     },
     {
       "player": "Ashton Jeanty",
-      "stat": "Rec Targets",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1631,
-      "gameId": "113741"
-    },
-    {
-      "player": "Tre Tucker",
       "stat": "Rec Targets",
       "line": 4.5,
       "sport": "NFL",
@@ -5565,6 +5531,23 @@
       "gameId": "113741"
     },
     {
+      "player": "Tre Tucker",
+      "stat": "Rec Targets",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1633,
+      "gameId": "113741"
+    },
+    {
       "player": "Dallas Goedert",
       "stat": "Rec Targets",
       "line": 4.5,
@@ -5578,7 +5561,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1636,
+      "rank": 1637,
       "gameId": "113741"
     },
     {
@@ -5595,7 +5578,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1641,
+      "rank": 1642,
       "gameId": "113741"
     },
     {
@@ -5612,7 +5595,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1644,
+      "rank": 1645,
       "gameId": "113741"
     },
     {
@@ -5629,7 +5612,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1649,
+      "rank": 1650,
       "gameId": "113741"
     },
     {
@@ -5646,7 +5629,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1653,
+      "rank": 1654,
       "gameId": "113741"
     },
     {
@@ -5663,7 +5646,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1657,
+      "rank": 1658,
       "gameId": "113741"
     },
     {
@@ -5680,7 +5663,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1662,
+      "rank": 1663,
       "gameId": "113741"
     },
     {
@@ -5697,7 +5680,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1672,
+      "rank": 1673,
       "gameId": "113741"
     },
     {
@@ -5714,7 +5697,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1688,
+      "rank": 1689,
       "gameId": "113741"
     },
     {
@@ -5731,7 +5714,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1692,
+      "rank": 1693,
       "gameId": "113741"
     },
     {
@@ -5748,7 +5731,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1700,
+      "rank": 1703,
       "gameId": "113741"
     },
     {
@@ -5765,7 +5748,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1725,
+      "rank": 1728,
       "gameId": "113741"
     },
     {
@@ -5782,7 +5765,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1739,
+      "rank": 1742,
       "gameId": "113741"
     },
     {
@@ -5799,7 +5782,7 @@
       "teamCode": "LV",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1740,
+      "rank": 1743,
       "gameId": "113741"
     },
     {
@@ -5816,7 +5799,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1758,
+      "rank": 1761,
       "gameId": "113748"
     },
     {
@@ -5833,7 +5816,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1760,
+      "rank": 1763,
       "gameId": "113748"
     },
     {
@@ -5850,7 +5833,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1795,
+      "rank": 1798,
       "gameId": "113748"
     },
     {
@@ -5867,7 +5850,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1816,
+      "rank": 1819,
       "gameId": "113748"
     },
     {
@@ -5884,7 +5867,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1817,
+      "rank": 1820,
       "gameId": "113748"
     },
     {
@@ -5901,7 +5884,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1818,
+      "rank": 1821,
       "gameId": "113748"
     },
     {
@@ -5918,7 +5901,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1819,
+      "rank": 1822,
       "gameId": "113748"
     },
     {
@@ -5935,7 +5918,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1831,
+      "rank": 1834,
       "gameId": "113748"
     },
     {
@@ -5952,7 +5935,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1834,
+      "rank": 1837,
       "gameId": "113748"
     },
     {
@@ -5969,7 +5952,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1839,
+      "rank": 1842,
       "gameId": "113748"
     },
     {
@@ -5986,7 +5969,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1850,
+      "rank": 1853,
       "gameId": "113748"
     },
     {
@@ -6003,7 +5986,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1852,
+      "rank": 1855,
       "gameId": "113748"
     },
     {
@@ -6020,7 +6003,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1854,
+      "rank": 1857,
       "gameId": "113748"
     },
     {
@@ -6037,7 +6020,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1855,
+      "rank": 1858,
       "gameId": "113748"
     },
     {
@@ -6054,7 +6037,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1858,
+      "rank": 1861,
       "gameId": "113748"
     },
     {
@@ -6071,7 +6054,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1859,
+      "rank": 1862,
       "gameId": "113748"
     },
     {
@@ -6088,7 +6071,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1903,
+      "rank": 1906,
       "gameId": "113748"
     },
     {
@@ -6105,7 +6088,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1904,
+      "rank": 1907,
       "gameId": "113748"
     },
     {
@@ -6122,7 +6105,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1922,
+      "rank": 1925,
       "gameId": "113748"
     },
     {
@@ -6139,7 +6122,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1923,
+      "rank": 1926,
       "gameId": "113748"
     },
     {
@@ -6156,7 +6139,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1926,
+      "rank": 1929,
       "gameId": "113748"
     },
     {
@@ -6173,7 +6156,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1927,
+      "rank": 1930,
       "gameId": "113748"
     },
     {
@@ -6190,7 +6173,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1928,
+      "rank": 1931,
       "gameId": "113748"
     },
     {
@@ -6207,7 +6190,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1929,
+      "rank": 1932,
       "gameId": "113748"
     },
     {
@@ -6224,7 +6207,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1930,
+      "rank": 1933,
       "gameId": "113748"
     },
     {
@@ -6241,7 +6224,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1931,
+      "rank": 1934,
       "gameId": "113748"
     },
     {
@@ -6258,7 +6241,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1932,
+      "rank": 1935,
       "gameId": "113748"
     },
     {
@@ -6275,7 +6258,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1933,
+      "rank": 1936,
       "gameId": "113748"
     },
     {
@@ -6292,7 +6275,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1939,
+      "rank": 1942,
       "gameId": "113748"
     },
     {
@@ -6309,7 +6292,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1942,
+      "rank": 1945,
       "gameId": "113748"
     },
     {
@@ -6326,7 +6309,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1956,
+      "rank": 1959,
       "gameId": "113748"
     },
     {
@@ -6343,7 +6326,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1958,
+      "rank": 1961,
       "gameId": "113748"
     },
     {
@@ -6360,7 +6343,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1959,
+      "rank": 1962,
       "gameId": "113748"
     },
     {
@@ -6377,7 +6360,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1960,
+      "rank": 1963,
       "gameId": "113748"
     },
     {
@@ -6394,7 +6377,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1961,
+      "rank": 1964,
       "gameId": "113748"
     },
     {
@@ -6411,7 +6394,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1963,
+      "rank": 1966,
       "gameId": "113748"
     },
     {
@@ -6428,7 +6411,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1965,
+      "rank": 1968,
       "gameId": "113748"
     },
     {
@@ -6445,7 +6428,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1968,
+      "rank": 1971,
       "gameId": "113748"
     },
     {
@@ -6462,7 +6445,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1976,
+      "rank": 1979,
       "gameId": "113748"
     },
     {
@@ -6479,7 +6462,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1988,
+      "rank": 1991,
       "gameId": "113748"
     },
     {
@@ -6496,7 +6479,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1991,
+      "rank": 1994,
       "gameId": "113748"
     },
     {
@@ -6513,7 +6496,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1994,
+      "rank": 1997,
       "gameId": "113748"
     },
     {
@@ -6530,7 +6513,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1996,
+      "rank": 1999,
       "gameId": "113748"
     },
     {
@@ -6547,7 +6530,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1998,
+      "rank": 2001,
       "gameId": "113748"
     },
     {
@@ -6564,7 +6547,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 2003,
+      "rank": 2006,
       "gameId": "113748"
     },
     {
@@ -6581,7 +6564,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 2005,
+      "rank": 2008,
       "gameId": "113748"
     },
     {
@@ -6598,7 +6581,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 2011,
+      "rank": 2014,
       "gameId": "113748"
     },
     {
@@ -6615,7 +6598,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2013,
+      "rank": 2016,
       "gameId": "113748"
     },
     {
@@ -6632,7 +6615,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 2014,
+      "rank": 2017,
       "gameId": "113748"
     },
     {
@@ -6649,7 +6632,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2022,
+      "rank": 2025,
       "gameId": "113748"
     },
     {
@@ -6666,7 +6649,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2023,
+      "rank": 2026,
       "gameId": "113748"
     },
     {
@@ -6683,7 +6666,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2032,
+      "rank": 2035,
       "gameId": "113748"
     },
     {
@@ -6700,7 +6683,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2044,
+      "rank": 2047,
       "gameId": "113748"
     },
     {
@@ -6717,7 +6700,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2045,
+      "rank": 2048,
       "gameId": "113748"
     },
     {
@@ -6734,7 +6717,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2048,
+      "rank": 2051,
       "gameId": "113748"
     },
     {
@@ -6751,7 +6734,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2051,
+      "rank": 2054,
       "gameId": "113748"
     },
     {
@@ -6768,7 +6751,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 2052,
+      "rank": 2055,
       "gameId": "113748"
     },
     {
@@ -6785,7 +6768,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2064,
+      "rank": 2067,
       "gameId": "113748"
     },
     {
@@ -6802,7 +6785,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2065,
+      "rank": 2068,
       "gameId": "113748"
     },
     {
@@ -6819,7 +6802,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2071,
+      "rank": 2074,
       "gameId": "113748"
     },
     {
@@ -6836,7 +6819,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 2079,
+      "rank": 2082,
       "gameId": "113748"
     },
     {
@@ -6853,7 +6836,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 2091,
+      "rank": 2094,
       "gameId": "113748"
     },
     {
@@ -6870,7 +6853,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2092,
+      "rank": 2095,
       "gameId": "113748"
     },
     {
@@ -6887,7 +6870,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2095,
+      "rank": 2098,
       "gameId": "113748"
     },
     {
@@ -6904,7 +6887,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2115,
+      "rank": 2119,
       "gameId": "113748"
     },
     {
@@ -6921,7 +6904,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2128,
+      "rank": 2132,
       "gameId": "113748"
     },
     {
@@ -6938,7 +6921,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2132,
+      "rank": 2136,
       "gameId": "113748"
     },
     {
@@ -6955,7 +6938,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2156,
+      "rank": 2160,
       "gameId": "113747"
     },
     {
@@ -6972,7 +6955,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2159,
+      "rank": 2163,
       "gameId": "113747"
     },
     {
@@ -6989,7 +6972,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2191,
+      "rank": 2195,
       "gameId": "113747"
     },
     {
@@ -7006,7 +6989,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2192,
+      "rank": 2196,
       "gameId": "113747"
     },
     {
@@ -7023,7 +7006,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2203,
+      "rank": 2207,
       "gameId": "113747"
     },
     {
@@ -7040,7 +7023,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2204,
+      "rank": 2208,
       "gameId": "113747"
     },
     {
@@ -7057,7 +7040,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2206,
+      "rank": 2210,
       "gameId": "113747"
     },
     {
@@ -7074,7 +7057,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2208,
+      "rank": 2212,
       "gameId": "113747"
     },
     {
@@ -7091,7 +7074,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2222,
+      "rank": 2226,
       "gameId": "113747"
     },
     {
@@ -7108,7 +7091,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2223,
+      "rank": 2227,
       "gameId": "113747"
     },
     {
@@ -7125,7 +7108,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2241,
+      "rank": 2245,
       "gameId": "113747"
     },
     {
@@ -7142,7 +7125,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2242,
+      "rank": 2246,
       "gameId": "113747"
     },
     {
@@ -7159,7 +7142,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2243,
+      "rank": 2247,
       "gameId": "113747"
     },
     {
@@ -7176,7 +7159,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2246,
+      "rank": 2250,
       "gameId": "113747"
     },
     {
@@ -7193,7 +7176,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2249,
+      "rank": 2253,
       "gameId": "113747"
     },
     {
@@ -7210,7 +7193,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2266,
+      "rank": 2270,
       "gameId": "113747"
     },
     {
@@ -7227,7 +7210,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2267,
+      "rank": 2271,
       "gameId": "113747"
     },
     {
@@ -7244,7 +7227,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2268,
+      "rank": 2272,
       "gameId": "113747"
     },
     {
@@ -7261,7 +7244,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2283,
+      "rank": 2287,
       "gameId": "113747"
     },
     {
@@ -7278,7 +7261,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2284,
+      "rank": 2288,
       "gameId": "113747"
     },
     {
@@ -7295,7 +7278,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2285,
+      "rank": 2289,
       "gameId": "113747"
     },
     {
@@ -7312,7 +7295,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2286,
+      "rank": 2290,
       "gameId": "113747"
     },
     {
@@ -7329,7 +7312,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2310,
+      "rank": 2314,
       "gameId": "113747"
     },
     {
@@ -7346,7 +7329,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2311,
+      "rank": 2315,
       "gameId": "113747"
     },
     {
@@ -7363,7 +7346,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2313,
+      "rank": 2317,
       "gameId": "113747"
     },
     {
@@ -7380,7 +7363,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2317,
+      "rank": 2321,
       "gameId": "113747"
     },
     {
@@ -7397,7 +7380,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2320,
+      "rank": 2324,
       "gameId": "113747"
     },
     {
@@ -7414,7 +7397,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2334,
+      "rank": 2338,
       "gameId": "113747"
     },
     {
@@ -7431,7 +7414,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2337,
+      "rank": 2341,
       "gameId": "113747"
     },
     {
@@ -7448,7 +7431,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2340,
+      "rank": 2344,
       "gameId": "113747"
     },
     {
@@ -7465,7 +7448,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2341,
+      "rank": 2345,
       "gameId": "113747"
     },
     {
@@ -7482,7 +7465,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2342,
+      "rank": 2346,
       "gameId": "113747"
     },
     {
@@ -7499,7 +7482,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2343,
+      "rank": 2347,
       "gameId": "113747"
     },
     {
@@ -7516,7 +7499,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2344,
+      "rank": 2348,
       "gameId": "113747"
     },
     {
@@ -7533,7 +7516,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2346,
+      "rank": 2350,
       "gameId": "113747"
     },
     {
@@ -7550,7 +7533,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2348,
+      "rank": 2352,
       "gameId": "113747"
     },
     {
@@ -7567,7 +7550,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2351,
+      "rank": 2355,
       "gameId": "113747"
     },
     {
@@ -7584,7 +7567,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2361,
+      "rank": 2365,
       "gameId": "113747"
     },
     {
@@ -7601,7 +7584,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2365,
+      "rank": 2369,
       "gameId": "113747"
     },
     {
@@ -7618,7 +7601,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2369,
+      "rank": 2373,
       "gameId": "113747"
     },
     {
@@ -7635,7 +7618,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2375,
+      "rank": 2379,
       "gameId": "113747"
     },
     {
@@ -7652,7 +7635,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2376,
+      "rank": 2380,
       "gameId": "113747"
     },
     {
@@ -7669,7 +7652,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2379,
+      "rank": 2383,
       "gameId": "113747"
     },
     {
@@ -7686,7 +7669,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2380,
+      "rank": 2384,
       "gameId": "113747"
     },
     {
@@ -7703,7 +7686,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2385,
+      "rank": 2389,
       "gameId": "113747"
     },
     {
@@ -7720,7 +7703,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2387,
+      "rank": 2391,
       "gameId": "113747"
     },
     {
@@ -7737,7 +7720,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2396,
+      "rank": 2400,
       "gameId": "113747"
     },
     {
@@ -7754,7 +7737,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2406,
+      "rank": 2410,
       "gameId": "113747"
     },
     {
@@ -7771,7 +7754,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2407,
+      "rank": 2411,
       "gameId": "113747"
     },
     {
@@ -7788,7 +7771,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2408,
+      "rank": 2412,
       "gameId": "113747"
     },
     {
@@ -7805,7 +7788,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2420,
+      "rank": 2424,
       "gameId": "113747"
     },
     {
@@ -7822,7 +7805,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2424,
+      "rank": 2428,
       "gameId": "113747"
     },
     {
@@ -7839,7 +7822,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2425,
+      "rank": 2429,
       "gameId": "113747"
     },
     {
@@ -7856,7 +7839,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2432,
+      "rank": 2436,
       "gameId": "113747"
     },
     {
@@ -7873,7 +7856,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2438,
+      "rank": 2442,
       "gameId": "113747"
     },
     {
@@ -7890,7 +7873,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2439,
+      "rank": 2443,
       "gameId": "113747"
     },
     {
@@ -7907,7 +7890,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2440,
+      "rank": 2444,
       "gameId": "113747"
     },
     {
@@ -7924,7 +7907,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2456,
+      "rank": 2460,
       "gameId": "113747"
     },
     {
@@ -7941,7 +7924,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2457,
+      "rank": 2461,
       "gameId": "113747"
     },
     {
@@ -7958,7 +7941,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2460,
+      "rank": 2464,
       "gameId": "113747"
     },
     {
@@ -7975,7 +7958,7 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2466,
+      "rank": 2471,
       "gameId": "113747"
     },
     {
@@ -7992,7 +7975,7 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2496,
+      "rank": 2501,
       "gameId": "113747"
     },
     {
@@ -8009,7 +7992,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2525,
+      "rank": 2530,
       "gameId": "113745"
     },
     {
@@ -8026,7 +8009,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2528,
+      "rank": 2533,
       "gameId": "113745"
     },
     {
@@ -8043,7 +8026,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2550,
+      "rank": 2555,
       "gameId": "113745"
     },
     {
@@ -8060,7 +8043,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2569,
+      "rank": 2574,
       "gameId": "113745"
     },
     {
@@ -8077,7 +8060,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2570,
+      "rank": 2575,
       "gameId": "113745"
     },
     {
@@ -8094,7 +8077,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2585,
+      "rank": 2590,
       "gameId": "113745"
     },
     {
@@ -8111,7 +8094,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2603,
+      "rank": 2608,
       "gameId": "113745"
     },
     {
@@ -8128,7 +8111,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2604,
+      "rank": 2609,
       "gameId": "113745"
     },
     {
@@ -8145,7 +8128,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2605,
+      "rank": 2610,
       "gameId": "113745"
     },
     {
@@ -8162,7 +8145,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2606,
+      "rank": 2611,
       "gameId": "113745"
     },
     {
@@ -8179,7 +8162,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2607,
+      "rank": 2612,
       "gameId": "113745"
     },
     {
@@ -8196,7 +8179,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2628,
+      "rank": 2633,
       "gameId": "113745"
     },
     {
@@ -8213,7 +8196,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2629,
+      "rank": 2634,
       "gameId": "113745"
     },
     {
@@ -8230,7 +8213,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2630,
+      "rank": 2635,
       "gameId": "113745"
     },
     {
@@ -8247,7 +8230,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2635,
+      "rank": 2640,
       "gameId": "113745"
     },
     {
@@ -8264,7 +8247,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2636,
+      "rank": 2641,
       "gameId": "113745"
     },
     {
@@ -8281,7 +8264,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2637,
+      "rank": 2642,
       "gameId": "113745"
     },
     {
@@ -8298,7 +8281,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2668,
+      "rank": 2673,
       "gameId": "113745"
     },
     {
@@ -8315,7 +8298,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2695,
+      "rank": 2700,
       "gameId": "113745"
     },
     {
@@ -8332,7 +8315,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2696,
+      "rank": 2701,
       "gameId": "113745"
     },
     {
@@ -8349,7 +8332,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2697,
+      "rank": 2702,
       "gameId": "113745"
     },
     {
@@ -8366,7 +8349,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2698,
+      "rank": 2703,
       "gameId": "113745"
     },
     {
@@ -8383,7 +8366,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2699,
+      "rank": 2704,
       "gameId": "113745"
     },
     {
@@ -8400,7 +8383,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2700,
+      "rank": 2705,
       "gameId": "113745"
     },
     {
@@ -8417,7 +8400,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2731,
+      "rank": 2736,
       "gameId": "113745"
     },
     {
@@ -8434,7 +8417,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2733,
+      "rank": 2738,
       "gameId": "113745"
     },
     {
@@ -8451,7 +8434,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2734,
+      "rank": 2739,
       "gameId": "113745"
     },
     {
@@ -8468,7 +8451,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2735,
+      "rank": 2740,
       "gameId": "113745"
     },
     {
@@ -8485,7 +8468,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2736,
+      "rank": 2741,
       "gameId": "113745"
     },
     {
@@ -8502,7 +8485,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2737,
+      "rank": 2742,
       "gameId": "113745"
     },
     {
@@ -8519,7 +8502,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2741,
+      "rank": 2746,
       "gameId": "113745"
     },
     {
@@ -8536,7 +8519,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2742,
+      "rank": 2747,
       "gameId": "113745"
     },
     {
@@ -8553,7 +8536,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2743,
+      "rank": 2748,
       "gameId": "113745"
     },
     {
@@ -8570,7 +8553,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2745,
+      "rank": 2750,
       "gameId": "113745"
     },
     {
@@ -8587,7 +8570,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2746,
+      "rank": 2751,
       "gameId": "113745"
     },
     {
@@ -8604,7 +8587,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2765,
+      "rank": 2770,
       "gameId": "113745"
     },
     {
@@ -8621,7 +8604,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2766,
+      "rank": 2771,
       "gameId": "113745"
     },
     {
@@ -8638,7 +8621,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2767,
+      "rank": 2772,
       "gameId": "113745"
     },
     {
@@ -8655,7 +8638,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2768,
+      "rank": 2773,
       "gameId": "113745"
     },
     {
@@ -8672,7 +8655,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2769,
+      "rank": 2774,
       "gameId": "113745"
     },
     {
@@ -8689,7 +8672,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2772,
+      "rank": 2777,
       "gameId": "113745"
     },
     {
@@ -8706,7 +8689,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2773,
+      "rank": 2778,
       "gameId": "113745"
     },
     {
@@ -8723,7 +8706,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2776,
+      "rank": 2781,
       "gameId": "113745"
     },
     {
@@ -8740,7 +8723,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2777,
+      "rank": 2782,
       "gameId": "113745"
     },
     {
@@ -8757,7 +8740,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2778,
+      "rank": 2783,
       "gameId": "113745"
     },
     {
@@ -8774,7 +8757,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2779,
+      "rank": 2784,
       "gameId": "113745"
     },
     {
@@ -8791,7 +8774,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2780,
+      "rank": 2785,
       "gameId": "113745"
     },
     {
@@ -8808,7 +8791,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2785,
+      "rank": 2790,
       "gameId": "113745"
     },
     {
@@ -8825,7 +8808,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2788,
+      "rank": 2793,
       "gameId": "113745"
     },
     {
@@ -8842,7 +8825,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2790,
+      "rank": 2795,
       "gameId": "113745"
     },
     {
@@ -8859,7 +8842,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2810,
+      "rank": 2815,
       "gameId": "113745"
     },
     {
@@ -8876,7 +8859,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2812,
+      "rank": 2817,
       "gameId": "113745"
     },
     {
@@ -8893,7 +8876,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2813,
+      "rank": 2818,
       "gameId": "113745"
     },
     {
@@ -8910,7 +8893,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2814,
+      "rank": 2819,
       "gameId": "113745"
     },
     {
@@ -8927,7 +8910,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2819,
+      "rank": 2824,
       "gameId": "113745"
     },
     {
@@ -8944,7 +8927,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2821,
+      "rank": 2826,
       "gameId": "113745"
     },
     {
@@ -8961,7 +8944,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2823,
+      "rank": 2828,
       "gameId": "113745"
     },
     {
@@ -8978,7 +8961,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2833,
+      "rank": 2838,
       "gameId": "113745"
     },
     {
@@ -8995,7 +8978,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2835,
+      "rank": 2840,
       "gameId": "113745"
     },
     {
@@ -9012,7 +8995,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2848,
+      "rank": 2853,
       "gameId": "113745"
     },
     {
@@ -9029,7 +9012,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2852,
+      "rank": 2857,
       "gameId": "113745"
     },
     {
@@ -9046,7 +9029,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2853,
+      "rank": 2858,
       "gameId": "113745"
     },
     {
@@ -9063,7 +9046,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2854,
+      "rank": 2859,
       "gameId": "113745"
     },
     {
@@ -9080,7 +9063,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2855,
+      "rank": 2860,
       "gameId": "113745"
     },
     {
@@ -9097,7 +9080,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2856,
+      "rank": 2861,
       "gameId": "113745"
     },
     {
@@ -9114,7 +9097,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2857,
+      "rank": 2862,
       "gameId": "113745"
     },
     {
@@ -9131,7 +9114,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2868,
+      "rank": 2873,
       "gameId": "113745"
     },
     {
@@ -9148,7 +9131,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2869,
+      "rank": 2874,
       "gameId": "113745"
     },
     {
@@ -9165,7 +9148,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2880,
+      "rank": 2885,
       "gameId": "113745"
     },
     {
@@ -9182,7 +9165,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2881,
+      "rank": 2886,
       "gameId": "113745"
     },
     {
@@ -9199,7 +9182,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2882,
+      "rank": 2887,
       "gameId": "113745"
     },
     {
@@ -9216,7 +9199,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2883,
+      "rank": 2888,
       "gameId": "113745"
     },
     {
@@ -9233,7 +9216,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2886,
+      "rank": 2891,
       "gameId": "113745"
     },
     {
@@ -9250,7 +9233,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2893,
+      "rank": 2898,
       "gameId": "113745"
     },
     {
@@ -9267,7 +9250,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2899,
+      "rank": 2904,
       "gameId": "113745"
     },
     {
@@ -9284,7 +9267,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2900,
+      "rank": 2905,
       "gameId": "113745"
     },
     {
@@ -9301,7 +9284,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2903,
+      "rank": 2908,
       "gameId": "113745"
     },
     {
@@ -9318,7 +9301,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2904,
+      "rank": 2909,
       "gameId": "113745"
     },
     {
@@ -9335,7 +9318,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2905,
+      "rank": 2910,
       "gameId": "113745"
     },
     {
@@ -9352,7 +9335,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2906,
+      "rank": 2911,
       "gameId": "113745"
     },
     {
@@ -9369,7 +9352,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2907,
+      "rank": 2912,
       "gameId": "113745"
     },
     {
@@ -9386,7 +9369,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2908,
+      "rank": 2913,
       "gameId": "113745"
     },
     {
@@ -9403,7 +9386,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2914,
+      "rank": 2919,
       "gameId": "113745"
     },
     {
@@ -9420,7 +9403,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2924,
+      "rank": 2929,
       "gameId": "113745"
     },
     {
@@ -9437,7 +9420,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2926,
+      "rank": 2931,
       "gameId": "113745"
     },
     {
@@ -9454,7 +9437,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2933,
+      "rank": 2938,
       "gameId": "113745"
     },
     {
@@ -9471,7 +9454,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2934,
+      "rank": 2939,
       "gameId": "113745"
     },
     {
@@ -9488,7 +9471,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2935,
+      "rank": 2940,
       "gameId": "113745"
     },
     {
@@ -9505,7 +9488,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2945,
+      "rank": 2953,
       "gameId": "113745"
     },
     {
@@ -9522,13 +9505,13 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2991,
+      "rank": 2999,
       "gameId": "113744"
     },
     {
       "player": "Brady Cook",
       "stat": "Pass Yards",
-      "line": 156.5,
+      "line": 154.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -9539,7 +9522,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3004,
+      "rank": 3012,
       "gameId": "113744"
     },
     {
@@ -9556,7 +9539,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3028,
+      "rank": 3036,
       "gameId": "113744"
     },
     {
@@ -9573,7 +9556,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3036,
+      "rank": 3044,
       "gameId": "113744"
     },
     {
@@ -9590,7 +9573,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3043,
+      "rank": 3051,
       "gameId": "113744"
     },
     {
@@ -9607,7 +9590,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3044,
+      "rank": 3052,
       "gameId": "113744"
     },
     {
@@ -9624,7 +9607,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3045,
+      "rank": 3053,
       "gameId": "113744"
     },
     {
@@ -9641,7 +9624,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3055,
+      "rank": 3063,
       "gameId": "113744"
     },
     {
@@ -9658,13 +9641,13 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3056,
+      "rank": 3064,
       "gameId": "113744"
     },
     {
       "player": "John Metchie",
       "stat": "Receiving Yards",
-      "line": 37.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -9675,7 +9658,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3069,
+      "rank": 3077,
       "gameId": "113744"
     },
     {
@@ -9692,7 +9675,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3070,
+      "rank": 3078,
       "gameId": "113744"
     },
     {
@@ -9709,7 +9692,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3071,
+      "rank": 3079,
       "gameId": "113744"
     },
     {
@@ -9726,7 +9709,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3074,
+      "rank": 3082,
       "gameId": "113744"
     },
     {
@@ -9743,7 +9726,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3075,
+      "rank": 3083,
       "gameId": "113744"
     },
     {
@@ -9760,7 +9743,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3095,
+      "rank": 3103,
       "gameId": "113744"
     },
     {
@@ -9777,7 +9760,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3110,
+      "rank": 3118,
       "gameId": "113744"
     },
     {
@@ -9794,7 +9777,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3112,
+      "rank": 3120,
       "gameId": "113744"
     },
     {
@@ -9811,7 +9794,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3113,
+      "rank": 3121,
       "gameId": "113744"
     },
     {
@@ -9828,7 +9811,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3137,
+      "rank": 3145,
       "gameId": "113744"
     },
     {
@@ -9845,7 +9828,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3138,
+      "rank": 3146,
       "gameId": "113744"
     },
     {
@@ -9862,7 +9845,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3140,
+      "rank": 3148,
       "gameId": "113744"
     },
     {
@@ -9879,7 +9862,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3141,
+      "rank": 3149,
       "gameId": "113744"
     },
     {
@@ -9896,7 +9879,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3142,
+      "rank": 3150,
       "gameId": "113744"
     },
     {
@@ -9913,7 +9896,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3144,
+      "rank": 3152,
       "gameId": "113744"
     },
     {
@@ -9930,7 +9913,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3146,
+      "rank": 3154,
       "gameId": "113744"
     },
     {
@@ -9947,7 +9930,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3147,
+      "rank": 3155,
       "gameId": "113744"
     },
     {
@@ -9964,7 +9947,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3148,
+      "rank": 3156,
       "gameId": "113744"
     },
     {
@@ -9981,7 +9964,24 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3161,
+      "rank": 3169,
+      "gameId": "113744"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Receiving Yards",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 3170,
       "gameId": "113744"
     },
     {
@@ -9998,7 +9998,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3171,
+      "rank": 3180,
       "gameId": "113744"
     },
     {
@@ -10015,7 +10015,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3172,
+      "rank": 3181,
       "gameId": "113744"
     },
     {
@@ -10032,24 +10032,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3173,
-      "gameId": "113744"
-    },
-    {
-      "player": "Breece Hall",
-      "stat": "Receiving Yards",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3174,
+      "rank": 3182,
       "gameId": "113744"
     },
     {
@@ -10066,7 +10049,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3175,
+      "rank": 3183,
       "gameId": "113744"
     },
     {
@@ -10083,7 +10066,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3181,
+      "rank": 3189,
       "gameId": "113744"
     },
     {
@@ -10100,7 +10083,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3188,
+      "rank": 3196,
       "gameId": "113744"
     },
     {
@@ -10117,7 +10100,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3189,
+      "rank": 3197,
       "gameId": "113744"
     },
     {
@@ -10134,7 +10117,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3190,
+      "rank": 3198,
       "gameId": "113744"
     },
     {
@@ -10151,7 +10134,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3191,
+      "rank": 3199,
       "gameId": "113744"
     },
     {
@@ -10168,7 +10151,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3193,
+      "rank": 3201,
       "gameId": "113744"
     },
     {
@@ -10185,7 +10168,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3194,
+      "rank": 3202,
       "gameId": "113744"
     },
     {
@@ -10202,7 +10185,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3201,
+      "rank": 3209,
       "gameId": "113744"
     },
     {
@@ -10219,7 +10202,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3202,
+      "rank": 3210,
       "gameId": "113744"
     },
     {
@@ -10236,7 +10219,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3203,
+      "rank": 3211,
       "gameId": "113744"
     },
     {
@@ -10253,7 +10236,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3204,
+      "rank": 3212,
       "gameId": "113744"
     },
     {
@@ -10270,7 +10253,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3211,
+      "rank": 3219,
       "gameId": "113744"
     },
     {
@@ -10287,7 +10270,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3212,
+      "rank": 3220,
       "gameId": "113744"
     },
     {
@@ -10304,7 +10287,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3215,
+      "rank": 3223,
       "gameId": "113744"
     },
     {
@@ -10321,7 +10304,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3220,
+      "rank": 3228,
       "gameId": "113744"
     },
     {
@@ -10338,7 +10321,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3223,
+      "rank": 3231,
       "gameId": "113744"
     },
     {
@@ -10355,7 +10338,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3229,
+      "rank": 3237,
       "gameId": "113744"
     },
     {
@@ -10372,7 +10355,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3231,
+      "rank": 3239,
       "gameId": "113744"
     },
     {
@@ -10389,7 +10372,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3232,
+      "rank": 3240,
       "gameId": "113744"
     },
     {
@@ -10406,7 +10389,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3235,
+      "rank": 3243,
       "gameId": "113744"
     },
     {
@@ -10423,7 +10406,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3241,
+      "rank": 3249,
       "gameId": "113744"
     },
     {
@@ -10440,7 +10423,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3249,
+      "rank": 3257,
       "gameId": "113744"
     },
     {
@@ -10457,7 +10440,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3261,
+      "rank": 3269,
       "gameId": "113744"
     },
     {
@@ -10474,7 +10457,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3264,
+      "rank": 3272,
       "gameId": "113744"
     },
     {
@@ -10491,7 +10474,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3269,
+      "rank": 3277,
       "gameId": "113744"
     },
     {
@@ -10508,7 +10491,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3274,
+      "rank": 3282,
       "gameId": "113744"
     },
     {
@@ -10525,7 +10508,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3277,
+      "rank": 3285,
       "gameId": "113744"
     },
     {
@@ -10542,7 +10525,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3300,
+      "rank": 3308,
       "gameId": "113744"
     },
     {
@@ -10559,7 +10542,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3354,
+      "rank": 3362,
       "gameId": "113751"
     },
     {
@@ -10576,7 +10559,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3358,
+      "rank": 3366,
       "gameId": "113751"
     },
     {
@@ -10593,7 +10576,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3394,
+      "rank": 3402,
       "gameId": "113751"
     },
     {
@@ -10610,7 +10593,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3408,
+      "rank": 3416,
       "gameId": "113751"
     },
     {
@@ -10627,7 +10610,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3410,
+      "rank": 3418,
       "gameId": "113751"
     },
     {
@@ -10644,7 +10627,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3419,
+      "rank": 3427,
       "gameId": "113751"
     },
     {
@@ -10661,7 +10644,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3420,
+      "rank": 3428,
       "gameId": "113751"
     },
     {
@@ -10678,7 +10661,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3421,
+      "rank": 3429,
       "gameId": "113751"
     },
     {
@@ -10695,7 +10678,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3422,
+      "rank": 3430,
       "gameId": "113751"
     },
     {
@@ -10712,7 +10695,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3433,
+      "rank": 3441,
       "gameId": "113751"
     },
     {
@@ -10729,7 +10712,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3451,
+      "rank": 3459,
       "gameId": "113751"
     },
     {
@@ -10746,7 +10729,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3453,
+      "rank": 3461,
       "gameId": "113751"
     },
     {
@@ -10763,7 +10746,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3463,
+      "rank": 3471,
       "gameId": "113751"
     },
     {
@@ -10780,7 +10763,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3467,
+      "rank": 3475,
       "gameId": "113751"
     },
     {
@@ -10797,7 +10780,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3468,
+      "rank": 3476,
       "gameId": "113751"
     },
     {
@@ -10814,7 +10797,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3469,
+      "rank": 3477,
       "gameId": "113751"
     },
     {
@@ -10831,7 +10814,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3472,
+      "rank": 3480,
       "gameId": "113751"
     },
     {
@@ -10848,7 +10831,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3478,
+      "rank": 3486,
       "gameId": "113751"
     },
     {
@@ -10865,7 +10848,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3497,
+      "rank": 3505,
       "gameId": "113751"
     },
     {
@@ -10882,7 +10865,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3498,
+      "rank": 3506,
       "gameId": "113751"
     },
     {
@@ -10899,7 +10882,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3510,
+      "rank": 3518,
       "gameId": "113751"
     },
     {
@@ -10916,7 +10899,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3511,
+      "rank": 3519,
       "gameId": "113751"
     },
     {
@@ -10933,7 +10916,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3512,
+      "rank": 3520,
       "gameId": "113751"
     },
     {
@@ -10950,7 +10933,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3513,
+      "rank": 3521,
       "gameId": "113751"
     },
     {
@@ -10967,7 +10950,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3551,
+      "rank": 3559,
       "gameId": "113751"
     },
     {
@@ -10984,7 +10967,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3552,
+      "rank": 3560,
       "gameId": "113751"
     },
     {
@@ -11001,7 +10984,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3553,
+      "rank": 3561,
       "gameId": "113751"
     },
     {
@@ -11018,7 +11001,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3554,
+      "rank": 3562,
       "gameId": "113751"
     },
     {
@@ -11035,7 +11018,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3557,
+      "rank": 3565,
       "gameId": "113751"
     },
     {
@@ -11052,7 +11035,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3571,
+      "rank": 3579,
       "gameId": "113751"
     },
     {
@@ -11069,7 +11052,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3572,
+      "rank": 3580,
       "gameId": "113751"
     },
     {
@@ -11086,7 +11069,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3578,
+      "rank": 3586,
       "gameId": "113751"
     },
     {
@@ -11103,7 +11086,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3579,
+      "rank": 3587,
       "gameId": "113751"
     },
     {
@@ -11120,7 +11103,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3580,
+      "rank": 3588,
       "gameId": "113751"
     },
     {
@@ -11137,7 +11120,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3582,
+      "rank": 3590,
       "gameId": "113751"
     },
     {
@@ -11154,7 +11137,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3583,
+      "rank": 3591,
       "gameId": "113751"
     },
     {
@@ -11171,7 +11154,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3587,
+      "rank": 3595,
       "gameId": "113751"
     },
     {
@@ -11188,7 +11171,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3593,
+      "rank": 3601,
       "gameId": "113751"
     },
     {
@@ -11205,7 +11188,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3597,
+      "rank": 3605,
       "gameId": "113751"
     },
     {
@@ -11222,7 +11205,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3601,
+      "rank": 3609,
       "gameId": "113751"
     },
     {
@@ -11239,7 +11222,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3602,
+      "rank": 3610,
       "gameId": "113751"
     },
     {
@@ -11256,7 +11239,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3603,
+      "rank": 3611,
       "gameId": "113751"
     },
     {
@@ -11273,7 +11256,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3606,
+      "rank": 3614,
       "gameId": "113751"
     },
     {
@@ -11290,7 +11273,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3607,
+      "rank": 3615,
       "gameId": "113751"
     },
     {
@@ -11307,7 +11290,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3609,
+      "rank": 3617,
       "gameId": "113751"
     },
     {
@@ -11324,7 +11307,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3610,
+      "rank": 3618,
       "gameId": "113751"
     },
     {
@@ -11341,7 +11324,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3614,
+      "rank": 3622,
       "gameId": "113751"
     },
     {
@@ -11358,7 +11341,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3616,
+      "rank": 3624,
       "gameId": "113751"
     },
     {
@@ -11375,7 +11358,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3617,
+      "rank": 3625,
       "gameId": "113751"
     },
     {
@@ -11392,7 +11375,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3623,
+      "rank": 3631,
       "gameId": "113751"
     },
     {
@@ -11409,7 +11392,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3624,
+      "rank": 3632,
       "gameId": "113751"
     },
     {
@@ -11426,7 +11409,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3627,
+      "rank": 3635,
       "gameId": "113751"
     },
     {
@@ -11443,7 +11426,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3628,
+      "rank": 3636,
       "gameId": "113751"
     },
     {
@@ -11460,7 +11443,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3637,
+      "rank": 3645,
       "gameId": "113751"
     },
     {
@@ -11477,7 +11460,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3638,
+      "rank": 3646,
       "gameId": "113751"
     },
     {
@@ -11494,7 +11477,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3647,
+      "rank": 3655,
       "gameId": "113751"
     },
     {
@@ -11511,7 +11494,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3649,
+      "rank": 3657,
       "gameId": "113751"
     },
     {
@@ -11528,7 +11511,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3651,
+      "rank": 3659,
       "gameId": "113751"
     },
     {
@@ -11545,7 +11528,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3654,
+      "rank": 3662,
       "gameId": "113751"
     },
     {
@@ -11562,7 +11545,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3656,
+      "rank": 3664,
       "gameId": "113751"
     },
     {
@@ -11579,7 +11562,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3671,
+      "rank": 3679,
       "gameId": "113751"
     },
     {
@@ -11596,7 +11579,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3672,
+      "rank": 3680,
       "gameId": "113751"
     },
     {
@@ -11613,7 +11596,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3673,
+      "rank": 3681,
       "gameId": "113751"
     },
     {
@@ -11630,7 +11613,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3677,
+      "rank": 3685,
       "gameId": "113751"
     },
     {
@@ -11647,7 +11630,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3679,
+      "rank": 3687,
       "gameId": "113751"
     },
     {
@@ -11664,7 +11647,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3696,
+      "rank": 3704,
       "gameId": "113751"
     },
     {
@@ -11681,7 +11664,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3701,
+      "rank": 3709,
       "gameId": "113751"
     },
     {
@@ -11698,7 +11681,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3708,
+      "rank": 3716,
       "gameId": "113751"
     },
     {
@@ -11715,7 +11698,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3747,
+      "rank": 3755,
       "gameId": "113751"
     },
     {
@@ -11732,7 +11715,7 @@
       "teamCode": "LA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3748,
+      "rank": 3756,
       "gameId": "113751"
     },
     {
@@ -11749,7 +11732,7 @@
       "teamCode": "DET",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3757,
+      "rank": 3765,
       "gameId": "113751"
     },
     {
@@ -11766,7 +11749,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3783,
+      "rank": 3791,
       "gameId": "113750"
     },
     {
@@ -11783,7 +11766,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3786,
+      "rank": 3794,
       "gameId": "113750"
     },
     {
@@ -11800,7 +11783,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3829,
+      "rank": 3837,
       "gameId": "113750"
     },
     {
@@ -11817,7 +11800,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3830,
+      "rank": 3838,
       "gameId": "113750"
     },
     {
@@ -11834,7 +11817,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3831,
+      "rank": 3839,
       "gameId": "113750"
     },
     {
@@ -11851,7 +11834,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3840,
+      "rank": 3848,
       "gameId": "113750"
     },
     {
@@ -11868,7 +11851,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3841,
+      "rank": 3849,
       "gameId": "113750"
     },
     {
@@ -11885,7 +11868,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3843,
+      "rank": 3851,
       "gameId": "113750"
     },
     {
@@ -11902,7 +11885,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3859,
+      "rank": 3867,
       "gameId": "113750"
     },
     {
@@ -11919,7 +11902,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3880,
+      "rank": 3888,
       "gameId": "113750"
     },
     {
@@ -11936,7 +11919,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3881,
+      "rank": 3889,
       "gameId": "113750"
     },
     {
@@ -11953,7 +11936,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3884,
+      "rank": 3892,
       "gameId": "113750"
     },
     {
@@ -11970,7 +11953,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3886,
+      "rank": 3894,
       "gameId": "113750"
     },
     {
@@ -11987,7 +11970,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3887,
+      "rank": 3895,
       "gameId": "113750"
     },
     {
@@ -12004,7 +11987,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3888,
+      "rank": 3896,
       "gameId": "113750"
     },
     {
@@ -12021,7 +12004,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3889,
+      "rank": 3897,
       "gameId": "113750"
     },
     {
@@ -12038,7 +12021,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3933,
+      "rank": 3941,
       "gameId": "113750"
     },
     {
@@ -12055,7 +12038,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3934,
+      "rank": 3942,
       "gameId": "113750"
     },
     {
@@ -12072,7 +12055,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3935,
+      "rank": 3943,
       "gameId": "113750"
     },
     {
@@ -12089,7 +12072,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3936,
+      "rank": 3944,
       "gameId": "113750"
     },
     {
@@ -12106,7 +12089,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3962,
+      "rank": 3970,
       "gameId": "113750"
     },
     {
@@ -12123,7 +12106,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3965,
+      "rank": 3973,
       "gameId": "113750"
     },
     {
@@ -12140,7 +12123,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3966,
+      "rank": 3974,
       "gameId": "113750"
     },
     {
@@ -12157,7 +12140,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3968,
+      "rank": 3976,
       "gameId": "113750"
     },
     {
@@ -12174,7 +12157,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3970,
+      "rank": 3978,
       "gameId": "113750"
     },
     {
@@ -12191,7 +12174,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3971,
+      "rank": 3979,
       "gameId": "113750"
     },
     {
@@ -12208,7 +12191,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3988,
+      "rank": 3996,
       "gameId": "113750"
     },
     {
@@ -12225,7 +12208,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3990,
+      "rank": 3998,
       "gameId": "113750"
     },
     {
@@ -12242,7 +12225,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3991,
+      "rank": 3999,
       "gameId": "113750"
     },
     {
@@ -12259,7 +12242,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3993,
+      "rank": 4001,
       "gameId": "113750"
     },
     {
@@ -12276,7 +12259,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3994,
+      "rank": 4002,
       "gameId": "113750"
     },
     {
@@ -12293,7 +12276,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3995,
+      "rank": 4003,
       "gameId": "113750"
     },
     {
@@ -12310,7 +12293,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3996,
+      "rank": 4004,
       "gameId": "113750"
     },
     {
@@ -12327,7 +12310,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3998,
+      "rank": 4006,
       "gameId": "113750"
     },
     {
@@ -12344,7 +12327,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3999,
+      "rank": 4007,
       "gameId": "113750"
     },
     {
@@ -12361,7 +12344,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4000,
+      "rank": 4008,
       "gameId": "113750"
     },
     {
@@ -12378,7 +12361,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4003,
+      "rank": 4011,
       "gameId": "113750"
     },
     {
@@ -12395,7 +12378,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4004,
+      "rank": 4012,
       "gameId": "113750"
     },
     {
@@ -12412,7 +12395,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4005,
+      "rank": 4013,
       "gameId": "113750"
     },
     {
@@ -12429,7 +12412,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4006,
+      "rank": 4014,
       "gameId": "113750"
     },
     {
@@ -12446,7 +12429,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4024,
+      "rank": 4032,
       "gameId": "113750"
     },
     {
@@ -12463,7 +12446,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4027,
+      "rank": 4035,
       "gameId": "113750"
     },
     {
@@ -12480,7 +12463,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4028,
+      "rank": 4036,
       "gameId": "113750"
     },
     {
@@ -12497,7 +12480,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4029,
+      "rank": 4037,
       "gameId": "113750"
     },
     {
@@ -12514,7 +12497,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4031,
+      "rank": 4039,
       "gameId": "113750"
     },
     {
@@ -12531,7 +12514,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4035,
+      "rank": 4043,
       "gameId": "113750"
     },
     {
@@ -12548,7 +12531,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4036,
+      "rank": 4044,
       "gameId": "113750"
     },
     {
@@ -12565,7 +12548,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4037,
+      "rank": 4045,
       "gameId": "113750"
     },
     {
@@ -12582,7 +12565,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4041,
+      "rank": 4049,
       "gameId": "113750"
     },
     {
@@ -12599,7 +12582,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4044,
+      "rank": 4052,
       "gameId": "113750"
     },
     {
@@ -12616,7 +12599,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4051,
+      "rank": 4059,
       "gameId": "113750"
     },
     {
@@ -12633,7 +12616,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4053,
+      "rank": 4061,
       "gameId": "113750"
     },
     {
@@ -12650,7 +12633,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4054,
+      "rank": 4062,
       "gameId": "113750"
     },
     {
@@ -12667,7 +12650,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4056,
+      "rank": 4064,
       "gameId": "113750"
     },
     {
@@ -12684,7 +12667,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4061,
+      "rank": 4069,
       "gameId": "113750"
     },
     {
@@ -12701,7 +12684,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4091,
+      "rank": 4099,
       "gameId": "113750"
     },
     {
@@ -12718,7 +12701,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4092,
+      "rank": 4100,
       "gameId": "113750"
     },
     {
@@ -12735,7 +12718,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4093,
+      "rank": 4101,
       "gameId": "113750"
     },
     {
@@ -12752,7 +12735,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4094,
+      "rank": 4102,
       "gameId": "113750"
     },
     {
@@ -12769,7 +12752,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4110,
+      "rank": 4118,
       "gameId": "113750"
     },
     {
@@ -12786,7 +12769,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4113,
+      "rank": 4121,
       "gameId": "113750"
     },
     {
@@ -12803,7 +12786,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4114,
+      "rank": 4122,
       "gameId": "113750"
     },
     {
@@ -12820,7 +12803,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4115,
+      "rank": 4123,
       "gameId": "113750"
     },
     {
@@ -12837,7 +12820,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4121,
+      "rank": 4129,
       "gameId": "113750"
     },
     {
@@ -12854,7 +12837,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4123,
+      "rank": 4131,
       "gameId": "113750"
     },
     {
@@ -12871,7 +12854,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4129,
+      "rank": 4137,
       "gameId": "113750"
     },
     {
@@ -12888,7 +12871,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4132,
+      "rank": 4140,
       "gameId": "113750"
     },
     {
@@ -12905,7 +12888,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4133,
+      "rank": 4141,
       "gameId": "113750"
     },
     {
@@ -12922,7 +12905,7 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4161,
+      "rank": 4169,
       "gameId": "113750"
     },
     {
@@ -12939,7 +12922,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4181,
+      "rank": 4189,
       "gameId": "113753"
     },
     {
@@ -12956,7 +12939,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4192,
+      "rank": 4200,
       "gameId": "113753"
     },
     {
@@ -12973,7 +12956,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4212,
+      "rank": 4220,
       "gameId": "113753"
     },
     {
@@ -12990,7 +12973,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4213,
+      "rank": 4221,
       "gameId": "113753"
     },
     {
@@ -13007,7 +12990,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4219,
+      "rank": 4227,
       "gameId": "113753"
     },
     {
@@ -13024,7 +13007,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4225,
+      "rank": 4233,
       "gameId": "113753"
     },
     {
@@ -13041,7 +13024,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4246,
+      "rank": 4254,
       "gameId": "113753"
     },
     {
@@ -13058,7 +13041,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4247,
+      "rank": 4255,
       "gameId": "113753"
     },
     {
@@ -13075,7 +13058,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4248,
+      "rank": 4256,
       "gameId": "113753"
     },
     {
@@ -13092,7 +13075,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4270,
+      "rank": 4278,
       "gameId": "113753"
     },
     {
@@ -13109,7 +13092,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4273,
+      "rank": 4281,
       "gameId": "113753"
     },
     {
@@ -13126,7 +13109,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4274,
+      "rank": 4282,
       "gameId": "113753"
     },
     {
@@ -13143,7 +13126,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4275,
+      "rank": 4283,
       "gameId": "113753"
     },
     {
@@ -13160,7 +13143,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4276,
+      "rank": 4284,
       "gameId": "113753"
     },
     {
@@ -13177,7 +13160,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4277,
+      "rank": 4285,
       "gameId": "113753"
     },
     {
@@ -13194,7 +13177,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4278,
+      "rank": 4286,
       "gameId": "113753"
     },
     {
@@ -13211,7 +13194,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4301,
+      "rank": 4309,
       "gameId": "113753"
     },
     {
@@ -13228,7 +13211,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4302,
+      "rank": 4310,
       "gameId": "113753"
     },
     {
@@ -13245,7 +13228,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4320,
+      "rank": 4328,
       "gameId": "113753"
     },
     {
@@ -13262,7 +13245,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4321,
+      "rank": 4329,
       "gameId": "113753"
     },
     {
@@ -13279,7 +13262,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4322,
+      "rank": 4330,
       "gameId": "113753"
     },
     {
@@ -13296,7 +13279,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4323,
+      "rank": 4331,
       "gameId": "113753"
     },
     {
@@ -13313,7 +13296,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4324,
+      "rank": 4332,
       "gameId": "113753"
     },
     {
@@ -13330,7 +13313,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4327,
+      "rank": 4335,
       "gameId": "113753"
     },
     {
@@ -13347,7 +13330,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4347,
+      "rank": 4355,
       "gameId": "113753"
     },
     {
@@ -13364,7 +13347,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4348,
+      "rank": 4356,
       "gameId": "113753"
     },
     {
@@ -13381,7 +13364,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4352,
+      "rank": 4360,
       "gameId": "113753"
     },
     {
@@ -13398,7 +13381,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4353,
+      "rank": 4361,
       "gameId": "113753"
     },
     {
@@ -13415,7 +13398,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4355,
+      "rank": 4363,
       "gameId": "113753"
     },
     {
@@ -13432,7 +13415,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4356,
+      "rank": 4364,
       "gameId": "113753"
     },
     {
@@ -13449,7 +13432,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4374,
+      "rank": 4382,
       "gameId": "113753"
     },
     {
@@ -13466,7 +13449,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4376,
+      "rank": 4384,
       "gameId": "113753"
     },
     {
@@ -13483,7 +13466,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4377,
+      "rank": 4385,
       "gameId": "113753"
     },
     {
@@ -13500,7 +13483,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4378,
+      "rank": 4386,
       "gameId": "113753"
     },
     {
@@ -13517,7 +13500,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4379,
+      "rank": 4387,
       "gameId": "113753"
     },
     {
@@ -13534,7 +13517,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4380,
+      "rank": 4388,
       "gameId": "113753"
     },
     {
@@ -13551,7 +13534,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4382,
+      "rank": 4390,
       "gameId": "113753"
     },
     {
@@ -13568,7 +13551,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4402,
+      "rank": 4410,
       "gameId": "113753"
     },
     {
@@ -13585,7 +13568,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4404,
+      "rank": 4412,
       "gameId": "113753"
     },
     {
@@ -13602,7 +13585,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4405,
+      "rank": 4413,
       "gameId": "113753"
     },
     {
@@ -13619,7 +13602,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4406,
+      "rank": 4414,
       "gameId": "113753"
     },
     {
@@ -13636,7 +13619,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4407,
+      "rank": 4415,
       "gameId": "113753"
     },
     {
@@ -13653,7 +13636,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4408,
+      "rank": 4416,
       "gameId": "113753"
     },
     {
@@ -13670,7 +13653,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4412,
+      "rank": 4420,
       "gameId": "113753"
     },
     {
@@ -13687,7 +13670,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4415,
+      "rank": 4423,
       "gameId": "113753"
     },
     {
@@ -13704,7 +13687,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4419,
+      "rank": 4427,
       "gameId": "113753"
     },
     {
@@ -13721,7 +13704,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4420,
+      "rank": 4428,
       "gameId": "113753"
     },
     {
@@ -13738,7 +13721,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4423,
+      "rank": 4431,
       "gameId": "113753"
     },
     {
@@ -13755,7 +13738,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4424,
+      "rank": 4432,
       "gameId": "113753"
     },
     {
@@ -13772,7 +13755,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4432,
+      "rank": 4440,
       "gameId": "113753"
     },
     {
@@ -13789,7 +13772,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4434,
+      "rank": 4442,
       "gameId": "113753"
     },
     {
@@ -13806,7 +13789,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4435,
+      "rank": 4443,
       "gameId": "113753"
     },
     {
@@ -13823,7 +13806,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4436,
+      "rank": 4444,
       "gameId": "113753"
     },
     {
@@ -13840,7 +13823,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4437,
+      "rank": 4445,
       "gameId": "113753"
     },
     {
@@ -13857,7 +13840,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4452,
+      "rank": 4460,
       "gameId": "113753"
     },
     {
@@ -13874,7 +13857,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4453,
+      "rank": 4461,
       "gameId": "113753"
     },
     {
@@ -13891,7 +13874,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4455,
+      "rank": 4463,
       "gameId": "113753"
     },
     {
@@ -13908,7 +13891,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4458,
+      "rank": 4466,
       "gameId": "113753"
     },
     {
@@ -13925,7 +13908,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4473,
+      "rank": 4481,
       "gameId": "113753"
     },
     {
@@ -13942,7 +13925,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4474,
+      "rank": 4482,
       "gameId": "113753"
     },
     {
@@ -13959,7 +13942,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4483,
+      "rank": 4491,
       "gameId": "113753"
     },
     {
@@ -13976,7 +13959,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4484,
+      "rank": 4492,
       "gameId": "113753"
     },
     {
@@ -13993,7 +13976,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4488,
+      "rank": 4496,
       "gameId": "113753"
     },
     {
@@ -14010,7 +13993,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4494,
+      "rank": 4502,
       "gameId": "113753"
     },
     {
@@ -14027,7 +14010,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4495,
+      "rank": 4503,
       "gameId": "113753"
     },
     {
@@ -14044,7 +14027,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4498,
+      "rank": 4506,
       "gameId": "113753"
     },
     {
@@ -14061,7 +14044,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4503,
+      "rank": 4511,
       "gameId": "113753"
     },
     {
@@ -14078,7 +14061,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4511,
+      "rank": 4519,
       "gameId": "113753"
     },
     {
@@ -14095,7 +14078,7 @@
       "teamCode": "TEN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4512,
+      "rank": 4520,
       "gameId": "113753"
     },
     {
@@ -14112,7 +14095,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4519,
+      "rank": 4527,
       "gameId": "113753"
     },
     {
@@ -14129,7 +14112,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4557,
+      "rank": 4565,
       "gameId": "113752"
     },
     {
@@ -14146,7 +14129,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4568,
+      "rank": 4576,
       "gameId": "113752"
     },
     {
@@ -14163,7 +14146,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4583,
+      "rank": 4591,
       "gameId": "113752"
     },
     {
@@ -14180,7 +14163,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4595,
+      "rank": 4603,
       "gameId": "113752"
     },
     {
@@ -14197,7 +14180,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4604,
+      "rank": 4612,
       "gameId": "113752"
     },
     {
@@ -14214,7 +14197,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4605,
+      "rank": 4613,
       "gameId": "113752"
     },
     {
@@ -14231,7 +14214,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4617,
+      "rank": 4625,
       "gameId": "113752"
     },
     {
@@ -14248,7 +14231,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4645,
+      "rank": 4653,
       "gameId": "113752"
     },
     {
@@ -14265,7 +14248,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4646,
+      "rank": 4654,
       "gameId": "113752"
     },
     {
@@ -14282,7 +14265,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4647,
+      "rank": 4655,
       "gameId": "113752"
     },
     {
@@ -14299,7 +14282,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4650,
+      "rank": 4658,
       "gameId": "113752"
     },
     {
@@ -14316,7 +14299,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4652,
+      "rank": 4660,
       "gameId": "113752"
     },
     {
@@ -14333,7 +14316,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4653,
+      "rank": 4661,
       "gameId": "113752"
     },
     {
@@ -14350,7 +14333,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4654,
+      "rank": 4662,
       "gameId": "113752"
     },
     {
@@ -14367,7 +14350,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4671,
+      "rank": 4679,
       "gameId": "113752"
     },
     {
@@ -14384,7 +14367,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4672,
+      "rank": 4680,
       "gameId": "113752"
     },
     {
@@ -14401,7 +14384,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4673,
+      "rank": 4681,
       "gameId": "113752"
     },
     {
@@ -14418,7 +14401,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4674,
+      "rank": 4682,
       "gameId": "113752"
     },
     {
@@ -14435,7 +14418,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4675,
+      "rank": 4683,
       "gameId": "113752"
     },
     {
@@ -14452,7 +14435,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4694,
+      "rank": 4702,
       "gameId": "113752"
     },
     {
@@ -14469,7 +14452,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4695,
+      "rank": 4703,
       "gameId": "113752"
     },
     {
@@ -14486,7 +14469,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4720,
+      "rank": 4728,
       "gameId": "113752"
     },
     {
@@ -14503,7 +14486,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4724,
+      "rank": 4732,
       "gameId": "113752"
     },
     {
@@ -14520,7 +14503,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4725,
+      "rank": 4733,
       "gameId": "113752"
     },
     {
@@ -14537,7 +14520,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4726,
+      "rank": 4734,
       "gameId": "113752"
     },
     {
@@ -14554,7 +14537,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4728,
+      "rank": 4736,
       "gameId": "113752"
     },
     {
@@ -14571,7 +14554,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4729,
+      "rank": 4737,
       "gameId": "113752"
     },
     {
@@ -14588,7 +14571,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4730,
+      "rank": 4738,
       "gameId": "113752"
     },
     {
@@ -14605,7 +14588,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4731,
+      "rank": 4739,
       "gameId": "113752"
     },
     {
@@ -14622,7 +14605,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4733,
+      "rank": 4741,
       "gameId": "113752"
     },
     {
@@ -14639,7 +14622,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4734,
+      "rank": 4742,
       "gameId": "113752"
     },
     {
@@ -14656,7 +14639,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4735,
+      "rank": 4743,
       "gameId": "113752"
     },
     {
@@ -14673,7 +14656,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4745,
+      "rank": 4753,
       "gameId": "113752"
     },
     {
@@ -14690,7 +14673,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4748,
+      "rank": 4756,
       "gameId": "113752"
     },
     {
@@ -14707,7 +14690,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4749,
+      "rank": 4757,
       "gameId": "113752"
     },
     {
@@ -14724,7 +14707,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4750,
+      "rank": 4758,
       "gameId": "113752"
     },
     {
@@ -14741,7 +14724,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4753,
+      "rank": 4761,
       "gameId": "113752"
     },
     {
@@ -14758,7 +14741,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4756,
+      "rank": 4764,
       "gameId": "113752"
     },
     {
@@ -14775,7 +14758,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4769,
+      "rank": 4777,
       "gameId": "113752"
     },
     {
@@ -14792,7 +14775,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4770,
+      "rank": 4778,
       "gameId": "113752"
     },
     {
@@ -14809,7 +14792,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4771,
+      "rank": 4779,
       "gameId": "113752"
     },
     {
@@ -14826,7 +14809,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4784,
+      "rank": 4792,
       "gameId": "113752"
     },
     {
@@ -14843,7 +14826,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4789,
+      "rank": 4797,
       "gameId": "113752"
     },
     {
@@ -14860,7 +14843,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4790,
+      "rank": 4798,
       "gameId": "113752"
     },
     {
@@ -14877,7 +14860,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4798,
+      "rank": 4806,
       "gameId": "113752"
     },
     {
@@ -14894,7 +14877,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4814,
+      "rank": 4822,
       "gameId": "113752"
     },
     {
@@ -14911,7 +14894,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4815,
+      "rank": 4823,
       "gameId": "113752"
     },
     {
@@ -14928,7 +14911,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4816,
+      "rank": 4824,
       "gameId": "113752"
     },
     {
@@ -14945,7 +14928,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4817,
+      "rank": 4825,
       "gameId": "113752"
     },
     {
@@ -14962,7 +14945,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4818,
+      "rank": 4826,
       "gameId": "113752"
     },
     {
@@ -14979,7 +14962,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4819,
+      "rank": 4827,
       "gameId": "113752"
     },
     {
@@ -14996,7 +14979,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4820,
+      "rank": 4828,
       "gameId": "113752"
     },
     {
@@ -15013,7 +14996,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4822,
+      "rank": 4830,
       "gameId": "113752"
     },
     {
@@ -15030,7 +15013,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4823,
+      "rank": 4831,
       "gameId": "113752"
     },
     {
@@ -15047,7 +15030,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4835,
+      "rank": 4843,
       "gameId": "113752"
     },
     {
@@ -15064,7 +15047,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4838,
+      "rank": 4846,
       "gameId": "113752"
     },
     {
@@ -15081,7 +15064,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4839,
+      "rank": 4847,
       "gameId": "113752"
     },
     {
@@ -15098,7 +15081,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4840,
+      "rank": 4848,
       "gameId": "113752"
     },
     {
@@ -15115,7 +15098,7 @@
       "teamCode": "IND",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4851,
+      "rank": 4859,
       "gameId": "113752"
     },
     {
@@ -15132,7 +15115,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4861,
+      "rank": 4869,
       "gameId": "113752"
     },
     {
@@ -15149,7 +15132,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4862,
+      "rank": 4870,
       "gameId": "113752"
     },
     {
@@ -15166,7 +15149,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4863,
+      "rank": 4871,
       "gameId": "113752"
     },
     {
@@ -15183,7 +15166,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4864,
+      "rank": 4872,
       "gameId": "113752"
     },
     {
@@ -15200,7 +15183,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4883,
+      "rank": 4891,
       "gameId": "113752"
     },
     {
@@ -15217,7 +15200,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4885,
+      "rank": 4893,
       "gameId": "113752"
     },
     {
@@ -15234,7 +15217,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4901,
+      "rank": 4909,
       "gameId": "113752"
     },
     {
@@ -15251,7 +15234,7 @@
       "teamCode": "SEA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4902,
+      "rank": 4910,
       "gameId": "113752"
     },
     {
@@ -15268,7 +15251,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 4932,
+      "rank": 4940,
       "gameId": "113749"
     },
     {
@@ -15285,7 +15268,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4933,
+      "rank": 4941,
       "gameId": "113749"
     },
     {
@@ -15302,7 +15285,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 4964,
+      "rank": 4972,
       "gameId": "113749"
     },
     {
@@ -15319,7 +15302,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4965,
+      "rank": 4973,
       "gameId": "113749"
     },
     {
@@ -15336,7 +15319,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 4966,
+      "rank": 4974,
       "gameId": "113749"
     },
     {
@@ -15353,13 +15336,13 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 4977,
+      "rank": 4985,
       "gameId": "113749"
     },
     {
       "player": "Courtland Sutton",
       "stat": "Receiving Yards",
-      "line": 52.5,
+      "line": 51.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -15370,7 +15353,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4978,
+      "rank": 4987,
       "gameId": "113749"
     },
     {
@@ -15387,7 +15370,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4980,
+      "rank": 4988,
       "gameId": "113749"
     },
     {
@@ -15404,7 +15387,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5010,
+      "rank": 5018,
       "gameId": "113749"
     },
     {
@@ -15421,7 +15404,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5011,
+      "rank": 5019,
       "gameId": "113749"
     },
     {
@@ -15438,7 +15421,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5012,
+      "rank": 5020,
       "gameId": "113749"
     },
     {
@@ -15455,7 +15438,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5015,
+      "rank": 5023,
       "gameId": "113749"
     },
     {
@@ -15472,7 +15455,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5016,
+      "rank": 5024,
       "gameId": "113749"
     },
     {
@@ -15489,7 +15472,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5018,
+      "rank": 5026,
       "gameId": "113749"
     },
     {
@@ -15506,7 +15489,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5019,
+      "rank": 5027,
       "gameId": "113749"
     },
     {
@@ -15523,7 +15506,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5027,
+      "rank": 5035,
       "gameId": "113749"
     },
     {
@@ -15540,7 +15523,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5046,
+      "rank": 5054,
       "gameId": "113749"
     },
     {
@@ -15557,7 +15540,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5054,
+      "rank": 5062,
       "gameId": "113749"
     },
     {
@@ -15574,7 +15557,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5055,
+      "rank": 5063,
       "gameId": "113749"
     },
     {
@@ -15591,7 +15574,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5057,
+      "rank": 5065,
       "gameId": "113749"
     },
     {
@@ -15608,7 +15591,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5066,
+      "rank": 5074,
       "gameId": "113749"
     },
     {
@@ -15625,7 +15608,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5087,
+      "rank": 5095,
       "gameId": "113749"
     },
     {
@@ -15642,7 +15625,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5089,
+      "rank": 5097,
       "gameId": "113749"
     },
     {
@@ -15659,7 +15642,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5091,
+      "rank": 5099,
       "gameId": "113749"
     },
     {
@@ -15676,7 +15659,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5092,
+      "rank": 5100,
       "gameId": "113749"
     },
     {
@@ -15693,7 +15676,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5093,
+      "rank": 5101,
       "gameId": "113749"
     },
     {
@@ -15710,7 +15693,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5094,
+      "rank": 5102,
       "gameId": "113749"
     },
     {
@@ -15727,7 +15710,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5096,
+      "rank": 5104,
       "gameId": "113749"
     },
     {
@@ -15744,7 +15727,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5097,
+      "rank": 5105,
       "gameId": "113749"
     },
     {
@@ -15761,7 +15744,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5103,
+      "rank": 5111,
       "gameId": "113749"
     },
     {
@@ -15778,7 +15761,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5112,
+      "rank": 5120,
       "gameId": "113749"
     },
     {
@@ -15795,7 +15778,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5113,
+      "rank": 5121,
       "gameId": "113749"
     },
     {
@@ -15812,7 +15795,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5114,
+      "rank": 5122,
       "gameId": "113749"
     },
     {
@@ -15829,7 +15812,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5115,
+      "rank": 5123,
       "gameId": "113749"
     },
     {
@@ -15846,7 +15829,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5117,
+      "rank": 5125,
       "gameId": "113749"
     },
     {
@@ -15863,7 +15846,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5118,
+      "rank": 5126,
       "gameId": "113749"
     },
     {
@@ -15880,7 +15863,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5119,
+      "rank": 5127,
       "gameId": "113749"
     },
     {
@@ -15897,7 +15880,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5121,
+      "rank": 5129,
       "gameId": "113749"
     },
     {
@@ -15914,7 +15897,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5125,
+      "rank": 5133,
       "gameId": "113749"
     },
     {
@@ -15931,7 +15914,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5126,
+      "rank": 5134,
       "gameId": "113749"
     },
     {
@@ -15948,7 +15931,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5133,
+      "rank": 5141,
       "gameId": "113749"
     },
     {
@@ -15965,7 +15948,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5138,
+      "rank": 5146,
       "gameId": "113749"
     },
     {
@@ -15982,7 +15965,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5140,
+      "rank": 5148,
       "gameId": "113749"
     },
     {
@@ -15999,7 +15982,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5142,
+      "rank": 5150,
       "gameId": "113749"
     },
     {
@@ -16016,7 +15999,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5144,
+      "rank": 5152,
       "gameId": "113749"
     },
     {
@@ -16033,7 +16016,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5146,
+      "rank": 5154,
       "gameId": "113749"
     },
     {
@@ -16050,7 +16033,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5147,
+      "rank": 5155,
       "gameId": "113749"
     },
     {
@@ -16067,7 +16050,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5148,
+      "rank": 5156,
       "gameId": "113749"
     },
     {
@@ -16084,7 +16067,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5151,
+      "rank": 5159,
       "gameId": "113749"
     },
     {
@@ -16101,7 +16084,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5162,
+      "rank": 5170,
       "gameId": "113749"
     },
     {
@@ -16118,7 +16101,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5163,
+      "rank": 5171,
       "gameId": "113749"
     },
     {
@@ -16135,7 +16118,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5166,
+      "rank": 5174,
       "gameId": "113749"
     },
     {
@@ -16152,7 +16135,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5171,
+      "rank": 5179,
       "gameId": "113749"
     },
     {
@@ -16169,7 +16152,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5172,
+      "rank": 5180,
       "gameId": "113749"
     },
     {
@@ -16186,7 +16169,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5173,
+      "rank": 5181,
       "gameId": "113749"
     },
     {
@@ -16203,7 +16186,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5174,
+      "rank": 5182,
       "gameId": "113749"
     },
     {
@@ -16220,7 +16203,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5175,
+      "rank": 5183,
       "gameId": "113749"
     },
     {
@@ -16237,7 +16220,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5180,
+      "rank": 5188,
       "gameId": "113749"
     },
     {
@@ -16254,7 +16237,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5181,
+      "rank": 5189,
       "gameId": "113749"
     },
     {
@@ -16271,7 +16254,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5186,
+      "rank": 5194,
       "gameId": "113749"
     },
     {
@@ -16288,7 +16271,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5196,
+      "rank": 5204,
       "gameId": "113749"
     },
     {
@@ -16305,7 +16288,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5201,
+      "rank": 5209,
       "gameId": "113749"
     },
     {
@@ -16322,7 +16305,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5202,
+      "rank": 5210,
       "gameId": "113749"
     },
     {
@@ -16339,7 +16322,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5203,
+      "rank": 5211,
       "gameId": "113749"
     },
     {
@@ -16356,7 +16339,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5215,
+      "rank": 5223,
       "gameId": "113749"
     },
     {
@@ -16373,7 +16356,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5216,
+      "rank": 5224,
       "gameId": "113749"
     },
     {
@@ -16390,7 +16373,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5218,
+      "rank": 5226,
       "gameId": "113749"
     },
     {
@@ -16407,7 +16390,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5219,
+      "rank": 5227,
       "gameId": "113749"
     },
     {
@@ -16424,7 +16407,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5221,
+      "rank": 5229,
       "gameId": "113749"
     },
     {
@@ -16441,7 +16424,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5222,
+      "rank": 5230,
       "gameId": "113749"
     },
     {
@@ -16458,7 +16441,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5225,
+      "rank": 5233,
       "gameId": "113749"
     },
     {
@@ -16475,7 +16458,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5228,
+      "rank": 5236,
       "gameId": "113749"
     },
     {
@@ -16492,7 +16475,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5237,
+      "rank": 5245,
       "gameId": "113749"
     },
     {
@@ -16509,7 +16492,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5243,
+      "rank": 5251,
       "gameId": "113749"
     },
     {
@@ -16526,7 +16509,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5248,
+      "rank": 5256,
       "gameId": "113749"
     },
     {
@@ -16543,7 +16526,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5268,
+      "rank": 5276,
       "gameId": "113749"
     },
     {
@@ -16560,7 +16543,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5276,
+      "rank": 5284,
       "gameId": "113749"
     },
     {
@@ -16577,7 +16560,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5287,
+      "rank": 5295,
       "gameId": "113994"
     },
     {
@@ -16594,7 +16577,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5302,
+      "rank": 5310,
       "gameId": "113994"
     },
     {
@@ -16611,7 +16594,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5316,
+      "rank": 5324,
       "gameId": "113994"
     },
     {
@@ -16628,7 +16611,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5342,
+      "rank": 5350,
       "gameId": "113994"
     },
     {
@@ -16645,7 +16628,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5350,
+      "rank": 5358,
       "gameId": "113994"
     },
     {
@@ -16662,7 +16645,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5351,
+      "rank": 5359,
       "gameId": "113994"
     },
     {
@@ -16679,7 +16662,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5358,
+      "rank": 5366,
       "gameId": "113994"
     },
     {
@@ -16696,7 +16679,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5360,
+      "rank": 5368,
       "gameId": "113994"
     },
     {
@@ -16713,7 +16696,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5361,
+      "rank": 5369,
       "gameId": "113994"
     },
     {
@@ -16730,7 +16713,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5385,
+      "rank": 5393,
       "gameId": "113994"
     },
     {
@@ -16747,7 +16730,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5386,
+      "rank": 5394,
       "gameId": "113994"
     },
     {
@@ -16764,7 +16747,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5403,
+      "rank": 5411,
       "gameId": "113994"
     },
     {
@@ -16781,7 +16764,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5404,
+      "rank": 5412,
       "gameId": "113994"
     },
     {
@@ -16798,7 +16781,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5406,
+      "rank": 5414,
       "gameId": "113994"
     },
     {
@@ -16815,7 +16798,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5407,
+      "rank": 5415,
       "gameId": "113994"
     },
     {
@@ -16832,7 +16815,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5413,
+      "rank": 5421,
       "gameId": "113994"
     },
     {
@@ -16849,7 +16832,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5438,
+      "rank": 5446,
       "gameId": "113994"
     },
     {
@@ -16866,7 +16849,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5441,
+      "rank": 5449,
       "gameId": "113994"
     },
     {
@@ -16883,7 +16866,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5442,
+      "rank": 5450,
       "gameId": "113994"
     },
     {
@@ -16900,7 +16883,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5443,
+      "rank": 5451,
       "gameId": "113994"
     },
     {
@@ -16917,7 +16900,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5455,
+      "rank": 5463,
       "gameId": "113994"
     },
     {
@@ -16934,7 +16917,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5457,
+      "rank": 5465,
       "gameId": "113994"
     },
     {
@@ -16951,7 +16934,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5458,
+      "rank": 5466,
       "gameId": "113994"
     },
     {
@@ -16968,7 +16951,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5482,
+      "rank": 5490,
       "gameId": "113994"
     },
     {
@@ -16985,7 +16968,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5483,
+      "rank": 5491,
       "gameId": "113994"
     },
     {
@@ -17002,7 +16985,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5484,
+      "rank": 5492,
       "gameId": "113994"
     },
     {
@@ -17019,7 +17002,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5485,
+      "rank": 5493,
       "gameId": "113994"
     },
     {
@@ -17036,7 +17019,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5487,
+      "rank": 5495,
       "gameId": "113994"
     },
     {
@@ -17053,7 +17036,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5490,
+      "rank": 5498,
       "gameId": "113994"
     },
     {
@@ -17070,7 +17053,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5492,
+      "rank": 5500,
       "gameId": "113994"
     },
     {
@@ -17087,7 +17070,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5494,
+      "rank": 5502,
       "gameId": "113994"
     },
     {
@@ -17104,7 +17087,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5511,
+      "rank": 5519,
       "gameId": "113994"
     },
     {
@@ -17121,7 +17104,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5512,
+      "rank": 5520,
       "gameId": "113994"
     },
     {
@@ -17138,7 +17121,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5513,
+      "rank": 5521,
       "gameId": "113994"
     },
     {
@@ -17155,7 +17138,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5514,
+      "rank": 5522,
       "gameId": "113994"
     },
     {
@@ -17172,7 +17155,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5515,
+      "rank": 5523,
       "gameId": "113994"
     },
     {
@@ -17189,7 +17172,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5516,
+      "rank": 5524,
       "gameId": "113994"
     },
     {
@@ -17206,7 +17189,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5517,
+      "rank": 5525,
       "gameId": "113994"
     },
     {
@@ -17223,7 +17206,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5518,
+      "rank": 5526,
       "gameId": "113994"
     },
     {
@@ -17240,7 +17223,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5522,
+      "rank": 5530,
       "gameId": "113994"
     },
     {
@@ -17257,113 +17240,11 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5537,
-      "gameId": "113994"
-    },
-    {
-      "player": "Dak Prescott",
-      "stat": "Rush Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 5538,
-      "gameId": "113994"
-    },
-    {
-      "player": "Dak Prescott",
-      "stat": "Rush Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 5541,
-      "gameId": "113994"
-    },
-    {
-      "player": "George Pickens",
-      "stat": "Rec Targets",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 5542,
-      "gameId": "113994"
-    },
-    {
-      "player": "Justin Jefferson",
-      "stat": "Rec Targets",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5543,
-      "gameId": "113994"
-    },
-    {
-      "player": "KaVontae Turpin",
-      "stat": "Longest Reception",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 5544,
-      "gameId": "113994"
-    },
-    {
-      "player": "KaVontae Turpin",
-      "stat": "Receiving Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
       "rank": 5545,
       "gameId": "113994"
     },
     {
-      "player": "Malik Davis",
+      "player": "Dak Prescott",
       "stat": "Rush Yards",
       "line": 8.5,
       "sport": "NFL",
@@ -17380,6 +17261,108 @@
       "gameId": "113994"
     },
     {
+      "player": "Dak Prescott",
+      "stat": "Rush Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5549,
+      "gameId": "113994"
+    },
+    {
+      "player": "George Pickens",
+      "stat": "Rec Targets",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5550,
+      "gameId": "113994"
+    },
+    {
+      "player": "Justin Jefferson",
+      "stat": "Rec Targets",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 5551,
+      "gameId": "113994"
+    },
+    {
+      "player": "KaVontae Turpin",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5552,
+      "gameId": "113994"
+    },
+    {
+      "player": "KaVontae Turpin",
+      "stat": "Receiving Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5553,
+      "gameId": "113994"
+    },
+    {
+      "player": "Malik Davis",
+      "stat": "Rush Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5554,
+      "gameId": "113994"
+    },
+    {
       "player": "Will Reichard",
       "stat": "Kicking Points",
       "line": 7.5,
@@ -17393,7 +17376,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5547,
+      "rank": 5555,
       "gameId": "113994"
     },
     {
@@ -17410,7 +17393,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5549,
+      "rank": 5557,
       "gameId": "113994"
     },
     {
@@ -17427,7 +17410,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5555,
+      "rank": 5563,
       "gameId": "113994"
     },
     {
@@ -17444,7 +17427,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5557,
+      "rank": 5565,
       "gameId": "113994"
     },
     {
@@ -17461,7 +17444,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5559,
+      "rank": 5567,
       "gameId": "113994"
     },
     {
@@ -17478,7 +17461,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5567,
+      "rank": 5575,
       "gameId": "113994"
     },
     {
@@ -17495,7 +17478,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5568,
+      "rank": 5576,
       "gameId": "113994"
     },
     {
@@ -17512,7 +17495,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5571,
+      "rank": 5579,
       "gameId": "113994"
     },
     {
@@ -17529,7 +17512,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5580,
+      "rank": 5588,
       "gameId": "113994"
     },
     {
@@ -17546,7 +17529,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5581,
+      "rank": 5589,
       "gameId": "113994"
     },
     {
@@ -17563,7 +17546,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5583,
+      "rank": 5591,
       "gameId": "113994"
     },
     {
@@ -17580,7 +17563,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5584,
+      "rank": 5592,
       "gameId": "113994"
     },
     {
@@ -17597,7 +17580,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5585,
+      "rank": 5593,
       "gameId": "113994"
     },
     {
@@ -17614,7 +17597,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5587,
+      "rank": 5595,
       "gameId": "113994"
     },
     {
@@ -17631,7 +17614,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5588,
+      "rank": 5596,
       "gameId": "113994"
     },
     {
@@ -17648,7 +17631,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5589,
+      "rank": 5597,
       "gameId": "113994"
     },
     {
@@ -17665,7 +17648,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5604,
+      "rank": 5612,
       "gameId": "113994"
     },
     {
@@ -17682,7 +17665,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5610,
+      "rank": 5618,
       "gameId": "113994"
     },
     {
@@ -17699,7 +17682,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5611,
+      "rank": 5619,
       "gameId": "113994"
     },
     {
@@ -17716,7 +17699,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5621,
+      "rank": 5629,
       "gameId": "113994"
     },
     {
@@ -17733,7 +17716,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5638,
+      "rank": 5646,
       "gameId": "113994"
     },
     {
@@ -17750,7 +17733,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5639,
+      "rank": 5647,
       "gameId": "113994"
     },
     {
@@ -17767,7 +17750,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5641,
+      "rank": 5649,
       "gameId": "113994"
     },
     {
@@ -17784,7 +17767,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5651,
+      "rank": 5659,
       "gameId": "113994"
     },
     {
@@ -17801,7 +17784,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5652,
+      "rank": 5660,
       "gameId": "113994"
     },
     {
@@ -17818,7 +17801,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5703,
+      "rank": 5711,
       "gameId": "114160"
     },
     {
@@ -17835,7 +17818,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5705,
+      "rank": 5713,
       "gameId": "114160"
     },
     {
@@ -17852,7 +17835,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5738,
+      "rank": 5746,
       "gameId": "114160"
     },
     {
@@ -17869,7 +17852,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5746,
+      "rank": 5754,
       "gameId": "114160"
     },
     {
@@ -17886,7 +17869,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5747,
+      "rank": 5755,
       "gameId": "114160"
     },
     {
@@ -17903,7 +17886,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5748,
+      "rank": 5756,
       "gameId": "114160"
     },
     {
@@ -17920,7 +17903,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5758,
+      "rank": 5766,
       "gameId": "114160"
     },
     {
@@ -17937,7 +17920,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5759,
+      "rank": 5767,
       "gameId": "114160"
     },
     {
@@ -17954,7 +17937,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5796,
+      "rank": 5804,
       "gameId": "114160"
     },
     {
@@ -17971,7 +17954,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5797,
+      "rank": 5805,
       "gameId": "114160"
     },
     {
@@ -17988,7 +17971,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5799,
+      "rank": 5807,
       "gameId": "114160"
     },
     {
@@ -18005,7 +17988,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5821,
+      "rank": 5829,
       "gameId": "114160"
     },
     {
@@ -18022,7 +18005,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5822,
+      "rank": 5830,
       "gameId": "114160"
     },
     {
@@ -18039,7 +18022,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5824,
+      "rank": 5832,
       "gameId": "114160"
     },
     {
@@ -18056,7 +18039,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5833,
+      "rank": 5841,
       "gameId": "114160"
     },
     {
@@ -18073,7 +18056,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5834,
+      "rank": 5842,
       "gameId": "114160"
     },
     {
@@ -18090,7 +18073,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5835,
+      "rank": 5843,
       "gameId": "114160"
     },
     {
@@ -18107,7 +18090,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5836,
+      "rank": 5844,
       "gameId": "114160"
     },
     {
@@ -18124,7 +18107,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5837,
+      "rank": 5845,
       "gameId": "114160"
     },
     {
@@ -18141,7 +18124,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5838,
+      "rank": 5846,
       "gameId": "114160"
     },
     {
@@ -18158,7 +18141,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5844,
+      "rank": 5852,
       "gameId": "114160"
     },
     {
@@ -18175,7 +18158,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5865,
+      "rank": 5873,
       "gameId": "114160"
     },
     {
@@ -18192,7 +18175,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5866,
+      "rank": 5874,
       "gameId": "114160"
     },
     {
@@ -18209,7 +18192,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5867,
+      "rank": 5875,
       "gameId": "114160"
     },
     {
@@ -18226,7 +18209,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5871,
+      "rank": 5879,
       "gameId": "114160"
     },
     {
@@ -18243,7 +18226,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5873,
+      "rank": 5881,
       "gameId": "114160"
     },
     {
@@ -18260,7 +18243,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5875,
+      "rank": 5883,
       "gameId": "114160"
     },
     {
@@ -18277,7 +18260,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5893,
+      "rank": 5901,
       "gameId": "114160"
     },
     {
@@ -18294,7 +18277,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5895,
+      "rank": 5903,
       "gameId": "114160"
     },
     {
@@ -18311,7 +18294,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5896,
+      "rank": 5904,
       "gameId": "114160"
     },
     {
@@ -18328,7 +18311,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5898,
+      "rank": 5906,
       "gameId": "114160"
     },
     {
@@ -18345,7 +18328,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5899,
+      "rank": 5907,
       "gameId": "114160"
     },
     {
@@ -18362,7 +18345,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5900,
+      "rank": 5908,
       "gameId": "114160"
     },
     {
@@ -18379,7 +18362,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5901,
+      "rank": 5909,
       "gameId": "114160"
     },
     {
@@ -18396,7 +18379,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5905,
+      "rank": 5913,
       "gameId": "114160"
     },
     {
@@ -18413,7 +18396,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5906,
+      "rank": 5914,
       "gameId": "114160"
     },
     {
@@ -18430,7 +18413,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5907,
+      "rank": 5915,
       "gameId": "114160"
     },
     {
@@ -18447,7 +18430,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5913,
+      "rank": 5921,
       "gameId": "114160"
     },
     {
@@ -18464,7 +18447,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5926,
+      "rank": 5934,
       "gameId": "114160"
     },
     {
@@ -18481,7 +18464,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5929,
+      "rank": 5937,
       "gameId": "114160"
     },
     {
@@ -18498,7 +18481,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5931,
+      "rank": 5939,
       "gameId": "114160"
     },
     {
@@ -18515,7 +18498,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5932,
+      "rank": 5940,
       "gameId": "114160"
     },
     {
@@ -18532,7 +18515,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5934,
+      "rank": 5942,
       "gameId": "114160"
     },
     {
@@ -18549,7 +18532,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5946,
+      "rank": 5954,
       "gameId": "114160"
     },
     {
@@ -18566,7 +18549,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5956,
+      "rank": 5964,
       "gameId": "114160"
     },
     {
@@ -18583,7 +18566,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5957,
+      "rank": 5965,
       "gameId": "114160"
     },
     {
@@ -18600,7 +18583,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5958,
+      "rank": 5966,
       "gameId": "114160"
     },
     {
@@ -18617,7 +18600,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5959,
+      "rank": 5967,
       "gameId": "114160"
     },
     {
@@ -18634,7 +18617,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5975,
+      "rank": 5983,
       "gameId": "114160"
     },
     {
@@ -18651,7 +18634,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5977,
+      "rank": 5985,
       "gameId": "114160"
     },
     {
@@ -18668,7 +18651,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5978,
+      "rank": 5986,
       "gameId": "114160"
     },
     {
@@ -18685,7 +18668,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5979,
+      "rank": 5987,
       "gameId": "114160"
     },
     {
@@ -18702,7 +18685,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5986,
+      "rank": 5994,
       "gameId": "114160"
     },
     {
@@ -18719,7 +18702,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5991,
+      "rank": 5999,
       "gameId": "114160"
     },
     {
@@ -18736,7 +18719,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5992,
+      "rank": 6000,
       "gameId": "114160"
     },
     {
@@ -18753,7 +18736,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6003,
+      "rank": 6011,
       "gameId": "114160"
     },
     {
@@ -18770,7 +18753,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6006,
+      "rank": 6014,
       "gameId": "114160"
     },
     {
@@ -18787,7 +18770,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6009,
+      "rank": 6017,
       "gameId": "114160"
     },
     {
@@ -18804,7 +18787,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6011,
+      "rank": 6019,
       "gameId": "114160"
     },
     {
@@ -18821,7 +18804,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6026,
+      "rank": 6034,
       "gameId": "114160"
     }
   ]

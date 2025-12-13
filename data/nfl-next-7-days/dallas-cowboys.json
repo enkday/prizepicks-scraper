@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:20:33.553Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:20 AM UTC",
+  "scrapedAt": "2025-12-13T04:25:34.526Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:25 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5287,
+      "rank": 5295,
       "gameId": "113994"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5302,
+      "rank": 5310,
       "gameId": "113994"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5342,
+      "rank": 5350,
       "gameId": "113994"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5350,
+      "rank": 5358,
       "gameId": "113994"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5351,
+      "rank": 5359,
       "gameId": "113994"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5358,
+      "rank": 5366,
       "gameId": "113994"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5404,
+      "rank": 5412,
       "gameId": "113994"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5406,
+      "rank": 5414,
       "gameId": "113994"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5407,
+      "rank": 5415,
       "gameId": "113994"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5442,
+      "rank": 5450,
       "gameId": "113994"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5443,
+      "rank": 5451,
       "gameId": "113994"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5455,
+      "rank": 5463,
       "gameId": "113994"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5482,
+      "rank": 5490,
       "gameId": "113994"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5485,
+      "rank": 5493,
       "gameId": "113994"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5492,
+      "rank": 5500,
       "gameId": "113994"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5494,
+      "rank": 5502,
       "gameId": "113994"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5514,
+      "rank": 5522,
       "gameId": "113994"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5517,
+      "rank": 5525,
       "gameId": "113994"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5518,
+      "rank": 5526,
       "gameId": "113994"
     },
     {
@@ -344,96 +344,11 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5537,
-      "gameId": "113994"
-    },
-    {
-      "player": "Dak Prescott",
-      "stat": "Rush Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 5538,
-      "gameId": "113994"
-    },
-    {
-      "player": "Dak Prescott",
-      "stat": "Rush Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 5541,
-      "gameId": "113994"
-    },
-    {
-      "player": "George Pickens",
-      "stat": "Rec Targets",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 5542,
-      "gameId": "113994"
-    },
-    {
-      "player": "KaVontae Turpin",
-      "stat": "Longest Reception",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 5544,
-      "gameId": "113994"
-    },
-    {
-      "player": "KaVontae Turpin",
-      "stat": "Receiving Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
       "rank": 5545,
       "gameId": "113994"
     },
     {
-      "player": "Malik Davis",
+      "player": "Dak Prescott",
       "stat": "Rush Yards",
       "line": 8.5,
       "sport": "NFL",
@@ -450,6 +365,91 @@
       "gameId": "113994"
     },
     {
+      "player": "Dak Prescott",
+      "stat": "Rush Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5549,
+      "gameId": "113994"
+    },
+    {
+      "player": "George Pickens",
+      "stat": "Rec Targets",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5550,
+      "gameId": "113994"
+    },
+    {
+      "player": "KaVontae Turpin",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5552,
+      "gameId": "113994"
+    },
+    {
+      "player": "KaVontae Turpin",
+      "stat": "Receiving Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5553,
+      "gameId": "113994"
+    },
+    {
+      "player": "Malik Davis",
+      "stat": "Rush Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5554,
+      "gameId": "113994"
+    },
+    {
       "player": "Javonte Williams",
       "stat": "Longest Reception",
       "line": 7.5,
@@ -463,7 +463,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5549,
+      "rank": 5557,
       "gameId": "113994"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5555,
+      "rank": 5563,
       "gameId": "113994"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5557,
+      "rank": 5565,
       "gameId": "113994"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5567,
+      "rank": 5575,
       "gameId": "113994"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5581,
+      "rank": 5589,
       "gameId": "113994"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5583,
+      "rank": 5591,
       "gameId": "113994"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5587,
+      "rank": 5595,
       "gameId": "113994"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5611,
+      "rank": 5619,
       "gameId": "113994"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5621,
+      "rank": 5629,
       "gameId": "113994"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5641,
+      "rank": 5649,
       "gameId": "113994"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5651,
+      "rank": 5659,
       "gameId": "113994"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5652,
+      "rank": 5660,
       "gameId": "113994"
     }
   ]
