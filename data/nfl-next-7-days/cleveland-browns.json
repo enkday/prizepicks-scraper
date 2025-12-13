@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:47:35.360Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
+  "scrapedAt": "2025-12-13T03:51:14.371Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:51 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -146,7 +146,7 @@
     {
       "player": "Jerry Jeudy",
       "stat": "Receiving Yards",
-      "line": 36.5,
+      "line": 39.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -157,7 +157,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1847,
+      "rank": 1837,
       "gameId": "113748"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1939,
+      "rank": 1940,
       "gameId": "113748"
     },
     {

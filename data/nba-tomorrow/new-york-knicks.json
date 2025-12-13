@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:47:35.360Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
+  "scrapedAt": "2025-12-13T03:51:14.371Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:51 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -78,7 +78,7 @@
     {
       "player": "Josh Hart",
       "stat": "Points",
-      "line": 13.5,
+      "line": 12.5,
       "sport": "NBA",
       "startTime": "12/13/25 04:40 PM CST",
       "startTimeCST": "12/13/25 04:40 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 220,
+      "rank": 223,
       "gameId": "119503"
     },
     {

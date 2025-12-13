@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:47:35.360Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
+  "scrapedAt": "2025-12-13T03:51:14.371Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:51 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -191,7 +191,7 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2603,
+      "rank": 2604,
       "gameId": "113745"
     },
     {
@@ -297,23 +297,6 @@
       "gameId": "113745"
     },
     {
-      "player": "Khalil Shakir",
-      "stat": "Longest Reception",
-      "line": 19.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "New England Patriots",
-      "opponentCode": "NE",
-      "rank": 2698,
-      "gameId": "113745"
-    },
-    {
       "player": "James Cook",
       "stat": "Rush Attempts",
       "line": 19,
@@ -327,7 +310,24 @@
       "teamCode": "BUF",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2730,
+      "rank": 2729,
+      "gameId": "113745"
+    },
+    {
+      "player": "Khalil Shakir",
+      "stat": "Longest Reception",
+      "line": 18.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 2731,
       "gameId": "113745"
     },
     {

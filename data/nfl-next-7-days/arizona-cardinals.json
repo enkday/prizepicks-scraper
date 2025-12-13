@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:47:35.360Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
+  "scrapedAt": "2025-12-13T03:51:14.371Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:51 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -276,7 +276,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1213,
+      "rank": 1212,
       "gameId": "113746"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1215,
+      "rank": 1214,
       "gameId": "113746"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1216,
+      "rank": 1215,
       "gameId": "113746"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "ARI",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1217,
+      "rank": 1216,
       "gameId": "113746"
     },
     {

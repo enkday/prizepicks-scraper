@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:47:35.360Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
+  "scrapedAt": "2025-12-13T03:51:14.371Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:51 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4171,
+      "rank": 4175,
       "gameId": "113753"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4202,
+      "rank": 4206,
       "gameId": "113753"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4203,
+      "rank": 4207,
       "gameId": "113753"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4215,
+      "rank": 4219,
       "gameId": "113753"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4236,
+      "rank": 4240,
       "gameId": "113753"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4238,
+      "rank": 4242,
       "gameId": "113753"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4260,
+      "rank": 4264,
       "gameId": "113753"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4263,
+      "rank": 4267,
       "gameId": "113753"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4268,
+      "rank": 4272,
       "gameId": "113753"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4292,
+      "rank": 4296,
       "gameId": "113753"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4312,
+      "rank": 4316,
       "gameId": "113753"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4318,
+      "rank": 4322,
       "gameId": "113753"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4339,
+      "rank": 4343,
       "gameId": "113753"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4343,
+      "rank": 4347,
       "gameId": "113753"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4366,
+      "rank": 4370,
       "gameId": "113753"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4373,
+      "rank": 4377,
       "gameId": "113753"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4397,
+      "rank": 4401,
       "gameId": "113753"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4398,
+      "rank": 4402,
       "gameId": "113753"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4399,
+      "rank": 4403,
       "gameId": "113753"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4403,
+      "rank": 4407,
       "gameId": "113753"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4410,
+      "rank": 4414,
       "gameId": "113753"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4411,
+      "rank": 4415,
       "gameId": "113753"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4426,
+      "rank": 4430,
       "gameId": "113753"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4427,
+      "rank": 4431,
       "gameId": "113753"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4446,
+      "rank": 4450,
       "gameId": "113753"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4449,
+      "rank": 4453,
       "gameId": "113753"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4472,
+      "rank": 4478,
       "gameId": "113753"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4477,
+      "rank": 4483,
       "gameId": "113753"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4484,
+      "rank": 4490,
       "gameId": "113753"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4487,
+      "rank": 4493,
       "gameId": "113753"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "SF",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 4508,
+      "rank": 4514,
       "gameId": "113753"
     }
   ]

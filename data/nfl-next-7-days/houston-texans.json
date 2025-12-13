@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:47:35.360Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
+  "scrapedAt": "2025-12-13T03:51:14.371Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:51 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -297,23 +297,6 @@
       "gameId": "113746"
     },
     {
-      "player": "Woody Marks",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1206,
-      "gameId": "113746"
-    },
-    {
       "player": "C.J. Stroud",
       "stat": "Rush Yards",
       "line": 9.5,
@@ -327,7 +310,7 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1207,
+      "rank": 1206,
       "gameId": "113746"
     },
     {
@@ -344,12 +327,29 @@
       "teamCode": "HOU",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1208,
+      "rank": 1207,
       "gameId": "113746"
     },
     {
       "player": "Ka'imi Fairbairn",
       "stat": "Kicking Points",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1219,
+      "gameId": "113746"
+    },
+    {
+      "player": "Woody Marks",
+      "stat": "Receiving Yards",
       "line": 8.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",

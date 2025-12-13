@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:47:35.360Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:47 AM UTC",
+  "scrapedAt": "2025-12-13T03:51:14.371Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:51 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -214,7 +214,7 @@
     {
       "player": "Drake Maye",
       "stat": "Pass Yards",
-      "line": 236.5,
+      "line": 233.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -282,7 +282,7 @@
     {
       "player": "Hunter Henry",
       "stat": "Receiving Yards",
-      "line": 41.5,
+      "line": 42.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -293,7 +293,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2604,
+      "rank": 2603,
       "gameId": "113745"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 2699,
+      "rank": 2698,
       "gameId": "113745"
     },
     {
