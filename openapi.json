@@ -7,10 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://raw.githubusercontent.com/enkday/prizepicks-data-mirror/main"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ENKDAY/prizepicks-data-mirror/main"
+      "url": "https://cdn.jsdelivr.net/gh/enkday/prizepicks-data-mirror@main"
     }
   ],
   "paths": {
@@ -38,6 +35,78 @@
         }
       }
     },
+    "/data/prizepicks-nfl-today.json": {
+      "get": {
+        "summary": "Get today's NFL props (standard)",
+        "description": "Returns only today's NFL prop bets (standard odds) to keep payload small.",
+        "operationId": "getNFLPropsToday",
+        "responses": {
+          "200": {
+            "description": "Successful response with NFL prop bet data for today",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-nfl-tomorrow.json": {
+      "get": {
+        "summary": "Get NFL props for tomorrow only (standard)",
+        "description": "Returns only tomorrow's NFL prop bets (standard odds) to keep payload small.",
+        "operationId": "getNFLPropsTomorrow",
+        "responses": {
+          "200": {
+            "description": "Successful response with NFL prop bet data for tomorrow",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-nfl-next-7-days.json": {
+      "get": {
+        "summary": "Get NFL props for next 7 days (standard)",
+        "description": "Returns next 7 days of NFL prop bets (standard odds) to keep payload manageable.",
+        "operationId": "getNFLPropsNext7Days",
+        "responses": {
+          "200": {
+            "description": "Successful response with NFL next 7 days prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/prizepicks-nba-today.json": {
       "get": {
         "summary": "Get today's NBA props (standard)",
@@ -46,6 +115,30 @@
         "responses": {
           "200": {
             "description": "Successful response with NBA prop bet data for today",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-nba-next-7-days.json": {
+      "get": {
+        "summary": "Get NBA props for next 7 days (standard)",
+        "description": "Returns next 7 days of NBA prop bets (standard odds).",
+        "operationId": "getNBAPropsNext7Days",
+        "responses": {
+          "200": {
+            "description": "Successful response with NBA next 7 days prop bet data",
             "content": {
               "application/json": {
                 "schema": {
@@ -94,6 +187,97 @@
         "responses": {
           "200": {
             "description": "Successful response with all CFB props",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-ncaaf-next-7-days.json": {
+      "get": {
+        "summary": "Get College Football props for next 7 days (standard)",
+        "description": "Returns next 7 days of College Football prop bets (standard odds).",
+        "operationId": "getNCAAFPropsNext7Days",
+        "responses": {
+          "200": {
+            "description": "Successful response with NCAAF next 7 days prop bet data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "/data/nfl-today/{team}.json": {
+      "get": {
+        "summary": "Get NFL props for a team (today)",
+        "description": "Returns NFL props for a single team for today. Use team file slug like 'kansas-city-chiefs' or 'los-angeles-chargers'.",
+        "operationId": "getNFLTeamToday",
+        "parameters": [
+          {
+            "name": "team",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" },
+            "description": "Team file slug (without .json), e.g. 'kansas-city-chiefs'"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response with team-level NFL prop bet data (today)",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/nfl-tomorrow/{team}.json": {
+      "get": {
+        "summary": "Get NFL props for a team (tomorrow)",
+        "description": "Returns NFL props for a single team for tomorrow. Use team file slug like 'kansas-city-chiefs' or 'los-angeles-chargers'.",
+        "operationId": "getNFLTeamTomorrow",
+        "parameters": [
+          {
+            "name": "team",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" },
+            "description": "Team file slug (without .json), e.g. 'kansas-city-chiefs'"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response with team-level NFL prop bet data (tomorrow)",
             "content": {
               "application/json": {
                 "schema": {
