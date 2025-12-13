@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:03:06.413Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:03 AM UTC",
+  "scrapedAt": "2025-12-13T03:07:34.561Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:07 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 804,
+      "rank": 813,
       "gameId": "119503"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 852,
+      "rank": 861,
       "gameId": "119503"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 921,
+      "rank": 930,
       "gameId": "119503"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 922,
+      "rank": 931,
       "gameId": "119503"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 949,
+      "rank": 958,
       "gameId": "119503"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 970,
+      "rank": 979,
       "gameId": "119503"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 996,
+      "rank": 1005,
       "gameId": "119503"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 1025,
+      "rank": 1034,
       "gameId": "119503"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 1080,
+      "rank": 1089,
       "gameId": "119503"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 1081,
+      "rank": 1090,
       "gameId": "119503"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 1112,
+      "rank": 1121,
       "gameId": "119503"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 1215,
+      "rank": 1224,
       "gameId": "119503"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 1295,
+      "rank": 1304,
       "gameId": "119503"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 1298,
+      "rank": 1307,
       "gameId": "119503"
     }
   ]

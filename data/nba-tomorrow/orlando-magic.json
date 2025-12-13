@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:03:06.413Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:03 AM UTC",
+  "scrapedAt": "2025-12-13T03:07:34.561Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:07 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 851,
+      "rank": 860,
       "gameId": "119503"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 858,
+      "rank": 867,
       "gameId": "119503"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 913,
+      "rank": 922,
       "gameId": "119503"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 920,
+      "rank": 929,
       "gameId": "119503"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 987,
+      "rank": 996,
       "gameId": "119503"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1032,
+      "rank": 1041,
       "gameId": "119503"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1100,
+      "rank": 1109,
       "gameId": "119503"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1109,
+      "rank": 1118,
       "gameId": "119503"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1110,
+      "rank": 1119,
       "gameId": "119503"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1117,
+      "rank": 1126,
       "gameId": "119503"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1120,
+      "rank": 1129,
       "gameId": "119503"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1199,
+      "rank": 1208,
       "gameId": "119503"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1210,
+      "rank": 1219,
       "gameId": "119503"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1240,
+      "rank": 1249,
       "gameId": "119503"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1273,
+      "rank": 1282,
       "gameId": "119503"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1280,
+      "rank": 1289,
       "gameId": "119503"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1281,
+      "rank": 1290,
       "gameId": "119503"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1282,
+      "rank": 1291,
       "gameId": "119503"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1294,
+      "rank": 1303,
       "gameId": "119503"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 1296,
+      "rank": 1305,
       "gameId": "119503"
     }
   ]

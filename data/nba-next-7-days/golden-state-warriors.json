@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T03:03:06.413Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:03 AM UTC",
+  "scrapedAt": "2025-12-13T03:07:34.561Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:07 AM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Golden State Warriors",
-  "totalProps": 18,
+  "totalProps": 17,
   "props": [
     {
       "player": "Stephen Curry",
@@ -21,7 +21,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 63,
+      "rank": 68,
       "gameId": "117150"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 135,
+      "rank": 146,
       "gameId": "117150"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 259,
+      "rank": 270,
       "gameId": "117150"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 278,
+      "rank": 290,
       "gameId": "117150"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 309,
+      "rank": 321,
       "gameId": "117150"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 339,
+      "rank": 351,
       "gameId": "117150"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 341,
+      "rank": 352,
       "gameId": "117150"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 343,
+      "rank": 354,
       "gameId": "117150"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 398,
+      "rank": 407,
       "gameId": "117150"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 407,
+      "rank": 417,
       "gameId": "117150"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 421,
+      "rank": 431,
       "gameId": "117150"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 442,
+      "rank": 451,
       "gameId": "117150"
     },
     {
@@ -225,24 +225,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 480,
-      "gameId": "117150"
-    },
-    {
-      "player": "Brandin Podziemski",
-      "stat": "Rebounds",
-      "line": 3.5,
-      "sport": "NBA",
-      "startTime": "12/12/25 09:10 PM CST",
-      "startTimeCST": "12/12/25 09:10 PM CST",
-      "startDateCST": "2025-12-12",
-      "startTimeIso": "2025-12-12T22:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Golden State Warriors",
-      "teamCode": "GSW",
-      "Opponent": "Minnesota Timberwolves",
-      "opponentCode": "MIN",
-      "rank": 507,
+      "rank": 488,
       "gameId": "117150"
     },
     {
@@ -259,7 +242,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 520,
+      "rank": 527,
       "gameId": "117150"
     },
     {
@@ -276,7 +259,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 589,
+      "rank": 596,
       "gameId": "117150"
     },
     {
@@ -293,7 +276,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 712,
+      "rank": 721,
       "gameId": "117150"
     },
     {
@@ -310,7 +293,7 @@
       "teamCode": "GSW",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 722,
+      "rank": 731,
       "gameId": "117150"
     }
   ]

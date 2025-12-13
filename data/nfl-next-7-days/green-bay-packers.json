@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:03:06.413Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:03 AM UTC",
+  "scrapedAt": "2025-12-13T03:07:34.561Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:07 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -61,7 +61,7 @@
     {
       "player": "Christian Watson",
       "stat": "Receiving Yards",
-      "line": 54.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -293,7 +293,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5068,
+      "rank": 5067,
       "gameId": "113749"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5075,
+      "rank": 5074,
       "gameId": "113749"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5089,
+      "rank": 5088,
       "gameId": "113749"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5095,
+      "rank": 5094,
       "gameId": "113749"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5097,
+      "rank": 5096,
       "gameId": "113749"
     },
     {
@@ -378,11 +378,28 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5100,
+      "rank": 5099,
       "gameId": "113749"
     },
     {
       "player": "Jayden Reed",
+      "stat": "Rec Targets",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 5121,
+      "gameId": "113749"
+    },
+    {
+      "player": "Romeo Doubs",
       "stat": "Rec Targets",
       "line": 4.5,
       "sport": "NFL",
@@ -399,23 +416,6 @@
       "gameId": "113749"
     },
     {
-      "player": "Romeo Doubs",
-      "stat": "Rec Targets",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 5123,
-      "gameId": "113749"
-    },
-    {
       "player": "Josh Jacobs",
       "stat": "Yards on First Rush Attempt",
       "line": 3.5,
@@ -429,7 +429,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5129,
+      "rank": 5128,
       "gameId": "113749"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5145,
+      "rank": 5144,
       "gameId": "113749"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5149,
+      "rank": 5148,
       "gameId": "113749"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5150,
+      "rank": 5149,
       "gameId": "113749"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5162,
+      "rank": 5161,
       "gameId": "113749"
     },
     {
@@ -514,11 +514,28 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5163,
+      "rank": 5162,
       "gameId": "113749"
     },
     {
       "player": "Luke Musgrave",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 5164,
+      "gameId": "113749"
+    },
+    {
+      "player": "Josh Jacobs",
       "stat": "Rec Targets",
       "line": 2.5,
       "sport": "NFL",
@@ -536,23 +553,6 @@
     },
     {
       "player": "Josh Jacobs",
-      "stat": "Rec Targets",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 5166,
-      "gameId": "113749"
-    },
-    {
-      "player": "Josh Jacobs",
       "stat": "Receptions",
       "line": 2,
       "sport": "NFL",
@@ -565,7 +565,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5168,
+      "rank": 5167,
       "gameId": "113749"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5169,
+      "rank": 5168,
       "gameId": "113749"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5172,
+      "rank": 5171,
       "gameId": "113749"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5193,
+      "rank": 5192,
       "gameId": "113749"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5221,
+      "rank": 5220,
       "gameId": "113749"
     }
   ]

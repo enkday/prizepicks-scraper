@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T03:03:06.413Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 03:03 AM UTC",
+  "scrapedAt": "2025-12-13T03:07:34.561Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 03:07 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "totalProps": 1105,
@@ -15308,7 +15308,7 @@
     {
       "player": "Christian Watson",
       "stat": "Receiving Yards",
-      "line": 54.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -15812,7 +15812,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5066,
+      "rank": 5065,
       "gameId": "113749"
     },
     {
@@ -15829,7 +15829,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5067,
+      "rank": 5066,
       "gameId": "113749"
     },
     {
@@ -15846,7 +15846,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5068,
+      "rank": 5067,
       "gameId": "113749"
     },
     {
@@ -15863,7 +15863,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5070,
+      "rank": 5069,
       "gameId": "113749"
     },
     {
@@ -15880,7 +15880,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5074,
+      "rank": 5073,
       "gameId": "113749"
     },
     {
@@ -15897,7 +15897,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5075,
+      "rank": 5074,
       "gameId": "113749"
     },
     {
@@ -15914,7 +15914,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5082,
+      "rank": 5081,
       "gameId": "113749"
     },
     {
@@ -15931,7 +15931,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5087,
+      "rank": 5086,
       "gameId": "113749"
     },
     {
@@ -15948,7 +15948,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5089,
+      "rank": 5088,
       "gameId": "113749"
     },
     {
@@ -15965,7 +15965,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5091,
+      "rank": 5090,
       "gameId": "113749"
     },
     {
@@ -15982,7 +15982,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5093,
+      "rank": 5092,
       "gameId": "113749"
     },
     {
@@ -15999,7 +15999,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5095,
+      "rank": 5094,
       "gameId": "113749"
     },
     {
@@ -16016,7 +16016,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5096,
+      "rank": 5095,
       "gameId": "113749"
     },
     {
@@ -16033,7 +16033,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5097,
+      "rank": 5096,
       "gameId": "113749"
     },
     {
@@ -16050,7 +16050,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5100,
+      "rank": 5099,
       "gameId": "113749"
     },
     {
@@ -16067,7 +16067,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5111,
+      "rank": 5110,
       "gameId": "113749"
     },
     {
@@ -16084,7 +16084,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5112,
+      "rank": 5111,
       "gameId": "113749"
     },
     {
@@ -16101,11 +16101,28 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5115,
+      "rank": 5114,
       "gameId": "113749"
     },
     {
       "player": "RJ Harvey",
+      "stat": "Rec Targets",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5119,
+      "gameId": "113749"
+    },
+    {
+      "player": "Troy Franklin",
       "stat": "Rec Targets",
       "line": 4.5,
       "sport": "NFL",
@@ -16122,7 +16139,7 @@
       "gameId": "113749"
     },
     {
-      "player": "Troy Franklin",
+      "player": "Jayden Reed",
       "stat": "Rec Targets",
       "line": 4.5,
       "sport": "NFL",
@@ -16131,15 +16148,15 @@
       "startDateCST": "2025-12-14",
       "startTimeIso": "2025-12-14T16:25:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
       "rank": 5121,
       "gameId": "113749"
     },
     {
-      "player": "Jayden Reed",
+      "player": "Romeo Doubs",
       "stat": "Rec Targets",
       "line": 4.5,
       "sport": "NFL",
@@ -16156,23 +16173,6 @@
       "gameId": "113749"
     },
     {
-      "player": "Romeo Doubs",
-      "stat": "Rec Targets",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 5123,
-      "gameId": "113749"
-    },
-    {
       "player": "Jeremy Crawshaw",
       "stat": "Punts",
       "line": 4.5,
@@ -16186,7 +16186,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5124,
+      "rank": 5123,
       "gameId": "113749"
     },
     {
@@ -16203,7 +16203,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5129,
+      "rank": 5128,
       "gameId": "113749"
     },
     {
@@ -16220,7 +16220,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5130,
+      "rank": 5129,
       "gameId": "113749"
     },
     {
@@ -16237,7 +16237,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5135,
+      "rank": 5134,
       "gameId": "113749"
     },
     {
@@ -16254,7 +16254,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5145,
+      "rank": 5144,
       "gameId": "113749"
     },
     {
@@ -16271,7 +16271,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5148,
+      "rank": 5147,
       "gameId": "113749"
     },
     {
@@ -16288,7 +16288,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5149,
+      "rank": 5148,
       "gameId": "113749"
     },
     {
@@ -16305,7 +16305,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5150,
+      "rank": 5149,
       "gameId": "113749"
     },
     {
@@ -16322,7 +16322,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5162,
+      "rank": 5161,
       "gameId": "113749"
     },
     {
@@ -16339,11 +16339,28 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5163,
+      "rank": 5162,
       "gameId": "113749"
     },
     {
       "player": "Luke Musgrave",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 5164,
+      "gameId": "113749"
+    },
+    {
+      "player": "Josh Jacobs",
       "stat": "Rec Targets",
       "line": 2.5,
       "sport": "NFL",
@@ -16361,23 +16378,6 @@
     },
     {
       "player": "Josh Jacobs",
-      "stat": "Rec Targets",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 5166,
-      "gameId": "113749"
-    },
-    {
-      "player": "Josh Jacobs",
       "stat": "Receptions",
       "line": 2,
       "sport": "NFL",
@@ -16390,7 +16390,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5168,
+      "rank": 5167,
       "gameId": "113749"
     },
     {
@@ -16407,7 +16407,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5169,
+      "rank": 5168,
       "gameId": "113749"
     },
     {
@@ -16424,7 +16424,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5172,
+      "rank": 5171,
       "gameId": "113749"
     },
     {
@@ -16441,7 +16441,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5175,
+      "rank": 5174,
       "gameId": "113749"
     },
     {
@@ -16458,7 +16458,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5184,
+      "rank": 5183,
       "gameId": "113749"
     },
     {
@@ -16475,7 +16475,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5190,
+      "rank": 5189,
       "gameId": "113749"
     },
     {
@@ -16492,7 +16492,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5193,
+      "rank": 5192,
       "gameId": "113749"
     },
     {
@@ -16509,7 +16509,7 @@
       "teamCode": "DEN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5213,
+      "rank": 5212,
       "gameId": "113749"
     },
     {
@@ -16526,7 +16526,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5221,
+      "rank": 5220,
       "gameId": "113749"
     },
     {
@@ -16543,7 +16543,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5232,
+      "rank": 5231,
       "gameId": "113994"
     },
     {
@@ -16560,7 +16560,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5247,
+      "rank": 5246,
       "gameId": "113994"
     },
     {
@@ -16577,7 +16577,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5261,
+      "rank": 5260,
       "gameId": "113994"
     },
     {
@@ -16594,7 +16594,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5287,
+      "rank": 5286,
       "gameId": "113994"
     },
     {
@@ -16611,7 +16611,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5295,
+      "rank": 5294,
       "gameId": "113994"
     },
     {
@@ -16628,7 +16628,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5299,
+      "rank": 5298,
       "gameId": "113994"
     },
     {
@@ -16645,7 +16645,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5303,
+      "rank": 5302,
       "gameId": "113994"
     },
     {
@@ -16662,7 +16662,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5305,
+      "rank": 5304,
       "gameId": "113994"
     },
     {
@@ -16679,7 +16679,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5311,
+      "rank": 5310,
       "gameId": "113994"
     },
     {
@@ -16696,7 +16696,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5330,
+      "rank": 5329,
       "gameId": "113994"
     },
     {
@@ -16713,7 +16713,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5331,
+      "rank": 5330,
       "gameId": "113994"
     },
     {
@@ -16730,7 +16730,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5348,
+      "rank": 5347,
       "gameId": "113994"
     },
     {
@@ -16747,7 +16747,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5349,
+      "rank": 5348,
       "gameId": "113994"
     },
     {
@@ -16764,7 +16764,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5351,
+      "rank": 5350,
       "gameId": "113994"
     },
     {
@@ -16781,7 +16781,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5352,
+      "rank": 5351,
       "gameId": "113994"
     },
     {
@@ -16798,7 +16798,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5358,
+      "rank": 5357,
       "gameId": "113994"
     },
     {
@@ -16815,7 +16815,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5383,
+      "rank": 5382,
       "gameId": "113994"
     },
     {
@@ -16832,7 +16832,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5386,
+      "rank": 5385,
       "gameId": "113994"
     },
     {
@@ -16849,7 +16849,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5387,
+      "rank": 5386,
       "gameId": "113994"
     },
     {
@@ -16866,7 +16866,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5388,
+      "rank": 5387,
       "gameId": "113994"
     },
     {
@@ -16883,7 +16883,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5400,
+      "rank": 5399,
       "gameId": "113994"
     },
     {
@@ -16900,7 +16900,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5402,
+      "rank": 5401,
       "gameId": "113994"
     },
     {
@@ -16917,7 +16917,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5403,
+      "rank": 5402,
       "gameId": "113994"
     },
     {
@@ -16934,7 +16934,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5427,
+      "rank": 5426,
       "gameId": "113994"
     },
     {
@@ -16951,7 +16951,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5428,
+      "rank": 5427,
       "gameId": "113994"
     },
     {
@@ -16968,11 +16968,28 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5429,
+      "rank": 5428,
       "gameId": "113994"
     },
     {
       "player": "Aaron Jones",
+      "stat": "Receiving Yards",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 5430,
+      "gameId": "113994"
+    },
+    {
+      "player": "Jalen Nailor",
       "stat": "Receiving Yards",
       "line": 16.5,
       "sport": "NFL",
@@ -16989,23 +17006,6 @@
       "gameId": "113994"
     },
     {
-      "player": "Jalen Nailor",
-      "stat": "Receiving Yards",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5432,
-      "gameId": "113994"
-    },
-    {
       "player": "J.J. McCarthy",
       "stat": "Rush Yards",
       "line": 15.5,
@@ -17019,7 +17019,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5435,
+      "rank": 5434,
       "gameId": "113994"
     },
     {
@@ -17036,7 +17036,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5437,
+      "rank": 5436,
       "gameId": "113994"
     },
     {
@@ -17053,7 +17053,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5439,
+      "rank": 5438,
       "gameId": "113994"
     },
     {
@@ -17070,7 +17070,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5456,
+      "rank": 5455,
       "gameId": "113994"
     },
     {
@@ -17087,7 +17087,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5457,
+      "rank": 5456,
       "gameId": "113994"
     },
     {
@@ -17104,7 +17104,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5458,
+      "rank": 5457,
       "gameId": "113994"
     },
     {
@@ -17121,7 +17121,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5459,
+      "rank": 5458,
       "gameId": "113994"
     },
     {
@@ -17138,7 +17138,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5460,
+      "rank": 5459,
       "gameId": "113994"
     },
     {
@@ -17155,7 +17155,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5461,
+      "rank": 5460,
       "gameId": "113994"
     },
     {
@@ -17172,7 +17172,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5462,
+      "rank": 5461,
       "gameId": "113994"
     },
     {
@@ -17189,7 +17189,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5463,
+      "rank": 5462,
       "gameId": "113994"
     },
     {
@@ -17206,13 +17206,30 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5467,
+      "rank": 5466,
       "gameId": "113994"
     },
     {
       "player": "Brandon Aubrey",
       "stat": "Kicking Points",
       "line": 9,
+      "sport": "NFL",
+      "startTime": "12/14/25 07:20 PM CST",
+      "startTimeCST": "12/14/25 07:20 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 5481,
+      "gameId": "113994"
+    },
+    {
+      "player": "Dak Prescott",
+      "stat": "Rush Yards",
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "12/14/25 07:20 PM CST",
       "startTimeCST": "12/14/25 07:20 PM CST",
@@ -17240,24 +17257,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5483,
-      "gameId": "113994"
-    },
-    {
-      "player": "Dak Prescott",
-      "stat": "Rush Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeCST": "12/14/25 07:20 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 5486,
+      "rank": 5485,
       "gameId": "113994"
     },
     {
@@ -17274,7 +17274,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5487,
+      "rank": 5486,
       "gameId": "113994"
     },
     {
@@ -17291,7 +17291,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5488,
+      "rank": 5487,
       "gameId": "113994"
     },
     {
@@ -17308,7 +17308,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5489,
+      "rank": 5488,
       "gameId": "113994"
     },
     {
@@ -17325,7 +17325,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5490,
+      "rank": 5489,
       "gameId": "113994"
     },
     {
@@ -17342,7 +17342,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5491,
+      "rank": 5490,
       "gameId": "113994"
     },
     {
@@ -17359,7 +17359,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5492,
+      "rank": 5491,
       "gameId": "113994"
     },
     {
@@ -17376,7 +17376,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5494,
+      "rank": 5493,
       "gameId": "113994"
     },
     {
@@ -17393,7 +17393,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5500,
+      "rank": 5499,
       "gameId": "113994"
     },
     {
@@ -17410,7 +17410,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5502,
+      "rank": 5501,
       "gameId": "113994"
     },
     {
@@ -17427,7 +17427,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5504,
+      "rank": 5503,
       "gameId": "113994"
     },
     {
@@ -17444,7 +17444,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5512,
+      "rank": 5511,
       "gameId": "113994"
     },
     {
@@ -17461,7 +17461,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5513,
+      "rank": 5512,
       "gameId": "113994"
     },
     {
@@ -17478,7 +17478,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5516,
+      "rank": 5515,
       "gameId": "113994"
     },
     {
@@ -17495,7 +17495,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5525,
+      "rank": 5524,
       "gameId": "113994"
     },
     {
@@ -17512,7 +17512,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5526,
+      "rank": 5525,
       "gameId": "113994"
     },
     {
@@ -17529,7 +17529,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5528,
+      "rank": 5527,
       "gameId": "113994"
     },
     {
@@ -17546,7 +17546,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5529,
+      "rank": 5528,
       "gameId": "113994"
     },
     {
@@ -17563,7 +17563,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5530,
+      "rank": 5529,
       "gameId": "113994"
     },
     {
@@ -17580,7 +17580,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5532,
+      "rank": 5531,
       "gameId": "113994"
     },
     {
@@ -17597,7 +17597,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5533,
+      "rank": 5532,
       "gameId": "113994"
     },
     {
@@ -17614,7 +17614,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5534,
+      "rank": 5533,
       "gameId": "113994"
     },
     {
@@ -17631,7 +17631,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5549,
+      "rank": 5548,
       "gameId": "113994"
     },
     {
@@ -17648,7 +17648,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5554,
+      "rank": 5553,
       "gameId": "113994"
     },
     {
@@ -17665,7 +17665,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5555,
+      "rank": 5554,
       "gameId": "113994"
     },
     {
@@ -17682,7 +17682,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5565,
+      "rank": 5564,
       "gameId": "113994"
     },
     {
@@ -17699,7 +17699,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5582,
+      "rank": 5581,
       "gameId": "113994"
     },
     {
@@ -17716,7 +17716,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5583,
+      "rank": 5582,
       "gameId": "113994"
     },
     {
@@ -17733,7 +17733,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5585,
+      "rank": 5584,
       "gameId": "113994"
     },
     {
@@ -17750,7 +17750,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5593,
+      "rank": 5592,
       "gameId": "113994"
     },
     {
@@ -17767,7 +17767,7 @@
       "teamCode": "DAL",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 5594,
+      "rank": 5593,
       "gameId": "113994"
     },
     {
@@ -17784,7 +17784,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5645,
+      "rank": 5644,
       "gameId": "114160"
     },
     {
@@ -17801,7 +17801,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5646,
+      "rank": 5645,
       "gameId": "114160"
     },
     {
@@ -17818,7 +17818,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5680,
+      "rank": 5679,
       "gameId": "114160"
     },
     {
@@ -17835,7 +17835,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5688,
+      "rank": 5687,
       "gameId": "114160"
     },
     {
@@ -17852,7 +17852,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5689,
+      "rank": 5688,
       "gameId": "114160"
     },
     {
@@ -17869,7 +17869,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5690,
+      "rank": 5689,
       "gameId": "114160"
     },
     {
@@ -17886,7 +17886,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5700,
+      "rank": 5699,
       "gameId": "114160"
     },
     {
@@ -17903,7 +17903,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5701,
+      "rank": 5700,
       "gameId": "114160"
     },
     {
@@ -17920,7 +17920,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5738,
+      "rank": 5737,
       "gameId": "114160"
     },
     {
@@ -17937,7 +17937,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5739,
+      "rank": 5738,
       "gameId": "114160"
     },
     {
@@ -17954,7 +17954,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5741,
+      "rank": 5740,
       "gameId": "114160"
     },
     {
@@ -17971,7 +17971,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5763,
+      "rank": 5762,
       "gameId": "114160"
     },
     {
@@ -17988,7 +17988,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5764,
+      "rank": 5763,
       "gameId": "114160"
     },
     {
@@ -18005,7 +18005,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5766,
+      "rank": 5765,
       "gameId": "114160"
     },
     {
@@ -18022,7 +18022,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5769,
+      "rank": 5768,
       "gameId": "114160"
     },
     {
@@ -18039,7 +18039,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5776,
+      "rank": 5775,
       "gameId": "114160"
     },
     {
@@ -18056,7 +18056,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5777,
+      "rank": 5776,
       "gameId": "114160"
     },
     {
@@ -18073,7 +18073,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5778,
+      "rank": 5777,
       "gameId": "114160"
     },
     {
@@ -18090,7 +18090,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5779,
+      "rank": 5778,
       "gameId": "114160"
     },
     {
@@ -18107,7 +18107,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5780,
+      "rank": 5779,
       "gameId": "114160"
     },
     {
@@ -18124,7 +18124,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5786,
+      "rank": 5785,
       "gameId": "114160"
     },
     {
@@ -18141,7 +18141,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5807,
+      "rank": 5806,
       "gameId": "114160"
     },
     {
@@ -18158,7 +18158,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5808,
+      "rank": 5807,
       "gameId": "114160"
     },
     {
@@ -18175,7 +18175,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5809,
+      "rank": 5808,
       "gameId": "114160"
     },
     {
@@ -18192,7 +18192,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5813,
+      "rank": 5812,
       "gameId": "114160"
     },
     {
@@ -18209,7 +18209,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5816,
+      "rank": 5815,
       "gameId": "114160"
     },
     {
@@ -18226,7 +18226,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5818,
+      "rank": 5817,
       "gameId": "114160"
     },
     {
@@ -18243,7 +18243,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5835,
+      "rank": 5834,
       "gameId": "114160"
     },
     {
@@ -18260,11 +18260,28 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5836,
+      "rank": 5835,
       "gameId": "114160"
     },
     {
       "player": "Adam Thielen",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 5837,
+      "gameId": "114160"
+    },
+    {
+      "player": "Calvin Austin",
       "stat": "Receiving Yards",
       "line": 13.5,
       "sport": "NFL",
@@ -18281,23 +18298,6 @@
       "gameId": "114160"
     },
     {
-      "player": "Calvin Austin",
-      "stat": "Receiving Yards",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/15/25 07:15 PM CST",
-      "startTimeCST": "12/15/25 07:15 PM CST",
-      "startDateCST": "2025-12-15",
-      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 5839,
-      "gameId": "114160"
-    },
-    {
       "player": "Malik Washington",
       "stat": "Longest Reception",
       "line": 12.5,
@@ -18311,7 +18311,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5841,
+      "rank": 5840,
       "gameId": "114160"
     },
     {
@@ -18328,7 +18328,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5842,
+      "rank": 5841,
       "gameId": "114160"
     },
     {
@@ -18345,11 +18345,28 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5843,
+      "rank": 5842,
       "gameId": "114160"
     },
     {
       "player": "Kenneth Gainwell",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 5846,
+      "gameId": "114160"
+    },
+    {
+      "player": "Calvin Austin",
       "stat": "Longest Reception",
       "line": 11.5,
       "sport": "NFL",
@@ -18366,23 +18383,6 @@
       "gameId": "114160"
     },
     {
-      "player": "Calvin Austin",
-      "stat": "Longest Reception",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "12/15/25 07:15 PM CST",
-      "startTimeCST": "12/15/25 07:15 PM CST",
-      "startDateCST": "2025-12-15",
-      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 5848,
-      "gameId": "114160"
-    },
-    {
       "player": "Jaylen Warren",
       "stat": "Longest Reception",
       "line": 9.5,
@@ -18396,7 +18396,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5849,
+      "rank": 5848,
       "gameId": "114160"
     },
     {
@@ -18413,7 +18413,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5855,
+      "rank": 5854,
       "gameId": "114160"
     },
     {
@@ -18430,7 +18430,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5868,
+      "rank": 5867,
       "gameId": "114160"
     },
     {
@@ -18447,7 +18447,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5871,
+      "rank": 5870,
       "gameId": "114160"
     },
     {
@@ -18464,7 +18464,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5873,
+      "rank": 5872,
       "gameId": "114160"
     },
     {
@@ -18481,7 +18481,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5874,
+      "rank": 5873,
       "gameId": "114160"
     },
     {
@@ -18498,7 +18498,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5876,
+      "rank": 5875,
       "gameId": "114160"
     },
     {
@@ -18515,7 +18515,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5888,
+      "rank": 5887,
       "gameId": "114160"
     },
     {
@@ -18532,7 +18532,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5898,
+      "rank": 5897,
       "gameId": "114160"
     },
     {
@@ -18549,7 +18549,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5899,
+      "rank": 5898,
       "gameId": "114160"
     },
     {
@@ -18566,7 +18566,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5900,
+      "rank": 5899,
       "gameId": "114160"
     },
     {
@@ -18583,7 +18583,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5901,
+      "rank": 5900,
       "gameId": "114160"
     },
     {
@@ -18600,7 +18600,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5917,
+      "rank": 5916,
       "gameId": "114160"
     },
     {
@@ -18617,7 +18617,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5919,
+      "rank": 5918,
       "gameId": "114160"
     },
     {
@@ -18634,7 +18634,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5920,
+      "rank": 5919,
       "gameId": "114160"
     },
     {
@@ -18651,7 +18651,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5921,
+      "rank": 5920,
       "gameId": "114160"
     },
     {
@@ -18668,7 +18668,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5928,
+      "rank": 5927,
       "gameId": "114160"
     },
     {
@@ -18685,7 +18685,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5933,
+      "rank": 5932,
       "gameId": "114160"
     },
     {
@@ -18702,7 +18702,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5934,
+      "rank": 5933,
       "gameId": "114160"
     },
     {
@@ -18719,7 +18719,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5945,
+      "rank": 5944,
       "gameId": "114160"
     },
     {
@@ -18736,7 +18736,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5948,
+      "rank": 5947,
       "gameId": "114160"
     },
     {
@@ -18753,7 +18753,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5951,
+      "rank": 5950,
       "gameId": "114160"
     },
     {
@@ -18770,7 +18770,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5953,
+      "rank": 5952,
       "gameId": "114160"
     },
     {
@@ -18787,7 +18787,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5968,
+      "rank": 5967,
       "gameId": "114160"
     }
   ]
