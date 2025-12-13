@@ -7,6 +7,9 @@
   },
   "servers": [
     {
+      "url": "https://raw.githubusercontent.com/enkday/prizepicks-data-mirror/main"
+    },
+    {
       "url": "https://raw.githubusercontent.com/ENKDAY/prizepicks-data-mirror/main"
     }
   ],

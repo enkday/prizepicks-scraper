@@ -59,4 +59,4 @@ Never fetch `/data/prizepicks.json`.
 - Flex: 3 (3/3=3x, 2/3=1x); 4 (4/4=6x, 3/4=1.5x); 5 (5/5=10x, 4/5=2x, 3/5=0.4x); 6 (6/6=25x, 5/6=2x, 4/6=0.4x).
 
 ## OpenAPI
-- `https://raw.githubusercontent.com/ENKDAY/prizepicks-data-mirror/main/openapi.json`
+- `https://raw.githubusercontent.com/enkday/prizepicks-data-mirror/main/openapi.json`
