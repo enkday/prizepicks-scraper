@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:25:34.526Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:25 AM UTC",
+  "scrapedAt": "2025-12-13T04:29:06.779Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:29 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -5800,7 +5800,7 @@
       "teamCode": "CHI",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1761,
+      "rank": 1760,
       "gameId": "113748"
     },
     {
@@ -6450,6 +6450,23 @@
       "gameId": "113748"
     },
     {
+      "player": "Quinshon Judkins",
+      "stat": "Receiving Yards",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1981,
+      "gameId": "113748"
+    },
+    {
       "player": "Shedeur Sanders",
       "stat": "Rush Yards",
       "line": 8.5,
@@ -6463,24 +6480,7 @@
       "teamCode": "CLE",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1991,
-      "gameId": "113748"
-    },
-    {
-      "player": "Quinshon Judkins",
-      "stat": "Receiving Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 1994,
+      "rank": 1992,
       "gameId": "113748"
     },
     {
@@ -10003,23 +10003,6 @@
       "gameId": "113744"
     },
     {
-      "player": "Isaiah Williams",
-      "stat": "Receiving Yards",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3181,
-      "gameId": "113744"
-    },
-    {
       "player": "Jeremy Ruckert",
       "stat": "Longest Reception",
       "line": 11.5,
@@ -10033,7 +10016,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3182,
+      "rank": 3181,
       "gameId": "113744"
     },
     {
@@ -10050,7 +10033,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3183,
+      "rank": 3182,
       "gameId": "113744"
     },
     {
@@ -10067,7 +10050,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3189,
+      "rank": 3188,
       "gameId": "113744"
     },
     {
@@ -10084,7 +10067,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3196,
+      "rank": 3195,
       "gameId": "113744"
     },
     {
@@ -10101,6 +10084,23 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
+      "rank": 3196,
+      "gameId": "113744"
+    },
+    {
+      "player": "Isaiah Williams",
+      "stat": "Receiving Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
       "rank": 3197,
       "gameId": "113744"
     },

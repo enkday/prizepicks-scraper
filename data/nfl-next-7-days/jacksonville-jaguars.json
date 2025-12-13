@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T04:25:34.526Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 04:25 AM UTC",
+  "scrapedAt": "2025-12-13T04:29:06.779Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 04:29 AM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -293,7 +293,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3183,
+      "rank": 3182,
       "gameId": "113744"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3196,
+      "rank": 3195,
       "gameId": "113744"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "JAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 3197,
+      "rank": 3196,
       "gameId": "113744"
     },
     {
