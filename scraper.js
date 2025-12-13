@@ -4,6 +4,22 @@ const path = require('path');
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+const PRIZEPICKS_BASE_URLS = (
+  process.env.PRIZEPICKS_BASE_URL
+    ? [process.env.PRIZEPICKS_BASE_URL]
+    : ['https://api.prizepicks.com', 'https://partner-api.prizepicks.com']
+).map(s => s.replace(/\/$/, ''));
+
+const PRIZEPICKS_DEFAULT_HEADERS = {
+  'User-Agent':
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Accept': 'application/json, text/plain, */*',
+  'Accept-Language': 'en-US,en;q=0.9',
+  'Referer': 'https://app.prizepicks.com/',
+  'Origin': 'https://app.prizepicks.com',
+  'DNT': '1'
+};
+
 function parseRetryAfterMs(retryAfterHeader) {
   if (!retryAfterHeader) return null;
   const asNumber = Number(retryAfterHeader);
@@ -40,6 +56,44 @@ async function axiosGetWithRetry(url, config, { maxAttempts = 6, baseDelayMs = 1
   throw lastError;
 }
 
+async function fetchProjectionsForLeague(leagueId) {
+  let lastError;
+  for (const baseUrl of PRIZEPICKS_BASE_URLS) {
+    const url = `${baseUrl}/projections`;
+    try {
+      const response = await axiosGetWithRetry(
+        url,
+        {
+          params: { league_id: leagueId, per_page: 250 },
+          headers: PRIZEPICKS_DEFAULT_HEADERS,
+          timeout: 15000,
+          validateStatus: () => true
+        },
+        { maxAttempts: 8, baseDelayMs: 2000 }
+      );
+
+      if (response.status >= 200 && response.status < 300) return response;
+
+      // If we are explicitly blocked (403/401), try the next base URL.
+      if (response.status === 401 || response.status === 403) {
+        lastError = new Error(`HTTP ${response.status} from ${baseUrl}`);
+        lastError.response = response;
+        continue;
+      }
+
+      // Other non-2xx: treat as error (but allow axiosGetWithRetry to handle 429/5xx already).
+      lastError = new Error(`HTTP ${response.status} from ${baseUrl}`);
+      lastError.response = response;
+    } catch (error) {
+      lastError = error;
+      const status = error?.response?.status;
+      if (status === 401 || status === 403) continue;
+    }
+  }
+
+  throw lastError ?? new Error('Failed to fetch projections');
+}
+
 /**
  * PrizePicks Scraper
  * Fetches current prop bet options from PrizePicks API
@@ -61,6 +115,7 @@ async function scrapePrizePicks() {
   const allProps = [];
   // For debugging: collect all included objects
   let allIncluded = [];
+  const leagueResults = [];
   
   try {
     // Fetch projections for each league
@@ -68,18 +123,7 @@ async function scrapePrizePicks() {
       console.log(`📊 Fetching ${leagueName} props...`);
       
       try {
-        const response = await axiosGetWithRetry(`https://api.prizepicks.com/projections`, {
-          params: {
-            league_id: leagueId,
-            per_page: 250
-          },
-          headers: {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-            'Accept': 'application/json',
-            'Referer': 'https://app.prizepicks.com/'
-          },
-          timeout: 10000
-        });
+        const response = await fetchProjectionsForLeague(leagueId);
         
         const data = response.data;
         // Build included maps per response (players, teams, games, etc.)
@@ -102,13 +146,27 @@ async function scrapePrizePicks() {
           });
           console.log(`   ✅ Found ${data.data.length} ${leagueName} props`);
         }
+
+        leagueResults.push({ leagueName, ok: true, status: response.status, count: Array.isArray(data.data) ? data.data.length : 0 });
         
         // Add delay to avoid rate limiting
         await sleep(500);
         
       } catch (error) {
-        console.log(`   ⚠️  ${leagueName} fetch failed:`, error.message);
+        const status = error?.response?.status;
+        console.log(`   ⚠️  ${leagueName} fetch failed:`, status ? `HTTP ${status}` : error.message);
+        leagueResults.push({ leagueName, ok: false, status: status ?? null, count: 0 });
       }
+    }
+
+    // If we got blocked across all meaningful leagues, fail loudly so CI isn't "green" with empty data.
+    const meaningful = leagueResults.filter(r => r.leagueName !== 'MLB');
+    const anyMeaningfulOk = meaningful.some(r => r.ok);
+    if (!anyMeaningfulOk || allProps.length === 0) {
+      const summary = leagueResults
+        .map(r => `${r.leagueName}:${r.ok ? 'ok' : 'fail'}${r.status ? `(${r.status})` : ''}`)
+        .join(', ');
+      throw new Error(`All leagues blocked or empty scrape. Results: ${summary}`);
     }
     
     console.log(`\n✅ Total props scraped: ${allProps.length}`);
