@@ -2,6 +2,44 @@ const axios = require('axios');
 const fs = require('fs').promises;
 const path = require('path');
 
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+function parseRetryAfterMs(retryAfterHeader) {
+  if (!retryAfterHeader) return null;
+  const asNumber = Number(retryAfterHeader);
+  if (Number.isFinite(asNumber) && asNumber >= 0) return asNumber * 1000;
+  const asDate = new Date(retryAfterHeader);
+  if (!Number.isNaN(asDate.getTime())) {
+    const delta = asDate.getTime() - Date.now();
+    return Math.max(0, delta);
+  }
+  return null;
+}
+
+async function axiosGetWithRetry(url, config, { maxAttempts = 6, baseDelayMs = 1500 } = {}) {
+  let lastError;
+
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    try {
+      return await axios.get(url, config);
+    } catch (error) {
+      lastError = error;
+      const status = error?.response?.status;
+      const isRetryable = status === 429 || (status >= 500 && status <= 599);
+      if (!isRetryable || attempt === maxAttempts) break;
+
+      const retryAfterMs = parseRetryAfterMs(error?.response?.headers?.['retry-after']);
+      const backoffMs = Math.min(30000, Math.round(baseDelayMs * (2 ** (attempt - 1))));
+      const jitterMs = Math.floor(Math.random() * 250);
+      const waitMs = Math.max(0, (retryAfterMs ?? backoffMs) + jitterMs);
+      console.log(`   ⏳ Rate limited (${status}); retrying in ${Math.ceil(waitMs / 1000)}s (attempt ${attempt + 1}/${maxAttempts})...`);
+      await sleep(waitMs);
+    }
+  }
+
+  throw lastError;
+}
+
 /**
  * PrizePicks Scraper
  * Fetches current prop bet options from PrizePicks API
@@ -30,7 +68,7 @@ async function scrapePrizePicks() {
       console.log(`📊 Fetching ${leagueName} props...`);
       
       try {
-        const response = await axios.get(`https://api.prizepicks.com/projections`, {
+        const response = await axiosGetWithRetry(`https://api.prizepicks.com/projections`, {
           params: {
             league_id: leagueId,
             per_page: 250
@@ -66,7 +104,7 @@ async function scrapePrizePicks() {
         }
         
         // Add delay to avoid rate limiting
-        await new Promise(resolve => setTimeout(resolve, 500));
+        await sleep(500);
         
       } catch (error) {
         console.log(`   ⚠️  ${leagueName} fetch failed:`, error.message);
@@ -205,8 +243,57 @@ async function scrapePrizePicks() {
           }
         };
 
+        const buildNextDaysSlice = async (label, days) => {
+          const dayKeys = new Set(Array.from({ length: days }, (_, i) => getCstDayKey(i)));
+          const rangeProps = props.filter(p => {
+            if (!p.startTimeIso) return false;
+            const startDateCST = p.startDateCST || getCstStartFields(p.startTimeIso).startDateCST;
+            return startDateCST && dayKeys.has(startDateCST);
+          });
+
+          const baseFile = path.join(dataDir, `prizepicks-${sport}-${label}.json`);
+          const payload = {
+            scrapedAt: allData.scrapedAt,
+            scrapedDate: allData.scrapedDate,
+            source: allData.source,
+            sport: sport.toUpperCase(),
+            day: label,
+            totalProps: rangeProps.length,
+            props: rangeProps
+          };
+          await fs.writeFile(baseFile, JSON.stringify(payload, null, 2), { mode: 0o666 });
+          console.log(`   ✅ ${sport.toUpperCase()} (${label.toUpperCase()}): ${rangeProps.length} props → ${baseFile}`);
+
+          const byTeam = {};
+          rangeProps.forEach(p => {
+            if (!p.Team) return;
+            if (!byTeam[p.Team]) byTeam[p.Team] = [];
+            byTeam[p.Team].push(p);
+          });
+
+          const teamDir = path.join(dataDir, `${sport}-${label}`);
+          await fs.mkdir(teamDir, { recursive: true });
+          for (const [teamName, teamProps] of Object.entries(byTeam)) {
+            const slug = slugifyTeam(teamName);
+            if (!slug) continue;
+            const teamFile = path.join(teamDir, `${slug}.json`);
+            const teamPayload = {
+              scrapedAt: allData.scrapedAt,
+              scrapedDate: allData.scrapedDate,
+              source: allData.source,
+              sport: sport.toUpperCase(),
+              day: label,
+              team: teamName,
+              totalProps: teamProps.length,
+              props: teamProps
+            };
+            await fs.writeFile(teamFile, JSON.stringify(teamPayload, null, 2), { mode: 0o666 });
+          }
+        };
+
         await buildDaySlice('today', 0);
         await buildDaySlice('tomorrow', 1);
+        await buildNextDaysSlice('next-7-days', 7);
       }
     }
     
