@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5052,
+      "rank": 5076,
       "gameId": "113749"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5084,
+      "rank": 5108,
       "gameId": "113749"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5086,
+      "rank": 5110,
       "gameId": "113749"
     },
     {
       "player": "Christian Watson",
       "stat": "Receiving Yards",
-      "line": 54.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5097,
+      "rank": 5121,
       "gameId": "113749"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5131,
+      "rank": 5155,
       "gameId": "113749"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5132,
+      "rank": 5156,
       "gameId": "113749"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5139,
+      "rank": 5163,
       "gameId": "113749"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5140,
+      "rank": 5164,
       "gameId": "113749"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5168,
+      "rank": 5192,
       "gameId": "113749"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5183,
+      "rank": 5207,
       "gameId": "113749"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5215,
+      "rank": 5239,
       "gameId": "113749"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5217,
+      "rank": 5241,
       "gameId": "113749"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5220,
+      "rank": 5244,
       "gameId": "113749"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5242,
+      "rank": 5266,
       "gameId": "113749"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5243,
+      "rank": 5267,
       "gameId": "113749"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5249,
+      "rank": 5273,
       "gameId": "113749"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5256,
+      "rank": 5280,
       "gameId": "113749"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5276,
+      "rank": 5300,
       "gameId": "113749"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5283,
+      "rank": 5307,
       "gameId": "113749"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5285,
+      "rank": 5309,
       "gameId": "113749"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5289,
+      "rank": 5313,
       "gameId": "113749"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5310,
+      "rank": 5334,
       "gameId": "113749"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5311,
+      "rank": 5335,
       "gameId": "113749"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5323,
+      "rank": 5347,
       "gameId": "113749"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5339,
+      "rank": 5363,
       "gameId": "113749"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5348,
+      "rank": 5372,
       "gameId": "113749"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5349,
+      "rank": 5373,
       "gameId": "113749"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5361,
+      "rank": 5385,
       "gameId": "113749"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5362,
+      "rank": 5386,
       "gameId": "113749"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5364,
+      "rank": 5388,
       "gameId": "113749"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5367,
+      "rank": 5391,
       "gameId": "113749"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5368,
+      "rank": 5392,
       "gameId": "113749"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5371,
+      "rank": 5395,
       "gameId": "113749"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5394,
+      "rank": 5418,
       "gameId": "113749"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5399,
+      "rank": 5423,
       "gameId": "113749"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "GB",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5422,
+      "rank": 5446,
       "gameId": "113749"
     }
   ]

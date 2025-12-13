@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "BKN",
       "Opponent": "Milwaukee Bucks",
       "opponentCode": "MIL",
-      "rank": 2205,
+      "rank": 2295,
       "gameId": "117154"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "BKN",
       "Opponent": "Milwaukee Bucks",
       "opponentCode": "MIL",
-      "rank": 2264,
+      "rank": 2354,
       "gameId": "117154"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "BKN",
       "Opponent": "Milwaukee Bucks",
       "opponentCode": "MIL",
-      "rank": 2265,
+      "rank": 2355,
       "gameId": "117154"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "BKN",
       "Opponent": "Milwaukee Bucks",
       "opponentCode": "MIL",
-      "rank": 2291,
+      "rank": 2381,
       "gameId": "117154"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "BKN",
       "Opponent": "Milwaukee Bucks",
       "opponentCode": "MIL",
-      "rank": 2304,
+      "rank": 2394,
       "gameId": "117154"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "BKN",
       "Opponent": "Milwaukee Bucks",
       "opponentCode": "MIL",
-      "rank": 2308,
+      "rank": 2398,
       "gameId": "117154"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "BKN",
       "Opponent": "Milwaukee Bucks",
       "opponentCode": "MIL",
-      "rank": 2366,
+      "rank": 2456,
       "gameId": "117154"
     }
   ]

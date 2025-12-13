@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NCAAF",
   "day": "next-7-days",
@@ -60,7 +60,7 @@
     {
       "player": "Alex Tecza",
       "stat": "Rush Yards",
-      "line": 68.5,
+      "line": 63.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 02:00 PM CST",
       "startTimeCST": "12/13/25 02:00 PM CST",
@@ -77,7 +77,7 @@
     {
       "player": "Cale Hellums",
       "stat": "Pass Yards",
-      "line": 65.5,
+      "line": 63.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 02:00 PM CST",
       "startTimeCST": "12/13/25 02:00 PM CST",
@@ -94,7 +94,7 @@
     {
       "player": "Eli Heidenreich",
       "stat": "Receiving Yards",
-      "line": 43.5,
+      "line": 42.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 02:00 PM CST",
       "startTimeCST": "12/13/25 02:00 PM CST",
@@ -309,7 +309,7 @@
       "teamCode": "MONT",
       "Opponent": "South Dakota Coyotes",
       "opponentCode": "SDAK",
-      "rank": 112,
+      "rank": 114,
       "gameId": "118953"
     },
     {
@@ -326,7 +326,7 @@
       "teamCode": "SDAK",
       "Opponent": "Montana Grizzlies",
       "opponentCode": "MONT",
-      "rank": 113,
+      "rank": 115,
       "gameId": "118953"
     },
     {
@@ -343,7 +343,7 @@
       "teamCode": "MONT",
       "Opponent": "South Dakota Coyotes",
       "opponentCode": "SDAK",
-      "rank": 114,
+      "rank": 116,
       "gameId": "118953"
     },
     {
@@ -360,7 +360,7 @@
       "teamCode": "SDAK",
       "Opponent": "Montana Grizzlies",
       "opponentCode": "MONT",
-      "rank": 115,
+      "rank": 117,
       "gameId": "118953"
     },
     {
@@ -377,7 +377,7 @@
       "teamCode": "SDAK",
       "Opponent": "Montana Grizzlies",
       "opponentCode": "MONT",
-      "rank": 116,
+      "rank": 118,
       "gameId": "118953"
     },
     {
@@ -394,7 +394,7 @@
       "teamCode": "MONT",
       "Opponent": "South Dakota Coyotes",
       "opponentCode": "SDAK",
-      "rank": 117,
+      "rank": 119,
       "gameId": "118953"
     },
     {
@@ -411,7 +411,7 @@
       "teamCode": "SDAK",
       "Opponent": "Montana Grizzlies",
       "opponentCode": "MONT",
-      "rank": 118,
+      "rank": 120,
       "gameId": "118953"
     },
     {
@@ -428,7 +428,7 @@
       "teamCode": "ILST",
       "Opponent": "UC Davis Aggies",
       "opponentCode": "UCD",
-      "rank": 126,
+      "rank": 128,
       "gameId": "120312"
     },
     {
@@ -445,7 +445,7 @@
       "teamCode": "UCD",
       "Opponent": "Illinois State Redbirds",
       "opponentCode": "ILST",
-      "rank": 127,
+      "rank": 129,
       "gameId": "120312"
     },
     {
@@ -462,7 +462,7 @@
       "teamCode": "UCD",
       "Opponent": "Illinois State Redbirds",
       "opponentCode": "ILST",
-      "rank": 128,
+      "rank": 130,
       "gameId": "120312"
     },
     {
@@ -479,7 +479,7 @@
       "teamCode": "UCD",
       "Opponent": "Illinois State Redbirds",
       "opponentCode": "ILST",
-      "rank": 129,
+      "rank": 131,
       "gameId": "120312"
     },
     {
@@ -496,7 +496,7 @@
       "teamCode": "ILST",
       "Opponent": "UC Davis Aggies",
       "opponentCode": "UCD",
-      "rank": 130,
+      "rank": 132,
       "gameId": "120312"
     },
     {
@@ -513,7 +513,7 @@
       "teamCode": "ILST",
       "Opponent": "UC Davis Aggies",
       "opponentCode": "UCD",
-      "rank": 131,
+      "rank": 133,
       "gameId": "120312"
     },
     {
@@ -530,13 +530,13 @@
       "teamCode": "UCD",
       "Opponent": "Illinois State Redbirds",
       "opponentCode": "ILST",
-      "rank": 132,
+      "rank": 134,
       "gameId": "120312"
     },
     {
       "player": "Demond Williams",
       "stat": "Pass Yards",
-      "line": 215.5,
+      "line": 216.5,
       "sport": "NCAAF",
       "startTime": "12/13/25 07:00 PM CST",
       "startTimeCST": "12/13/25 07:00 PM CST",
@@ -547,7 +547,7 @@
       "teamCode": "WASH",
       "Opponent": "Boise State Broncos",
       "opponentCode": "BSU",
-      "rank": 147,
+      "rank": 149,
       "gameId": "119007"
     },
     {
@@ -564,7 +564,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 148,
+      "rank": 150,
       "gameId": "119007"
     },
     {
@@ -581,7 +581,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 162,
+      "rank": 164,
       "gameId": "119007"
     },
     {
@@ -598,7 +598,7 @@
       "teamCode": "WASH",
       "Opponent": "Boise State Broncos",
       "opponentCode": "BSU",
-      "rank": 171,
+      "rank": 173,
       "gameId": "119007"
     },
     {
@@ -615,7 +615,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 174,
+      "rank": 176,
       "gameId": "119007"
     },
     {
@@ -632,7 +632,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 179,
+      "rank": 181,
       "gameId": "119007"
     },
     {
@@ -649,7 +649,7 @@
       "teamCode": "WASH",
       "Opponent": "Boise State Broncos",
       "opponentCode": "BSU",
-      "rank": 180,
+      "rank": 182,
       "gameId": "119007"
     },
     {
@@ -666,7 +666,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 181,
+      "rank": 183,
       "gameId": "119007"
     },
     {
@@ -683,7 +683,7 @@
       "teamCode": "BSU",
       "Opponent": "Washington Huskies",
       "opponentCode": "WASH",
-      "rank": 183,
+      "rank": 185,
       "gameId": "119007"
     },
     {
@@ -700,7 +700,7 @@
       "teamCode": "WASH",
       "Opponent": "Boise State Broncos",
       "opponentCode": "BSU",
-      "rank": 184,
+      "rank": 186,
       "gameId": "119007"
     },
     {
@@ -717,7 +717,7 @@
       "teamCode": "DEL",
       "Opponent": "Louisiana Ragin' Cajuns",
       "opponentCode": "ULL",
-      "rank": 265,
+      "rank": 267,
       "gameId": "118896"
     },
     {
@@ -734,7 +734,7 @@
       "teamCode": "ULL",
       "Opponent": "Delaware Blue Hens",
       "opponentCode": "DEL",
-      "rank": 267,
+      "rank": 269,
       "gameId": "118896"
     },
     {
@@ -751,7 +751,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 294,
+      "rank": 296,
       "gameId": "119010"
     },
     {
@@ -768,7 +768,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 297,
+      "rank": 299,
       "gameId": "119010"
     },
     {
@@ -785,7 +785,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 312,
+      "rank": 314,
       "gameId": "119010"
     },
     {
@@ -802,7 +802,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 321,
+      "rank": 323,
       "gameId": "119010"
     },
     {
@@ -819,7 +819,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 330,
+      "rank": 332,
       "gameId": "119010"
     },
     {
@@ -836,7 +836,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 337,
+      "rank": 339,
       "gameId": "119010"
     },
     {
@@ -853,7 +853,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 338,
+      "rank": 340,
       "gameId": "119010"
     },
     {
@@ -870,7 +870,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 339,
+      "rank": 341,
       "gameId": "119010"
     },
     {
@@ -887,7 +887,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 340,
+      "rank": 342,
       "gameId": "119010"
     },
     {
@@ -904,7 +904,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 343,
+      "rank": 345,
       "gameId": "119010"
     },
     {
@@ -921,7 +921,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 344,
+      "rank": 346,
       "gameId": "119010"
     },
     {
@@ -938,7 +938,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 345,
+      "rank": 347,
       "gameId": "119010"
     },
     {
@@ -955,7 +955,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 350,
+      "rank": 352,
       "gameId": "119010"
     },
     {
@@ -972,7 +972,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 351,
+      "rank": 353,
       "gameId": "119010"
     },
     {
@@ -989,7 +989,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 359,
+      "rank": 361,
       "gameId": "119010"
     },
     {
@@ -1006,7 +1006,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 360,
+      "rank": 362,
       "gameId": "119010"
     },
     {
@@ -1023,7 +1023,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 361,
+      "rank": 363,
       "gameId": "119010"
     },
     {
@@ -1040,7 +1040,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 372,
+      "rank": 374,
       "gameId": "119010"
     },
     {
@@ -1057,7 +1057,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 375,
+      "rank": 377,
       "gameId": "119010"
     }
   ]

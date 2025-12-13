@@ -22,17 +22,6 @@
     "dayBranch": "current_day"
   },
   {
-    "gameId": "120313",
-    "sport": "NCAAF",
-    "startTime": "12/13/25 11:00 AM CST",
-    "teams": [
-      "Tarleton State Texans",
-      "Villanova Wildcats"
-    ],
-    "slate": "Early",
-    "dayBranch": "current_day"
-  },
-  {
     "gameId": "113529",
     "sport": "NCAAF",
     "startTime": "12/13/25 02:00 PM CST",

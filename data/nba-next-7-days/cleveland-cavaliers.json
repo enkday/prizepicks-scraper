@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Cleveland Cavaliers",
-  "totalProps": 10,
+  "totalProps": 11,
   "props": [
     {
       "player": "Donovan Mitchell",
@@ -21,13 +21,13 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 1956,
+      "rank": 2045,
       "gameId": "117152"
     },
     {
       "player": "Evan Mobley",
       "stat": "Points",
-      "line": 18.5,
+      "line": 19.5,
       "sport": "NBA",
       "startTime": "12/14/25 02:40 PM CST",
       "startTimeCST": "12/14/25 02:40 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2025,
+      "rank": 2102,
       "gameId": "117152"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2026,
+      "rank": 2115,
       "gameId": "117152"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2040,
+      "rank": 2129,
       "gameId": "117152"
     },
     {
@@ -89,7 +89,24 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2046,
+      "rank": 2135,
+      "gameId": "117152"
+    },
+    {
+      "player": "Evan Mobley",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "sport": "NBA",
+      "startTime": "12/14/25 02:40 PM CST",
+      "startTimeCST": "12/14/25 02:40 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T15:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "Charlotte Hornets",
+      "opponentCode": "CHA",
+      "rank": 2150,
       "gameId": "117152"
     },
     {
@@ -106,7 +123,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2101,
+      "rank": 2190,
       "gameId": "117152"
     },
     {
@@ -123,7 +140,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2114,
+      "rank": 2203,
       "gameId": "117152"
     },
     {
@@ -140,7 +157,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2129,
+      "rank": 2218,
       "gameId": "117152"
     },
     {
@@ -157,7 +174,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2135,
+      "rank": 2224,
       "gameId": "117152"
     },
     {
@@ -174,7 +191,7 @@
       "teamCode": "CLE",
       "Opponent": "Charlotte Hornets",
       "opponentCode": "CHA",
-      "rank": 2148,
+      "rank": 2237,
       "gameId": "117152"
     }
   ]

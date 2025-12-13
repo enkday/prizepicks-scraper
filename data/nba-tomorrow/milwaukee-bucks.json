@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -21,7 +21,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2222,
+      "rank": 2312,
       "gameId": "117154"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2240,
+      "rank": 2330,
       "gameId": "117154"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2250,
+      "rank": 2340,
       "gameId": "117154"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2266,
+      "rank": 2356,
       "gameId": "117154"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2307,
+      "rank": 2397,
       "gameId": "117154"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2335,
+      "rank": 2425,
       "gameId": "117154"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2336,
+      "rank": 2426,
       "gameId": "117154"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "MIL",
       "Opponent": "Brooklyn Nets",
       "opponentCode": "BKN",
-      "rank": 2362,
+      "rank": 2452,
       "gameId": "117154"
     }
   ]

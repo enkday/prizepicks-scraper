@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -10,7 +10,7 @@
     {
       "player": "CJ McCollum",
       "stat": "Points",
-      "line": 19.5,
+      "line": 20.5,
       "sport": "NBA",
       "startTime": "12/14/25 02:10 PM CST",
       "startTimeCST": "12/14/25 02:10 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1766,
+      "rank": 1853,
       "gameId": "117151"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1797,
+      "rank": 1888,
       "gameId": "117151"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1813,
+      "rank": 1903,
       "gameId": "117151"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1819,
+      "rank": 1908,
       "gameId": "117151"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1845,
+      "rank": 1934,
       "gameId": "117151"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1862,
+      "rank": 1951,
       "gameId": "117151"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1869,
+      "rank": 1958,
       "gameId": "117151"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1881,
+      "rank": 1970,
       "gameId": "117151"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "WAS",
       "Opponent": "Indiana Pacers",
       "opponentCode": "IND",
-      "rank": 1888,
+      "rank": 1977,
       "gameId": "117151"
     }
   ]

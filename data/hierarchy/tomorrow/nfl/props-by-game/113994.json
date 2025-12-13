@@ -154,20 +154,6 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113994_minnesota-vikings_jordan-mason_e1023223_rush-yards",
-    "gameId": "113994",
-    "playerId": "minnesota-vikings_jordan-mason_e1023223",
-    "stat": "Rush Yards",
-    "line": 38.5,
-    "teamCode": "minnesota-vikings",
-    "opponentCode": "dallas-cowboys",
-    "oddsType": "standard",
-    "sport": "NFL",
-    "startTime": "12/14/25 07:20 PM CST",
-    "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
     "propId": "113994_dallas-cowboys_dak-prescott_a23254b9_longest-completion",
     "gameId": "113994",
     "playerId": "dallas-cowboys_dak-prescott_a23254b9",
@@ -210,6 +196,20 @@
     "dayBranch": "tomorrow"
   },
   {
+    "propId": "113994_minnesota-vikings_jordan-mason_e1023223_rush-yards",
+    "gameId": "113994",
+    "playerId": "minnesota-vikings_jordan-mason_e1023223",
+    "stat": "Rush Yards",
+    "line": 34.5,
+    "teamCode": "minnesota-vikings",
+    "opponentCode": "dallas-cowboys",
+    "oddsType": "standard",
+    "sport": "NFL",
+    "startTime": "12/14/25 07:20 PM CST",
+    "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
     "propId": "113994_minnesota-vikings_j.j.-mccarthy_7d8f8518_longest-completion",
     "gameId": "113994",
     "playerId": "minnesota-vikings_j.j.-mccarthy_7d8f8518",
@@ -229,20 +229,6 @@
     "playerId": "minnesota-vikings_j.j.-mccarthy_7d8f8518",
     "stat": "Pass Attempts",
     "line": 29.0,
-    "teamCode": "minnesota-vikings",
-    "opponentCode": "dallas-cowboys",
-    "oddsType": "standard",
-    "sport": "NFL",
-    "startTime": "12/14/25 07:20 PM CST",
-    "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "propId": "113994_minnesota-vikings_t.j.-hockenson_c71477a1_receiving-yards",
-    "gameId": "113994",
-    "playerId": "minnesota-vikings_t.j.-hockenson_c71477a1",
-    "stat": "Receiving Yards",
-    "line": 25.5,
     "teamCode": "minnesota-vikings",
     "opponentCode": "dallas-cowboys",
     "oddsType": "standard",
@@ -280,6 +266,20 @@
     "dayBranch": "tomorrow"
   },
   {
+    "propId": "113994_minnesota-vikings_t.j.-hockenson_c71477a1_receiving-yards",
+    "gameId": "113994",
+    "playerId": "minnesota-vikings_t.j.-hockenson_c71477a1",
+    "stat": "Receiving Yards",
+    "line": 24.5,
+    "teamCode": "minnesota-vikings",
+    "opponentCode": "dallas-cowboys",
+    "oddsType": "standard",
+    "sport": "NFL",
+    "startTime": "12/14/25 07:20 PM CST",
+    "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
     "propId": "113994_dallas-cowboys_dak-prescott_a23254b9_pass-completions",
     "gameId": "113994",
     "playerId": "dallas-cowboys_dak-prescott_a23254b9",
@@ -298,7 +298,7 @@
     "gameId": "113994",
     "playerId": "minnesota-vikings_justin-jefferson_b2af4ae5",
     "stat": "Longest Reception",
-    "line": 21.5,
+    "line": 23.5,
     "teamCode": "minnesota-vikings",
     "opponentCode": "dallas-cowboys",
     "oddsType": "standard",
@@ -396,7 +396,7 @@
     "gameId": "113994",
     "playerId": "minnesota-vikings_j.j.-mccarthy_7d8f8518",
     "stat": "Rush Yards",
-    "line": 15.5,
+    "line": 16.5,
     "teamCode": "minnesota-vikings",
     "opponentCode": "dallas-cowboys",
     "oddsType": "standard",
@@ -518,20 +518,6 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113994_dallas-cowboys_javonte-williams_4000490f_receiving-yards",
-    "gameId": "113994",
-    "playerId": "dallas-cowboys_javonte-williams_4000490f",
-    "stat": "Receiving Yards",
-    "line": 10.5,
-    "teamCode": "dallas-cowboys",
-    "opponentCode": "minnesota-vikings",
-    "oddsType": "standard",
-    "sport": "NFL",
-    "startTime": "12/14/25 07:20 PM CST",
-    "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
     "propId": "113994_dallas-cowboys_ceedee-lamb_f4dcd8fb_rec-targets",
     "gameId": "113994",
     "playerId": "dallas-cowboys_ceedee-lamb_f4dcd8fb",
@@ -553,6 +539,20 @@
     "line": 9.5,
     "teamCode": "minnesota-vikings",
     "opponentCode": "dallas-cowboys",
+    "oddsType": "standard",
+    "sport": "NFL",
+    "startTime": "12/14/25 07:20 PM CST",
+    "startTimeIso": "2025-12-14T20:20:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "propId": "113994_dallas-cowboys_javonte-williams_4000490f_receiving-yards",
+    "gameId": "113994",
+    "playerId": "dallas-cowboys_javonte-williams_4000490f",
+    "stat": "Receiving Yards",
+    "line": 9.5,
+    "teamCode": "dallas-cowboys",
+    "opponentCode": "minnesota-vikings",
     "oddsType": "standard",
     "sport": "NFL",
     "startTime": "12/14/25 07:20 PM CST",

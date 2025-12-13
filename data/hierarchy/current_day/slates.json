@@ -8,16 +8,15 @@
       "120312",
       "119007"
     ],
-    "totalProps": 186
+    "totalProps": 188
   },
   {
     "dayBranch": "current_day",
     "slate": "Early",
     "gameIds": [
-      "120313",
       "113529",
       "118953"
     ],
-    "totalProps": 30
+    "totalProps": 24
   }
 ]

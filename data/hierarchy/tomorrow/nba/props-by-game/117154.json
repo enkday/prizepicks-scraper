@@ -154,20 +154,6 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "117154_milwaukee-bucks_kevin-porter_a0faaeac_rebounds",
-    "gameId": "117154",
-    "playerId": "milwaukee-bucks_kevin-porter_a0faaeac",
-    "stat": "Rebounds",
-    "line": 5.5,
-    "teamCode": "milwaukee-bucks",
-    "opponentCode": "brooklyn-nets",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/14/25 05:10 PM CST",
-    "startTimeIso": "2025-12-14T18:10:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
     "propId": "117154_milwaukee-bucks_myles-turner_44fc4afc_rebounds",
     "gameId": "117154",
     "playerId": "milwaukee-bucks_myles-turner_44fc4afc",
@@ -187,6 +173,20 @@
     "playerId": "milwaukee-bucks_ryan-rollins_b83816fd",
     "stat": "Rebounds",
     "line": 4.5,
+    "teamCode": "milwaukee-bucks",
+    "opponentCode": "brooklyn-nets",
+    "oddsType": "standard",
+    "sport": "NBA",
+    "startTime": "12/14/25 05:10 PM CST",
+    "startTimeIso": "2025-12-14T18:10:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "propId": "117154_milwaukee-bucks_kevin-porter_a0faaeac_3-pt-made",
+    "gameId": "117154",
+    "playerId": "milwaukee-bucks_kevin-porter_a0faaeac",
+    "stat": "3-PT Made",
+    "line": 2.5,
     "teamCode": "milwaukee-bucks",
     "opponentCode": "brooklyn-nets",
     "oddsType": "standard",

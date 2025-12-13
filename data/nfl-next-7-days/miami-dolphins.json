@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5859,
+      "rank": 5883,
       "gameId": "114160"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5893,
+      "rank": 5917,
       "gameId": "114160"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5901,
+      "rank": 5925,
       "gameId": "114160"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5903,
+      "rank": 5927,
       "gameId": "114160"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5951,
+      "rank": 5975,
       "gameId": "114160"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5976,
+      "rank": 6000,
       "gameId": "114160"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5977,
+      "rank": 6001,
       "gameId": "114160"
     },
     {
@@ -140,7 +140,24 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5980,
+      "rank": 6004,
+      "gameId": "114160"
+    },
+    {
+      "player": "Malik Washington",
+      "stat": "Receiving Yards",
+      "line": 23.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 6012,
       "gameId": "114160"
     },
     {
@@ -157,24 +174,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5988,
-      "gameId": "114160"
-    },
-    {
-      "player": "Malik Washington",
-      "stat": "Receiving Yards",
-      "line": 22.5,
-      "sport": "NFL",
-      "startTime": "12/15/25 07:15 PM CST",
-      "startTimeCST": "12/15/25 07:15 PM CST",
-      "startDateCST": "2025-12-15",
-      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 5990,
+      "rank": 6013,
       "gameId": "114160"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5998,
+      "rank": 6022,
       "gameId": "114160"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6014,
+      "rank": 6038,
       "gameId": "114160"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6020,
+      "rank": 6044,
       "gameId": "114160"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6021,
+      "rank": 6045,
       "gameId": "114160"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6025,
+      "rank": 6049,
       "gameId": "114160"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6027,
+      "rank": 6051,
       "gameId": "114160"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6052,
+      "rank": 6076,
       "gameId": "114160"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6053,
+      "rank": 6077,
       "gameId": "114160"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6055,
+      "rank": 6079,
       "gameId": "114160"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6083,
+      "rank": 6107,
       "gameId": "114160"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6088,
+      "rank": 6112,
       "gameId": "114160"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6089,
+      "rank": 6113,
       "gameId": "114160"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6101,
+      "rank": 6125,
       "gameId": "114160"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6111,
+      "rank": 6135,
       "gameId": "114160"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6113,
+      "rank": 6137,
       "gameId": "114160"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6130,
+      "rank": 6154,
       "gameId": "114160"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6133,
+      "rank": 6157,
       "gameId": "114160"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6134,
+      "rank": 6158,
       "gameId": "114160"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6141,
+      "rank": 6165,
       "gameId": "114160"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6146,
+      "rank": 6170,
       "gameId": "114160"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6160,
+      "rank": 6184,
       "gameId": "114160"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6163,
+      "rank": 6187,
       "gameId": "114160"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6165,
+      "rank": 6189,
       "gameId": "114160"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6181,
+      "rank": 6205,
       "gameId": "114160"
     }
   ]

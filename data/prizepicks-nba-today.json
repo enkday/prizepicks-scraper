@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "today",
@@ -20,7 +20,24 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 69,
+      "rank": 67,
+      "gameId": "119503"
+    },
+    {
+      "player": "Paolo Banchero",
+      "stat": "Points",
+      "line": 22.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 04:40 PM CST",
+      "startTimeCST": "12/13/25 04:40 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Orlando Magic",
+      "teamCode": "ORL",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 148,
       "gameId": "119503"
     },
     {
@@ -37,24 +54,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 162,
-      "gameId": "119503"
-    },
-    {
-      "player": "Paolo Banchero",
-      "stat": "Points",
-      "line": 21.5,
-      "sport": "NBA",
-      "startTime": "12/13/25 04:40 PM CST",
-      "startTimeCST": "12/13/25 04:40 PM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Orlando Magic",
-      "teamCode": "ORL",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 163,
+      "rank": 153,
       "gameId": "119503"
     },
     {
@@ -71,7 +71,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 164,
+      "rank": 154,
       "gameId": "119503"
     },
     {
@@ -88,7 +88,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 166,
+      "rank": 156,
       "gameId": "119503"
     },
     {
@@ -105,7 +105,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 221,
+      "rank": 208,
       "gameId": "119503"
     },
     {
@@ -122,7 +122,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 240,
+      "rank": 226,
       "gameId": "119503"
     },
     {
@@ -139,7 +139,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 264,
+      "rank": 247,
       "gameId": "119503"
     },
     {
@@ -156,7 +156,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 265,
+      "rank": 248,
       "gameId": "119503"
     },
     {
@@ -173,7 +173,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 266,
+      "rank": 249,
       "gameId": "119503"
     },
     {
@@ -190,7 +190,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 280,
+      "rank": 263,
       "gameId": "119503"
     },
     {
@@ -207,7 +207,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 295,
+      "rank": 278,
       "gameId": "119503"
     },
     {
@@ -224,7 +224,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 297,
+      "rank": 280,
       "gameId": "119503"
     },
     {
@@ -241,7 +241,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 298,
+      "rank": 281,
       "gameId": "119503"
     },
     {
@@ -258,7 +258,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 331,
+      "rank": 313,
       "gameId": "119503"
     },
     {
@@ -275,7 +275,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 335,
+      "rank": 317,
       "gameId": "119503"
     },
     {
@@ -292,7 +292,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 343,
+      "rank": 325,
       "gameId": "119503"
     },
     {
@@ -309,7 +309,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 345,
+      "rank": 327,
       "gameId": "119503"
     },
     {
@@ -326,7 +326,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 349,
+      "rank": 331,
       "gameId": "119503"
     },
     {
@@ -343,7 +343,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 355,
+      "rank": 337,
       "gameId": "119503"
     },
     {
@@ -360,7 +360,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 390,
+      "rank": 370,
       "gameId": "119503"
     },
     {
@@ -377,7 +377,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 391,
+      "rank": 371,
       "gameId": "119503"
     },
     {
@@ -394,7 +394,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 399,
+      "rank": 380,
       "gameId": "119503"
     },
     {
@@ -411,7 +411,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 405,
+      "rank": 385,
       "gameId": "119503"
     },
     {
@@ -428,7 +428,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 406,
+      "rank": 386,
       "gameId": "119503"
     },
     {
@@ -445,7 +445,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 416,
+      "rank": 396,
       "gameId": "119503"
     },
     {
@@ -462,7 +462,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 419,
+      "rank": 399,
       "gameId": "119503"
     },
     {
@@ -479,7 +479,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 421,
+      "rank": 401,
       "gameId": "119503"
     },
     {
@@ -496,7 +496,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 424,
+      "rank": 404,
       "gameId": "119503"
     },
     {
@@ -513,7 +513,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 425,
+      "rank": 405,
       "gameId": "119503"
     },
     {
@@ -530,24 +530,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 441,
-      "gameId": "119503"
-    },
-    {
-      "player": "Jalen Brunson",
-      "stat": "Free Throws Attempted",
-      "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/13/25 04:40 PM CST",
-      "startTimeCST": "12/13/25 04:40 PM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Orlando Magic",
-      "opponentCode": "ORL",
-      "rank": 455,
+      "rank": 419,
       "gameId": "119503"
     },
     {
@@ -564,7 +547,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 456,
+      "rank": 433,
       "gameId": "119503"
     },
     {
@@ -581,7 +564,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 458,
+      "rank": 435,
       "gameId": "119503"
     },
     {
@@ -598,7 +581,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 469,
+      "rank": 446,
       "gameId": "119503"
     },
     {
@@ -615,7 +598,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 486,
+      "rank": 463,
       "gameId": "119503"
     },
     {
@@ -632,7 +615,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 488,
+      "rank": 465,
       "gameId": "119503"
     },
     {
@@ -649,7 +632,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 489,
+      "rank": 466,
       "gameId": "119503"
     },
     {
@@ -666,7 +649,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 490,
+      "rank": 467,
       "gameId": "119503"
     },
     {
@@ -683,7 +666,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 491,
+      "rank": 468,
       "gameId": "119503"
     },
     {
@@ -700,24 +683,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 494,
-      "gameId": "119503"
-    },
-    {
-      "player": "OG Anunoby",
-      "stat": "Two Pointers Attempted",
-      "line": 5.5,
-      "sport": "NBA",
-      "startTime": "12/13/25 04:40 PM CST",
-      "startTimeCST": "12/13/25 04:40 PM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Orlando Magic",
-      "opponentCode": "ORL",
-      "rank": 496,
+      "rank": 469,
       "gameId": "119503"
     },
     {
@@ -734,7 +700,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 498,
+      "rank": 472,
       "gameId": "119503"
     },
     {
@@ -751,7 +717,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 507,
+      "rank": 479,
       "gameId": "119503"
     },
     {
@@ -768,7 +734,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 508,
+      "rank": 481,
       "gameId": "119503"
     },
     {
@@ -785,7 +751,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 509,
+      "rank": 482,
       "gameId": "119503"
     },
     {
@@ -802,7 +768,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 510,
+      "rank": 483,
       "gameId": "119503"
     },
     {
@@ -819,7 +785,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 514,
+      "rank": 487,
       "gameId": "119503"
     },
     {
@@ -836,7 +802,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 515,
+      "rank": 488,
       "gameId": "119503"
     },
     {
@@ -853,7 +819,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 517,
+      "rank": 490,
       "gameId": "119503"
     },
     {
@@ -870,7 +836,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 522,
+      "rank": 495,
       "gameId": "119503"
     },
     {
@@ -887,41 +853,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 525,
-      "gameId": "119503"
-    },
-    {
-      "player": "Josh Hart",
-      "stat": "FG Made",
-      "line": 4.5,
-      "sport": "NBA",
-      "startTime": "12/13/25 04:40 PM CST",
-      "startTimeCST": "12/13/25 04:40 PM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Orlando Magic",
-      "opponentCode": "ORL",
-      "rank": 526,
-      "gameId": "119503"
-    },
-    {
-      "player": "Karl-Anthony Towns",
-      "stat": "Free Throws Made",
-      "line": 4.5,
-      "sport": "NBA",
-      "startTime": "12/13/25 04:40 PM CST",
-      "startTimeCST": "12/13/25 04:40 PM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Orlando Magic",
-      "opponentCode": "ORL",
-      "rank": 530,
+      "rank": 498,
       "gameId": "119503"
     },
     {
@@ -938,7 +870,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 544,
+      "rank": 516,
       "gameId": "119503"
     },
     {
@@ -955,24 +887,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 545,
-      "gameId": "119503"
-    },
-    {
-      "player": "Mikal Bridges",
-      "stat": "Assists",
-      "line": 4,
-      "sport": "NBA",
-      "startTime": "12/13/25 04:40 PM CST",
-      "startTimeCST": "12/13/25 04:40 PM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Orlando Magic",
-      "opponentCode": "ORL",
-      "rank": 546,
+      "rank": 517,
       "gameId": "119503"
     },
     {
@@ -989,7 +904,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 547,
+      "rank": 518,
       "gameId": "119503"
     },
     {
@@ -1006,7 +921,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 550,
+      "rank": 521,
       "gameId": "119503"
     },
     {
@@ -1023,7 +938,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 574,
+      "rank": 544,
       "gameId": "119503"
     },
     {
@@ -1040,7 +955,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 575,
+      "rank": 545,
       "gameId": "119503"
     },
     {
@@ -1057,7 +972,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 579,
+      "rank": 549,
       "gameId": "119503"
     },
     {
@@ -1074,7 +989,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 581,
+      "rank": 551,
       "gameId": "119503"
     },
     {
@@ -1091,7 +1006,24 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 590,
+      "rank": 561,
+      "gameId": "119503"
+    },
+    {
+      "player": "Mikal Bridges",
+      "stat": "Assists",
+      "line": 3.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 04:40 PM CST",
+      "startTimeCST": "12/13/25 04:40 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "Orlando Magic",
+      "opponentCode": "ORL",
+      "rank": 566,
       "gameId": "119503"
     },
     {
@@ -1108,7 +1040,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 597,
+      "rank": 568,
       "gameId": "119503"
     },
     {
@@ -1125,7 +1057,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 615,
+      "rank": 586,
       "gameId": "119503"
     },
     {
@@ -1142,7 +1074,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 616,
+      "rank": 587,
       "gameId": "119503"
     },
     {
@@ -1159,7 +1091,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 627,
+      "rank": 599,
       "gameId": "119503"
     },
     {
@@ -1176,7 +1108,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 643,
+      "rank": 615,
       "gameId": "119503"
     },
     {
@@ -1193,7 +1125,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 650,
+      "rank": 622,
       "gameId": "119503"
     },
     {
@@ -1210,7 +1142,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 660,
+      "rank": 632,
       "gameId": "119503"
     },
     {
@@ -1227,7 +1159,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 675,
+      "rank": 646,
       "gameId": "119503"
     },
     {
@@ -1244,7 +1176,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 699,
+      "rank": 669,
       "gameId": "119503"
     },
     {
@@ -1261,24 +1193,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 703,
-      "gameId": "119503"
-    },
-    {
-      "player": "Josh Hart",
-      "stat": "Free Throws Made",
-      "line": 1.5,
-      "sport": "NBA",
-      "startTime": "12/13/25 04:40 PM CST",
-      "startTimeCST": "12/13/25 04:40 PM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Orlando Magic",
-      "opponentCode": "ORL",
-      "rank": 718,
+      "rank": 682,
       "gameId": "119503"
     },
     {
@@ -1295,7 +1210,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 731,
+      "rank": 708,
       "gameId": "119503"
     },
     {
@@ -1312,7 +1227,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 734,
+      "rank": 711,
       "gameId": "119503"
     },
     {
@@ -1329,7 +1244,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 756,
+      "rank": 735,
       "gameId": "119503"
     },
     {
@@ -1346,7 +1261,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 766,
+      "rank": 744,
       "gameId": "119503"
     },
     {
@@ -1363,7 +1278,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 768,
+      "rank": 746,
       "gameId": "119503"
     },
     {
@@ -1380,7 +1295,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 772,
+      "rank": 750,
       "gameId": "119503"
     },
     {
@@ -1397,7 +1312,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 773,
+      "rank": 751,
       "gameId": "119503"
     },
     {
@@ -1414,7 +1329,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 783,
+      "rank": 776,
       "gameId": "119503"
     },
     {
@@ -1431,7 +1346,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 790,
+      "rank": 783,
       "gameId": "119503"
     },
     {
@@ -1448,7 +1363,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 791,
+      "rank": 784,
       "gameId": "119503"
     },
     {
@@ -1465,12 +1380,12 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 792,
+      "rank": 785,
       "gameId": "119503"
     },
     {
-      "player": "Anthony Black",
-      "stat": "Blocked Shots",
+      "player": "Jordan Clarkson",
+      "stat": "Steals",
       "line": 0.5,
       "sport": "NBA",
       "startTime": "12/13/25 04:40 PM CST",
@@ -1478,11 +1393,11 @@
       "startDateCST": "2025-12-13",
       "startTimeIso": "2025-12-13T17:40:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Orlando Magic",
-      "teamCode": "ORL",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 799,
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "Orlando Magic",
+      "opponentCode": "ORL",
+      "rank": 792,
       "gameId": "119503"
     },
     {
@@ -1499,7 +1414,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 805,
+      "rank": 801,
       "gameId": "119503"
     },
     {
@@ -1516,12 +1431,46 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 807,
+      "rank": 803,
+      "gameId": "119503"
+    },
+    {
+      "player": "Mitchell Robinson",
+      "stat": "Steals",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 04:40 PM CST",
+      "startTimeCST": "12/13/25 04:40 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "Orlando Magic",
+      "opponentCode": "ORL",
+      "rank": 806,
       "gameId": "119503"
     },
     {
       "player": "Tyus Jones",
       "stat": "3-PT Made",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 04:40 PM CST",
+      "startTimeCST": "12/13/25 04:40 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Orlando Magic",
+      "teamCode": "ORL",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 807,
+      "gameId": "119503"
+    },
+    {
+      "player": "Tyus Jones",
+      "stat": "Two Pointers Made",
       "line": 0.5,
       "sport": "NBA",
       "startTime": "12/13/25 04:40 PM CST",
@@ -1550,7 +1499,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 815,
+      "rank": 813,
       "gameId": "119503"
     },
     {
@@ -1567,7 +1516,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 816,
+      "rank": 814,
       "gameId": "119503"
     },
     {
@@ -1584,7 +1533,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 817,
+      "rank": 815,
       "gameId": "119503"
     },
     {
@@ -1601,7 +1550,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 818,
+      "rank": 816,
       "gameId": "119503"
     },
     {
@@ -1618,7 +1567,7 @@
       "teamCode": "ORL",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 819,
+      "rank": 817,
       "gameId": "119503"
     },
     {
@@ -1635,7 +1584,7 @@
       "teamCode": "NYK",
       "Opponent": "Orlando Magic",
       "opponentCode": "ORL",
-      "rank": 826,
+      "rank": 825,
       "gameId": "119503"
     },
     {
@@ -1652,7 +1601,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 876,
+      "rank": 900,
       "gameId": "119979"
     },
     {
@@ -1669,7 +1618,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 970,
+      "rank": 993,
       "gameId": "119979"
     },
     {
@@ -1686,7 +1635,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 972,
+      "rank": 995,
       "gameId": "119979"
     },
     {
@@ -1703,7 +1652,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1008,
+      "rank": 1031,
       "gameId": "119979"
     },
     {
@@ -1720,7 +1669,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1015,
+      "rank": 1038,
       "gameId": "119979"
     },
     {
@@ -1737,7 +1686,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1026,
+      "rank": 1049,
       "gameId": "119979"
     },
     {
@@ -1754,7 +1703,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1028,
+      "rank": 1051,
       "gameId": "119979"
     },
     {
@@ -1771,7 +1720,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1033,
+      "rank": 1055,
       "gameId": "119979"
     },
     {
@@ -1788,7 +1737,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1054,
+      "rank": 1076,
       "gameId": "119979"
     },
     {
@@ -1805,7 +1754,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1115,
+      "rank": 1136,
       "gameId": "119979"
     },
     {
@@ -1822,7 +1771,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1134,
+      "rank": 1157,
       "gameId": "119979"
     },
     {
@@ -1839,7 +1788,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1145,
+      "rank": 1168,
       "gameId": "119979"
     },
     {
@@ -1856,11 +1805,11 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1152,
+      "rank": 1176,
       "gameId": "119979"
     },
     {
-      "player": "Ajay Mitchell",
+      "player": "Dylan Harper",
       "stat": "Points",
       "line": 9.5,
       "sport": "NBA",
@@ -1869,11 +1818,11 @@
       "startDateCST": "2025-12-13",
       "startTimeIso": "2025-12-13T21:10:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Oklahoma City Thunder",
-      "teamCode": "OKC",
-      "Opponent": "San Antonio Spurs",
-      "opponentCode": "SAS",
-      "rank": 1173,
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1196,
       "gameId": "119979"
     },
     {
@@ -1890,7 +1839,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1182,
+      "rank": 1206,
       "gameId": "119979"
     },
     {
@@ -1907,7 +1856,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1208,
+      "rank": 1235,
       "gameId": "119979"
     },
     {
@@ -1924,7 +1873,41 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1211,
+      "rank": 1238,
+      "gameId": "119979"
+    },
+    {
+      "player": "Ajay Mitchell",
+      "stat": "Points",
+      "line": 8.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 08:10 PM CST",
+      "startTimeCST": "12/13/25 08:10 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1240,
+      "gameId": "119979"
+    },
+    {
+      "player": "Aaron Wiggins",
+      "stat": "Points",
+      "line": 8.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 08:10 PM CST",
+      "startTimeCST": "12/13/25 08:10 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1248,
       "gameId": "119979"
     },
     {
@@ -1941,7 +1924,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1221,
+      "rank": 1249,
       "gameId": "119979"
     },
     {
@@ -1958,7 +1941,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1222,
+      "rank": 1250,
       "gameId": "119979"
     },
     {
@@ -1975,7 +1958,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1224,
+      "rank": 1253,
       "gameId": "119979"
     },
     {
@@ -1992,7 +1975,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1226,
+      "rank": 1255,
       "gameId": "119979"
     },
     {
@@ -2009,7 +1992,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1227,
+      "rank": 1256,
       "gameId": "119979"
     },
     {
@@ -2026,24 +2009,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1228,
-      "gameId": "119979"
-    },
-    {
-      "player": "Cason Wallace",
-      "stat": "Points",
-      "line": 7.5,
-      "sport": "NBA",
-      "startTime": "12/13/25 08:10 PM CST",
-      "startTimeCST": "12/13/25 08:10 PM CST",
-      "startDateCST": "2025-12-13",
-      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Oklahoma City Thunder",
-      "teamCode": "OKC",
-      "Opponent": "San Antonio Spurs",
-      "opponentCode": "SAS",
-      "rank": 1240,
+      "rank": 1258,
       "gameId": "119979"
     },
     {
@@ -2060,7 +2026,24 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1247,
+      "rank": 1276,
+      "gameId": "119979"
+    },
+    {
+      "player": "Julian Champagnie",
+      "stat": "Points",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 08:10 PM CST",
+      "startTimeCST": "12/13/25 08:10 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1277,
       "gameId": "119979"
     },
     {
@@ -2077,7 +2060,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1289,
+      "rank": 1322,
       "gameId": "119979"
     },
     {
@@ -2094,7 +2077,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1299,
+      "rank": 1332,
       "gameId": "119979"
     },
     {
@@ -2111,7 +2094,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1318,
+      "rank": 1352,
       "gameId": "119979"
     },
     {
@@ -2128,7 +2111,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1319,
+      "rank": 1353,
       "gameId": "119979"
     },
     {
@@ -2145,7 +2128,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1323,
+      "rank": 1357,
       "gameId": "119979"
     },
     {
@@ -2162,7 +2145,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1324,
+      "rank": 1358,
       "gameId": "119979"
     },
     {
@@ -2179,7 +2162,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1331,
+      "rank": 1366,
       "gameId": "119979"
     },
     {
@@ -2196,7 +2179,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1332,
+      "rank": 1367,
       "gameId": "119979"
     },
     {
@@ -2213,7 +2196,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1333,
+      "rank": 1368,
       "gameId": "119979"
     },
     {
@@ -2230,7 +2213,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1336,
+      "rank": 1371,
       "gameId": "119979"
     },
     {
@@ -2247,7 +2230,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1351,
+      "rank": 1386,
       "gameId": "119979"
     },
     {
@@ -2264,7 +2247,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1352,
+      "rank": 1387,
       "gameId": "119979"
     },
     {
@@ -2281,7 +2264,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1353,
+      "rank": 1388,
       "gameId": "119979"
     },
     {
@@ -2298,7 +2281,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1355,
+      "rank": 1390,
       "gameId": "119979"
     },
     {
@@ -2315,7 +2298,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1368,
+      "rank": 1403,
       "gameId": "119979"
     },
     {
@@ -2332,7 +2315,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1376,
+      "rank": 1414,
       "gameId": "119979"
     },
     {
@@ -2349,7 +2332,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1381,
+      "rank": 1419,
       "gameId": "119979"
     },
     {
@@ -2366,7 +2349,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1382,
+      "rank": 1423,
       "gameId": "119979"
     },
     {
@@ -2383,7 +2366,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1405,
+      "rank": 1447,
       "gameId": "119979"
     },
     {
@@ -2400,7 +2383,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1409,
+      "rank": 1450,
       "gameId": "119979"
     },
     {
@@ -2417,7 +2400,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1411,
+      "rank": 1452,
       "gameId": "119979"
     },
     {
@@ -2434,7 +2417,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1422,
+      "rank": 1464,
       "gameId": "119979"
     },
     {
@@ -2451,12 +2434,12 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1423,
+      "rank": 1465,
       "gameId": "119979"
     },
     {
-      "player": "Isaiah Hartenstein",
-      "stat": "Two Pointers Made",
+      "player": "Alex Caruso",
+      "stat": "Points",
       "line": 3.5,
       "sport": "NBA",
       "startTime": "12/13/25 08:10 PM CST",
@@ -2468,7 +2451,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1431,
+      "rank": 1505,
       "gameId": "119979"
     },
     {
@@ -2485,7 +2468,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1468,
+      "rank": 1509,
       "gameId": "119979"
     },
     {
@@ -2502,7 +2485,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1489,
+      "rank": 1530,
       "gameId": "119979"
     },
     {
@@ -2519,7 +2502,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1497,
+      "rank": 1538,
       "gameId": "119979"
     },
     {
@@ -2536,7 +2519,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1504,
+      "rank": 1545,
       "gameId": "119979"
     },
     {
@@ -2553,7 +2536,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1528,
+      "rank": 1569,
       "gameId": "119979"
     },
     {
@@ -2570,7 +2553,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1530,
+      "rank": 1571,
       "gameId": "119979"
     },
     {
@@ -2587,7 +2570,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1541,
+      "rank": 1589,
       "gameId": "119979"
     },
     {
@@ -2604,7 +2587,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1542,
+      "rank": 1590,
       "gameId": "119979"
     },
     {
@@ -2621,7 +2604,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1552,
+      "rank": 1600,
       "gameId": "119979"
     },
     {
@@ -2638,7 +2621,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1556,
+      "rank": 1605,
       "gameId": "119979"
     },
     {
@@ -2655,7 +2638,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1558,
+      "rank": 1607,
       "gameId": "119979"
     },
     {
@@ -2672,7 +2655,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1586,
+      "rank": 1636,
       "gameId": "119979"
     },
     {
@@ -2689,7 +2672,24 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1592,
+      "rank": 1642,
+      "gameId": "119979"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Turnovers",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 08:10 PM CST",
+      "startTimeCST": "12/13/25 08:10 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1655,
       "gameId": "119979"
     },
     {
@@ -2706,7 +2706,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1607,
+      "rank": 1659,
       "gameId": "119979"
     },
     {
@@ -2723,7 +2723,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1609,
+      "rank": 1661,
       "gameId": "119979"
     },
     {
@@ -2740,7 +2740,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1610,
+      "rank": 1662,
       "gameId": "119979"
     },
     {
@@ -2757,7 +2757,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1613,
+      "rank": 1665,
       "gameId": "119979"
     },
     {
@@ -2774,7 +2774,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1635,
+      "rank": 1702,
       "gameId": "119979"
     },
     {
@@ -2791,7 +2791,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1653,
+      "rank": 1720,
       "gameId": "119979"
     },
     {
@@ -2808,7 +2808,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1655,
+      "rank": 1722,
       "gameId": "119979"
     },
     {
@@ -2825,7 +2825,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1659,
+      "rank": 1727,
       "gameId": "119979"
     },
     {
@@ -2842,7 +2842,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1668,
+      "rank": 1739,
       "gameId": "119979"
     },
     {
@@ -2859,7 +2859,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1674,
+      "rank": 1745,
       "gameId": "119979"
     },
     {
@@ -2876,7 +2876,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1675,
+      "rank": 1746,
       "gameId": "119979"
     },
     {
@@ -2893,7 +2893,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1676,
+      "rank": 1747,
       "gameId": "119979"
     },
     {
@@ -2910,7 +2910,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1677,
+      "rank": 1748,
       "gameId": "119979"
     },
     {
@@ -2927,7 +2927,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1678,
+      "rank": 1749,
       "gameId": "119979"
     }
   ]

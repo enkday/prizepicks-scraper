@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
@@ -9,6 +9,23 @@
   "props": [
     {
       "player": "Miles Bridges",
+      "stat": "Points",
+      "line": 23.5,
+      "sport": "NBA",
+      "startTime": "12/14/25 02:40 PM CST",
+      "startTimeCST": "12/14/25 02:40 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T15:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Charlotte Hornets",
+      "teamCode": "CHA",
+      "Opponent": "Cleveland Cavaliers",
+      "opponentCode": "CLE",
+      "rank": 2093,
+      "gameId": "117152"
+    },
+    {
+      "player": "Brandon Miller",
       "stat": "Points",
       "line": 22.5,
       "sport": "NBA",
@@ -21,24 +38,7 @@
       "teamCode": "CHA",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 2004,
-      "gameId": "117152"
-    },
-    {
-      "player": "Brandon Miller",
-      "stat": "Points",
-      "line": 21.5,
-      "sport": "NBA",
-      "startTime": "12/14/25 02:40 PM CST",
-      "startTimeCST": "12/14/25 02:40 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T15:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Charlotte Hornets",
-      "teamCode": "CHA",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 2005,
+      "rank": 2094,
       "gameId": "117152"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "CHA",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 2019,
+      "rank": 2109,
       "gameId": "117152"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "CHA",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 2061,
+      "rank": 2151,
       "gameId": "117152"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "CHA",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 2065,
+      "rank": 2155,
       "gameId": "117152"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "CHA",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 2081,
+      "rank": 2170,
       "gameId": "117152"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "CHA",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 2083,
+      "rank": 2172,
       "gameId": "117152"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "CHA",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 2111,
+      "rank": 2200,
       "gameId": "117152"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "CHA",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 2128,
+      "rank": 2217,
       "gameId": "117152"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5464,
+      "rank": 5488,
       "gameId": "113994"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5508,
+      "rank": 5532,
       "gameId": "113994"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5509,
+      "rank": 5533,
       "gameId": "113994"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5533,
+      "rank": 5557,
       "gameId": "113994"
     },
     {
@@ -89,13 +89,13 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5534,
+      "rank": 5558,
       "gameId": "113994"
     },
     {
       "player": "Jordan Mason",
       "stat": "Rush Yards",
-      "line": 34.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "12/14/25 07:20 PM CST",
       "startTimeCST": "12/14/25 07:20 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5555,
+      "rank": 5577,
       "gameId": "113994"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5560,
+      "rank": 5584,
       "gameId": "113994"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5585,
+      "rank": 5609,
       "gameId": "113994"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5593,
+      "rank": 5617,
       "gameId": "113994"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5603,
+      "rank": 5627,
       "gameId": "113994"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5605,
+      "rank": 5629,
       "gameId": "113994"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5629,
+      "rank": 5653,
       "gameId": "113994"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5630,
+      "rank": 5654,
       "gameId": "113994"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5634,
+      "rank": 5658,
       "gameId": "113994"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5635,
+      "rank": 5659,
       "gameId": "113994"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5658,
+      "rank": 5682,
       "gameId": "113994"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5659,
+      "rank": 5683,
       "gameId": "113994"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5661,
+      "rank": 5685,
       "gameId": "113994"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5662,
+      "rank": 5686,
       "gameId": "113994"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5663,
+      "rank": 5687,
       "gameId": "113994"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5669,
+      "rank": 5693,
       "gameId": "113994"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5692,
+      "rank": 5716,
       "gameId": "113994"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5695,
+      "rank": 5719,
       "gameId": "113994"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5708,
+      "rank": 5732,
       "gameId": "113994"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5718,
+      "rank": 5742,
       "gameId": "113994"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5721,
+      "rank": 5745,
       "gameId": "113994"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5730,
+      "rank": 5754,
       "gameId": "113994"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5735,
+      "rank": 5759,
       "gameId": "113994"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5736,
+      "rank": 5760,
       "gameId": "113994"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5739,
+      "rank": 5763,
       "gameId": "113994"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5740,
+      "rank": 5764,
       "gameId": "113994"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5756,
+      "rank": 5780,
       "gameId": "113994"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5762,
+      "rank": 5786,
       "gameId": "113994"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5791,
+      "rank": 5815,
       "gameId": "113994"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "MIN",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5792,
+      "rank": 5816,
       "gameId": "113994"
     }
   ]

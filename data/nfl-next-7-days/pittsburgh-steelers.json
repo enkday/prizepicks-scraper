@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5858,
+      "rank": 5882,
       "gameId": "114160"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5902,
+      "rank": 5926,
       "gameId": "114160"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5913,
+      "rank": 5937,
       "gameId": "114160"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5914,
+      "rank": 5938,
       "gameId": "114160"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5952,
+      "rank": 5976,
       "gameId": "114160"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5954,
+      "rank": 5978,
       "gameId": "114160"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5984,
+      "rank": 6008,
       "gameId": "114160"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5989,
+      "rank": 6014,
       "gameId": "114160"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5991,
+      "rank": 6015,
       "gameId": "114160"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5992,
+      "rank": 6016,
       "gameId": "114160"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6029,
+      "rank": 6053,
       "gameId": "114160"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6047,
+      "rank": 6071,
       "gameId": "114160"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6049,
+      "rank": 6073,
       "gameId": "114160"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6050,
+      "rank": 6074,
       "gameId": "114160"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6054,
+      "rank": 6078,
       "gameId": "114160"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6059,
+      "rank": 6083,
       "gameId": "114160"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6060,
+      "rank": 6084,
       "gameId": "114160"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6061,
+      "rank": 6085,
       "gameId": "114160"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6067,
+      "rank": 6091,
       "gameId": "114160"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6080,
+      "rank": 6104,
       "gameId": "114160"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6084,
+      "rank": 6108,
       "gameId": "114160"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6086,
+      "rank": 6110,
       "gameId": "114160"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6112,
+      "rank": 6136,
       "gameId": "114160"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6114,
+      "rank": 6138,
       "gameId": "114160"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6132,
+      "rank": 6156,
       "gameId": "114160"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6147,
+      "rank": 6171,
       "gameId": "114160"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6158,
+      "rank": 6182,
       "gameId": "114160"
     }
   ]

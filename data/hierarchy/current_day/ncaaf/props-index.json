@@ -2,21 +2,9 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 5,
-  "propCount": 47,
+  "gameCount": 4,
+  "propCount": 41,
   "games": [
-    {
-      "gameId": "120313",
-      "slate": "Early",
-      "startTime": "12/13/25 11:00 AM CST",
-      "startTimeIso": "2025-12-13T12:00:00.000-05:00",
-      "teams": [
-        "Tarleton State Texans",
-        "Villanova Wildcats"
-      ],
-      "propCount": 6,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/120313.json"
-    },
     {
       "gameId": "113529",
       "slate": "Early",
@@ -69,7 +57,7 @@
   "slates": [
     {
       "slate": "early",
-      "propCount": 30,
+      "propCount": 24,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
     },
     {

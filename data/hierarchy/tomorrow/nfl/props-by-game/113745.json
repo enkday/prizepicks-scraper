@@ -256,7 +256,7 @@
     "gameId": "113745",
     "playerId": "new-england-patriots_drake-maye_391b9518",
     "stat": "Pass Yards",
-    "line": 233.5,
+    "line": 236.5,
     "teamCode": "new-england-patriots",
     "opponentCode": "buffalo-bills",
     "oddsType": "standard",
@@ -340,7 +340,7 @@
     "gameId": "113745",
     "playerId": "new-england-patriots_treveyon-henderson_38034565",
     "stat": "Rush Yards",
-    "line": 45.5,
+    "line": 46.5,
     "teamCode": "new-england-patriots",
     "opponentCode": "buffalo-bills",
     "oddsType": "standard",
@@ -448,6 +448,20 @@
     "dayBranch": "tomorrow"
   },
   {
+    "propId": "113745_new-england-patriots_kayshon-boutte_29119b75_receiving-yards",
+    "gameId": "113745",
+    "playerId": "new-england-patriots_kayshon-boutte_29119b75",
+    "stat": "Receiving Yards",
+    "line": 30.5,
+    "teamCode": "new-england-patriots",
+    "opponentCode": "buffalo-bills",
+    "oddsType": "standard",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
     "propId": "113745_new-england-patriots_drake-maye_391b9518_pass-attempts",
     "gameId": "113745",
     "playerId": "new-england-patriots_drake-maye_391b9518",
@@ -476,25 +490,11 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113745_new-england-patriots_kayshon-boutte_29119b75_receiving-yards",
-    "gameId": "113745",
-    "playerId": "new-england-patriots_kayshon-boutte_29119b75",
-    "stat": "Receiving Yards",
-    "line": 29.5,
-    "teamCode": "new-england-patriots",
-    "opponentCode": "buffalo-bills",
-    "oddsType": "standard",
-    "sport": "NFL",
-    "startTime": "12/14/25 12:00 PM CST",
-    "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
     "propId": "113745_new-england-patriots_mack-hollins_be99a479_receiving-yards",
     "gameId": "113745",
     "playerId": "new-england-patriots_mack-hollins_be99a479",
     "stat": "Receiving Yards",
-    "line": 28.5,
+    "line": 27.5,
     "teamCode": "new-england-patriots",
     "opponentCode": "buffalo-bills",
     "oddsType": "standard",
@@ -546,11 +546,11 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113745_buffalo-bills_gabe-davis_ea344057_receiving-yards",
+    "propId": "113745_buffalo-bills_dalton-kincaid_10fb04c4_longest-reception",
     "gameId": "113745",
-    "playerId": "buffalo-bills_gabe-davis_ea344057",
-    "stat": "Receiving Yards",
-    "line": 20.5,
+    "playerId": "buffalo-bills_dalton-kincaid_10fb04c4",
+    "stat": "Longest Reception",
+    "line": 19.5,
     "teamCode": "buffalo-bills",
     "opponentCode": "new-england-patriots",
     "oddsType": "standard",
@@ -560,9 +560,9 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113745_buffalo-bills_dalton-kincaid_10fb04c4_longest-reception",
+    "propId": "113745_buffalo-bills_khalil-shakir_6dfc11c0_longest-reception",
     "gameId": "113745",
-    "playerId": "buffalo-bills_dalton-kincaid_10fb04c4",
+    "playerId": "buffalo-bills_khalil-shakir_6dfc11c0",
     "stat": "Longest Reception",
     "line": 19.5,
     "teamCode": "buffalo-bills",
@@ -602,11 +602,11 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113745_buffalo-bills_james-cook_29be5394_rush-attempts",
+    "propId": "113745_buffalo-bills_gabe-davis_ea344057_receiving-yards",
     "gameId": "113745",
-    "playerId": "buffalo-bills_james-cook_29be5394",
-    "stat": "Rush Attempts",
-    "line": 18.5,
+    "playerId": "buffalo-bills_gabe-davis_ea344057",
+    "stat": "Receiving Yards",
+    "line": 19.5,
     "teamCode": "buffalo-bills",
     "opponentCode": "new-england-patriots",
     "oddsType": "standard",
@@ -616,10 +616,10 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113745_buffalo-bills_khalil-shakir_6dfc11c0_longest-reception",
+    "propId": "113745_buffalo-bills_james-cook_29be5394_rush-attempts",
     "gameId": "113745",
-    "playerId": "buffalo-bills_khalil-shakir_6dfc11c0",
-    "stat": "Longest Reception",
+    "playerId": "buffalo-bills_james-cook_29be5394",
+    "stat": "Rush Attempts",
     "line": 18.5,
     "teamCode": "buffalo-bills",
     "opponentCode": "new-england-patriots",

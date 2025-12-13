@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "San Antonio Spurs",
-  "totalProps": 39,
+  "totalProps": 41,
   "props": [
     {
       "player": "De'Aaron Fox",
@@ -21,7 +21,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 970,
+      "rank": 993,
       "gameId": "119979"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1008,
+      "rank": 1031,
       "gameId": "119979"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1026,
+      "rank": 1049,
       "gameId": "119979"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1033,
+      "rank": 1055,
       "gameId": "119979"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1115,
+      "rank": 1136,
       "gameId": "119979"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1134,
+      "rank": 1157,
       "gameId": "119979"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1145,
+      "rank": 1168,
       "gameId": "119979"
     },
     {
@@ -140,7 +140,24 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1152,
+      "rank": 1176,
+      "gameId": "119979"
+    },
+    {
+      "player": "Dylan Harper",
+      "stat": "Points",
+      "line": 9.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 08:10 PM CST",
+      "startTimeCST": "12/13/25 08:10 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1196,
       "gameId": "119979"
     },
     {
@@ -157,7 +174,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1182,
+      "rank": 1206,
       "gameId": "119979"
     },
     {
@@ -174,7 +191,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1211,
+      "rank": 1238,
       "gameId": "119979"
     },
     {
@@ -191,7 +208,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1222,
+      "rank": 1250,
       "gameId": "119979"
     },
     {
@@ -208,7 +225,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1224,
+      "rank": 1253,
       "gameId": "119979"
     },
     {
@@ -225,7 +242,24 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1227,
+      "rank": 1256,
+      "gameId": "119979"
+    },
+    {
+      "player": "Julian Champagnie",
+      "stat": "Points",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/13/25 08:10 PM CST",
+      "startTimeCST": "12/13/25 08:10 PM CST",
+      "startDateCST": "2025-12-13",
+      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1277,
       "gameId": "119979"
     },
     {
@@ -242,7 +276,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1318,
+      "rank": 1352,
       "gameId": "119979"
     },
     {
@@ -259,7 +293,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1319,
+      "rank": 1353,
       "gameId": "119979"
     },
     {
@@ -276,7 +310,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1324,
+      "rank": 1358,
       "gameId": "119979"
     },
     {
@@ -293,7 +327,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1331,
+      "rank": 1366,
       "gameId": "119979"
     },
     {
@@ -310,7 +344,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1333,
+      "rank": 1368,
       "gameId": "119979"
     },
     {
@@ -327,7 +361,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1352,
+      "rank": 1387,
       "gameId": "119979"
     },
     {
@@ -344,7 +378,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1353,
+      "rank": 1388,
       "gameId": "119979"
     },
     {
@@ -361,7 +395,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1355,
+      "rank": 1390,
       "gameId": "119979"
     },
     {
@@ -378,7 +412,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1376,
+      "rank": 1414,
       "gameId": "119979"
     },
     {
@@ -395,7 +429,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1381,
+      "rank": 1419,
       "gameId": "119979"
     },
     {
@@ -412,7 +446,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1409,
+      "rank": 1450,
       "gameId": "119979"
     },
     {
@@ -429,7 +463,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1411,
+      "rank": 1452,
       "gameId": "119979"
     },
     {
@@ -446,7 +480,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1422,
+      "rank": 1464,
       "gameId": "119979"
     },
     {
@@ -463,7 +497,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1504,
+      "rank": 1545,
       "gameId": "119979"
     },
     {
@@ -480,7 +514,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1530,
+      "rank": 1571,
       "gameId": "119979"
     },
     {
@@ -497,7 +531,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1541,
+      "rank": 1589,
       "gameId": "119979"
     },
     {
@@ -514,7 +548,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1552,
+      "rank": 1600,
       "gameId": "119979"
     },
     {
@@ -531,7 +565,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1558,
+      "rank": 1607,
       "gameId": "119979"
     },
     {
@@ -548,7 +582,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1592,
+      "rank": 1642,
       "gameId": "119979"
     },
     {
@@ -565,7 +599,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1653,
+      "rank": 1720,
       "gameId": "119979"
     },
     {
@@ -582,7 +616,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1655,
+      "rank": 1722,
       "gameId": "119979"
     },
     {
@@ -599,7 +633,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1659,
+      "rank": 1727,
       "gameId": "119979"
     },
     {
@@ -616,7 +650,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1674,
+      "rank": 1745,
       "gameId": "119979"
     },
     {
@@ -633,7 +667,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1675,
+      "rank": 1746,
       "gameId": "119979"
     },
     {
@@ -650,7 +684,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1677,
+      "rank": 1748,
       "gameId": "119979"
     },
     {
@@ -667,7 +701,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1678,
+      "rank": 1749,
       "gameId": "119979"
     }
   ]

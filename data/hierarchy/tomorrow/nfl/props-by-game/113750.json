@@ -154,20 +154,6 @@
     "dayBranch": "tomorrow"
   },
   {
-    "propId": "113750_carolina-panthers_jalen-coker_9aa945e5_receiving-yards",
-    "gameId": "113750",
-    "playerId": "carolina-panthers_jalen-coker_9aa945e5",
-    "stat": "Receiving Yards",
-    "line": 36.5,
-    "teamCode": "carolina-panthers",
-    "opponentCode": "new-orleans-saints",
-    "oddsType": "standard",
-    "sport": "NFL",
-    "startTime": "12/14/25 03:25 PM CST",
-    "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
     "propId": "113750_new-orleans-saints_tyler-shough_0c2da58a_longest-completion",
     "gameId": "113750",
     "playerId": "new-orleans-saints_tyler-shough_0c2da58a",
@@ -175,6 +161,20 @@
     "line": 33.5,
     "teamCode": "new-orleans-saints",
     "opponentCode": "carolina-panthers",
+    "oddsType": "standard",
+    "sport": "NFL",
+    "startTime": "12/14/25 03:25 PM CST",
+    "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "propId": "113750_carolina-panthers_jalen-coker_9aa945e5_receiving-yards",
+    "gameId": "113750",
+    "playerId": "carolina-panthers_jalen-coker_9aa945e5",
+    "stat": "Receiving Yards",
+    "line": 32.5,
+    "teamCode": "carolina-panthers",
+    "opponentCode": "new-orleans-saints",
     "oddsType": "standard",
     "sport": "NFL",
     "startTime": "12/14/25 03:25 PM CST",

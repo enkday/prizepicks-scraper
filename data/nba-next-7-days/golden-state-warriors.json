@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-13T17:09:03.820Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:09 PM UTC",
+  "scrapedAt": "2025-12-13T17:51:36.536Z",
+  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -10,7 +10,7 @@
     {
       "player": "Stephen Curry",
       "stat": "Points",
-      "line": 26.5,
+      "line": 27.5,
       "sport": "NBA",
       "startTime": "12/14/25 08:10 PM CST",
       "startTimeCST": "12/14/25 08:10 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3777,
+      "rank": 3869,
       "gameId": "117156"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3808,
+      "rank": 3900,
       "gameId": "117156"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3855,
+      "rank": 3948,
       "gameId": "117156"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3879,
+      "rank": 3972,
       "gameId": "117156"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3899,
+      "rank": 3992,
       "gameId": "117156"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3907,
+      "rank": 4000,
       "gameId": "117156"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3908,
+      "rank": 4001,
       "gameId": "117156"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "GSW",
       "Opponent": "Portland Trail Blazers",
       "opponentCode": "POR",
-      "rank": 3944,
+      "rank": 4037,
       "gameId": "117156"
     }
   ]

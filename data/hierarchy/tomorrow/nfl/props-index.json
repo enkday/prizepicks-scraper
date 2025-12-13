@@ -3,7 +3,7 @@
   "sportSlug": "nfl",
   "dayBranch": "tomorrow",
   "gameCount": 14,
-  "propCount": 1037,
+  "propCount": 1068,
   "games": [
     {
       "gameId": "113741",
@@ -26,7 +26,7 @@
         "Cincinnati Bengals",
         "Baltimore Ravens"
       ],
-      "propCount": 95,
+      "propCount": 96,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/113742.json"
     },
     {
@@ -50,7 +50,7 @@
         "Jacksonville Jaguars",
         "New York Jets"
       ],
-      "propCount": 62,
+      "propCount": 63,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/113744.json"
     },
     {
@@ -74,7 +74,7 @@
         "Arizona Cardinals",
         "Houston Texans"
       ],
-      "propCount": 66,
+      "propCount": 72,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/113746.json"
     },
     {
@@ -98,7 +98,7 @@
         "Chicago Bears",
         "Cleveland Browns"
       ],
-      "propCount": 60,
+      "propCount": 84,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/113748.json"
     },
     {
@@ -158,7 +158,7 @@
         "San Francisco 49ers",
         "Tennessee Titans"
       ],
-      "propCount": 72,
+      "propCount": 71,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/113753.json"
     },
     {
@@ -177,12 +177,12 @@
   "slates": [
     {
       "slate": "early",
-      "propCount": 607,
+      "propCount": 639,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/early.json"
     },
     {
       "slate": "late",
-      "propCount": 430,
+      "propCount": 429,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
     }
   ]
