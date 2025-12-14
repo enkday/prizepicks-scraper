@@ -1,12 +1,29 @@
 {
-  "scrapedAt": "2025-12-13T17:51:36.536Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
+  "scrapedAt": "2025-12-14T12:26:33.820Z",
+  "scrapedDate": "Sunday, December 14, 2025 at 12:26 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Pittsburgh Steelers",
-  "totalProps": 27,
+  "totalProps": 28,
   "props": [
+    {
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 6312,
+      "gameId": "114160"
+    },
     {
       "player": "Aaron Rodgers",
       "stat": "Pass Yards",
@@ -21,7 +38,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5882,
+      "rank": 6332,
       "gameId": "114160"
     },
     {
@@ -38,7 +55,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5926,
+      "rank": 6378,
       "gameId": "114160"
     },
     {
@@ -55,7 +72,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5937,
+      "rank": 6393,
       "gameId": "114160"
     },
     {
@@ -72,13 +89,13 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5938,
+      "rank": 6394,
       "gameId": "114160"
     },
     {
       "player": "Aaron Rodgers",
       "stat": "Longest Completion",
-      "line": 33.5,
+      "line": 34.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -89,7 +106,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5976,
+      "rank": 6431,
       "gameId": "114160"
     },
     {
@@ -106,7 +123,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5978,
+      "rank": 6434,
       "gameId": "114160"
     },
     {
@@ -123,7 +140,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6008,
+      "rank": 6464,
       "gameId": "114160"
     },
     {
@@ -140,7 +157,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6014,
+      "rank": 6470,
       "gameId": "114160"
     },
     {
@@ -157,7 +174,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6015,
+      "rank": 6472,
       "gameId": "114160"
     },
     {
@@ -174,7 +191,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6016,
+      "rank": 6473,
       "gameId": "114160"
     },
     {
@@ -191,7 +208,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6053,
+      "rank": 6510,
       "gameId": "114160"
     },
     {
@@ -208,24 +225,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6071,
-      "gameId": "114160"
-    },
-    {
-      "player": "Adam Thielen",
-      "stat": "Receiving Yards",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/15/25 07:15 PM CST",
-      "startTimeCST": "12/15/25 07:15 PM CST",
-      "startDateCST": "2025-12-15",
-      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 6073,
+      "rank": 6528,
       "gameId": "114160"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6074,
+      "rank": 6530,
       "gameId": "114160"
     },
     {
@@ -259,7 +259,24 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6078,
+      "rank": 6534,
+      "gameId": "114160"
+    },
+    {
+      "player": "Adam Thielen",
+      "stat": "Receiving Yards",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 6535,
       "gameId": "114160"
     },
     {
@@ -276,7 +293,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6083,
+      "rank": 6541,
       "gameId": "114160"
     },
     {
@@ -293,7 +310,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6084,
+      "rank": 6542,
       "gameId": "114160"
     },
     {
@@ -310,24 +327,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6085,
-      "gameId": "114160"
-    },
-    {
-      "player": "Adam Thielen",
-      "stat": "Longest Reception",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/15/25 07:15 PM CST",
-      "startTimeCST": "12/15/25 07:15 PM CST",
-      "startDateCST": "2025-12-15",
-      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 6091,
+      "rank": 6544,
       "gameId": "114160"
     },
     {
@@ -344,7 +344,24 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6104,
+      "rank": 6562,
+      "gameId": "114160"
+    },
+    {
+      "player": "Adam Thielen",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 6565,
       "gameId": "114160"
     },
     {
@@ -361,7 +378,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6108,
+      "rank": 6569,
       "gameId": "114160"
     },
     {
@@ -378,7 +395,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6110,
+      "rank": 6571,
       "gameId": "114160"
     },
     {
@@ -395,7 +412,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6136,
+      "rank": 6599,
       "gameId": "114160"
     },
     {
@@ -412,7 +429,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6138,
+      "rank": 6601,
       "gameId": "114160"
     },
     {
@@ -429,7 +446,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6156,
+      "rank": 6619,
       "gameId": "114160"
     },
     {
@@ -446,7 +463,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6171,
+      "rank": 6640,
       "gameId": "114160"
     },
     {
@@ -463,7 +480,7 @@
       "teamCode": "PIT",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6182,
+      "rank": 6651,
       "gameId": "114160"
     }
   ]

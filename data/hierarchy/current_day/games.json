@@ -1,66 +1,242 @@
 [
   {
-    "gameId": "119503",
+    "gameId": "117151",
     "sport": "NBA",
-    "startTime": "12/13/25 04:40 PM CST",
+    "startTime": "12/14/25 02:10 PM CST",
     "teams": [
-      "New York Knicks",
-      "Orlando Magic"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day"
-  },
-  {
-    "gameId": "119979",
-    "sport": "NBA",
-    "startTime": "12/13/25 08:10 PM CST",
-    "teams": [
-      "Oklahoma City Thunder",
-      "San Antonio Spurs"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day"
-  },
-  {
-    "gameId": "113529",
-    "sport": "NCAAF",
-    "startTime": "12/13/25 02:00 PM CST",
-    "teams": [
-      "Army Black Knights",
-      "Navy Midshipmen"
+      "Indiana Pacers",
+      "Washington Wizards"
     ],
     "slate": "Early",
     "dayBranch": "current_day"
   },
   {
-    "gameId": "118953",
-    "sport": "NCAAF",
-    "startTime": "12/13/25 02:30 PM CST",
+    "gameId": "117152",
+    "sport": "NBA",
+    "startTime": "12/14/25 02:40 PM CST",
     "teams": [
-      "Montana Grizzlies",
-      "South Dakota Coyotes"
+      "Cleveland Cavaliers",
+      "Charlotte Hornets"
     ],
     "slate": "Early",
     "dayBranch": "current_day"
   },
   {
-    "gameId": "120312",
-    "sport": "NCAAF",
-    "startTime": "12/13/25 04:00 PM CST",
+    "gameId": "117154",
+    "sport": "NBA",
+    "startTime": "12/14/25 05:10 PM CST",
     "teams": [
-      "Illinois State Redbirds",
-      "UC Davis Aggies"
+      "Brooklyn Nets",
+      "Milwaukee Bucks"
     ],
     "slate": "Late",
     "dayBranch": "current_day"
   },
   {
-    "gameId": "119007",
-    "sport": "NCAAF",
-    "startTime": "12/13/25 07:00 PM CST",
+    "gameId": "117153",
+    "sport": "NBA",
+    "startTime": "12/14/25 05:10 PM CST",
     "teams": [
-      "Washington Huskies",
-      "Boise State Broncos"
+      "Philadelphia 76ers",
+      "Atlanta Hawks"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "117158",
+    "sport": "NBA",
+    "startTime": "12/14/25 06:10 PM CST",
+    "teams": [
+      "Chicago Bulls",
+      "New Orleans Pelicans"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "117155",
+    "sport": "NBA",
+    "startTime": "12/14/25 06:10 PM CST",
+    "teams": [
+      "Minnesota Timberwolves",
+      "Sacramento Kings"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "119980",
+    "sport": "NBA",
+    "startTime": "12/14/25 07:10 PM CST",
+    "teams": [
+      "Los Angeles Lakers",
+      "Phoenix Suns"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "117156",
+    "sport": "NBA",
+    "startTime": "12/14/25 08:10 PM CST",
+    "teams": [
+      "Golden State Warriors",
+      "Portland Trail Blazers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113742",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "teams": [
+      "Cincinnati Bengals",
+      "Baltimore Ravens"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113747",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "teams": [
+      "Washington Commanders",
+      "New York Giants"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113748",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "teams": [
+      "Chicago Bears",
+      "Cleveland Browns"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113745",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "teams": [
+      "New England Patriots",
+      "Buffalo Bills"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113743",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "teams": [
+      "Kansas City Chiefs",
+      "Los Angeles Chargers"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113746",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "teams": [
+      "Arizona Cardinals",
+      "Houston Texans"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113741",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "teams": [
+      "Philadelphia Eagles",
+      "Las Vegas Raiders"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113744",
+    "sport": "NFL",
+    "startTime": "12/14/25 12:00 PM CST",
+    "teams": [
+      "Jacksonville Jaguars",
+      "New York Jets"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113751",
+    "sport": "NFL",
+    "startTime": "12/14/25 03:25 PM CST",
+    "teams": [
+      "Los Angeles Rams",
+      "Detroit Lions"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113750",
+    "sport": "NFL",
+    "startTime": "12/14/25 03:25 PM CST",
+    "teams": [
+      "New Orleans Saints",
+      "Carolina Panthers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113753",
+    "sport": "NFL",
+    "startTime": "12/14/25 03:25 PM CST",
+    "teams": [
+      "San Francisco 49ers",
+      "Tennessee Titans"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113752",
+    "sport": "NFL",
+    "startTime": "12/14/25 03:25 PM CST",
+    "teams": [
+      "Seattle Seahawks",
+      "Indianapolis Colts"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113749",
+    "sport": "NFL",
+    "startTime": "12/14/25 03:25 PM CST",
+    "teams": [
+      "Green Bay Packers",
+      "Denver Broncos"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "113994",
+    "sport": "NFL",
+    "startTime": "12/14/25 07:20 PM CST",
+    "teams": [
+      "Dallas Cowboys",
+      "Minnesota Vikings"
     ],
     "slate": "Late",
     "dayBranch": "current_day"

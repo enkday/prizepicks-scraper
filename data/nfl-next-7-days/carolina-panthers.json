@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-13T17:51:36.536Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
+  "scrapedAt": "2025-12-14T12:26:33.820Z",
+  "scrapedDate": "Sunday, December 14, 2025 at 12:26 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Carolina Panthers",
-  "totalProps": 37,
+  "totalProps": 38,
   "props": [
     {
-      "player": "Bryce Young",
-      "stat": "Pass Yards",
-      "line": 192.5,
+      "player": "Rico Dowdle",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 20.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -21,7 +21,41 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3908,
+      "rank": 3669,
+      "gameId": "113750"
+    },
+    {
+      "player": "Bryce Young",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 3675,
+      "gameId": "113750"
+    },
+    {
+      "player": "Bryce Young",
+      "stat": "Pass Yards",
+      "line": 195.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 4180,
       "gameId": "113750"
     },
     {
@@ -38,7 +72,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3952,
+      "rank": 4228,
       "gameId": "113750"
     },
     {
@@ -55,7 +89,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3962,
+      "rank": 4238,
       "gameId": "113750"
     },
     {
@@ -72,13 +106,13 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3963,
+      "rank": 4239,
       "gameId": "113750"
     },
     {
       "player": "Chuba Hubbard",
       "stat": "Rush Yards",
-      "line": 44.5,
+      "line": 45.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -89,12 +123,29 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3981,
+      "rank": 4256,
       "gameId": "113750"
     },
     {
       "player": "Jalen Coker",
       "stat": "Receiving Yards",
+      "line": 34.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 4278,
+      "gameId": "113750"
+    },
+    {
+      "player": "Bryce Young",
+      "stat": "Longest Completion",
       "line": 32.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
@@ -106,24 +157,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4007,
-      "gameId": "113750"
-    },
-    {
-      "player": "Bryce Young",
-      "stat": "Longest Completion",
-      "line": 31.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 4008,
+      "rank": 4283,
       "gameId": "113750"
     },
     {
@@ -140,7 +174,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4010,
+      "rank": 4285,
       "gameId": "113750"
     },
     {
@@ -157,13 +191,13 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4052,
+      "rank": 4326,
       "gameId": "113750"
     },
     {
       "player": "Xavier Legette",
       "stat": "Receiving Yards",
-      "line": 20.5,
+      "line": 19.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -174,7 +208,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4056,
+      "rank": 4339,
       "gameId": "113750"
     },
     {
@@ -191,7 +225,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4084,
+      "rank": 4358,
       "gameId": "113750"
     },
     {
@@ -208,7 +242,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4087,
+      "rank": 4361,
       "gameId": "113750"
     },
     {
@@ -225,7 +259,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4110,
+      "rank": 4383,
       "gameId": "113750"
     },
     {
@@ -242,7 +276,41 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4111,
+      "rank": 4384,
+      "gameId": "113750"
+    },
+    {
+      "player": "Chuba Hubbard",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 4386,
+      "gameId": "113750"
+    },
+    {
+      "player": "Ja'Tavion Sanders",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 03:25 PM CST",
+      "startTimeCST": "12/14/25 03:25 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 4387,
       "gameId": "113750"
     },
     {
@@ -259,7 +327,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4115,
+      "rank": 4389,
       "gameId": "113750"
     },
     {
@@ -276,12 +344,12 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4120,
+      "rank": 4392,
       "gameId": "113750"
     },
     {
       "player": "Chuba Hubbard",
-      "stat": "Receiving Yards",
+      "stat": "Rush Attempts",
       "line": 11.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
@@ -293,13 +361,13 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4122,
+      "rank": 4394,
       "gameId": "113750"
     },
     {
-      "player": "Ja'Tavion Sanders",
-      "stat": "Receiving Yards",
-      "line": 11.5,
+      "player": "Chuba Hubbard",
+      "stat": "Longest Rush",
+      "line": 10.5,
       "sport": "NFL",
       "startTime": "12/14/25 03:25 PM CST",
       "startTimeCST": "12/14/25 03:25 PM CST",
@@ -310,7 +378,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4123,
+      "rank": 4396,
       "gameId": "113750"
     },
     {
@@ -327,41 +395,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4125,
-      "gameId": "113750"
-    },
-    {
-      "player": "Chuba Hubbard",
-      "stat": "Rush Attempts",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 4126,
-      "gameId": "113750"
-    },
-    {
-      "player": "Chuba Hubbard",
-      "stat": "Longest Rush",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 4130,
+      "rank": 4399,
       "gameId": "113750"
     },
     {
@@ -378,7 +412,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4146,
+      "rank": 4419,
       "gameId": "113750"
     },
     {
@@ -395,7 +429,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4148,
+      "rank": 4421,
       "gameId": "113750"
     },
     {
@@ -412,7 +446,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4149,
+      "rank": 4423,
       "gameId": "113750"
     },
     {
@@ -429,7 +463,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4153,
+      "rank": 4428,
       "gameId": "113750"
     },
     {
@@ -446,24 +480,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4157,
-      "gameId": "113750"
-    },
-    {
-      "player": "Ryan Fitzgerald",
-      "stat": "Kicking Points",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeCST": "12/14/25 03:25 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 4159,
+      "rank": 4432,
       "gameId": "113750"
     },
     {
@@ -480,7 +497,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4178,
+      "rank": 4455,
       "gameId": "113750"
     },
     {
@@ -497,7 +514,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4183,
+      "rank": 4460,
       "gameId": "113750"
     },
     {
@@ -514,7 +531,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4214,
+      "rank": 4490,
       "gameId": "113750"
     },
     {
@@ -531,7 +548,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4217,
+      "rank": 4493,
       "gameId": "113750"
     },
     {
@@ -548,7 +565,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4235,
+      "rank": 4512,
       "gameId": "113750"
     },
     {
@@ -565,7 +582,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4238,
+      "rank": 4515,
       "gameId": "113750"
     },
     {
@@ -582,7 +599,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4239,
+      "rank": 4516,
       "gameId": "113750"
     },
     {
@@ -599,7 +616,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4241,
+      "rank": 4518,
       "gameId": "113750"
     },
     {
@@ -616,7 +633,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4249,
+      "rank": 4526,
       "gameId": "113750"
     },
     {
@@ -633,7 +650,7 @@
       "teamCode": "CAR",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4255,
+      "rank": 4532,
       "gameId": "113750"
     }
   ]

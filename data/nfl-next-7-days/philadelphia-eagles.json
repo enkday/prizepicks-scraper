@@ -1,12 +1,46 @@
 {
-  "scrapedAt": "2025-12-13T17:51:36.536Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
+  "scrapedAt": "2025-12-14T12:26:33.820Z",
+  "scrapedDate": "Sunday, December 14, 2025 at 12:26 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Philadelphia Eagles",
-  "totalProps": 37,
+  "totalProps": 40,
   "props": [
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 23.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 36,
+      "gameId": "113741"
+    },
+    {
+      "player": "Jalen Hurts",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 40,
+      "gameId": "113741"
+    },
     {
       "player": "Jalen Hurts",
       "stat": "Pass Yards",
@@ -21,13 +55,13 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1431,
+      "rank": 1511,
       "gameId": "113741"
     },
     {
       "player": "Saquon Barkley",
       "stat": "Rush Yards",
-      "line": 77.5,
+      "line": 82.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -38,13 +72,13 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1466,
+      "rank": 1543,
       "gameId": "113741"
     },
     {
       "player": "A.J. Brown",
       "stat": "Receiving Yards",
-      "line": 64.5,
+      "line": 65.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -55,7 +89,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1474,
+      "rank": 1556,
       "gameId": "113741"
     },
     {
@@ -72,13 +106,13 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1475,
+      "rank": 1563,
       "gameId": "113741"
     },
     {
       "player": "DeVonta Smith",
       "stat": "Receiving Yards",
-      "line": 53.5,
+      "line": 52.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -89,7 +123,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1487,
+      "rank": 1575,
       "gameId": "113741"
     },
     {
@@ -106,7 +140,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1516,
+      "rank": 1604,
       "gameId": "113741"
     },
     {
@@ -123,7 +157,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1520,
+      "rank": 1608,
       "gameId": "113741"
     },
     {
@@ -140,7 +174,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1546,
+      "rank": 1635,
       "gameId": "113741"
     },
     {
@@ -157,7 +191,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1547,
+      "rank": 1636,
       "gameId": "113741"
     },
     {
@@ -174,7 +208,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1562,
+      "rank": 1652,
       "gameId": "113741"
     },
     {
@@ -191,7 +225,24 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1566,
+      "rank": 1655,
+      "gameId": "113741"
+    },
+    {
+      "player": "Saquon Barkley",
+      "stat": "Rush Attempts",
+      "line": 19,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 1682,
       "gameId": "113741"
     },
     {
@@ -208,24 +259,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1592,
-      "gameId": "113741"
-    },
-    {
-      "player": "Saquon Barkley",
-      "stat": "Rush Attempts",
-      "line": 18,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 1595,
+      "rank": 1685,
       "gameId": "113741"
     },
     {
@@ -242,13 +276,13 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1596,
+      "rank": 1688,
       "gameId": "113741"
     },
     {
       "player": "Dallas Goedert",
       "stat": "Longest Reception",
-      "line": 14.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -259,7 +293,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1604,
+      "rank": 1694,
       "gameId": "113741"
     },
     {
@@ -276,13 +310,13 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1605,
+      "rank": 1698,
       "gameId": "113741"
     },
     {
       "player": "Jalen Hurts",
       "stat": "Longest Rush",
-      "line": 11.5,
+      "line": 12.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -293,7 +327,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1627,
+      "rank": 1717,
       "gameId": "113741"
     },
     {
@@ -310,7 +344,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1632,
+      "rank": 1726,
       "gameId": "113741"
     },
     {
@@ -327,41 +361,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1647,
-      "gameId": "113741"
-    },
-    {
-      "player": "Jahan Dotson",
-      "stat": "Longest Reception",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 1648,
-      "gameId": "113741"
-    },
-    {
-      "player": "Jahan Dotson",
-      "stat": "Receiving Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 1649,
+      "rank": 1739,
       "gameId": "113741"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1651,
+      "rank": 1744,
       "gameId": "113741"
     },
     {
@@ -395,7 +395,24 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1652,
+      "rank": 1746,
+      "gameId": "113741"
+    },
+    {
+      "player": "Jahan Dotson",
+      "stat": "Receiving Yards",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 1749,
       "gameId": "113741"
     },
     {
@@ -412,7 +429,24 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1657,
+      "rank": 1752,
+      "gameId": "113741"
+    },
+    {
+      "player": "Jahan Dotson",
+      "stat": "Longest Reception",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 1754,
       "gameId": "113741"
     },
     {
@@ -429,7 +463,24 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1667,
+      "rank": 1762,
+      "gameId": "113741"
+    },
+    {
+      "player": "Tank Bigsby",
+      "stat": "Longest Rush",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 1773,
       "gameId": "113741"
     },
     {
@@ -446,7 +497,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1680,
+      "rank": 1777,
       "gameId": "113741"
     },
     {
@@ -463,7 +514,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1681,
+      "rank": 1779,
       "gameId": "113741"
     },
     {
@@ -480,7 +531,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1694,
+      "rank": 1792,
       "gameId": "113741"
     },
     {
@@ -497,7 +548,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1703,
+      "rank": 1802,
       "gameId": "113741"
     },
     {
@@ -514,7 +565,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1712,
+      "rank": 1811,
       "gameId": "113741"
     },
     {
@@ -531,7 +582,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1716,
+      "rank": 1814,
       "gameId": "113741"
     },
     {
@@ -548,7 +599,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1726,
+      "rank": 1824,
       "gameId": "113741"
     },
     {
@@ -565,7 +616,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1728,
+      "rank": 1826,
       "gameId": "113741"
     },
     {
@@ -582,7 +633,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1753,
+      "rank": 1852,
       "gameId": "113741"
     },
     {
@@ -599,7 +650,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1757,
+      "rank": 1856,
       "gameId": "113741"
     },
     {
@@ -616,13 +667,13 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1791,
+      "rank": 1890,
       "gameId": "113741"
     },
     {
       "player": "Jaelan Phillips",
       "stat": "Sacks",
-      "line": 0.25,
+      "line": 0.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -633,7 +684,7 @@
       "teamCode": "PHI",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1805,
+      "rank": 1899,
       "gameId": "113741"
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-13T17:51:36.536Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
+  "scrapedAt": "2025-12-14T12:26:33.820Z",
+  "scrapedDate": "Sunday, December 14, 2025 at 12:26 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Sacramento Kings",
-  "totalProps": 14,
+  "totalProps": 20,
   "props": [
     {
       "player": "Zach LaVine",
@@ -21,7 +21,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3295,
+      "rank": 3313,
       "gameId": "117155"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3325,
+      "rank": 3360,
       "gameId": "117155"
     },
     {
       "player": "Keegan Murray",
       "stat": "Points",
-      "line": 13.5,
+      "line": 14,
       "sport": "NBA",
       "startTime": "12/14/25 06:10 PM CST",
       "startTimeCST": "12/14/25 06:10 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3362,
+      "rank": 3425,
       "gameId": "117155"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3364,
+      "rank": 3429,
       "gameId": "117155"
     },
     {
@@ -89,7 +89,24 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3365,
+      "rank": 3438,
+      "gameId": "117155"
+    },
+    {
+      "player": "Malik Monk",
+      "stat": "Points",
+      "line": 12.5,
+      "sport": "NBA",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeCST": "12/14/25 06:10 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Sacramento Kings",
+      "teamCode": "SAC",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3440,
       "gameId": "117155"
     },
     {
@@ -106,7 +123,24 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3378,
+      "rank": 3468,
+      "gameId": "117155"
+    },
+    {
+      "player": "Maxime Raynaud",
+      "stat": "Rebounds",
+      "line": 7,
+      "sport": "NBA",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeCST": "12/14/25 06:10 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Sacramento Kings",
+      "teamCode": "SAC",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3541,
       "gameId": "117155"
     },
     {
@@ -123,11 +157,28 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3416,
+      "rank": 3542,
       "gameId": "117155"
     },
     {
-      "player": "Maxime Raynaud",
+      "player": "Russell Westbrook",
+      "stat": "Rebounds",
+      "line": 7,
+      "sport": "NBA",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeCST": "12/14/25 06:10 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Sacramento Kings",
+      "teamCode": "SAC",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3543,
+      "gameId": "117155"
+    },
+    {
+      "player": "Keegan Murray",
       "stat": "Rebounds",
       "line": 6.5,
       "sport": "NBA",
@@ -140,24 +191,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3419,
-      "gameId": "117155"
-    },
-    {
-      "player": "Dennis Schröder",
-      "stat": "Assists",
-      "line": 4.5,
-      "sport": "NBA",
-      "startTime": "12/14/25 06:10 PM CST",
-      "startTimeCST": "12/14/25 06:10 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Sacramento Kings",
-      "teamCode": "SAC",
-      "Opponent": "Minnesota Timberwolves",
-      "opponentCode": "MIN",
-      "rank": 3450,
+      "rank": 3545,
       "gameId": "117155"
     },
     {
@@ -174,7 +208,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3469,
+      "rank": 3631,
       "gameId": "117155"
     },
     {
@@ -191,24 +225,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3470,
-      "gameId": "117155"
-    },
-    {
-      "player": "Zach LaVine",
-      "stat": "Rebounds",
-      "line": 3.5,
-      "sport": "NBA",
-      "startTime": "12/14/25 06:10 PM CST",
-      "startTimeCST": "12/14/25 06:10 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Sacramento Kings",
-      "teamCode": "SAC",
-      "Opponent": "Minnesota Timberwolves",
-      "opponentCode": "MIN",
-      "rank": 3474,
+      "rank": 3632,
       "gameId": "117155"
     },
     {
@@ -225,7 +242,7 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3494,
+      "rank": 3674,
       "gameId": "117155"
     },
     {
@@ -242,7 +259,92 @@
       "teamCode": "SAC",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3500,
+      "rank": 3707,
+      "gameId": "117155"
+    },
+    {
+      "player": "Malik Monk",
+      "stat": "3-PT Made",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeCST": "12/14/25 06:10 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Sacramento Kings",
+      "teamCode": "SAC",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3721,
+      "gameId": "117155"
+    },
+    {
+      "player": "Zach LaVine",
+      "stat": "Dunks",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeCST": "12/14/25 06:10 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Sacramento Kings",
+      "teamCode": "SAC",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3770,
+      "gameId": "117155"
+    },
+    {
+      "player": "Maxime Raynaud",
+      "stat": "Steals",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeCST": "12/14/25 06:10 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Sacramento Kings",
+      "teamCode": "SAC",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3782,
+      "gameId": "117155"
+    },
+    {
+      "player": "Nique Clifford",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeCST": "12/14/25 06:10 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Sacramento Kings",
+      "teamCode": "SAC",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3790,
+      "gameId": "117155"
+    },
+    {
+      "player": "Precious Achiuwa",
+      "stat": "Steals",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeCST": "12/14/25 06:10 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Sacramento Kings",
+      "teamCode": "SAC",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3806,
       "gameId": "117155"
     }
   ]

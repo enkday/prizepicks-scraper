@@ -1,12 +1,29 @@
 {
-  "scrapedAt": "2025-12-13T17:51:36.536Z",
-  "scrapedDate": "Saturday, December 13, 2025 at 05:51 PM UTC",
+  "scrapedAt": "2025-12-14T12:26:33.820Z",
+  "scrapedDate": "Sunday, December 14, 2025 at 12:26 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Jets",
-  "totalProps": 31,
+  "totalProps": 29,
   "props": [
+    {
+      "player": "Breece Hall",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 75,
+      "gameId": "113744"
+    },
     {
       "player": "Brady Cook",
       "stat": "Pass Yards",
@@ -21,7 +38,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3117,
+      "rank": 3286,
       "gameId": "113744"
     },
     {
@@ -38,7 +55,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3156,
+      "rank": 3334,
       "gameId": "113744"
     },
     {
@@ -55,7 +72,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3157,
+      "rank": 3336,
       "gameId": "113744"
     },
     {
@@ -72,13 +89,13 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3169,
+      "rank": 3350,
       "gameId": "113744"
     },
     {
       "player": "John Metchie",
       "stat": "Receiving Yards",
-      "line": 35.5,
+      "line": 37.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -89,7 +106,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3183,
+      "rank": 3365,
       "gameId": "113744"
     },
     {
@@ -106,13 +123,13 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3188,
+      "rank": 3371,
       "gameId": "113744"
     },
     {
       "player": "Brady Cook",
       "stat": "Longest Completion",
-      "line": 27.5,
+      "line": 28.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -123,13 +140,13 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3208,
+      "rank": 3392,
       "gameId": "113744"
     },
     {
       "player": "Jeremy Ruckert",
       "stat": "Receiving Yards",
-      "line": 22.5,
+      "line": 21.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -140,13 +157,13 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3223,
+      "rank": 3413,
       "gameId": "113744"
     },
     {
       "player": "Adonai Mitchell",
       "stat": "Longest Reception",
-      "line": 18.5,
+      "line": 19.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -157,7 +174,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3251,
+      "rank": 3424,
       "gameId": "113744"
     },
     {
@@ -174,7 +191,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3254,
+      "rank": 3450,
       "gameId": "113744"
     },
     {
@@ -191,7 +208,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3255,
+      "rank": 3451,
       "gameId": "113744"
     },
     {
@@ -208,7 +225,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3261,
+      "rank": 3456,
       "gameId": "113744"
     },
     {
@@ -225,7 +242,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3274,
+      "rank": 3470,
       "gameId": "113744"
     },
     {
@@ -242,41 +259,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3281,
-      "gameId": "113744"
-    },
-    {
-      "player": "Brady Cook",
-      "stat": "Rush Yards",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3284,
-      "gameId": "113744"
-    },
-    {
-      "player": "Isaiah Williams",
-      "stat": "Receiving Yards",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3287,
+      "rank": 3480,
       "gameId": "113744"
     },
     {
@@ -293,13 +276,13 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3288,
+      "rank": 3485,
       "gameId": "113744"
     },
     {
-      "player": "Breece Hall",
-      "stat": "Longest Reception",
-      "line": 8.5,
+      "player": "Brady Cook",
+      "stat": "Rush Yards",
+      "line": 11.5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -310,7 +293,41 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3302,
+      "rank": 3486,
+      "gameId": "113744"
+    },
+    {
+      "player": "Isaiah Williams",
+      "stat": "Receiving Yards",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 3487,
+      "gameId": "113744"
+    },
+    {
+      "player": "Breece Hall",
+      "stat": "Longest Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 3495,
       "gameId": "113744"
     },
     {
@@ -327,24 +344,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3303,
-      "gameId": "113744"
-    },
-    {
-      "player": "Isaiah Williams",
-      "stat": "Longest Reception",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3304,
+      "rank": 3507,
       "gameId": "113744"
     },
     {
@@ -361,7 +361,24 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3306,
+      "rank": 3510,
+      "gameId": "113744"
+    },
+    {
+      "player": "Isaiah Williams",
+      "stat": "Longest Reception",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/14/25 12:00 PM CST",
+      "startTimeCST": "12/14/25 12:00 PM CST",
+      "startDateCST": "2025-12-14",
+      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 3511,
       "gameId": "113744"
     },
     {
@@ -378,7 +395,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3314,
+      "rank": 3522,
       "gameId": "113744"
     },
     {
@@ -395,13 +412,13 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3315,
+      "rank": 3523,
       "gameId": "113744"
     },
     {
       "player": "Nick Folk",
       "stat": "Kicking Points",
-      "line": 5.5,
+      "line": 5,
       "sport": "NFL",
       "startTime": "12/14/25 12:00 PM CST",
       "startTimeCST": "12/14/25 12:00 PM CST",
@@ -412,7 +429,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3316,
+      "rank": 3534,
       "gameId": "113744"
     },
     {
@@ -429,7 +446,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3324,
+      "rank": 3535,
       "gameId": "113744"
     },
     {
@@ -446,7 +463,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3340,
+      "rank": 3552,
       "gameId": "113744"
     },
     {
@@ -463,41 +480,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3342,
-      "gameId": "113744"
-    },
-    {
-      "player": "Adonai Mitchell",
-      "stat": "Receptions",
-      "line": 3.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3352,
-      "gameId": "113744"
-    },
-    {
-      "player": "Breece Hall",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3376,
+      "rank": 3555,
       "gameId": "113744"
     },
     {
@@ -514,24 +497,7 @@
       "teamCode": "NYJ",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3388,
-      "gameId": "113744"
-    },
-    {
-      "player": "Brady Cook",
-      "stat": "Pass TDs",
-      "line": 0.5,
-      "sport": "NFL",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeCST": "12/14/25 12:00 PM CST",
-      "startDateCST": "2025-12-14",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3414,
+      "rank": 3603,
       "gameId": "113744"
     }
   ]
