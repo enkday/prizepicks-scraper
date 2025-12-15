@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-14T14:49:31.939Z",
-  "scrapedDate": "Sunday, December 14, 2025 at 02:49 PM UTC",
+  "scrapedAt": "2025-12-15T12:34:06.943Z",
+  "scrapedDate": "Monday, December 15, 2025 at 12:34 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Miami Dolphins",
-  "totalProps": 35,
+  "totalProps": 39,
   "props": [
     {
       "player": "De'Von Achane",
@@ -21,7 +21,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6413,
+      "rank": 1,
       "gameId": "114160"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6438,
+      "rank": 26,
       "gameId": "114160"
     },
     {
       "player": "De'Von Achane",
       "stat": "Rush Yards",
-      "line": 79.5,
+      "line": 80.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6466,
+      "rank": 54,
       "gameId": "114160"
     },
     {
       "player": "Tua Tagovailoa",
       "stat": "Completion Percentage",
-      "line": 68.9,
+      "line": 68.6,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6479,
+      "rank": 67,
       "gameId": "114160"
     },
     {
       "player": "Jaylen Waddle",
       "stat": "Receiving Yards",
-      "line": 63.5,
+      "line": 64.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6485,
+      "rank": 69,
       "gameId": "114160"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6535,
+      "rank": 125,
       "gameId": "114160"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6558,
+      "rank": 152,
       "gameId": "114160"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6559,
+      "rank": 153,
       "gameId": "114160"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6561,
+      "rank": 155,
       "gameId": "114160"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6571,
+      "rank": 168,
       "gameId": "114160"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6572,
+      "rank": 169,
       "gameId": "114160"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6581,
+      "rank": 181,
       "gameId": "114160"
     },
     {
@@ -225,24 +225,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6601,
-      "gameId": "114160"
-    },
-    {
-      "player": "Greg Dulcich",
-      "stat": "Receiving Yards",
-      "line": 18.5,
-      "sport": "NFL",
-      "startTime": "12/15/25 07:15 PM CST",
-      "startTimeCST": "12/15/25 07:15 PM CST",
-      "startDateCST": "2025-12-15",
-      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 6602,
+      "rank": 207,
       "gameId": "114160"
     },
     {
@@ -259,7 +242,24 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6603,
+      "rank": 208,
+      "gameId": "114160"
+    },
+    {
+      "player": "Greg Dulcich",
+      "stat": "Receiving Yards",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 213,
       "gameId": "114160"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6608,
+      "rank": 214,
       "gameId": "114160"
     },
     {
@@ -293,13 +293,13 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6610,
+      "rank": 217,
       "gameId": "114160"
     },
     {
       "player": "De'Von Achane",
       "stat": "Longest Reception",
-      "line": 12.5,
+      "line": 13.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -310,7 +310,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6634,
+      "rank": 242,
       "gameId": "114160"
     },
     {
@@ -327,13 +327,13 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6635,
+      "rank": 247,
       "gameId": "114160"
     },
     {
       "player": "Greg Dulcich",
       "stat": "Longest Reception",
-      "line": 12.5,
+      "line": 11.5,
       "sport": "NFL",
       "startTime": "12/15/25 07:15 PM CST",
       "startTimeCST": "12/15/25 07:15 PM CST",
@@ -344,7 +344,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6638,
+      "rank": 256,
       "gameId": "114160"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6668,
+      "rank": 289,
       "gameId": "114160"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6675,
+      "rank": 300,
       "gameId": "114160"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6676,
+      "rank": 301,
       "gameId": "114160"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6690,
+      "rank": 314,
       "gameId": "114160"
     },
     {
@@ -429,7 +429,24 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6700,
+      "rank": 325,
+      "gameId": "114160"
+    },
+    {
+      "player": "Jordyn Brooks",
+      "stat": "Assists",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 330,
       "gameId": "114160"
     },
     {
@@ -446,7 +463,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6702,
+      "rank": 332,
       "gameId": "114160"
     },
     {
@@ -463,7 +480,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6719,
+      "rank": 349,
       "gameId": "114160"
     },
     {
@@ -480,7 +497,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6722,
+      "rank": 352,
       "gameId": "114160"
     },
     {
@@ -497,7 +514,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6729,
+      "rank": 362,
       "gameId": "114160"
     },
     {
@@ -514,7 +531,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6736,
+      "rank": 369,
       "gameId": "114160"
     },
     {
@@ -531,7 +548,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6741,
+      "rank": 374,
       "gameId": "114160"
     },
     {
@@ -548,7 +565,58 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6755,
+      "rank": 394,
+      "gameId": "114160"
+    },
+    {
+      "player": "Jack Jones",
+      "stat": "Assists",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 407,
+      "gameId": "114160"
+    },
+    {
+      "player": "Rasul Douglas",
+      "stat": "Assists",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 408,
+      "gameId": "114160"
+    },
+    {
+      "player": "Zach Sieler",
+      "stat": "Assists",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeCST": "12/15/25 07:15 PM CST",
+      "startDateCST": "2025-12-15",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 409,
       "gameId": "114160"
     },
     {
@@ -565,7 +633,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6763,
+      "rank": 411,
       "gameId": "114160"
     },
     {
@@ -582,7 +650,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6765,
+      "rank": 413,
       "gameId": "114160"
     },
     {
@@ -599,7 +667,7 @@
       "teamCode": "MIA",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 6781,
+      "rank": 429,
       "gameId": "114160"
     }
   ]

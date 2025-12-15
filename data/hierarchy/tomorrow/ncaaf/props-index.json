@@ -1,0 +1,28 @@
+{
+  "sport": "NCAAF",
+  "sportSlug": "ncaaf",
+  "dayBranch": "tomorrow",
+  "gameCount": 1,
+  "propCount": 11,
+  "games": [
+    {
+      "gameId": "119008",
+      "slate": "Late",
+      "startTime": "12/16/25 08:00 PM CST",
+      "startTimeIso": "2025-12-16T21:00:00.000-05:00",
+      "teams": [
+        "Jacksonville State Gamecocks",
+        "Troy Trojans"
+      ],
+      "propCount": 11,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119008.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 11,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
+    }
+  ]
+}

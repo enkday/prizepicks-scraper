@@ -2,187 +2,26 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 14,
-  "propCount": 1096,
+  "gameCount": 1,
+  "propCount": 63,
   "games": [
     {
-      "gameId": "113741",
-      "slate": "Early",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "teams": [
-        "Philadelphia Eagles",
-        "Las Vegas Raiders"
-      ],
-      "propCount": 73,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113741.json"
-    },
-    {
-      "gameId": "113742",
-      "slate": "Early",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "teams": [
-        "Cincinnati Bengals",
-        "Baltimore Ravens"
-      ],
-      "propCount": 96,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113742.json"
-    },
-    {
-      "gameId": "113743",
-      "slate": "Early",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "teams": [
-        "Los Angeles Chargers",
-        "Kansas City Chiefs"
-      ],
-      "propCount": 88,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113743.json"
-    },
-    {
-      "gameId": "113744",
-      "slate": "Early",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "teams": [
-        "Jacksonville Jaguars",
-        "New York Jets"
-      ],
-      "propCount": 66,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113744.json"
-    },
-    {
-      "gameId": "113745",
-      "slate": "Early",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "teams": [
-        "Buffalo Bills",
-        "New England Patriots"
-      ],
-      "propCount": 106,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113745.json"
-    },
-    {
-      "gameId": "113746",
-      "slate": "Early",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "teams": [
-        "Houston Texans",
-        "Arizona Cardinals"
-      ],
-      "propCount": 79,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113746.json"
-    },
-    {
-      "gameId": "113747",
-      "slate": "Early",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "teams": [
-        "Washington Commanders",
-        "New York Giants"
-      ],
-      "propCount": 68,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113747.json"
-    },
-    {
-      "gameId": "113748",
-      "slate": "Early",
-      "startTime": "12/14/25 12:00 PM CST",
-      "startTimeIso": "2025-12-14T13:00:00.000-05:00",
-      "teams": [
-        "Chicago Bears",
-        "Cleveland Browns"
-      ],
-      "propCount": 74,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113748.json"
-    },
-    {
-      "gameId": "113749",
+      "gameId": "114160",
       "slate": "Late",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
+      "startTime": "12/15/25 07:15 PM CST",
+      "startTimeIso": "2025-12-15T20:15:00.000-05:00",
       "teams": [
-        "Denver Broncos",
-        "Green Bay Packers"
+        "Miami Dolphins",
+        "Pittsburgh Steelers"
       ],
-      "propCount": 85,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113749.json"
-    },
-    {
-      "gameId": "113750",
-      "slate": "Late",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "teams": [
-        "Carolina Panthers",
-        "New Orleans Saints"
-      ],
-      "propCount": 70,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113750.json"
-    },
-    {
-      "gameId": "113751",
-      "slate": "Late",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "teams": [
-        "Los Angeles Rams",
-        "Detroit Lions"
-      ],
-      "propCount": 75,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113751.json"
-    },
-    {
-      "gameId": "113752",
-      "slate": "Late",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "teams": [
-        "Seattle Seahawks",
-        "Indianapolis Colts"
-      ],
-      "propCount": 69,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113752.json"
-    },
-    {
-      "gameId": "113753",
-      "slate": "Late",
-      "startTime": "12/14/25 03:25 PM CST",
-      "startTimeIso": "2025-12-14T16:25:00.000-05:00",
-      "teams": [
-        "San Francisco 49ers",
-        "Tennessee Titans"
-      ],
-      "propCount": 72,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113753.json"
-    },
-    {
-      "gameId": "113994",
-      "slate": "Late",
-      "startTime": "12/14/25 07:20 PM CST",
-      "startTimeIso": "2025-12-14T20:20:00.000-05:00",
-      "teams": [
-        "Dallas Cowboys",
-        "Minnesota Vikings"
-      ],
-      "propCount": 75,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/113994.json"
+      "propCount": 63,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/114160.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 650,
-      "path": "/data/hierarchy/current_day/nfl/props-by-slate/early.json"
-    },
-    {
       "slate": "late",
-      "propCount": 446,
+      "propCount": 63,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]

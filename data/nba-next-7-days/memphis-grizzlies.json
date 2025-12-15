@@ -3,7 +3,7 @@
   "scrapedDate": "Monday, December 15, 2025 at 12:34 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
-  "day": "today",
+  "day": "next-7-days",
   "team": "Memphis Grizzlies",
   "totalProps": 19,
   "props": [
