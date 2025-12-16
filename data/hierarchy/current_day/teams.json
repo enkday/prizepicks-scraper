@@ -1,12 +1,22 @@
 [
   {
-    "teamCode": "miami-dolphins",
-    "teamName": "Miami Dolphins",
-    "sport": "NFL"
+    "teamCode": "new-york-knicks",
+    "teamName": "New York Knicks",
+    "sport": "NBA"
   },
   {
-    "teamCode": "pittsburgh-steelers",
-    "teamName": "Pittsburgh Steelers",
-    "sport": "NFL"
+    "teamCode": "san-antonio-spurs",
+    "teamName": "San Antonio Spurs",
+    "sport": "NBA"
+  },
+  {
+    "teamCode": "jacksonville-state-gamecocks",
+    "teamName": "Jacksonville State Gamecocks",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "troy-trojans",
+    "teamName": "Troy Trojans",
+    "sport": "NCAAF"
   }
 ]

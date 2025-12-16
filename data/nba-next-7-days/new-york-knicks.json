@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-15T12:34:06.943Z",
-  "scrapedDate": "Monday, December 15, 2025 at 12:34 PM UTC",
+  "scrapedAt": "2025-12-16T12:31:24.910Z",
+  "scrapedDate": "Tuesday, December 16, 2025 at 12:31 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "New York Knicks",
-  "totalProps": 16,
+  "totalProps": 28,
   "props": [
     {
       "player": "Jalen Brunson",
       "stat": "Points",
-      "line": 29.5,
+      "line": 30.5,
       "sport": "NBA",
       "startTime": "12/16/25 07:40 PM CST",
       "startTimeCST": "12/16/25 07:40 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3340,
+      "rank": 64,
       "gameId": "120437"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3408,
+      "rank": 161,
       "gameId": "120437"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3476,
+      "rank": 250,
       "gameId": "120437"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3496,
+      "rank": 273,
       "gameId": "120437"
     },
     {
@@ -89,13 +89,13 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3514,
+      "rank": 293,
       "gameId": "120437"
     },
     {
       "player": "Karl-Anthony Towns",
       "stat": "Rebounds",
-      "line": 11,
+      "line": 10.5,
       "sport": "NBA",
       "startTime": "12/16/25 07:40 PM CST",
       "startTimeCST": "12/16/25 07:40 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3545,
+      "rank": 344,
       "gameId": "120437"
     },
     {
@@ -123,12 +123,12 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3601,
+      "rank": 408,
       "gameId": "120437"
     },
     {
-      "player": "Jordan Clarkson",
-      "stat": "Points",
+      "player": "Karl-Anthony Towns",
+      "stat": "Defensive Rebounds",
       "line": 7.5,
       "sport": "NBA",
       "startTime": "12/16/25 07:40 PM CST",
@@ -140,7 +140,24 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3614,
+      "rank": 431,
+      "gameId": "120437"
+    },
+    {
+      "player": "Jordan Clarkson",
+      "stat": "Points",
+      "line": 7,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 435,
       "gameId": "120437"
     },
     {
@@ -157,7 +174,41 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3625,
+      "rank": 437,
+      "gameId": "120437"
+    },
+    {
+      "player": "Josh Hart",
+      "stat": "Defensive Rebounds",
+      "line": 6.5,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 452,
+      "gameId": "120437"
+    },
+    {
+      "player": "Josh Hart",
+      "stat": "Assists",
+      "line": 5,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 491,
       "gameId": "120437"
     },
     {
@@ -174,7 +225,24 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3693,
+      "rank": 508,
+      "gameId": "120437"
+    },
+    {
+      "player": "Mikal Bridges",
+      "stat": "Rebounds",
+      "line": 4,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 527,
       "gameId": "120437"
     },
     {
@@ -191,7 +259,7 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3728,
+      "rank": 550,
       "gameId": "120437"
     },
     {
@@ -208,7 +276,41 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3730,
+      "rank": 552,
+      "gameId": "120437"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "stat": "Offensive Rebounds",
+      "line": 3,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 587,
+      "gameId": "120437"
+    },
+    {
+      "player": "Mikal Bridges",
+      "stat": "Personal Fouls",
+      "line": 2.5,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 637,
       "gameId": "120437"
     },
     {
@@ -225,7 +327,7 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3810,
+      "rank": 660,
       "gameId": "120437"
     },
     {
@@ -242,7 +344,92 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3822,
+      "rank": 671,
+      "gameId": "120437"
+    },
+    {
+      "player": "Jordan Clarkson",
+      "stat": "Personal Fouls",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 672,
+      "gameId": "120437"
+    },
+    {
+      "player": "Jordan Clarkson",
+      "stat": "Rebounds",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 686,
+      "gameId": "120437"
+    },
+    {
+      "player": "OG Anunoby",
+      "stat": "Dunks",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 689,
+      "gameId": "120437"
+    },
+    {
+      "player": "Josh Hart",
+      "stat": "Offensive Rebounds",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 691,
+      "gameId": "120437"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "stat": "Dunks",
+      "line": 1,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 696,
       "gameId": "120437"
     },
     {
@@ -259,7 +446,7 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3859,
+      "rank": 720,
       "gameId": "120437"
     },
     {
@@ -276,7 +463,24 @@
       "teamCode": "NYK",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 3863,
+      "rank": 724,
+      "gameId": "120437"
+    },
+    {
+      "player": "OG Anunoby",
+      "stat": "Blocked Shots",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/16/25 07:40 PM CST",
+      "startTimeCST": "12/16/25 07:40 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 727,
       "gameId": "120437"
     }
   ]

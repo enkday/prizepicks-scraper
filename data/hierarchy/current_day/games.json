@@ -1,11 +1,22 @@
 [
   {
-    "gameId": "114160",
-    "sport": "NFL",
-    "startTime": "12/15/25 07:15 PM CST",
+    "gameId": "120437",
+    "sport": "NBA",
+    "startTime": "12/16/25 07:40 PM CST",
     "teams": [
-      "Miami Dolphins",
-      "Pittsburgh Steelers"
+      "New York Knicks",
+      "San Antonio Spurs"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "119008",
+    "sport": "NCAAF",
+    "startTime": "12/16/25 08:00 PM CST",
+    "teams": [
+      "Jacksonville State Gamecocks",
+      "Troy Trojans"
     ],
     "slate": "Late",
     "dayBranch": "current_day"

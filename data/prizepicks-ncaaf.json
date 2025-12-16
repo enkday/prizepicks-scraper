@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2025-12-15T12:34:06.943Z",
-  "scrapedDate": "Monday, December 15, 2025 at 12:34 PM UTC",
+  "scrapedAt": "2025-12-16T12:31:24.910Z",
+  "scrapedDate": "Tuesday, December 16, 2025 at 12:31 PM UTC",
   "source": "PrizePicks API",
   "sport": "NCAAF",
-  "totalProps": 97,
+  "totalProps": 101,
   "props": [
     {
       "player": "Caden Creel",
@@ -25,7 +25,7 @@
     {
       "player": "Cam Cook",
       "stat": "Rush Yards",
-      "line": 107.5,
+      "line": 114.5,
       "sport": "NCAAF",
       "startTime": "12/16/25 08:00 PM CST",
       "startTimeCST": "12/16/25 08:00 PM CST",
@@ -36,7 +36,7 @@
       "teamCode": "JVST",
       "Opponent": "Troy Trojans",
       "opponentCode": "TROY",
-      "rank": 14,
+      "rank": 13,
       "gameId": "119008"
     },
     {
@@ -76,7 +76,7 @@
     {
       "player": "RaRa Thomas",
       "stat": "Receiving Yards",
-      "line": 43.5,
+      "line": 44.5,
       "sport": "NCAAF",
       "startTime": "12/16/25 08:00 PM CST",
       "startTimeCST": "12/16/25 08:00 PM CST",
@@ -144,7 +144,7 @@
     {
       "player": "Ethan Conner",
       "stat": "Receiving Yards",
-      "line": 26.5,
+      "line": 29.5,
       "sport": "NCAAF",
       "startTime": "12/16/25 08:00 PM CST",
       "startTimeCST": "12/16/25 08:00 PM CST",
@@ -155,7 +155,24 @@
       "teamCode": "TROY",
       "Opponent": "Jacksonville State Gamecocks",
       "opponentCode": "JVST",
-      "rank": 54,
+      "rank": 52,
+      "gameId": "119008"
+    },
+    {
+      "player": "Cam Cook",
+      "stat": "Longest Rush",
+      "line": 24.5,
+      "sport": "NCAAF",
+      "startTime": "12/16/25 08:00 PM CST",
+      "startTimeCST": "12/16/25 08:00 PM CST",
+      "startDateCST": "2025-12-16",
+      "startTimeIso": "2025-12-16T21:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville State Gamecocks",
+      "teamCode": "JVST",
+      "Opponent": "Troy Trojans",
+      "opponentCode": "TROY",
+      "rank": 60,
       "gameId": "119008"
     },
     {
@@ -172,7 +189,7 @@
       "teamCode": "JVST",
       "Opponent": "Troy Trojans",
       "opponentCode": "TROY",
-      "rank": 65,
+      "rank": 67,
       "gameId": "119008"
     },
     {
@@ -189,25 +206,25 @@
       "teamCode": "DEL",
       "Opponent": "Louisiana Ragin' Cajuns",
       "opponentCode": "ULL",
-      "rank": 135,
+      "rank": 155,
       "gameId": "118896"
     },
     {
-      "player": "Tony Sterner",
-      "stat": "PAT Made",
-      "line": 3.5,
+      "player": "Britton Williams",
+      "stat": "Kicking Points",
+      "line": 5.5,
       "sport": "NCAAF",
-      "startTime": "12/17/25 07:30 PM CST",
-      "startTimeCST": "12/17/25 07:30 PM CST",
-      "startDateCST": "2025-12-17",
-      "startTimeIso": "2025-12-17T20:30:00.000-05:00",
+      "startTime": "12/19/25 10:00 AM CST",
+      "startTimeCST": "12/19/25 10:00 AM CST",
+      "startDateCST": "2025-12-19",
+      "startTimeIso": "2025-12-19T11:00:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Louisiana Ragin' Cajuns",
-      "teamCode": "ULL",
-      "Opponent": "Delaware Blue Hens",
-      "opponentCode": "DEL",
-      "rank": 137,
-      "gameId": "118896"
+      "Team": "Kennesaw State Owls",
+      "teamCode": "KENN",
+      "Opponent": "Western Michigan Broncos",
+      "opponentCode": "WMU",
+      "rank": 190,
+      "gameId": "119009"
     },
     {
       "player": "Ty Simpson",
@@ -223,13 +240,13 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 164,
+      "rank": 256,
       "gameId": "119010"
     },
     {
       "player": "John Mateer",
       "stat": "Pass Yards",
-      "line": 200.5,
+      "line": 197.5,
       "sport": "NCAAF",
       "startTime": "12/19/25 07:00 PM CST",
       "startTimeCST": "12/19/25 07:00 PM CST",
@@ -240,7 +257,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 167,
+      "rank": 260,
       "gameId": "119010"
     },
     {
@@ -257,7 +274,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 181,
+      "rank": 274,
       "gameId": "119010"
     },
     {
@@ -274,7 +291,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 190,
+      "rank": 283,
       "gameId": "119010"
     },
     {
@@ -291,7 +308,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 199,
+      "rank": 292,
       "gameId": "119010"
     },
     {
@@ -308,7 +325,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 206,
+      "rank": 299,
       "gameId": "119010"
     },
     {
@@ -325,7 +342,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 207,
+      "rank": 300,
       "gameId": "119010"
     },
     {
@@ -342,24 +359,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 208,
-      "gameId": "119010"
-    },
-    {
-      "player": "Isaiah Horton",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NCAAF",
-      "startTime": "12/19/25 07:00 PM CST",
-      "startTimeCST": "12/19/25 07:00 PM CST",
-      "startDateCST": "2025-12-19",
-      "startTimeIso": "2025-12-19T20:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Alabama Crimson Tide",
-      "teamCode": "ALA",
-      "Opponent": "Oklahoma Sooners",
-      "opponentCode": "OKLA",
-      "rank": 209,
+      "rank": 301,
       "gameId": "119010"
     },
     {
@@ -376,7 +376,24 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 212,
+      "rank": 304,
+      "gameId": "119010"
+    },
+    {
+      "player": "Isaiah Horton",
+      "stat": "Receiving Yards",
+      "line": 26.5,
+      "sport": "NCAAF",
+      "startTime": "12/19/25 07:00 PM CST",
+      "startTimeCST": "12/19/25 07:00 PM CST",
+      "startDateCST": "2025-12-19",
+      "startTimeIso": "2025-12-19T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Alabama Crimson Tide",
+      "teamCode": "ALA",
+      "Opponent": "Oklahoma Sooners",
+      "opponentCode": "OKLA",
+      "rank": 305,
       "gameId": "119010"
     },
     {
@@ -393,7 +410,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 213,
+      "rank": 306,
       "gameId": "119010"
     },
     {
@@ -410,7 +427,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 214,
+      "rank": 307,
       "gameId": "119010"
     },
     {
@@ -427,7 +444,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 219,
+      "rank": 313,
       "gameId": "119010"
     },
     {
@@ -444,7 +461,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 220,
+      "rank": 314,
       "gameId": "119010"
     },
     {
@@ -461,7 +478,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 228,
+      "rank": 323,
       "gameId": "119010"
     },
     {
@@ -478,7 +495,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 229,
+      "rank": 324,
       "gameId": "119010"
     },
     {
@@ -495,7 +512,7 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 230,
+      "rank": 325,
       "gameId": "119010"
     },
     {
@@ -512,7 +529,7 @@
       "teamCode": "OKLA",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 241,
+      "rank": 337,
       "gameId": "119010"
     },
     {
@@ -529,13 +546,30 @@
       "teamCode": "ALA",
       "Opponent": "Oklahoma Sooners",
       "opponentCode": "OKLA",
-      "rank": 244,
+      "rank": 340,
+      "gameId": "119010"
+    },
+    {
+      "player": "Isaiah Sategna",
+      "stat": "Receptions",
+      "line": 4.5,
+      "sport": "NCAAF",
+      "startTime": "12/19/25 07:00 PM CST",
+      "startTimeCST": "12/19/25 07:00 PM CST",
+      "startDateCST": "2025-12-19",
+      "startTimeIso": "2025-12-19T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma Sooners",
+      "teamCode": "OKLA",
+      "Opponent": "Alabama Crimson Tide",
+      "opponentCode": "ALA",
+      "rank": 346,
       "gameId": "119010"
     },
     {
       "player": "Carson Beck",
       "stat": "Pass Yards",
-      "line": 235.5,
+      "line": 236.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 11:00 AM CST",
       "startTimeCST": "12/20/25 11:00 AM CST",
@@ -546,13 +580,13 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 321,
+      "rank": 421,
       "gameId": "119011"
     },
     {
       "player": "Marcel Reed",
       "stat": "Pass Yards",
-      "line": 231.5,
+      "line": 224.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 11:00 AM CST",
       "startTimeCST": "12/20/25 11:00 AM CST",
@@ -563,13 +597,13 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 322,
+      "rank": 422,
       "gameId": "119011"
     },
     {
       "player": "Malachi Toney",
       "stat": "Receiving Yards",
-      "line": 76.5,
+      "line": 80.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 11:00 AM CST",
       "startTimeCST": "12/20/25 11:00 AM CST",
@@ -580,13 +614,13 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 337,
+      "rank": 435,
       "gameId": "119011"
     },
     {
       "player": "KC Concepcion",
       "stat": "Receiving Yards",
-      "line": 58.5,
+      "line": 60.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 11:00 AM CST",
       "startTimeCST": "12/20/25 11:00 AM CST",
@@ -597,13 +631,13 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 346,
+      "rank": 444,
       "gameId": "119011"
     },
     {
       "player": "Mario Craver",
       "stat": "Receiving Yards",
-      "line": 51.5,
+      "line": 52.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 11:00 AM CST",
       "startTimeCST": "12/20/25 11:00 AM CST",
@@ -614,13 +648,13 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 347,
+      "rank": 452,
       "gameId": "119011"
     },
     {
       "player": "Mark Fletcher",
       "stat": "Rush Yards",
-      "line": 38.5,
+      "line": 39.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 11:00 AM CST",
       "startTimeCST": "12/20/25 11:00 AM CST",
@@ -631,7 +665,24 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 356,
+      "rank": 464,
+      "gameId": "119011"
+    },
+    {
+      "player": "Girard Pringle",
+      "stat": "Rush Yards",
+      "line": 37.5,
+      "sport": "NCAAF",
+      "startTime": "12/20/25 11:00 AM CST",
+      "startTimeCST": "12/20/25 11:00 AM CST",
+      "startDateCST": "2025-12-20",
+      "startTimeIso": "2025-12-20T12:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami (FL) Hurricanes",
+      "teamCode": "MIA",
+      "Opponent": "Texas A&M Aggies",
+      "opponentCode": "TXAM",
+      "rank": 467,
       "gameId": "119011"
     },
     {
@@ -648,7 +699,7 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 357,
+      "rank": 468,
       "gameId": "119011"
     },
     {
@@ -665,7 +716,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 361,
+      "rank": 474,
       "gameId": "119011"
     },
     {
@@ -682,7 +733,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 362,
+      "rank": 475,
       "gameId": "119011"
     },
     {
@@ -699,13 +750,13 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 365,
+      "rank": 482,
       "gameId": "119011"
     },
     {
       "player": "CJ Daniels",
       "stat": "Longest Reception",
-      "line": 18.5,
+      "line": 19.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 11:00 AM CST",
       "startTimeCST": "12/20/25 11:00 AM CST",
@@ -716,24 +767,7 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 369,
-      "gameId": "119011"
-    },
-    {
-      "player": "Malachi Toney",
-      "stat": "Receptions",
-      "line": 6.5,
-      "sport": "NCAAF",
-      "startTime": "12/20/25 11:00 AM CST",
-      "startTimeCST": "12/20/25 11:00 AM CST",
-      "startDateCST": "2025-12-20",
-      "startTimeIso": "2025-12-20T12:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami (FL) Hurricanes",
-      "teamCode": "MIA",
-      "Opponent": "Texas A&M Aggies",
-      "opponentCode": "TXAM",
-      "rank": 377,
+      "rank": 484,
       "gameId": "119011"
     },
     {
@@ -750,7 +784,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 387,
+      "rank": 513,
       "gameId": "119011"
     },
     {
@@ -767,7 +801,7 @@
       "teamCode": "MIA",
       "Opponent": "Texas A&M Aggies",
       "opponentCode": "TXAM",
-      "rank": 396,
+      "rank": 526,
       "gameId": "119011"
     },
     {
@@ -784,7 +818,7 @@
       "teamCode": "TXAM",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 398,
+      "rank": 528,
       "gameId": "119011"
     },
     {
@@ -801,13 +835,13 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 440,
+      "rank": 571,
       "gameId": "119012"
     },
     {
       "player": "Jake Retzlaff",
       "stat": "Pass Yards",
-      "line": 190.5,
+      "line": 187.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 02:30 PM CST",
       "startTimeCST": "12/20/25 02:30 PM CST",
@@ -818,7 +852,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 448,
+      "rank": 578,
       "gameId": "119012"
     },
     {
@@ -835,7 +869,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 455,
+      "rank": 585,
       "gameId": "119012"
     },
     {
@@ -852,7 +886,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 470,
+      "rank": 600,
       "gameId": "119012"
     },
     {
@@ -869,7 +903,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 481,
+      "rank": 611,
       "gameId": "119012"
     },
     {
@@ -886,7 +920,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 492,
+      "rank": 622,
       "gameId": "119012"
     },
     {
@@ -903,13 +937,13 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 493,
+      "rank": 623,
       "gameId": "119012"
     },
     {
       "player": "Shazz Preston",
       "stat": "Receiving Yards",
-      "line": 37.5,
+      "line": 38.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 02:30 PM CST",
       "startTimeCST": "12/20/25 02:30 PM CST",
@@ -920,13 +954,13 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 503,
+      "rank": 633,
       "gameId": "119012"
     },
     {
       "player": "Trinidad Chambliss",
       "stat": "Rush Yards",
-      "line": 36.5,
+      "line": 37.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 02:30 PM CST",
       "startTimeCST": "12/20/25 02:30 PM CST",
@@ -937,7 +971,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 504,
+      "rank": 634,
       "gameId": "119012"
     },
     {
@@ -954,13 +988,13 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 505,
+      "rank": 635,
       "gameId": "119012"
     },
     {
       "player": "Anthony Brown-Stephens",
       "stat": "Receiving Yards",
-      "line": 31.5,
+      "line": 32.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 02:30 PM CST",
       "startTimeCST": "12/20/25 02:30 PM CST",
@@ -971,13 +1005,13 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 507,
+      "rank": 637,
       "gameId": "119012"
     },
     {
       "player": "Deuce Alexander",
       "stat": "Receiving Yards",
-      "line": 31.5,
+      "line": 32.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 02:30 PM CST",
       "startTimeCST": "12/20/25 02:30 PM CST",
@@ -988,7 +1022,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 508,
+      "rank": 638,
       "gameId": "119012"
     },
     {
@@ -1005,7 +1039,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 509,
+      "rank": 639,
       "gameId": "119012"
     },
     {
@@ -1022,13 +1056,13 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 519,
+      "rank": 649,
       "gameId": "119012"
     },
     {
       "player": "Kewan Lacy",
       "stat": "Longest Rush",
-      "line": 24.5,
+      "line": 25.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 02:30 PM CST",
       "startTimeCST": "12/20/25 02:30 PM CST",
@@ -1039,7 +1073,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 520,
+      "rank": 650,
       "gameId": "119012"
     },
     {
@@ -1056,7 +1090,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 531,
+      "rank": 661,
       "gameId": "119012"
     },
     {
@@ -1073,28 +1107,11 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 532,
+      "rank": 662,
       "gameId": "119012"
     },
     {
       "player": "De'Zhaun Stribling",
-      "stat": "Longest Reception",
-      "line": 20.5,
-      "sport": "NCAAF",
-      "startTime": "12/20/25 02:30 PM CST",
-      "startTimeCST": "12/20/25 02:30 PM CST",
-      "startDateCST": "2025-12-20",
-      "startTimeIso": "2025-12-20T15:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Ole Miss Rebels",
-      "teamCode": "MISS",
-      "Opponent": "Tulane Green Wave",
-      "opponentCode": "TULN",
-      "rank": 533,
-      "gameId": "119012"
-    },
-    {
-      "player": "Deuce Alexander",
       "stat": "Longest Reception",
       "line": 19.5,
       "sport": "NCAAF",
@@ -1107,7 +1124,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 534,
+      "rank": 663,
       "gameId": "119012"
     },
     {
@@ -1124,7 +1141,24 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 543,
+      "rank": 672,
+      "gameId": "119012"
+    },
+    {
+      "player": "Deuce Alexander",
+      "stat": "Longest Reception",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "12/20/25 02:30 PM CST",
+      "startTimeCST": "12/20/25 02:30 PM CST",
+      "startDateCST": "2025-12-20",
+      "startTimeIso": "2025-12-20T15:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Ole Miss Rebels",
+      "teamCode": "MISS",
+      "Opponent": "Tulane Green Wave",
+      "opponentCode": "TULN",
+      "rank": 673,
       "gameId": "119012"
     },
     {
@@ -1141,7 +1175,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 544,
+      "rank": 674,
       "gameId": "119012"
     },
     {
@@ -1158,7 +1192,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 545,
+      "rank": 675,
       "gameId": "119012"
     },
     {
@@ -1175,7 +1209,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 546,
+      "rank": 676,
       "gameId": "119012"
     },
     {
@@ -1192,13 +1226,13 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 547,
+      "rank": 677,
       "gameId": "119012"
     },
     {
       "player": "Trinidad Chambliss",
       "stat": "Longest Rush",
-      "line": 16.5,
+      "line": 15.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 02:30 PM CST",
       "startTimeCST": "12/20/25 02:30 PM CST",
@@ -1209,7 +1243,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 548,
+      "rank": 678,
       "gameId": "119012"
     },
     {
@@ -1226,7 +1260,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 549,
+      "rank": 679,
       "gameId": "119012"
     },
     {
@@ -1243,7 +1277,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 550,
+      "rank": 680,
       "gameId": "119012"
     },
     {
@@ -1260,7 +1294,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 558,
+      "rank": 688,
       "gameId": "119012"
     },
     {
@@ -1277,7 +1311,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 559,
+      "rank": 689,
       "gameId": "119012"
     },
     {
@@ -1294,7 +1328,7 @@
       "teamCode": "TULN",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 560,
+      "rank": 690,
       "gameId": "119012"
     },
     {
@@ -1311,7 +1345,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 561,
+      "rank": 691,
       "gameId": "119012"
     },
     {
@@ -1328,7 +1362,7 @@
       "teamCode": "MISS",
       "Opponent": "Tulane Green Wave",
       "opponentCode": "TULN",
-      "rank": 574,
+      "rank": 705,
       "gameId": "119012"
     },
     {
@@ -1345,13 +1379,13 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 662,
+      "rank": 793,
       "gameId": "119013"
     },
     {
       "player": "Alonza Barnett",
       "stat": "Pass Yards",
-      "line": 147.5,
+      "line": 142.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 06:30 PM CST",
       "startTimeCST": "12/20/25 06:30 PM CST",
@@ -1362,7 +1396,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 668,
+      "rank": 799,
       "gameId": "119013"
     },
     {
@@ -1379,13 +1413,30 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 678,
+      "rank": 809,
+      "gameId": "119013"
+    },
+    {
+      "player": "Wayne Knight",
+      "stat": "Rush Yards",
+      "line": 71.5,
+      "sport": "NCAAF",
+      "startTime": "12/20/25 06:30 PM CST",
+      "startTimeCST": "12/20/25 06:30 PM CST",
+      "startDateCST": "2025-12-20",
+      "startTimeIso": "2025-12-20T19:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "James Madison Dukes",
+      "teamCode": "JMU",
+      "Opponent": "Oregon Ducks",
+      "opponentCode": "ORE",
+      "rank": 813,
       "gameId": "119013"
     },
     {
       "player": "Kenyon Sadiq",
       "stat": "Receiving Yards",
-      "line": 57.5,
+      "line": 58.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 06:30 PM CST",
       "startTimeCST": "12/20/25 06:30 PM CST",
@@ -1396,7 +1447,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 691,
+      "rank": 824,
       "gameId": "119013"
     },
     {
@@ -1413,7 +1464,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 700,
+      "rank": 833,
       "gameId": "119013"
     },
     {
@@ -1430,7 +1481,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 711,
+      "rank": 844,
       "gameId": "119013"
     },
     {
@@ -1447,7 +1498,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 717,
+      "rank": 850,
       "gameId": "119013"
     },
     {
@@ -1464,7 +1515,24 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 718,
+      "rank": 851,
+      "gameId": "119013"
+    },
+    {
+      "player": "Alonza Barnett",
+      "stat": "Rush Yards",
+      "line": 25.5,
+      "sport": "NCAAF",
+      "startTime": "12/20/25 06:30 PM CST",
+      "startTimeCST": "12/20/25 06:30 PM CST",
+      "startDateCST": "2025-12-20",
+      "startTimeIso": "2025-12-20T19:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "James Madison Dukes",
+      "teamCode": "JMU",
+      "Opponent": "Oregon Ducks",
+      "opponentCode": "ORE",
+      "rank": 852,
       "gameId": "119013"
     },
     {
@@ -1481,7 +1549,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 723,
+      "rank": 857,
       "gameId": "119013"
     },
     {
@@ -1498,7 +1566,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 724,
+      "rank": 858,
       "gameId": "119013"
     },
     {
@@ -1515,7 +1583,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 725,
+      "rank": 859,
       "gameId": "119013"
     },
     {
@@ -1532,13 +1600,13 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 731,
+      "rank": 865,
       "gameId": "119013"
     },
     {
       "player": "Braeden Wisloski",
       "stat": "Longest Reception",
-      "line": 16.5,
+      "line": 15.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 06:30 PM CST",
       "startTimeCST": "12/20/25 06:30 PM CST",
@@ -1549,7 +1617,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 732,
+      "rank": 866,
       "gameId": "119013"
     },
     {
@@ -1566,7 +1634,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 737,
+      "rank": 871,
       "gameId": "119013"
     },
     {
@@ -1583,13 +1651,13 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 740,
+      "rank": 874,
       "gameId": "119013"
     },
     {
       "player": "Dante Moore",
       "stat": "Rush Yards",
-      "line": 10.5,
+      "line": 12.5,
       "sport": "NCAAF",
       "startTime": "12/20/25 06:30 PM CST",
       "startTimeCST": "12/20/25 06:30 PM CST",
@@ -1600,7 +1668,24 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 741,
+      "rank": 875,
+      "gameId": "119013"
+    },
+    {
+      "player": "Jaylan Sanchez",
+      "stat": "Longest Reception",
+      "line": 12.5,
+      "sport": "NCAAF",
+      "startTime": "12/20/25 06:30 PM CST",
+      "startTimeCST": "12/20/25 06:30 PM CST",
+      "startDateCST": "2025-12-20",
+      "startTimeIso": "2025-12-20T19:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "James Madison Dukes",
+      "teamCode": "JMU",
+      "Opponent": "Oregon Ducks",
+      "opponentCode": "ORE",
+      "rank": 876,
       "gameId": "119013"
     },
     {
@@ -1617,24 +1702,7 @@
       "teamCode": "JMU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 742,
-      "gameId": "119013"
-    },
-    {
-      "player": "Jaylan Sanchez",
-      "stat": "Longest Reception",
-      "line": 10.5,
-      "sport": "NCAAF",
-      "startTime": "12/20/25 06:30 PM CST",
-      "startTimeCST": "12/20/25 06:30 PM CST",
-      "startDateCST": "2025-12-20",
-      "startTimeIso": "2025-12-20T19:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "James Madison Dukes",
-      "teamCode": "JMU",
-      "Opponent": "Oregon Ducks",
-      "opponentCode": "ORE",
-      "rank": 743,
+      "rank": 877,
       "gameId": "119013"
     },
     {
@@ -1651,7 +1719,7 @@
       "teamCode": "ORE",
       "Opponent": "James Madison Dukes",
       "opponentCode": "JMU",
-      "rank": 754,
+      "rank": 888,
       "gameId": "119013"
     }
   ]
