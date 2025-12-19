@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Las Vegas Raiders",
-  "totalProps": 16,
+  "totalProps": 19,
   "props": [
     {
       "player": "Geno Smith",
@@ -21,7 +21,7 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3368,
+      "rank": 3632,
       "gameId": "115509"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3397,
+      "rank": 3665,
       "gameId": "115509"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3429,
+      "rank": 3697,
       "gameId": "115509"
     },
     {
       "player": "Brock Bowers",
       "stat": "Receiving Yards",
-      "line": 51.5,
+      "line": 50.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:25 PM CST",
       "startTimeCST": "12/21/25 03:25 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3430,
+      "rank": 3698,
       "gameId": "115509"
     },
     {
       "player": "Ashton Jeanty",
       "stat": "Rush Yards",
-      "line": 46.5,
+      "line": 44.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:25 PM CST",
       "startTimeCST": "12/21/25 03:25 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3441,
+      "rank": 3710,
       "gameId": "115509"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3457,
+      "rank": 3727,
       "gameId": "115509"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3458,
+      "rank": 3728,
       "gameId": "115509"
     },
     {
       "player": "Tre Tucker",
       "stat": "Receiving Yards",
-      "line": 24.5,
+      "line": 27.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:25 PM CST",
       "startTimeCST": "12/21/25 03:25 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3480,
+      "rank": 3749,
       "gameId": "115509"
     },
     {
@@ -157,7 +157,24 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3485,
+      "rank": 3758,
+      "gameId": "115509"
+    },
+    {
+      "player": "Jack Bech",
+      "stat": "Receiving Yards",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:25 PM CST",
+      "startTimeCST": "12/21/25 03:25 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 3760,
       "gameId": "115509"
     },
     {
@@ -174,7 +191,24 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3487,
+      "rank": 3761,
+      "gameId": "115509"
+    },
+    {
+      "player": "Tyler Lockett",
+      "stat": "Receiving Yards",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:25 PM CST",
+      "startTimeCST": "12/21/25 03:25 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 3767,
       "gameId": "115509"
     },
     {
@@ -191,30 +225,13 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3499,
-      "gameId": "115509"
-    },
-    {
-      "player": "Tyler Lockett",
-      "stat": "Receiving Yards",
-      "line": 17.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 03:25 PM CST",
-      "startTimeCST": "12/21/25 03:25 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3500,
+      "rank": 3775,
       "gameId": "115509"
     },
     {
       "player": "Tre Tucker",
       "stat": "Longest Reception",
-      "line": 14.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:25 PM CST",
       "startTimeCST": "12/21/25 03:25 PM CST",
@@ -225,7 +242,24 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3505,
+      "rank": 3778,
+      "gameId": "115509"
+    },
+    {
+      "player": "Jack Bech",
+      "stat": "Longest Reception",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:25 PM CST",
+      "startTimeCST": "12/21/25 03:25 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 3781,
       "gameId": "115509"
     },
     {
@@ -242,7 +276,7 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3506,
+      "rank": 3782,
       "gameId": "115509"
     },
     {
@@ -259,7 +293,24 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3507,
+      "rank": 3783,
+      "gameId": "115509"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Longest Rush",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:25 PM CST",
+      "startTimeCST": "12/21/25 03:25 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 3785,
       "gameId": "115509"
     },
     {
@@ -276,7 +327,7 @@
       "teamCode": "LV",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3513,
+      "rank": 3790,
       "gameId": "115509"
     }
   ]

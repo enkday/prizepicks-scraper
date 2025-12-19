@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1054,
+      "rank": 858,
       "gameId": "115500"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1676,
+      "rank": 1636,
       "gameId": "115500"
     },
     {
       "player": "Tony Pollard",
       "stat": "Rush Yards",
-      "line": 51.5,
+      "line": 56.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1707,
+      "rank": 1676,
       "gameId": "115500"
     },
     {
@@ -72,24 +72,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1736,
-      "gameId": "115500"
-    },
-    {
-      "player": "Chimere Dike",
-      "stat": "Receiving Yards",
-      "line": 31.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 1737,
+      "rank": 1720,
       "gameId": "115500"
     },
     {
@@ -106,7 +89,24 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1739,
+      "rank": 1722,
+      "gameId": "115500"
+    },
+    {
+      "player": "Chimere Dike",
+      "stat": "Receiving Yards",
+      "line": 30.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1723,
       "gameId": "115500"
     },
     {
@@ -123,7 +123,24 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1759,
+      "rank": 1749,
+      "gameId": "115500"
+    },
+    {
+      "player": "Gunnar Helm",
+      "stat": "Receiving Yards",
+      "line": 25.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1750,
       "gameId": "115500"
     },
     {
@@ -140,24 +157,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1760,
-      "gameId": "115500"
-    },
-    {
-      "player": "Gunnar Helm",
-      "stat": "Receiving Yards",
-      "line": 24.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 1766,
+      "rank": 1751,
       "gameId": "115500"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1772,
+      "rank": 1769,
       "gameId": "115500"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1789,
+      "rank": 1793,
       "gameId": "115500"
     },
     {
@@ -208,13 +208,13 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1790,
+      "rank": 1794,
       "gameId": "115500"
     },
     {
       "player": "Chimere Dike",
       "stat": "Longest Reception",
-      "line": 16.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -225,13 +225,13 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1794,
+      "rank": 1802,
       "gameId": "115500"
     },
     {
       "player": "Elic Ayomanor",
       "stat": "Longest Reception",
-      "line": 14.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -242,7 +242,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1797,
+      "rank": 1803,
       "gameId": "115500"
     },
     {
@@ -259,7 +259,24 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1799,
+      "rank": 1810,
+      "gameId": "115500"
+    },
+    {
+      "player": "Chig Okonkwo",
+      "stat": "Longest Reception",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1811,
       "gameId": "115500"
     },
     {
@@ -276,24 +293,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1800,
-      "gameId": "115500"
-    },
-    {
-      "player": "Chig Okonkwo",
-      "stat": "Longest Reception",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 1802,
+      "rank": 1812,
       "gameId": "115500"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1803,
+      "rank": 1814,
       "gameId": "115500"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1806,
+      "rank": 1819,
       "gameId": "115500"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1809,
+      "rank": 1828,
       "gameId": "115500"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1812,
+      "rank": 1834,
       "gameId": "115500"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1814,
+      "rank": 1836,
       "gameId": "115500"
     },
     {
@@ -395,24 +395,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1816,
-      "gameId": "115500"
-    },
-    {
-      "player": "Tony Pollard",
-      "stat": "Longest Reception",
-      "line": 5.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 1818,
+      "rank": 1839,
       "gameId": "115500"
     },
     {
@@ -429,7 +412,24 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1827,
+      "rank": 1847,
+      "gameId": "115500"
+    },
+    {
+      "player": "Joey Slye",
+      "stat": "PAT Made",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1891,
       "gameId": "115500"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "TEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1857,
+      "rank": 1892,
       "gameId": "115500"
     }
   ]

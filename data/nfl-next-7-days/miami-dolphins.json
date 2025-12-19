@@ -1,12 +1,29 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Miami Dolphins",
-  "totalProps": 20,
+  "totalProps": 23,
   "props": [
+    {
+      "player": "Quinn Ewers",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 881,
+      "gameId": "115821"
+    },
     {
       "player": "Quinn Ewers",
       "stat": "Pass Yards",
@@ -21,13 +38,13 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2430,
+      "rank": 2526,
       "gameId": "115821"
     },
     {
       "player": "De'Von Achane",
       "stat": "Rush Yards",
-      "line": 87.5,
+      "line": 82.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -38,13 +55,13 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2448,
+      "rank": 2553,
       "gameId": "115821"
     },
     {
       "player": "Jaylen Waddle",
       "stat": "Receiving Yards",
-      "line": 58.5,
+      "line": 54.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -55,13 +72,13 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2471,
+      "rank": 2579,
       "gameId": "115821"
     },
     {
       "player": "Quinn Ewers",
       "stat": "Longest Completion",
-      "line": 33.5,
+      "line": 32.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -72,13 +89,13 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2497,
+      "rank": 2607,
       "gameId": "115821"
     },
     {
       "player": "De'Von Achane",
       "stat": "Receiving Yards",
-      "line": 28.5,
+      "line": 27.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -89,7 +106,7 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2514,
+      "rank": 2624,
       "gameId": "115821"
     },
     {
@@ -106,13 +123,13 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2515,
+      "rank": 2625,
       "gameId": "115821"
     },
     {
       "player": "Darren Waller",
       "stat": "Receiving Yards",
-      "line": 26.5,
+      "line": 27.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -123,13 +140,13 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2516,
+      "rank": 2626,
       "gameId": "115821"
     },
     {
       "player": "Jaylen Waddle",
       "stat": "Longest Reception",
-      "line": 24.5,
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -140,7 +157,24 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2520,
+      "rank": 2633,
+      "gameId": "115821"
+    },
+    {
+      "player": "Malik Washington",
+      "stat": "Receiving Yards",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 2639,
       "gameId": "115821"
     },
     {
@@ -157,11 +191,11 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2528,
+      "rank": 2641,
       "gameId": "115821"
     },
     {
-      "player": "Malik Washington",
+      "player": "Greg Dulcich",
       "stat": "Receiving Yards",
       "line": 18.5,
       "sport": "NFL",
@@ -174,24 +208,7 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2545,
-      "gameId": "115821"
-    },
-    {
-      "player": "Greg Dulcich",
-      "stat": "Receiving Yards",
-      "line": 17.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "Cincinnati Bengals",
-      "opponentCode": "CIN",
-      "rank": 2546,
+      "rank": 2660,
       "gameId": "115821"
     },
     {
@@ -208,13 +225,13 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2548,
+      "rank": 2662,
       "gameId": "115821"
     },
     {
       "player": "De'Von Achane",
       "stat": "Rush Attempts",
-      "line": 17.5,
+      "line": 17,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -225,7 +242,7 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2549,
+      "rank": 2663,
       "gameId": "115821"
     },
     {
@@ -242,7 +259,7 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2552,
+      "rank": 2666,
       "gameId": "115821"
     },
     {
@@ -259,13 +276,13 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2557,
+      "rank": 2672,
       "gameId": "115821"
     },
     {
       "player": "Malik Washington",
       "stat": "Longest Reception",
-      "line": 12.5,
+      "line": 13.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -276,7 +293,7 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2559,
+      "rank": 2673,
       "gameId": "115821"
     },
     {
@@ -293,12 +310,12 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2560,
+      "rank": 2674,
       "gameId": "115821"
     },
     {
-      "player": "Riley Patterson",
-      "stat": "Kicking Points",
+      "player": "Jaylen Waddle",
+      "stat": "Rec Targets",
       "line": 6.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
@@ -310,7 +327,7 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2576,
+      "rank": 2694,
       "gameId": "115821"
     },
     {
@@ -327,7 +344,24 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2579,
+      "rank": 2697,
+      "gameId": "115821"
+    },
+    {
+      "player": "De'Von Achane",
+      "stat": "Rec Targets",
+      "line": 5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 2700,
       "gameId": "115821"
     },
     {
@@ -344,7 +378,24 @@
       "teamCode": "MIA",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 2583,
+      "rank": 2702,
+      "gameId": "115821"
+    },
+    {
+      "player": "Darren Waller",
+      "stat": "Rec Targets",
+      "line": 4,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 2706,
       "gameId": "115821"
     }
   ]

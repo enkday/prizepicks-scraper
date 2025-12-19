@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Indianapolis Colts",
-  "totalProps": 22,
+  "totalProps": 23,
   "props": [
     {
       "player": "Philip Rivers",
       "stat": "Pass Yards",
-      "line": 154.5,
+      "line": 157.5,
       "sport": "NFL",
       "startTime": "12/22/25 07:15 PM CST",
       "startTimeCST": "12/22/25 07:15 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4318,
+      "rank": 4671,
       "gameId": "116004"
     },
     {
       "player": "Jonathan Taylor",
       "stat": "Rush Yards",
-      "line": 99.5,
+      "line": 93.5,
       "sport": "NFL",
       "startTime": "12/22/25 07:15 PM CST",
       "startTimeCST": "12/22/25 07:15 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4335,
+      "rank": 4691,
       "gameId": "116004"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4378,
+      "rank": 4737,
       "gameId": "116004"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4379,
+      "rank": 4738,
       "gameId": "116004"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4395,
+      "rank": 4755,
       "gameId": "116004"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4396,
+      "rank": 4756,
       "gameId": "116004"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4403,
+      "rank": 4763,
       "gameId": "116004"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4407,
+      "rank": 4768,
       "gameId": "116004"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4421,
+      "rank": 4781,
       "gameId": "116004"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4429,
+      "rank": 4790,
       "gameId": "116004"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4430,
+      "rank": 4791,
       "gameId": "116004"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4431,
+      "rank": 4792,
       "gameId": "116004"
     },
     {
@@ -225,13 +225,13 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4433,
+      "rank": 4795,
       "gameId": "116004"
     },
     {
       "player": "Tyler Warren",
       "stat": "Longest Reception",
-      "line": 14.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/22/25 07:15 PM CST",
       "startTimeCST": "12/22/25 07:15 PM CST",
@@ -242,7 +242,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4436,
+      "rank": 4796,
       "gameId": "116004"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4437,
+      "rank": 4800,
       "gameId": "116004"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4439,
+      "rank": 4802,
       "gameId": "116004"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4440,
+      "rank": 4803,
       "gameId": "116004"
     },
     {
@@ -310,7 +310,41 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4445,
+      "rank": 4813,
+      "gameId": "116004"
+    },
+    {
+      "player": "Tyler Warren",
+      "stat": "Rec Targets",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/22/25 07:15 PM CST",
+      "startTimeCST": "12/22/25 07:15 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4824,
+      "gameId": "116004"
+    },
+    {
+      "player": "Tyler Warren",
+      "stat": "Receptions",
+      "line": 4,
+      "sport": "NFL",
+      "startTime": "12/22/25 07:15 PM CST",
+      "startTimeCST": "12/22/25 07:15 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4828,
       "gameId": "116004"
     },
     {
@@ -327,24 +361,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4454,
-      "gameId": "116004"
-    },
-    {
-      "player": "Blake Grupe",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NFL",
-      "startTime": "12/22/25 07:15 PM CST",
-      "startTimeCST": "12/22/25 07:15 PM CST",
-      "startDateCST": "2025-12-22",
-      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Indianapolis Colts",
-      "teamCode": "IND",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 4471,
+      "rank": 4832,
       "gameId": "116004"
     },
     {
@@ -361,7 +378,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4472,
+      "rank": 4857,
       "gameId": "116004"
     },
     {
@@ -378,7 +395,7 @@
       "teamCode": "IND",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4484,
+      "rank": 4869,
       "gameId": "116004"
     }
   ]

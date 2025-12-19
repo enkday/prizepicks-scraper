@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 1058,
+      "rank": 870,
       "gameId": "115504"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 1059,
+      "rank": 871,
       "gameId": "115504"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 1060,
+      "rank": 872,
       "gameId": "115504"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 1061,
+      "rank": 873,
       "gameId": "115504"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 1062,
+      "rank": 875,
       "gameId": "115504"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2125,
+      "rank": 2199,
       "gameId": "115504"
     },
     {
@@ -123,24 +123,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2162,
-      "gameId": "115504"
-    },
-    {
-      "player": "Javonte Williams",
-      "stat": "Rush Yards",
-      "line": 74.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 2163,
+      "rank": 2238,
       "gameId": "115504"
     },
     {
@@ -157,7 +140,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2164,
+      "rank": 2239,
       "gameId": "115504"
     },
     {
@@ -174,7 +157,24 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2174,
+      "rank": 2248,
+      "gameId": "115504"
+    },
+    {
+      "player": "Jake Ferguson",
+      "stat": "Receiving Yards",
+      "line": 38.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 2292,
       "gameId": "115504"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2221,
+      "rank": 2295,
       "gameId": "115504"
     },
     {
@@ -208,30 +208,13 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2224,
-      "gameId": "115504"
-    },
-    {
-      "player": "Jake Ferguson",
-      "stat": "Receiving Yards",
-      "line": 34.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 2225,
+      "rank": 2298,
       "gameId": "115504"
     },
     {
       "player": "Ryan Flournoy",
       "stat": "Receiving Yards",
-      "line": 28.5,
+      "line": 31.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -242,7 +225,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2251,
+      "rank": 2303,
       "gameId": "115504"
     },
     {
@@ -259,13 +242,13 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2253,
+      "rank": 2328,
       "gameId": "115504"
     },
     {
       "player": "George Pickens",
       "stat": "Longest Reception",
-      "line": 23.5,
+      "line": 24.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -276,7 +259,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2267,
+      "rank": 2331,
       "gameId": "115504"
     },
     {
@@ -293,13 +276,13 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2268,
+      "rank": 2344,
       "gameId": "115504"
     },
     {
       "player": "Javonte Williams",
       "stat": "Rush Attempts",
-      "line": 17.5,
+      "line": 16.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -310,7 +293,24 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2294,
+      "rank": 2376,
+      "gameId": "115504"
+    },
+    {
+      "player": "Jake Ferguson",
+      "stat": "Longest Reception",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 2377,
       "gameId": "115504"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2299,
+      "rank": 2378,
       "gameId": "115504"
     },
     {
@@ -344,12 +344,12 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2300,
+      "rank": 2379,
       "gameId": "115504"
     },
     {
-      "player": "Jake Ferguson",
-      "stat": "Longest Reception",
+      "player": "KaVontae Turpin",
+      "stat": "Receiving Yards",
       "line": 14.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
@@ -361,12 +361,12 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2301,
+      "rank": 2380,
       "gameId": "115504"
     },
     {
       "player": "KaVontae Turpin",
-      "stat": "Receiving Yards",
+      "stat": "Longest Reception",
       "line": 11.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
@@ -378,30 +378,13 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2307,
-      "gameId": "115504"
-    },
-    {
-      "player": "KaVontae Turpin",
-      "stat": "Longest Reception",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 2313,
+      "rank": 2395,
       "gameId": "115504"
     },
     {
       "player": "CeeDee Lamb",
       "stat": "Rec Targets",
-      "line": 9.5,
+      "line": 9,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -412,7 +395,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2316,
+      "rank": 2409,
       "gameId": "115504"
     },
     {
@@ -429,7 +412,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2317,
+      "rank": 2410,
       "gameId": "115504"
     },
     {
@@ -446,7 +429,24 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2320,
+      "rank": 2413,
+      "gameId": "115504"
+    },
+    {
+      "player": "Javonte Williams",
+      "stat": "Receiving Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 2416,
       "gameId": "115504"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2328,
+      "rank": 2421,
       "gameId": "115504"
     },
     {
@@ -480,12 +480,12 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2332,
+      "rank": 2426,
       "gameId": "115504"
     },
     {
       "player": "Javonte Williams",
-      "stat": "Receiving Yards",
+      "stat": "Longest Reception",
       "line": 6.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
@@ -497,7 +497,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2335,
+      "rank": 2429,
       "gameId": "115504"
     },
     {
@@ -514,13 +514,13 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2336,
+      "rank": 2430,
       "gameId": "115504"
     },
     {
-      "player": "Javonte Williams",
-      "stat": "Longest Reception",
-      "line": 5.5,
+      "player": "Jake Ferguson",
+      "stat": "Rec Targets",
+      "line": 6,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -531,7 +531,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2345,
+      "rank": 2431,
       "gameId": "115504"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2364,
+      "rank": 2459,
       "gameId": "115504"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "DAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2402,
+      "rank": 2495,
       "gameId": "115504"
     }
   ]

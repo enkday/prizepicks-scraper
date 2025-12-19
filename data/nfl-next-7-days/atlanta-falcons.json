@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Atlanta Falcons",
-  "totalProps": 22,
+  "totalProps": 27,
   "props": [
     {
       "player": "Kirk Cousins",
@@ -21,13 +21,30 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2859,
+      "rank": 3000,
+      "gameId": "115506"
+    },
+    {
+      "player": "Kirk Cousins",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 3003,
       "gameId": "115506"
     },
     {
       "player": "Kirk Cousins",
       "stat": "Pass Yards",
-      "line": 231.5,
+      "line": 229.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -38,13 +55,13 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2880,
+      "rank": 3032,
       "gameId": "115506"
     },
     {
       "player": "Bijan Robinson",
       "stat": "Rush Yards",
-      "line": 85.5,
+      "line": 86.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -55,7 +72,24 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2910,
+      "rank": 3065,
+      "gameId": "115506"
+    },
+    {
+      "player": "Drake London",
+      "stat": "Receiving Yards",
+      "line": 72.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 3075,
       "gameId": "115506"
     },
     {
@@ -72,13 +106,13 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2934,
+      "rank": 3093,
       "gameId": "115506"
     },
     {
       "player": "Kyle Pitts",
       "stat": "Receiving Yards",
-      "line": 48.5,
+      "line": 49.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -89,13 +123,13 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2944,
+      "rank": 3100,
       "gameId": "115506"
     },
     {
       "player": "Bijan Robinson",
       "stat": "Receiving Yards",
-      "line": 34.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -106,7 +140,7 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2961,
+      "rank": 3120,
       "gameId": "115506"
     },
     {
@@ -123,7 +157,7 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2962,
+      "rank": 3123,
       "gameId": "115506"
     },
     {
@@ -140,13 +174,13 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2964,
+      "rank": 3125,
       "gameId": "115506"
     },
     {
       "player": "Tyler Allgeier",
       "stat": "Rush Yards",
-      "line": 28.5,
+      "line": 29.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -157,13 +191,13 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2981,
+      "rank": 3139,
       "gameId": "115506"
     },
     {
       "player": "Darnell Mooney",
       "stat": "Receiving Yards",
-      "line": 26.5,
+      "line": 24.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -174,7 +208,24 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2983,
+      "rank": 3152,
+      "gameId": "115506"
+    },
+    {
+      "player": "Drake London",
+      "stat": "Longest Reception",
+      "line": 23.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 3154,
       "gameId": "115506"
     },
     {
@@ -191,7 +242,7 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2996,
+      "rank": 3159,
       "gameId": "115506"
     },
     {
@@ -208,7 +259,24 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3008,
+      "rank": 3171,
+      "gameId": "115506"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Longest Rush",
+      "line": 18.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 3177,
       "gameId": "115506"
     },
     {
@@ -225,13 +293,13 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3013,
+      "rank": 3178,
       "gameId": "115506"
     },
     {
       "player": "Bijan Robinson",
-      "stat": "Longest Rush",
-      "line": 16.5,
+      "stat": "Longest Reception",
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -242,13 +310,13 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3016,
+      "rank": 3181,
       "gameId": "115506"
     },
     {
       "player": "Darnell Mooney",
       "stat": "Longest Reception",
-      "line": 16.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -259,24 +327,7 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3017,
-      "gameId": "115506"
-    },
-    {
-      "player": "Bijan Robinson",
-      "stat": "Longest Reception",
-      "line": 14.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 03:05 PM CST",
-      "startTimeCST": "12/21/25 03:05 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 3018,
+      "rank": 3182,
       "gameId": "115506"
     },
     {
@@ -293,7 +344,7 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3023,
+      "rank": 3188,
       "gameId": "115506"
     },
     {
@@ -310,7 +361,41 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3033,
+      "rank": 3200,
+      "gameId": "115506"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "stat": "Rush Attempts",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 3202,
+      "gameId": "115506"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Receptions",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 3212,
       "gameId": "115506"
     },
     {
@@ -327,7 +412,7 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3043,
+      "rank": 3213,
       "gameId": "115506"
     },
     {
@@ -344,7 +429,7 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3065,
+      "rank": 3235,
       "gameId": "115506"
     },
     {
@@ -361,7 +446,7 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3078,
+      "rank": 3248,
       "gameId": "115506"
     },
     {
@@ -378,7 +463,7 @@
       "teamCode": "ATL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 3087,
+      "rank": 3256,
       "gameId": "115506"
     }
   ]

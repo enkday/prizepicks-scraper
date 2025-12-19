@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New England Patriots",
-  "totalProps": 40,
+  "totalProps": 44,
   "props": [
     {
       "player": "TreVeyon Henderson",
@@ -21,7 +21,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3878,
+      "rank": 4208,
       "gameId": "115501"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3879,
+      "rank": 4209,
       "gameId": "115501"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3880,
+      "rank": 4210,
       "gameId": "115501"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3884,
+      "rank": 4215,
       "gameId": "115501"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3887,
+      "rank": 4219,
       "gameId": "115501"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3888,
+      "rank": 4220,
       "gameId": "115501"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3907,
+      "rank": 4244,
       "gameId": "115501"
     },
     {
@@ -140,13 +140,13 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3979,
+      "rank": 4315,
       "gameId": "115501"
     },
     {
       "player": "Stefon Diggs",
       "stat": "Receiving Yards",
-      "line": 42.5,
+      "line": 41.5,
       "sport": "NFL",
       "startTime": "12/21/25 07:20 PM CST",
       "startTimeCST": "12/21/25 07:20 PM CST",
@@ -157,13 +157,13 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3998,
+      "rank": 4334,
       "gameId": "115501"
     },
     {
       "player": "Hunter Henry",
       "stat": "Receiving Yards",
-      "line": 39.5,
+      "line": 40.5,
       "sport": "NFL",
       "startTime": "12/21/25 07:20 PM CST",
       "startTimeCST": "12/21/25 07:20 PM CST",
@@ -174,24 +174,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4001,
-      "gameId": "115501"
-    },
-    {
-      "player": "Mack Hollins",
-      "stat": "Receiving Yards",
-      "line": 37.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 07:20 PM CST",
-      "startTimeCST": "12/21/25 07:20 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 4020,
+      "rank": 4335,
       "gameId": "115501"
     },
     {
@@ -208,13 +191,13 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4021,
+      "rank": 4356,
       "gameId": "115501"
     },
     {
-      "player": "Kayshon Boutte",
+      "player": "Mack Hollins",
       "stat": "Receiving Yards",
-      "line": 33.5,
+      "line": 34.5,
       "sport": "NFL",
       "startTime": "12/21/25 07:20 PM CST",
       "startTimeCST": "12/21/25 07:20 PM CST",
@@ -225,7 +208,24 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4025,
+      "rank": 4358,
+      "gameId": "115501"
+    },
+    {
+      "player": "Kayshon Boutte",
+      "stat": "Receiving Yards",
+      "line": 32.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 07:20 PM CST",
+      "startTimeCST": "12/21/25 07:20 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 4361,
       "gameId": "115501"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4027,
+      "rank": 4363,
       "gameId": "115501"
     },
     {
@@ -259,30 +259,13 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4028,
-      "gameId": "115501"
-    },
-    {
-      "player": "Drake Maye",
-      "stat": "Rush Yards",
-      "line": 21.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 07:20 PM CST",
-      "startTimeCST": "12/21/25 07:20 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 4075,
+      "rank": 4365,
       "gameId": "115501"
     },
     {
       "player": "Drake Maye",
       "stat": "Pass Completions",
-      "line": 21,
+      "line": 20.5,
       "sport": "NFL",
       "startTime": "12/21/25 07:20 PM CST",
       "startTimeCST": "12/21/25 07:20 PM CST",
@@ -293,7 +276,24 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4077,
+      "rank": 4412,
+      "gameId": "115501"
+    },
+    {
+      "player": "Drake Maye",
+      "stat": "Rush Yards",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 07:20 PM CST",
+      "startTimeCST": "12/21/25 07:20 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 4413,
       "gameId": "115501"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4082,
+      "rank": 4418,
       "gameId": "115501"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4109,
+      "rank": 4445,
       "gameId": "115501"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4110,
+      "rank": 4446,
       "gameId": "115501"
     },
     {
@@ -361,7 +361,24 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4112,
+      "rank": 4448,
+      "gameId": "115501"
+    },
+    {
+      "player": "DeMario Douglas",
+      "stat": "Receiving Yards",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 07:20 PM CST",
+      "startTimeCST": "12/21/25 07:20 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 4453,
       "gameId": "115501"
     },
     {
@@ -378,24 +395,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4118,
-      "gameId": "115501"
-    },
-    {
-      "player": "DeMario Douglas",
-      "stat": "Receiving Yards",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 07:20 PM CST",
-      "startTimeCST": "12/21/25 07:20 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 4132,
+      "rank": 4455,
       "gameId": "115501"
     },
     {
@@ -412,13 +412,13 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4133,
+      "rank": 4469,
       "gameId": "115501"
     },
     {
       "player": "TreVeyon Henderson",
       "stat": "Rush Attempts",
-      "line": 13,
+      "line": 13.5,
       "sport": "NFL",
       "startTime": "12/21/25 07:20 PM CST",
       "startTimeCST": "12/21/25 07:20 PM CST",
@@ -429,7 +429,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4135,
+      "rank": 4470,
       "gameId": "115501"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4136,
+      "rank": 4472,
       "gameId": "115501"
     },
     {
@@ -463,12 +463,29 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4137,
+      "rank": 4473,
       "gameId": "115501"
     },
     {
       "player": "DeMario Douglas",
       "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 07:20 PM CST",
+      "startTimeCST": "12/21/25 07:20 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 4474,
+      "gameId": "115501"
+    },
+    {
+      "player": "Rhamondre Stevenson",
+      "stat": "Longest Rush",
       "line": 10.5,
       "sport": "NFL",
       "startTime": "12/21/25 07:20 PM CST",
@@ -480,7 +497,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4140,
+      "rank": 4477,
       "gameId": "115501"
     },
     {
@@ -497,24 +514,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4145,
-      "gameId": "115501"
-    },
-    {
-      "player": "Rhamondre Stevenson",
-      "stat": "Longest Rush",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 07:20 PM CST",
-      "startTimeCST": "12/21/25 07:20 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 4146,
+      "rank": 4482,
       "gameId": "115501"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4156,
+      "rank": 4494,
       "gameId": "115501"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4163,
+      "rank": 4501,
       "gameId": "115501"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4177,
+      "rank": 4515,
       "gameId": "115501"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4178,
+      "rank": 4516,
       "gameId": "115501"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4186,
+      "rank": 4526,
       "gameId": "115501"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4187,
+      "rank": 4527,
       "gameId": "115501"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4198,
+      "rank": 4540,
       "gameId": "115501"
     },
     {
@@ -650,7 +650,58 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4208,
+      "rank": 4549,
+      "gameId": "115501"
+    },
+    {
+      "player": "TreVeyon Henderson",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 07:20 PM CST",
+      "startTimeCST": "12/21/25 07:20 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 4564,
+      "gameId": "115501"
+    },
+    {
+      "player": "Craig Woodson",
+      "stat": "Assists",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 07:20 PM CST",
+      "startTimeCST": "12/21/25 07:20 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 4571,
+      "gameId": "115501"
+    },
+    {
+      "player": "Rhamondre Stevenson",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 07:20 PM CST",
+      "startTimeCST": "12/21/25 07:20 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 4572,
       "gameId": "115501"
     },
     {
@@ -667,13 +718,13 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4229,
+      "rank": 4573,
       "gameId": "115501"
     },
     {
-      "player": "Drake Maye",
-      "stat": "INT",
-      "line": 0.5,
+      "player": "TreVeyon Henderson",
+      "stat": "Receptions",
+      "line": 2,
       "sport": "NFL",
       "startTime": "12/21/25 07:20 PM CST",
       "startTimeCST": "12/21/25 07:20 PM CST",
@@ -684,7 +735,24 @@
       "teamCode": "NE",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 4275,
+      "rank": 4574,
+      "gameId": "115501"
+    },
+    {
+      "player": "Drake Maye",
+      "stat": "Pass TDs",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 07:20 PM CST",
+      "startTimeCST": "12/21/25 07:20 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 4579,
       "gameId": "115501"
     }
   ]

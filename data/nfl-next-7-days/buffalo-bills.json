@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Buffalo Bills",
-  "totalProps": 18,
+  "totalProps": 24,
   "props": [
     {
       "player": "James Cook",
@@ -21,7 +21,7 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1055,
+      "rank": 861,
       "gameId": "115502"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1056,
+      "rank": 866,
       "gameId": "115502"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1896,
+      "rank": 1930,
       "gameId": "115502"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1923,
+      "rank": 1960,
       "gameId": "115502"
     },
     {
       "player": "Khalil Shakir",
       "stat": "Receiving Yards",
-      "line": 41.5,
+      "line": 42.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -89,30 +89,13 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1951,
-      "gameId": "115502"
-    },
-    {
-      "player": "Josh Allen",
-      "stat": "Rush Yards",
-      "line": 35.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 1962,
+      "rank": 1993,
       "gameId": "115502"
     },
     {
       "player": "Dalton Kincaid",
       "stat": "Receiving Yards",
-      "line": 35.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -123,7 +106,7 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1964,
+      "rank": 2006,
       "gameId": "115502"
     },
     {
@@ -140,7 +123,24 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1965,
+      "rank": 2008,
+      "gameId": "115502"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Rush Yards",
+      "line": 34.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2009,
       "gameId": "115502"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1986,
+      "rank": 2034,
       "gameId": "115502"
     },
     {
@@ -174,7 +174,41 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2007,
+      "rank": 2058,
+      "gameId": "115502"
+    },
+    {
+      "player": "Khalil Shakir",
+      "stat": "Longest Reception",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2061,
+      "gameId": "115502"
+    },
+    {
+      "player": "Joshua Palmer",
+      "stat": "Receiving Yards",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2075,
       "gameId": "115502"
     },
     {
@@ -191,24 +225,7 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2019,
-      "gameId": "115502"
-    },
-    {
-      "player": "Khalil Shakir",
-      "stat": "Longest Reception",
-      "line": 18.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 2020,
+      "rank": 2077,
       "gameId": "115502"
     },
     {
@@ -225,13 +242,13 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2021,
+      "rank": 2078,
       "gameId": "115502"
     },
     {
-      "player": "James Cook",
+      "player": "Keon Coleman",
       "stat": "Receiving Yards",
-      "line": 17.5,
+      "line": 18.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -242,7 +259,7 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2024,
+      "rank": 2079,
       "gameId": "115502"
     },
     {
@@ -259,7 +276,58 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2029,
+      "rank": 2084,
+      "gameId": "115502"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Receiving Yards",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2086,
+      "gameId": "115502"
+    },
+    {
+      "player": "Joshua Palmer",
+      "stat": "Longest Reception",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2096,
+      "gameId": "115502"
+    },
+    {
+      "player": "Keon Coleman",
+      "stat": "Longest Reception",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2097,
       "gameId": "115502"
     },
     {
@@ -276,7 +344,7 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2034,
+      "rank": 2099,
       "gameId": "115502"
     },
     {
@@ -293,7 +361,7 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2042,
+      "rank": 2106,
       "gameId": "115502"
     },
     {
@@ -310,7 +378,41 @@
       "teamCode": "BUF",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2048,
+      "rank": 2113,
+      "gameId": "115502"
+    },
+    {
+      "player": "Joshua Palmer",
+      "stat": "Receptions",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2154,
+      "gameId": "115502"
+    },
+    {
+      "player": "Keon Coleman",
+      "stat": "Receptions",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2155,
       "gameId": "115502"
     }
   ]

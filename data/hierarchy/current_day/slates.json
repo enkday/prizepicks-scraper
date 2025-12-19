@@ -1,17 +1,19 @@
 [
   {
     "dayBranch": "current_day",
+    "slate": "Early",
+    "gameIds": [
+      "119009",
+      "119078"
+    ],
+    "totalProps": 2
+  },
+  {
+    "dayBranch": "current_day",
     "slate": "Late",
     "gameIds": [
-      "114914",
-      "114587",
-      "114916",
-      "114917",
-      "114920",
-      "114919",
-      "114918",
-      "114924"
+      "119010"
     ],
-    "totalProps": 110
+    "totalProps": 30
   }
 ]

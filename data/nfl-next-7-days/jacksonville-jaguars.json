@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 26,
+  "totalProps": 33,
   "props": [
     {
       "player": "Jakobi Meyers",
@@ -21,7 +21,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2861,
+      "rank": 3004,
       "gameId": "115507"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2865,
+      "rank": 3012,
       "gameId": "115507"
     },
     {
       "player": "Trevor Lawrence",
       "stat": "Pass Yards",
-      "line": 225.5,
+      "line": 223.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3105,
+      "rank": 3278,
       "gameId": "115507"
     },
     {
       "player": "Travis Etienne",
       "stat": "Rush Yards",
-      "line": 62.5,
+      "line": 60.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3142,
+      "rank": 3319,
       "gameId": "115507"
     },
     {
@@ -89,13 +89,13 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3150,
+      "rank": 3329,
       "gameId": "115507"
     },
     {
       "player": "Brian Thomas",
       "stat": "Receiving Yards",
-      "line": 47.5,
+      "line": 45.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3161,
+      "rank": 3342,
       "gameId": "115507"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3180,
+      "rank": 3364,
       "gameId": "115507"
     },
     {
       "player": "Trevor Lawrence",
       "stat": "Longest Completion",
-      "line": 35.5,
+      "line": 34.5,
       "sport": "NFL",
       "startTime": "12/21/25 03:05 PM CST",
       "startTimeCST": "12/21/25 03:05 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3185,
+      "rank": 3369,
       "gameId": "115507"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3187,
+      "rank": 3372,
       "gameId": "115507"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3208,
+      "rank": 3395,
       "gameId": "115507"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3224,
+      "rank": 3411,
       "gameId": "115507"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3225,
+      "rank": 3412,
       "gameId": "115507"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3226,
+      "rank": 3413,
       "gameId": "115507"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3227,
+      "rank": 3414,
       "gameId": "115507"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3246,
+      "rank": 3438,
       "gameId": "115507"
     },
     {
@@ -276,7 +276,24 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3249,
+      "rank": 3441,
+      "gameId": "115507"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3444,
       "gameId": "115507"
     },
     {
@@ -293,7 +310,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3253,
+      "rank": 3460,
       "gameId": "115507"
     },
     {
@@ -310,7 +327,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3255,
+      "rank": 3463,
       "gameId": "115507"
     },
     {
@@ -327,7 +344,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3258,
+      "rank": 3468,
       "gameId": "115507"
     },
     {
@@ -344,7 +361,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3262,
+      "rank": 3484,
       "gameId": "115507"
     },
     {
@@ -361,7 +378,41 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3263,
+      "rank": 3485,
+      "gameId": "115507"
+    },
+    {
+      "player": "Jakobi Meyers",
+      "stat": "Rec Targets",
+      "line": 7,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3491,
+      "gameId": "115507"
+    },
+    {
+      "player": "Brian Thomas",
+      "stat": "Rec Targets",
+      "line": 6,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3498,
       "gameId": "115507"
     },
     {
@@ -378,7 +429,24 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3281,
+      "rank": 3509,
+      "gameId": "115507"
+    },
+    {
+      "player": "Brenton Strange",
+      "stat": "Rec Targets",
+      "line": 5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3511,
       "gameId": "115507"
     },
     {
@@ -395,7 +463,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3282,
+      "rank": 3512,
       "gameId": "115507"
     },
     {
@@ -412,7 +480,58 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3288,
+      "rank": 3527,
+      "gameId": "115507"
+    },
+    {
+      "player": "Parker Washington",
+      "stat": "Rec Targets",
+      "line": 3.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3543,
+      "gameId": "115507"
+    },
+    {
+      "player": "Parker Washington",
+      "stat": "Receptions",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3556,
+      "gameId": "115507"
+    },
+    {
+      "player": "Travis Etienne",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 03:05 PM CST",
+      "startTimeCST": "12/21/25 03:05 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3560,
       "gameId": "115507"
     },
     {
@@ -429,7 +548,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3330,
+      "rank": 3584,
       "gameId": "115507"
     },
     {
@@ -446,7 +565,7 @@
       "teamCode": "JAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 3358,
+      "rank": 3611,
       "gameId": "115507"
     }
   ]

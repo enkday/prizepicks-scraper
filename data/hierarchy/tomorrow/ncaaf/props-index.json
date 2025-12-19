@@ -3,54 +3,54 @@
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
   "gameCount": 3,
-  "propCount": 23,
+  "propCount": 75,
   "games": [
     {
-      "gameId": "119009",
+      "gameId": "119011",
       "slate": "Early",
-      "startTime": "12/19/25 10:00 AM CST",
-      "startTimeIso": "2025-12-19T11:00:00.000-05:00",
+      "startTime": "12/20/25 11:00 AM CST",
+      "startTimeIso": "2025-12-20T12:00:00.000-05:00",
       "teams": [
-        "Kennesaw State Owls",
-        "Western Michigan Broncos"
-      ],
-      "propCount": 1,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119009.json"
-    },
-    {
-      "gameId": "119078",
-      "slate": "Early",
-      "startTime": "12/19/25 01:30 PM CST",
-      "startTimeIso": "2025-12-19T14:30:00.000-05:00",
-      "teams": [
-        "North Carolina State Wolfpack",
-        "Memphis Tigers"
-      ],
-      "propCount": 1,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119078.json"
-    },
-    {
-      "gameId": "119010",
-      "slate": "Late",
-      "startTime": "12/19/25 07:00 PM CST",
-      "startTimeIso": "2025-12-19T20:00:00.000-05:00",
-      "teams": [
-        "Alabama Crimson Tide",
-        "Oklahoma Sooners"
+        "Miami (FL) Hurricanes",
+        "Texas A&M Aggies"
       ],
       "propCount": 21,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119010.json"
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119011.json"
+    },
+    {
+      "gameId": "119012",
+      "slate": "Early",
+      "startTime": "12/20/25 02:30 PM CST",
+      "startTimeIso": "2025-12-20T15:30:00.000-05:00",
+      "teams": [
+        "Ole Miss Rebels",
+        "Tulane Green Wave"
+      ],
+      "propCount": 32,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119012.json"
+    },
+    {
+      "gameId": "119013",
+      "slate": "Late",
+      "startTime": "12/20/25 06:30 PM CST",
+      "startTimeIso": "2025-12-20T19:30:00.000-05:00",
+      "teams": [
+        "Oregon Ducks",
+        "James Madison Dukes"
+      ],
+      "propCount": 22,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119013.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 2,
+      "propCount": 53,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/early.json"
     },
     {
       "slate": "late",
-      "propCount": 21,
+      "propCount": 22,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]

@@ -3,17 +3,19 @@
     "dayBranch": "tomorrow",
     "slate": "Early",
     "gameIds": [
-      "119009",
-      "119078"
+      "119011",
+      "119012"
     ],
-    "totalProps": 2
+    "totalProps": 53
   },
   {
     "dayBranch": "tomorrow",
     "slate": "Late",
     "gameIds": [
-      "119010"
+      "119013",
+      "117899",
+      "117900"
     ],
-    "totalProps": 21
+    "totalProps": 152
   }
 ]

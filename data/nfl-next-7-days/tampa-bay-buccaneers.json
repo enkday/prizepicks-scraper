@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-18T12:31:05.637Z",
-  "scrapedDate": "Thursday, December 18, 2025 at 12:31 PM UTC",
+  "scrapedAt": "2025-12-19T12:30:05.910Z",
+  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 30,
+  "totalProps": 39,
   "props": [
     {
       "player": "Mike Evans",
@@ -21,7 +21,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1040,
+      "rank": 822,
       "gameId": "115503"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1042,
+      "rank": 824,
       "gameId": "115503"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1044,
+      "rank": 826,
       "gameId": "115503"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1046,
+      "rank": 831,
       "gameId": "115503"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1048,
+      "rank": 833,
       "gameId": "115503"
     },
     {
@@ -106,7 +106,24 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1049,
+      "rank": 835,
+      "gameId": "115503"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 837,
       "gameId": "115503"
     },
     {
@@ -123,7 +140,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1075,
+      "rank": 903,
       "gameId": "115503"
     },
     {
@@ -140,7 +157,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1121,
+      "rank": 952,
       "gameId": "115503"
     },
     {
@@ -157,7 +174,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1135,
+      "rank": 966,
       "gameId": "115503"
     },
     {
@@ -174,13 +191,13 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1150,
+      "rank": 982,
       "gameId": "115503"
     },
     {
       "player": "Baker Mayfield",
       "stat": "Longest Completion",
-      "line": 36.5,
+      "line": 35.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
       "startTimeCST": "12/21/25 12:00 PM CST",
@@ -191,29 +208,12 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1170,
+      "rank": 1006,
       "gameId": "115503"
     },
     {
       "player": "Chris Godwin",
       "stat": "Receiving Yards",
-      "line": 33.5,
-      "sport": "NFL",
-      "startTime": "12/21/25 12:00 PM CST",
-      "startTimeCST": "12/21/25 12:00 PM CST",
-      "startDateCST": "2025-12-21",
-      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1173,
-      "gameId": "115503"
-    },
-    {
-      "player": "Baker Mayfield",
-      "stat": "Pass Attempts",
       "line": 32.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
@@ -225,12 +225,46 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1174,
+      "rank": 1010,
+      "gameId": "115503"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Pass Attempts",
+      "line": 32,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1012,
       "gameId": "115503"
     },
     {
       "player": "Mike Evans",
       "stat": "Longest Reception",
+      "line": 23.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1057,
+      "gameId": "115503"
+    },
+    {
+      "player": "Cade Otton",
+      "stat": "Receiving Yards",
       "line": 22.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
@@ -242,7 +276,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1214,
+      "rank": 1059,
       "gameId": "115503"
     },
     {
@@ -259,7 +293,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1218,
+      "rank": 1061,
       "gameId": "115503"
     },
     {
@@ -276,11 +310,11 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1233,
+      "rank": 1077,
       "gameId": "115503"
     },
     {
-      "player": "Bucky Irving",
+      "player": "Jalen McMillan",
       "stat": "Receiving Yards",
       "line": 18.5,
       "sport": "NFL",
@@ -293,11 +327,11 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1242,
+      "rank": 1094,
       "gameId": "115503"
     },
     {
-      "player": "Jalen McMillan",
+      "player": "Bucky Irving",
       "stat": "Receiving Yards",
       "line": 17.5,
       "sport": "NFL",
@@ -310,7 +344,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1245,
+      "rank": 1098,
       "gameId": "115503"
     },
     {
@@ -327,7 +361,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1248,
+      "rank": 1100,
       "gameId": "115503"
     },
     {
@@ -344,7 +378,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1249,
+      "rank": 1101,
       "gameId": "115503"
     },
     {
@@ -361,7 +395,75 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1250,
+      "rank": 1102,
+      "gameId": "115503"
+    },
+    {
+      "player": "Jalen McMillan",
+      "stat": "Longest Reception",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1116,
+      "gameId": "115503"
+    },
+    {
+      "player": "Sean Tucker",
+      "stat": "Rush Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1123,
+      "gameId": "115503"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Rush Yards",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1127,
+      "gameId": "115503"
+    },
+    {
+      "player": "Cade Otton",
+      "stat": "Longest Reception",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1128,
       "gameId": "115503"
     },
     {
@@ -378,7 +480,24 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1265,
+      "rank": 1129,
+      "gameId": "115503"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Longest Rush",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1156,
       "gameId": "115503"
     },
     {
@@ -395,7 +514,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1280,
+      "rank": 1158,
       "gameId": "115503"
     },
     {
@@ -412,12 +531,12 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1287,
+      "rank": 1165,
       "gameId": "115503"
     },
     {
-      "player": "Emeka Egbuka",
-      "stat": "Rec Targets",
+      "player": "Sean Tucker",
+      "stat": "Longest Rush",
       "line": 6.5,
       "sport": "NFL",
       "startTime": "12/21/25 12:00 PM CST",
@@ -429,7 +548,24 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1292,
+      "rank": 1172,
+      "gameId": "115503"
+    },
+    {
+      "player": "Emeka Egbuka",
+      "stat": "Rec Targets",
+      "line": 6,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1173,
       "gameId": "115503"
     },
     {
@@ -446,7 +582,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1318,
+      "rank": 1217,
       "gameId": "115503"
     },
     {
@@ -463,7 +599,24 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1323,
+      "rank": 1222,
+      "gameId": "115503"
+    },
+    {
+      "player": "Cade Otton",
+      "stat": "Receptions",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/21/25 12:00 PM CST",
+      "startTimeCST": "12/21/25 12:00 PM CST",
+      "startDateCST": "2025-12-21",
+      "startTimeIso": "2025-12-21T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1226,
       "gameId": "115503"
     },
     {
@@ -480,7 +633,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1326,
+      "rank": 1230,
       "gameId": "115503"
     },
     {
@@ -497,7 +650,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1330,
+      "rank": 1234,
       "gameId": "115503"
     },
     {
@@ -514,7 +667,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1342,
+      "rank": 1248,
       "gameId": "115503"
     }
   ]
