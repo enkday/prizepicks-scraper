@@ -1,10 +1,61 @@
 {
-  "scrapedAt": "2025-12-21T12:26:36.378Z",
-  "scrapedDate": "Sunday, December 21, 2025 at 12:26 PM UTC",
+  "scrapedAt": "2025-12-22T12:30:34.756Z",
+  "scrapedDate": "Monday, December 22, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NCAAF",
-  "totalProps": 37,
+  "totalProps": 44,
   "props": [
+    {
+      "player": "Bryson Barnes",
+      "stat": "Rush Yards",
+      "line": 63.5,
+      "sport": "NCAAF",
+      "startTime": "12/22/25 01:00 PM CST",
+      "startTimeCST": "12/22/25 01:00 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T14:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Utah State Aggies",
+      "teamCode": "USU",
+      "Opponent": "Washington State Cougars",
+      "opponentCode": "WSU",
+      "rank": 24,
+      "gameId": "119014"
+    },
+    {
+      "player": "Joshua Meredith",
+      "stat": "Receiving Yards",
+      "line": 53.5,
+      "sport": "NCAAF",
+      "startTime": "12/22/25 01:00 PM CST",
+      "startTimeCST": "12/22/25 01:00 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T14:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington State Cougars",
+      "teamCode": "WSU",
+      "Opponent": "Utah State Aggies",
+      "opponentCode": "USU",
+      "rank": 30,
+      "gameId": "119014"
+    },
+    {
+      "player": "Zevi Eckhaus",
+      "stat": "Rush Yards",
+      "line": 37.5,
+      "sport": "NCAAF",
+      "startTime": "12/22/25 01:00 PM CST",
+      "startTimeCST": "12/22/25 01:00 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T14:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington State Cougars",
+      "teamCode": "WSU",
+      "Opponent": "Utah State Aggies",
+      "opponentCode": "USU",
+      "rank": 38,
+      "gameId": "119014"
+    },
     {
       "player": "Tanner Rinker",
       "stat": "Kicking Points",
@@ -19,7 +70,7 @@
       "teamCode": "USU",
       "Opponent": "Washington State Cougars",
       "opponentCode": "WSU",
-      "rank": 1,
+      "rank": 52,
       "gameId": "119014"
     },
     {
@@ -36,7 +87,7 @@
       "teamCode": "WSU",
       "Opponent": "Utah State Aggies",
       "opponentCode": "USU",
-      "rank": 2,
+      "rank": 54,
       "gameId": "119014"
     },
     {
@@ -53,7 +104,7 @@
       "teamCode": "WSU",
       "Opponent": "Utah State Aggies",
       "opponentCode": "USU",
-      "rank": 5,
+      "rank": 59,
       "gameId": "119014"
     },
     {
@@ -70,8 +121,42 @@
       "teamCode": "USM",
       "Opponent": "Western Kentucky Hilltoppers",
       "opponentCode": "WKU",
-      "rank": 47,
+      "rank": 160,
       "gameId": "119016"
+    },
+    {
+      "player": "Brady Denaburg",
+      "stat": "Kicking Points",
+      "line": 5.5,
+      "sport": "NCAAF",
+      "startTime": "12/26/25 03:30 PM CST",
+      "startTimeCST": "12/26/25 03:30 PM CST",
+      "startDateCST": "2025-12-26",
+      "startTimeIso": "2025-12-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Golden Gophers",
+      "teamCode": "MINN",
+      "Opponent": "New Mexico Lobos",
+      "opponentCode": "UNM",
+      "rank": 267,
+      "gameId": "119019"
+    },
+    {
+      "player": "Aidan Birr",
+      "stat": "Kicking Points",
+      "line": 6.5,
+      "sport": "NCAAF",
+      "startTime": "12/27/25 02:30 PM CST",
+      "startTimeCST": "12/27/25 02:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T15:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Georgia Tech Yellow Jackets",
+      "teamCode": "GT",
+      "Opponent": "BYU Cougars",
+      "opponentCode": "BYU",
+      "rank": 304,
+      "gameId": "119024"
     },
     {
       "player": "Julian Sayin",
@@ -87,13 +172,13 @@
       "teamCode": "OSU",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 133,
+      "rank": 335,
       "gameId": "121720"
     },
     {
       "player": "Carson Beck",
       "stat": "Pass Yards",
-      "line": 220.5,
+      "line": 209.5,
       "sport": "NCAAF",
       "startTime": "12/31/25 06:30 PM CST",
       "startTimeCST": "12/31/25 06:30 PM CST",
@@ -104,24 +189,7 @@
       "teamCode": "MIA",
       "Opponent": "Ohio State Buckeyes",
       "opponentCode": "OSU",
-      "rank": 135,
-      "gameId": "121720"
-    },
-    {
-      "player": "Bo Jackson",
-      "stat": "Rush Yards",
-      "line": 85.5,
-      "sport": "NCAAF",
-      "startTime": "12/31/25 06:30 PM CST",
-      "startTimeCST": "12/31/25 06:30 PM CST",
-      "startDateCST": "2025-12-31",
-      "startTimeIso": "2025-12-31T19:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Ohio State Buckeyes",
-      "teamCode": "OSU",
-      "Opponent": "Miami (FL) Hurricanes",
-      "opponentCode": "MIA",
-      "rank": 151,
+      "rank": 337,
       "gameId": "121720"
     },
     {
@@ -138,7 +206,24 @@
       "teamCode": "OSU",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 152,
+      "rank": 353,
+      "gameId": "121720"
+    },
+    {
+      "player": "Bo Jackson",
+      "stat": "Rush Yards",
+      "line": 80.5,
+      "sport": "NCAAF",
+      "startTime": "12/31/25 06:30 PM CST",
+      "startTimeCST": "12/31/25 06:30 PM CST",
+      "startDateCST": "2025-12-31",
+      "startTimeIso": "2025-12-31T19:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Ohio State Buckeyes",
+      "teamCode": "OSU",
+      "Opponent": "Miami (FL) Hurricanes",
+      "opponentCode": "MIA",
+      "rank": 354,
       "gameId": "121720"
     },
     {
@@ -155,13 +240,13 @@
       "teamCode": "MIA",
       "Opponent": "Ohio State Buckeyes",
       "opponentCode": "OSU",
-      "rank": 154,
+      "rank": 355,
       "gameId": "121720"
     },
     {
       "player": "Carnell Tate",
       "stat": "Receiving Yards",
-      "line": 70.5,
+      "line": 68.5,
       "sport": "NCAAF",
       "startTime": "12/31/25 06:30 PM CST",
       "startTimeCST": "12/31/25 06:30 PM CST",
@@ -172,13 +257,13 @@
       "teamCode": "OSU",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 155,
+      "rank": 359,
       "gameId": "121720"
     },
     {
       "player": "Mark Fletcher",
       "stat": "Rush Yards",
-      "line": 40.5,
+      "line": 48.5,
       "sport": "NCAAF",
       "startTime": "12/31/25 06:30 PM CST",
       "startTimeCST": "12/31/25 06:30 PM CST",
@@ -189,7 +274,7 @@
       "teamCode": "MIA",
       "Opponent": "Ohio State Buckeyes",
       "opponentCode": "OSU",
-      "rank": 170,
+      "rank": 370,
       "gameId": "121720"
     },
     {
@@ -206,13 +291,13 @@
       "teamCode": "MIA",
       "Opponent": "Ohio State Buckeyes",
       "opponentCode": "OSU",
-      "rank": 173,
+      "rank": 374,
       "gameId": "121720"
     },
     {
-      "player": "Julian Sayin",
-      "stat": "Pass TDs",
-      "line": 1.5,
+      "player": "Jayden Fielding",
+      "stat": "Kicking Points",
+      "line": 6.5,
       "sport": "NCAAF",
       "startTime": "12/31/25 06:30 PM CST",
       "startTimeCST": "12/31/25 06:30 PM CST",
@@ -223,30 +308,30 @@
       "teamCode": "OSU",
       "Opponent": "Miami (FL) Hurricanes",
       "opponentCode": "MIA",
-      "rank": 185,
+      "rank": 380,
       "gameId": "121720"
     },
     {
-      "player": "Dante Moore",
-      "stat": "Pass Yards",
-      "line": 242.5,
+      "player": "Carter Davis",
+      "stat": "Kicking Points",
+      "line": 4.5,
       "sport": "NCAAF",
-      "startTime": "01/01/26 11:00 AM CST",
-      "startTimeCST": "01/01/26 11:00 AM CST",
-      "startDateCST": "2026-01-01",
-      "startTimeIso": "2026-01-01T12:00:00.000-05:00",
+      "startTime": "12/31/25 06:30 PM CST",
+      "startTimeCST": "12/31/25 06:30 PM CST",
+      "startDateCST": "2025-12-31",
+      "startTimeIso": "2025-12-31T19:30:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Oregon Ducks",
-      "teamCode": "ORE",
-      "Opponent": "Texas Tech Red Raiders",
-      "opponentCode": "TTU",
-      "rank": 207,
-      "gameId": "121829"
+      "Team": "Miami (FL) Hurricanes",
+      "teamCode": "MIA",
+      "Opponent": "Ohio State Buckeyes",
+      "opponentCode": "OSU",
+      "rank": 381,
+      "gameId": "121720"
     },
     {
       "player": "Behren Morton",
       "stat": "Pass Yards",
-      "line": 231.5,
+      "line": 232.5,
       "sport": "NCAAF",
       "startTime": "01/01/26 11:00 AM CST",
       "startTimeCST": "01/01/26 11:00 AM CST",
@@ -257,7 +342,7 @@
       "teamCode": "TTU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 208,
+      "rank": 430,
       "gameId": "121829"
     },
     {
@@ -274,7 +359,7 @@
       "teamCode": "TTU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 218,
+      "rank": 441,
       "gameId": "121829"
     },
     {
@@ -291,13 +376,13 @@
       "teamCode": "TTU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 227,
+      "rank": 450,
       "gameId": "121829"
     },
     {
       "player": "J'Koby Williams",
       "stat": "Rush Yards",
-      "line": 47.5,
+      "line": 48.5,
       "sport": "NCAAF",
       "startTime": "01/01/26 11:00 AM CST",
       "startTimeCST": "01/01/26 11:00 AM CST",
@@ -308,13 +393,13 @@
       "teamCode": "TTU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 231,
+      "rank": 454,
       "gameId": "121829"
     },
     {
       "player": "Reggie Virgil",
       "stat": "Receiving Yards",
-      "line": 42.5,
+      "line": 43.5,
       "sport": "NCAAF",
       "startTime": "01/01/26 11:00 AM CST",
       "startTimeCST": "01/01/26 11:00 AM CST",
@@ -325,13 +410,13 @@
       "teamCode": "TTU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 232,
+      "rank": 455,
       "gameId": "121829"
     },
     {
       "player": "Terrance Carter",
       "stat": "Receiving Yards",
-      "line": 38.5,
+      "line": 39.5,
       "sport": "NCAAF",
       "startTime": "01/01/26 11:00 AM CST",
       "startTimeCST": "01/01/26 11:00 AM CST",
@@ -342,7 +427,24 @@
       "teamCode": "TTU",
       "Opponent": "Oregon Ducks",
       "opponentCode": "ORE",
-      "rank": 235,
+      "rank": 458,
+      "gameId": "121829"
+    },
+    {
+      "player": "Stone Harrington",
+      "stat": "Kicking Points",
+      "line": 6.5,
+      "sport": "NCAAF",
+      "startTime": "01/01/26 11:00 AM CST",
+      "startTimeCST": "01/01/26 11:00 AM CST",
+      "startDateCST": "2026-01-01",
+      "startTimeIso": "2026-01-01T12:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Texas Tech Red Raiders",
+      "teamCode": "TTU",
+      "Opponent": "Oregon Ducks",
+      "opponentCode": "ORE",
+      "rank": 468,
       "gameId": "121829"
     },
     {
@@ -359,13 +461,13 @@
       "teamCode": "ALA",
       "Opponent": "Indiana Hoosiers",
       "opponentCode": "IND",
-      "rank": 273,
+      "rank": 530,
       "gameId": "121690"
     },
     {
       "player": "Fernando Mendoza",
       "stat": "Pass Yards",
-      "line": 229.5,
+      "line": 225.5,
       "sport": "NCAAF",
       "startTime": "01/01/26 03:00 PM CST",
       "startTimeCST": "01/01/26 03:00 PM CST",
@@ -376,7 +478,7 @@
       "teamCode": "IND",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 274,
+      "rank": 531,
       "gameId": "121690"
     },
     {
@@ -393,7 +495,7 @@
       "teamCode": "IND",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 295,
+      "rank": 552,
       "gameId": "121690"
     },
     {
@@ -410,7 +512,7 @@
       "teamCode": "IND",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 296,
+      "rank": 553,
       "gameId": "121690"
     },
     {
@@ -427,7 +529,7 @@
       "teamCode": "IND",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 303,
+      "rank": 560,
       "gameId": "121690"
     },
     {
@@ -444,7 +546,7 @@
       "teamCode": "IND",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 304,
+      "rank": 561,
       "gameId": "121690"
     },
     {
@@ -461,7 +563,7 @@
       "teamCode": "ALA",
       "Opponent": "Indiana Hoosiers",
       "opponentCode": "IND",
-      "rank": 305,
+      "rank": 562,
       "gameId": "121690"
     },
     {
@@ -478,7 +580,7 @@
       "teamCode": "ALA",
       "Opponent": "Indiana Hoosiers",
       "opponentCode": "IND",
-      "rank": 324,
+      "rank": 581,
       "gameId": "121690"
     },
     {
@@ -495,7 +597,7 @@
       "teamCode": "ALA",
       "Opponent": "Indiana Hoosiers",
       "opponentCode": "IND",
-      "rank": 325,
+      "rank": 582,
       "gameId": "121690"
     },
     {
@@ -512,13 +614,13 @@
       "teamCode": "ALA",
       "Opponent": "Indiana Hoosiers",
       "opponentCode": "IND",
-      "rank": 326,
+      "rank": 583,
       "gameId": "121690"
     },
     {
       "player": "Ryan Williams",
       "stat": "Receiving Yards",
-      "line": 32.5,
+      "line": 30.5,
       "sport": "NCAAF",
       "startTime": "01/01/26 03:00 PM CST",
       "startTimeCST": "01/01/26 03:00 PM CST",
@@ -529,7 +631,7 @@
       "teamCode": "ALA",
       "Opponent": "Indiana Hoosiers",
       "opponentCode": "IND",
-      "rank": 327,
+      "rank": 584,
       "gameId": "121690"
     },
     {
@@ -546,13 +648,30 @@
       "teamCode": "IND",
       "Opponent": "Alabama Crimson Tide",
       "opponentCode": "ALA",
-      "rank": 333,
+      "rank": 590,
+      "gameId": "121690"
+    },
+    {
+      "player": "Fernando Mendoza",
+      "stat": "Pass TDs",
+      "line": 1.5,
+      "sport": "NCAAF",
+      "startTime": "01/01/26 03:00 PM CST",
+      "startTimeCST": "01/01/26 03:00 PM CST",
+      "startDateCST": "2026-01-01",
+      "startTimeIso": "2026-01-01T16:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Indiana Hoosiers",
+      "teamCode": "IND",
+      "Opponent": "Alabama Crimson Tide",
+      "opponentCode": "ALA",
+      "rank": 606,
       "gameId": "121690"
     },
     {
       "player": "Gunner Stockton",
       "stat": "Pass Yards",
-      "line": 227.5,
+      "line": 222.5,
       "sport": "NCAAF",
       "startTime": "01/01/26 07:00 PM CST",
       "startTimeCST": "01/01/26 07:00 PM CST",
@@ -563,13 +682,13 @@
       "teamCode": "UGA",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 378,
+      "rank": 636,
       "gameId": "121745"
     },
     {
       "player": "Nate Frazier",
       "stat": "Rush Yards",
-      "line": 64.5,
+      "line": 66.5,
       "sport": "NCAAF",
       "startTime": "01/01/26 07:00 PM CST",
       "startTimeCST": "01/01/26 07:00 PM CST",
@@ -580,7 +699,7 @@
       "teamCode": "UGA",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 388,
+      "rank": 646,
       "gameId": "121745"
     },
     {
@@ -597,7 +716,7 @@
       "teamCode": "UGA",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 389,
+      "rank": 647,
       "gameId": "121745"
     },
     {
@@ -614,7 +733,7 @@
       "teamCode": "UGA",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 398,
+      "rank": 656,
       "gameId": "121745"
     },
     {
@@ -631,7 +750,7 @@
       "teamCode": "UGA",
       "Opponent": "Ole Miss Rebels",
       "opponentCode": "MISS",
-      "rank": 406,
+      "rank": 665,
       "gameId": "121745"
     }
   ]

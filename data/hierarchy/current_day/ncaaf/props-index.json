@@ -2,56 +2,27 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 3,
-  "propCount": 82,
+  "gameCount": 1,
+  "propCount": 3,
   "games": [
     {
-      "gameId": "119011",
+      "gameId": "119014",
       "slate": "Early",
-      "startTime": "12/20/25 11:00 AM CST",
-      "startTimeIso": "2025-12-20T12:00:00.000-05:00",
+      "startTime": "12/22/25 01:00 PM CST",
+      "startTimeIso": "2025-12-22T14:00:00.000-05:00",
       "teams": [
-        "Miami (FL) Hurricanes",
-        "Texas A&M Aggies"
+        "Utah State Aggies",
+        "Washington State Cougars"
       ],
-      "propCount": 25,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119011.json"
-    },
-    {
-      "gameId": "119012",
-      "slate": "Early",
-      "startTime": "12/20/25 02:30 PM CST",
-      "startTimeIso": "2025-12-20T15:30:00.000-05:00",
-      "teams": [
-        "Ole Miss Rebels",
-        "Tulane Green Wave"
-      ],
-      "propCount": 32,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119012.json"
-    },
-    {
-      "gameId": "119013",
-      "slate": "Late",
-      "startTime": "12/20/25 06:30 PM CST",
-      "startTimeIso": "2025-12-20T19:30:00.000-05:00",
-      "teams": [
-        "Oregon Ducks",
-        "James Madison Dukes"
-      ],
-      "propCount": 25,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119013.json"
+      "propCount": 3,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119014.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 57,
+      "propCount": 3,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
-    },
-    {
-      "slate": "late",
-      "propCount": 25,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]
 }
