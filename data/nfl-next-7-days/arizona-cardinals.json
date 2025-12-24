@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-23T12:30:35.287Z",
-  "scrapedDate": "Tuesday, December 23, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T12:30:34.254Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Arizona Cardinals",
-  "totalProps": 19,
+  "totalProps": 16,
   "props": [
     {
       "player": "Jacoby Brissett",
       "stat": "Pass Yards",
-      "line": 261.5,
+      "line": 254.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -21,24 +21,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 886,
-      "gameId": "119686"
-    },
-    {
-      "player": "Jacoby Brissett",
-      "stat": "Pass Yards",
-      "line": 247.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Cincinnati Bengals",
-      "opponentCode": "CIN",
-      "rank": 890,
+      "rank": 1301,
       "gameId": "119686"
     },
     {
@@ -55,30 +38,13 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 903,
-      "gameId": "119686"
-    },
-    {
-      "player": "Trey McBride",
-      "stat": "Receiving Yards",
-      "line": 71.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Cincinnati Bengals",
-      "opponentCode": "CIN",
-      "rank": 904,
+      "rank": 1340,
       "gameId": "119686"
     },
     {
       "player": "Michael Wilson",
       "stat": "Receiving Yards",
-      "line": 57.5,
+      "line": 60.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -89,13 +55,13 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 909,
+      "rank": 1349,
       "gameId": "119686"
     },
     {
       "player": "Michael Carter",
       "stat": "Rush Yards",
-      "line": 49.5,
+      "line": 46.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -106,7 +72,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 912,
+      "rank": 1368,
       "gameId": "119686"
     },
     {
@@ -123,7 +89,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 921,
+      "rank": 1384,
       "gameId": "119686"
     },
     {
@@ -140,7 +106,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 923,
+      "rank": 1387,
       "gameId": "119686"
     },
     {
@@ -157,7 +123,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 929,
+      "rank": 1406,
       "gameId": "119686"
     },
     {
@@ -174,7 +140,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 932,
+      "rank": 1412,
       "gameId": "119686"
     },
     {
@@ -191,13 +157,13 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 933,
+      "rank": 1415,
       "gameId": "119686"
     },
     {
       "player": "Michael Carter",
       "stat": "Receiving Yards",
-      "line": 16.5,
+      "line": 17.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -208,7 +174,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 938,
+      "rank": 1428,
       "gameId": "119686"
     },
     {
@@ -225,7 +191,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 939,
+      "rank": 1430,
       "gameId": "119686"
     },
     {
@@ -242,13 +208,13 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 940,
+      "rank": 1434,
       "gameId": "119686"
     },
     {
       "player": "Jacoby Brissett",
       "stat": "Rush Yards",
-      "line": 9.5,
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -259,24 +225,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 943,
-      "gameId": "119686"
-    },
-    {
-      "player": "Chad Ryland",
-      "stat": "Kicking Points",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Cincinnati Bengals",
-      "opponentCode": "CIN",
-      "rank": 944,
+      "rank": 1439,
       "gameId": "119686"
     },
     {
@@ -293,13 +242,13 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 946,
+      "rank": 1443,
       "gameId": "119686"
     },
     {
-      "player": "Michael Carter",
-      "stat": "Receptions",
-      "line": 2.5,
+      "player": "Jacoby Brissett",
+      "stat": "Pass TDs",
+      "line": 1.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -310,7 +259,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 956,
+      "rank": 1469,
       "gameId": "119686"
     },
     {
@@ -327,7 +276,7 @@
       "teamCode": "ARI",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 971,
+      "rank": 1476,
       "gameId": "119686"
     }
   ]

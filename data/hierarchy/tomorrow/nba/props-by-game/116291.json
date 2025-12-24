@@ -54,47 +54,5 @@
     "startTime": "12/25/25 11:10 AM CST",
     "startTimeIso": "2025-12-25T12:10:00.000-05:00",
     "dayBranch": "tomorrow"
-  },
-  {
-    "propId": "116292_san-antonio-spurs_victor-wembanyama_b7f89491_dunks",
-    "gameId": "116292",
-    "playerId": "san-antonio-spurs_victor-wembanyama_b7f89491",
-    "stat": "Dunks",
-    "line": 2.5,
-    "teamCode": "san-antonio-spurs",
-    "opponentCode": "oklahoma-city-thunder",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/25/25 01:40 PM CST",
-    "startTimeIso": "2025-12-25T14:40:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "propId": "116292_oklahoma-city-thunder_isaiah-hartenstein_e20ac1f9_dunks",
-    "gameId": "116292",
-    "playerId": "oklahoma-city-thunder_isaiah-hartenstein_e20ac1f9",
-    "stat": "Dunks",
-    "line": 2.0,
-    "teamCode": "oklahoma-city-thunder",
-    "opponentCode": "san-antonio-spurs",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/25/25 01:40 PM CST",
-    "startTimeIso": "2025-12-25T14:40:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "propId": "116292_oklahoma-city-thunder_chet-holmgren_b2794426_dunks",
-    "gameId": "116292",
-    "playerId": "oklahoma-city-thunder_chet-holmgren_b2794426",
-    "stat": "Dunks",
-    "line": 1.5,
-    "teamCode": "oklahoma-city-thunder",
-    "opponentCode": "san-antonio-spurs",
-    "oddsType": "standard",
-    "sport": "NBA",
-    "startTime": "12/25/25 01:40 PM CST",
-    "startTimeIso": "2025-12-25T14:40:00.000-05:00",
-    "dayBranch": "tomorrow"
   }
 ]

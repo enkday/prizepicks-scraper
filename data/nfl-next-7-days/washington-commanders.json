@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-23T12:30:35.287Z",
-  "scrapedDate": "Tuesday, December 23, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T12:30:34.254Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -10,7 +10,7 @@
     {
       "player": "Terry McLaurin",
       "stat": "Receiving Yards",
-      "line": 48.5,
+      "line": 50.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 50,
+      "rank": 62,
       "gameId": "116294"
     },
     {
       "player": "Chris Rodriguez",
       "stat": "Rush Yards",
-      "line": 47.5,
+      "line": 49.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 51,
+      "rank": 68,
       "gameId": "116294"
     },
     {
       "player": "Deebo Samuel",
       "stat": "Receiving Yards",
-      "line": 40.5,
+      "line": 44.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 52,
+      "rank": 70,
       "gameId": "116294"
     },
     {
       "player": "Terry McLaurin",
       "stat": "Longest Reception",
-      "line": 20.5,
+      "line": 21.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 69,
+      "rank": 105,
       "gameId": "116294"
     },
     {
       "player": "Deebo Samuel",
       "stat": "Longest Reception",
-      "line": 16.5,
+      "line": 18.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 75,
+      "rank": 114,
       "gameId": "116294"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 82,
+      "rank": 125,
       "gameId": "116294"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 93,
+      "rank": 143,
       "gameId": "116294"
     },
     {
@@ -140,13 +140,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 100,
+      "rank": 150,
       "gameId": "116294"
     },
     {
       "player": "Deebo Samuel",
-      "stat": "Receptions",
-      "line": 4,
+      "stat": "Rec Targets",
+      "line": 6,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -157,7 +157,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 110,
+      "rank": 151,
       "gameId": "116294"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 111,
+      "rank": 166,
       "gameId": "116294"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 115,
+      "rank": 169,
       "gameId": "116294"
     }
   ]

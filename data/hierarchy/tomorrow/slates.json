@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "dayBranch": "tomorrow",
+    "slate": "Early",
+    "gameIds": [
+      "116291",
+      "116292",
+      "116294"
+    ],
+    "totalProps": 40
+  },
+  {
+    "dayBranch": "tomorrow",
+    "slate": "Late",
+    "gameIds": [
+      "116293",
+      "116460",
+      "116461",
+      "116295",
+      "116466"
+    ],
+    "totalProps": 91
+  }
+]

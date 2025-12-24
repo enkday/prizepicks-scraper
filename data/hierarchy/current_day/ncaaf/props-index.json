@@ -6,16 +6,16 @@
   "propCount": 1,
   "games": [
     {
-      "gameId": "119016",
+      "gameId": "119661",
       "slate": "Late",
-      "startTime": "12/23/25 04:30 PM CST",
-      "startTimeIso": "2025-12-23T17:30:00.000-05:00",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
       "teams": [
-        "Southern Miss Golden Eagles",
-        "Western Kentucky Hilltoppers"
+        "Hawai'i Rainbow Warriors",
+        "California Golden Bears"
       ],
       "propCount": 1,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119016.json"
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119661.json"
     }
   ],
   "slates": [

@@ -1,12 +1,148 @@
 {
-  "scrapedAt": "2025-12-23T12:30:35.287Z",
-  "scrapedDate": "Tuesday, December 23, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T12:30:34.254Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Dallas Cowboys",
-  "totalProps": 22,
+  "totalProps": 34,
   "props": [
+    {
+      "player": "George Pickens",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 21.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2,
+      "gameId": "116294"
+    },
+    {
+      "player": "CeeDee Lamb",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4,
+      "gameId": "116294"
+    },
+    {
+      "player": "Javonte Williams",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jake Ferguson",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 6,
+      "gameId": "116294"
+    },
+    {
+      "player": "CeeDee Lamb",
+      "stat": "Yards on First Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 9,
+      "gameId": "116294"
+    },
+    {
+      "player": "George Pickens",
+      "stat": "Yards on First Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 11,
+      "gameId": "116294"
+    },
+    {
+      "player": "Dak Prescott",
+      "stat": "Yards on First Pass Completion",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 12,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jake Ferguson",
+      "stat": "Yards on First Reception",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 14,
+      "gameId": "116294"
+    },
     {
       "player": "Dak Prescott",
       "stat": "Pass Yards",
@@ -21,7 +157,24 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5,
+      "rank": 20,
+      "gameId": "116294"
+    },
+    {
+      "player": "CeeDee Lamb",
+      "stat": "Receiving Yards",
+      "line": 80.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 39,
       "gameId": "116294"
     },
     {
@@ -38,24 +191,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 27,
-      "gameId": "116294"
-    },
-    {
-      "player": "CeeDee Lamb",
-      "stat": "Receiving Yards",
-      "line": 76.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 12:00 PM CST",
-      "startTimeCST": "12/25/25 12:00 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 28,
+      "rank": 44,
       "gameId": "116294"
     },
     {
@@ -72,7 +208,41 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 29,
+      "rank": 45,
+      "gameId": "116294"
+    },
+    {
+      "player": "Dak Prescott",
+      "stat": "Completion Percentage",
+      "line": 67.9,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 53,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jake Ferguson",
+      "stat": "Receiving Yards",
+      "line": 37.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 76,
       "gameId": "116294"
     },
     {
@@ -89,30 +259,13 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 56,
-      "gameId": "116294"
-    },
-    {
-      "player": "Jake Ferguson",
-      "stat": "Receiving Yards",
-      "line": 36.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 12:00 PM CST",
-      "startTimeCST": "12/25/25 12:00 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 57,
+      "rank": 77,
       "gameId": "116294"
     },
     {
       "player": "Dak Prescott",
       "stat": "Pass Attempts",
-      "line": 35.5,
+      "line": 34.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -123,7 +276,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 58,
+      "rank": 78,
       "gameId": "116294"
     },
     {
@@ -140,7 +293,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 63,
+      "rank": 93,
       "gameId": "116294"
     },
     {
@@ -157,7 +310,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 64,
+      "rank": 94,
       "gameId": "116294"
     },
     {
@@ -174,13 +327,13 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 68,
+      "rank": 104,
       "gameId": "116294"
     },
     {
       "player": "Javonte Williams",
       "stat": "Rush Attempts",
-      "line": 17,
+      "line": 16,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -191,7 +344,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 74,
+      "rank": 116,
       "gameId": "116294"
     },
     {
@@ -208,13 +361,13 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 78,
+      "rank": 118,
       "gameId": "116294"
     },
     {
       "player": "Javonte Williams",
       "stat": "Longest Rush",
-      "line": 15.5,
+      "line": 14.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -225,7 +378,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 79,
+      "rank": 119,
       "gameId": "116294"
     },
     {
@@ -242,7 +395,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 85,
+      "rank": 132,
       "gameId": "116294"
     },
     {
@@ -259,7 +412,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 86,
+      "rank": 133,
       "gameId": "116294"
     },
     {
@@ -276,7 +429,24 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 87,
+      "rank": 134,
+      "gameId": "116294"
+    },
+    {
+      "player": "Javonte Williams",
+      "stat": "Receiving Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 137,
       "gameId": "116294"
     },
     {
@@ -293,7 +463,41 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 99,
+      "rank": 149,
+      "gameId": "116294"
+    },
+    {
+      "player": "CeeDee Lamb",
+      "stat": "Receptions",
+      "line": 6,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 152,
+      "gameId": "116294"
+    },
+    {
+      "player": "George Pickens",
+      "stat": "Receptions",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 157,
       "gameId": "116294"
     },
     {
@@ -310,7 +514,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 106,
+      "rank": 160,
       "gameId": "116294"
     },
     {
@@ -327,7 +531,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 122,
+      "rank": 185,
       "gameId": "116294"
     },
     {
@@ -344,7 +548,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 148,
+      "rank": 219,
       "gameId": "116294"
     },
     {
@@ -361,7 +565,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 150,
+      "rank": 221,
       "gameId": "116294"
     },
     {
@@ -378,7 +582,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 151,
+      "rank": 222,
       "gameId": "116294"
     }
   ]

@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-23T12:30:35.287Z",
-  "scrapedDate": "Tuesday, December 23, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T12:30:34.254Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Houston Texans",
-  "totalProps": 19,
+  "totalProps": 25,
   "props": [
     {
       "player": "C.J. Stroud",
       "stat": "Pass Yards",
-      "line": 224.5,
+      "line": 222.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 595,
+      "rank": 884,
       "gameId": "119683"
     },
     {
       "player": "Nico Collins",
       "stat": "Receiving Yards",
-      "line": 62.5,
+      "line": 63.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -38,13 +38,30 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 630,
+      "rank": 926,
+      "gameId": "119683"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Completion Percentage",
+      "line": 61.4,
+      "sport": "NFL",
+      "startTime": "12/27/25 03:30 PM CST",
+      "startTimeCST": "12/27/25 03:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 928,
       "gameId": "119683"
     },
     {
       "player": "Woody Marks",
       "stat": "Rush Yards",
-      "line": 49.5,
+      "line": 48.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -55,7 +72,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 648,
+      "rank": 953,
       "gameId": "119683"
     },
     {
@@ -72,13 +89,13 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 655,
+      "rank": 955,
       "gameId": "119683"
     },
     {
       "player": "C.J. Stroud",
       "stat": "Longest Completion",
-      "line": 33.5,
+      "line": 34.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -89,13 +106,13 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 676,
+      "rank": 973,
       "gameId": "119683"
     },
     {
       "player": "C.J. Stroud",
       "stat": "Pass Attempts",
-      "line": 33.5,
+      "line": 33,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -106,13 +123,13 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 677,
+      "rank": 977,
       "gameId": "119683"
     },
     {
       "player": "Jayden Higgins",
       "stat": "Receiving Yards",
-      "line": 29.5,
+      "line": 27.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -123,7 +140,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 691,
+      "rank": 1002,
       "gameId": "119683"
     },
     {
@@ -140,7 +157,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 702,
+      "rank": 1004,
       "gameId": "119683"
     },
     {
@@ -157,7 +174,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 716,
+      "rank": 1019,
       "gameId": "119683"
     },
     {
@@ -174,7 +191,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 735,
+      "rank": 1042,
       "gameId": "119683"
     },
     {
@@ -191,7 +208,24 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 736,
+      "rank": 1043,
+      "gameId": "119683"
+    },
+    {
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "12/27/25 03:30 PM CST",
+      "startTimeCST": "12/27/25 03:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 1058,
       "gameId": "119683"
     },
     {
@@ -208,13 +242,13 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 750,
+      "rank": 1059,
       "gameId": "119683"
     },
     {
       "player": "C.J. Stroud",
-      "stat": "Rush Yards",
-      "line": 11.5,
+      "stat": "Longest Rush",
+      "line": 7.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -225,13 +259,13 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 751,
+      "rank": 1074,
       "gameId": "119683"
     },
     {
       "player": "Nico Collins",
       "stat": "Rec Targets",
-      "line": 8,
+      "line": 7.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -242,7 +276,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 761,
+      "rank": 1077,
       "gameId": "119683"
     },
     {
@@ -259,12 +293,12 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 764,
+      "rank": 1079,
       "gameId": "119683"
     },
     {
-      "player": "Woody Marks",
-      "stat": "Receiving Yards",
+      "player": "Dalton Schultz",
+      "stat": "Rec Targets",
       "line": 6.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
@@ -276,7 +310,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 768,
+      "rank": 1087,
       "gameId": "119683"
     },
     {
@@ -293,12 +327,12 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 776,
+      "rank": 1091,
       "gameId": "119683"
     },
     {
-      "player": "C.J. Stroud",
-      "stat": "Longest Rush",
+      "player": "Woody Marks",
+      "stat": "Receiving Yards",
       "line": 5.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
@@ -310,7 +344,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 781,
+      "rank": 1092,
       "gameId": "119683"
     },
     {
@@ -327,7 +361,75 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 784,
+      "rank": 1101,
+      "gameId": "119683"
+    },
+    {
+      "player": "Jayden Higgins",
+      "stat": "Rec Targets",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/27/25 03:30 PM CST",
+      "startTimeCST": "12/27/25 03:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 1110,
+      "gameId": "119683"
+    },
+    {
+      "player": "Tommy Townsend",
+      "stat": "Punts",
+      "line": 3.5,
+      "sport": "NFL",
+      "startTime": "12/27/25 03:30 PM CST",
+      "startTimeCST": "12/27/25 03:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 1123,
+      "gameId": "119683"
+    },
+    {
+      "player": "Will Anderson",
+      "stat": "Sacks",
+      "line": 0.75,
+      "sport": "NFL",
+      "startTime": "12/27/25 03:30 PM CST",
+      "startTimeCST": "12/27/25 03:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 1152,
+      "gameId": "119683"
+    },
+    {
+      "player": "Danielle Hunter",
+      "stat": "Sacks",
+      "line": 0.25,
+      "sport": "NFL",
+      "startTime": "12/27/25 03:30 PM CST",
+      "startTimeCST": "12/27/25 03:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 1178,
       "gameId": "119683"
     }
   ]

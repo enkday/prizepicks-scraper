@@ -1,0 +1,16 @@
+[
+  {
+    "propId": "116293_dallas-mavericks_anthony-davis_148e189f_dunks",
+    "gameId": "116293",
+    "playerId": "dallas-mavericks_anthony-davis_148e189f",
+    "stat": "Dunks",
+    "line": 2.0,
+    "teamCode": "dallas-mavericks",
+    "opponentCode": "golden-state-warriors",
+    "oddsType": "standard",
+    "sport": "NBA",
+    "startTime": "12/25/25 04:10 PM CST",
+    "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+    "dayBranch": "tomorrow"
+  }
+]

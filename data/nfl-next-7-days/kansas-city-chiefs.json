@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-23T12:30:35.287Z",
-  "scrapedDate": "Tuesday, December 23, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T12:30:34.254Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Kansas City Chiefs",
-  "totalProps": 16,
+  "totalProps": 19,
   "props": [
     {
-      "player": "Chris Oladokun",
-      "stat": "Pass Yards",
-      "line": 147.5,
+      "player": "Isiah Pacheco",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 19.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -21,7 +21,58 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 368,
+      "rank": 549,
+      "gameId": "116466"
+    },
+    {
+      "player": "Chris Oladokun",
+      "stat": "Yards on First Pass Completion",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 568,
+      "gameId": "116466"
+    },
+    {
+      "player": "Chris Oladokun",
+      "stat": "Pass Yards",
+      "line": 151.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 599,
+      "gameId": "116466"
+    },
+    {
+      "player": "Chris Oladokun",
+      "stat": "Completion Percentage",
+      "line": 58.8,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 629,
       "gameId": "116466"
     },
     {
@@ -38,7 +89,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 419,
+      "rank": 655,
       "gameId": "116466"
     },
     {
@@ -55,7 +106,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 436,
+      "rank": 679,
       "gameId": "116466"
     },
     {
@@ -72,7 +123,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 439,
+      "rank": 681,
       "gameId": "116466"
     },
     {
@@ -89,13 +140,13 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 469,
+      "rank": 723,
       "gameId": "116466"
     },
     {
       "player": "Chris Oladokun",
       "stat": "Pass Completions",
-      "line": 17.5,
+      "line": 16.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -106,13 +157,13 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 471,
+      "rank": 726,
       "gameId": "116466"
     },
     {
       "player": "Chris Oladokun",
       "stat": "Rush Yards",
-      "line": 15.5,
+      "line": 13.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -123,29 +174,12 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 477,
+      "rank": 743,
       "gameId": "116466"
     },
     {
       "player": "Isiah Pacheco",
       "stat": "Receiving Yards",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 494,
-      "gameId": "116466"
-    },
-    {
-      "player": "Isiah Pacheco",
-      "stat": "Longest Rush",
       "line": 11.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
@@ -157,7 +191,24 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 495,
+      "rank": 750,
+      "gameId": "116466"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Longest Rush",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 753,
       "gameId": "116466"
     },
     {
@@ -174,24 +225,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 499,
-      "gameId": "116466"
-    },
-    {
-      "player": "Kareem Hunt",
-      "stat": "Longest Rush",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 508,
+      "rank": 754,
       "gameId": "116466"
     },
     {
@@ -208,7 +242,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 509,
+      "rank": 769,
       "gameId": "116466"
     },
     {
@@ -225,7 +259,24 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 510,
+      "rank": 770,
+      "gameId": "116466"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Longest Rush",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 776,
       "gameId": "116466"
     },
     {
@@ -242,7 +293,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 524,
+      "rank": 788,
       "gameId": "116466"
     },
     {
@@ -259,7 +310,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 528,
+      "rank": 792,
       "gameId": "116466"
     },
     {
@@ -276,7 +327,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 529,
+      "rank": 793,
       "gameId": "116466"
     }
   ]

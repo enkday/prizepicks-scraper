@@ -1,12 +1,29 @@
 {
-  "scrapedAt": "2025-12-23T12:30:35.287Z",
-  "scrapedDate": "Tuesday, December 23, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T12:30:34.254Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Detroit Lions",
-  "totalProps": 23,
+  "totalProps": 31,
   "props": [
+    {
+      "player": "Jared Goff",
+      "stat": "Yards on First Pass Completion",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 231,
+      "gameId": "116295"
+    },
     {
       "player": "Jared Goff",
       "stat": "Pass Yards",
@@ -21,7 +38,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 158,
+      "rank": 238,
       "gameId": "116295"
     },
     {
@@ -38,13 +55,13 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 188,
+      "rank": 280,
       "gameId": "116295"
     },
     {
       "player": "Jahmyr Gibbs",
       "stat": "Rush Yards",
-      "line": 71.5,
+      "line": 73.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -55,13 +72,30 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 189,
+      "rank": 281,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jared Goff",
+      "stat": "Completion Percentage",
+      "line": 66.4,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 291,
       "gameId": "116295"
     },
     {
       "player": "Jameson Williams",
       "stat": "Receiving Yards",
-      "line": 60.5,
+      "line": 63.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -72,7 +106,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 201,
+      "rank": 292,
       "gameId": "116295"
     },
     {
@@ -89,13 +123,13 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 231,
+      "rank": 327,
       "gameId": "116295"
     },
     {
       "player": "Jahmyr Gibbs",
       "stat": "Receiving Yards",
-      "line": 34.5,
+      "line": 33.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -106,7 +140,24 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 232,
+      "rank": 334,
+      "gameId": "116295"
+    },
+    {
+      "player": "David Montgomery",
+      "stat": "Rush Yards",
+      "line": 32.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 335,
       "gameId": "116295"
     },
     {
@@ -123,13 +174,13 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 233,
+      "rank": 336,
       "gameId": "116295"
     },
     {
-      "player": "David Montgomery",
-      "stat": "Rush Yards",
-      "line": 31.5,
+      "player": "Jameson Williams",
+      "stat": "Longest Reception",
+      "line": 26.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -140,11 +191,11 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 234,
+      "rank": 356,
       "gameId": "116295"
     },
     {
-      "player": "Jameson Williams",
+      "player": "Amon-Ra St. Brown",
       "stat": "Longest Reception",
       "line": 25.5,
       "sport": "NFL",
@@ -157,24 +208,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 242,
-      "gameId": "116295"
-    },
-    {
-      "player": "Amon-Ra St. Brown",
-      "stat": "Longest Reception",
-      "line": 24.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 243,
+      "rank": 357,
       "gameId": "116295"
     },
     {
@@ -191,7 +225,24 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 251,
+      "rank": 372,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jahmyr Gibbs",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 21.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 373,
       "gameId": "116295"
     },
     {
@@ -208,7 +259,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 266,
+      "rank": 398,
       "gameId": "116295"
     },
     {
@@ -225,7 +276,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 268,
+      "rank": 399,
       "gameId": "116295"
     },
     {
@@ -242,7 +293,24 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 274,
+      "rank": 411,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jahmyr Gibbs",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 418,
       "gameId": "116295"
     },
     {
@@ -259,7 +327,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 280,
+      "rank": 423,
       "gameId": "116295"
     },
     {
@@ -276,7 +344,58 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 283,
+      "rank": 426,
+      "gameId": "116295"
+    },
+    {
+      "player": "David Montgomery",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 434,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jake Bates",
+      "stat": "Kicking Points",
+      "line": 8,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 438,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jameson Williams",
+      "stat": "Rec Targets",
+      "line": 7,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 443,
       "gameId": "116295"
     },
     {
@@ -293,7 +412,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 291,
+      "rank": 444,
       "gameId": "116295"
     },
     {
@@ -310,12 +429,12 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 295,
+      "rank": 448,
       "gameId": "116295"
     },
     {
-      "player": "Jameson Williams",
-      "stat": "Rec Targets",
+      "player": "David Montgomery",
+      "stat": "Longest Reception",
       "line": 6.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
@@ -327,12 +446,12 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 297,
+      "rank": 449,
       "gameId": "116295"
     },
     {
-      "player": "David Montgomery",
-      "stat": "Longest Reception",
+      "player": "Jahmyr Gibbs",
+      "stat": "Yards on First Reception",
       "line": 5.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
@@ -344,7 +463,41 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 304,
+      "rank": 458,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jahmyr Gibbs",
+      "stat": "Rec Targets",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 461,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jahmyr Gibbs",
+      "stat": "Receptions",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 463,
       "gameId": "116295"
     },
     {
@@ -361,7 +514,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 314,
+      "rank": 472,
       "gameId": "116295"
     },
     {
@@ -378,24 +531,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 318,
-      "gameId": "116295"
-    },
-    {
-      "player": "Jared Goff",
-      "stat": "Pass TDs",
-      "line": 1.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 327,
+      "rank": 476,
       "gameId": "116295"
     }
   ]
