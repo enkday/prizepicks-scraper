@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -10,7 +10,7 @@
     {
       "player": "Brock Purdy",
       "stat": "Pass Yards",
-      "line": 263.5,
+      "line": 258.5,
       "sport": "NFL",
       "startTime": "12/28/25 07:20 PM CST",
       "startTimeCST": "12/28/25 07:20 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 2973,
+      "rank": 3589,
       "gameId": "117038"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3003,
+      "rank": 3618,
       "gameId": "117038"
     },
     {
       "player": "Brock Purdy",
       "stat": "Longest Completion",
-      "line": 35.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "12/28/25 07:20 PM CST",
       "startTimeCST": "12/28/25 07:20 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3021,
+      "rank": 3636,
       "gameId": "117038"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3023,
+      "rank": 3639,
       "gameId": "117038"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3038,
+      "rank": 3654,
       "gameId": "117038"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3045,
+      "rank": 3662,
       "gameId": "117038"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3057,
+      "rank": 3674,
       "gameId": "117038"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3067,
+      "rank": 3684,
       "gameId": "117038"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3072,
+      "rank": 3689,
       "gameId": "117038"
     }
   ]

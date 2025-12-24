@@ -15,8 +15,8 @@
     "sport": "NBA",
     "startTime": "12/25/25 01:40 PM CST",
     "teams": [
-      "San Antonio Spurs",
-      "Oklahoma City Thunder"
+      "Oklahoma City Thunder",
+      "San Antonio Spurs"
     ],
     "slate": "Early",
     "dayBranch": "tomorrow"
@@ -26,8 +26,8 @@
     "sport": "NBA",
     "startTime": "12/25/25 04:10 PM CST",
     "teams": [
-      "Dallas Mavericks",
-      "Golden State Warriors"
+      "Golden State Warriors",
+      "Dallas Mavericks"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"
@@ -37,8 +37,8 @@
     "sport": "NBA",
     "startTime": "12/25/25 07:10 PM CST",
     "teams": [
-      "Houston Rockets",
-      "Los Angeles Lakers"
+      "Los Angeles Lakers",
+      "Houston Rockets"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"
@@ -48,8 +48,8 @@
     "sport": "NBA",
     "startTime": "12/25/25 09:40 PM CST",
     "teams": [
-      "Minnesota Timberwolves",
-      "Denver Nuggets"
+      "Denver Nuggets",
+      "Minnesota Timberwolves"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"
@@ -70,8 +70,8 @@
     "sport": "NFL",
     "startTime": "12/25/25 03:30 PM CST",
     "teams": [
-      "Detroit Lions",
-      "Minnesota Vikings"
+      "Minnesota Vikings",
+      "Detroit Lions"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"

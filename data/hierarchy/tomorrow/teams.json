@@ -10,18 +10,13 @@
     "sport": "NBA"
   },
   {
-    "teamCode": "san-antonio-spurs",
-    "teamName": "San Antonio Spurs",
-    "sport": "NBA"
-  },
-  {
     "teamCode": "oklahoma-city-thunder",
     "teamName": "Oklahoma City Thunder",
     "sport": "NBA"
   },
   {
-    "teamCode": "dallas-mavericks",
-    "teamName": "Dallas Mavericks",
+    "teamCode": "san-antonio-spurs",
+    "teamName": "San Antonio Spurs",
     "sport": "NBA"
   },
   {
@@ -30,8 +25,8 @@
     "sport": "NBA"
   },
   {
-    "teamCode": "houston-rockets",
-    "teamName": "Houston Rockets",
+    "teamCode": "dallas-mavericks",
+    "teamName": "Dallas Mavericks",
     "sport": "NBA"
   },
   {
@@ -40,13 +35,18 @@
     "sport": "NBA"
   },
   {
-    "teamCode": "minnesota-timberwolves",
-    "teamName": "Minnesota Timberwolves",
+    "teamCode": "houston-rockets",
+    "teamName": "Houston Rockets",
     "sport": "NBA"
   },
   {
     "teamCode": "denver-nuggets",
     "teamName": "Denver Nuggets",
+    "sport": "NBA"
+  },
+  {
+    "teamCode": "minnesota-timberwolves",
+    "teamName": "Minnesota Timberwolves",
     "sport": "NBA"
   },
   {
@@ -60,13 +60,13 @@
     "sport": "NFL"
   },
   {
-    "teamCode": "detroit-lions",
-    "teamName": "Detroit Lions",
+    "teamCode": "minnesota-vikings",
+    "teamName": "Minnesota Vikings",
     "sport": "NFL"
   },
   {
-    "teamCode": "minnesota-vikings",
-    "teamName": "Minnesota Vikings",
+    "teamCode": "detroit-lions",
+    "teamName": "Detroit Lions",
     "sport": "NFL"
   },
   {

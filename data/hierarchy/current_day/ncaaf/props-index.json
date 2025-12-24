@@ -3,7 +3,7 @@
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
   "gameCount": 1,
-  "propCount": 1,
+  "propCount": 12,
   "games": [
     {
       "gameId": "119661",
@@ -11,17 +11,17 @@
       "startTime": "12/24/25 07:00 PM CST",
       "startTimeIso": "2025-12-24T20:00:00.000-05:00",
       "teams": [
-        "Hawai'i Rainbow Warriors",
-        "California Golden Bears"
+        "California Golden Bears",
+        "Hawai'i Warriors"
       ],
-      "propCount": 1,
+      "propCount": 12,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119661.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 1,
+      "propCount": 12,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]

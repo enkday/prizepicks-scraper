@@ -1,12 +1,29 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Pittsburgh Steelers",
-  "totalProps": 4,
+  "totalProps": 5,
   "props": [
+    {
+      "player": "Aaron Rodgers",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 1612,
+      "gameId": "116784"
+    },
     {
       "player": "Aaron Rodgers",
       "stat": "Pass Yards",
@@ -21,13 +38,13 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1224,
+      "rank": 1629,
       "gameId": "116784"
     },
     {
       "player": "Aaron Rodgers",
       "stat": "Longest Completion",
-      "line": 31.5,
+      "line": 32.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,7 +55,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1235,
+      "rank": 1657,
       "gameId": "116784"
     },
     {
@@ -55,7 +72,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1236,
+      "rank": 1660,
       "gameId": "116784"
     },
     {
@@ -72,7 +89,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1244,
+      "rank": 1674,
       "gameId": "116784"
     }
   ]

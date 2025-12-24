@@ -3,7 +3,7 @@
   "sportSlug": "nfl",
   "dayBranch": "tomorrow",
   "gameCount": 3,
-  "propCount": 117,
+  "propCount": 169,
   "games": [
     {
       "gameId": "116294",
@@ -14,7 +14,7 @@
         "Dallas Cowboys",
         "Washington Commanders"
       ],
-      "propCount": 33,
+      "propCount": 45,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/116294.json"
     },
     {
@@ -23,10 +23,10 @@
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeIso": "2025-12-25T16:30:00.000-05:00",
       "teams": [
-        "Detroit Lions",
-        "Minnesota Vikings"
+        "Minnesota Vikings",
+        "Detroit Lions"
       ],
-      "propCount": 39,
+      "propCount": 56,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/116295.json"
     },
     {
@@ -38,19 +38,19 @@
         "Denver Broncos",
         "Kansas City Chiefs"
       ],
-      "propCount": 45,
+      "propCount": 68,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-game/116466.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 33,
+      "propCount": 45,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/early.json"
     },
     {
       "slate": "late",
-      "propCount": 84,
+      "propCount": 124,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
     }
   ]

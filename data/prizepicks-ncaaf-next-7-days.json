@@ -1,15 +1,15 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NCAAF",
   "day": "next-7-days",
-  "totalProps": 20,
+  "totalProps": 31,
   "props": [
     {
       "player": "Jaron-Keawe Sagapolutele",
       "stat": "Pass Yards",
-      "line": 279.5,
+      "line": 275.5,
       "sport": "NCAAF",
       "startTime": "12/24/25 07:00 PM CST",
       "startTimeCST": "12/24/25 07:00 PM CST",
@@ -26,7 +26,7 @@
     {
       "player": "Micah Alejado",
       "stat": "Pass Yards",
-      "line": 273.5,
+      "line": 270.5,
       "sport": "NCAAF",
       "startTime": "12/24/25 07:00 PM CST",
       "startTimeCST": "12/24/25 07:00 PM CST",
@@ -37,13 +37,13 @@
       "teamCode": "HAW",
       "Opponent": "California Golden Bears",
       "opponentCode": "CAL",
-      "rank": 9,
+      "rank": 8,
       "gameId": "119661"
     },
     {
-      "player": "Jacob Jesus",
+      "player": "Jacob De Jesus",
       "stat": "Receiving Yards",
-      "line": 98.5,
+      "line": 95.5,
       "sport": "NCAAF",
       "startTime": "12/24/25 07:00 PM CST",
       "startTimeCST": "12/24/25 07:00 PM CST",
@@ -75,6 +75,23 @@
       "gameId": "119661"
     },
     {
+      "player": "Pofele Ashlock",
+      "stat": "Receiving Yards",
+      "line": 71.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Hawai'i Rainbow Warriors",
+      "teamCode": "HAW",
+      "Opponent": "California Golden Bears",
+      "opponentCode": "CAL",
+      "rank": 28,
+      "gameId": "119661"
+    },
+    {
       "player": "Trond Grizzell",
       "stat": "Receiving Yards",
       "line": 49.5,
@@ -92,9 +109,43 @@
       "gameId": "119661"
     },
     {
-      "player": "Jacob Jesus",
-      "stat": "Longest Reception",
-      "line": 23.5,
+      "player": "Brandon White",
+      "stat": "Receiving Yards",
+      "line": 36.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Hawai'i Rainbow Warriors",
+      "teamCode": "HAW",
+      "Opponent": "California Golden Bears",
+      "opponentCode": "CAL",
+      "rank": 40,
+      "gameId": "119661"
+    },
+    {
+      "player": "Nick Cenacle",
+      "stat": "Receiving Yards",
+      "line": 32.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Hawai'i Rainbow Warriors",
+      "teamCode": "HAW",
+      "Opponent": "California Golden Bears",
+      "opponentCode": "CAL",
+      "rank": 41,
+      "gameId": "119661"
+    },
+    {
+      "player": "Jaron-Keawe Sagapolutele",
+      "stat": "Pass Completions",
+      "line": 26.5,
       "sport": "NCAAF",
       "startTime": "12/24/25 07:00 PM CST",
       "startTimeCST": "12/24/25 07:00 PM CST",
@@ -105,7 +156,58 @@
       "teamCode": "CAL",
       "Opponent": "Hawai'i Warriors",
       "opponentCode": "HAW",
-      "rank": 43,
+      "rank": 44,
+      "gameId": "119661"
+    },
+    {
+      "player": "Pofele Ashlock",
+      "stat": "Longest Reception",
+      "line": 24.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Hawai'i Rainbow Warriors",
+      "teamCode": "HAW",
+      "Opponent": "California Golden Bears",
+      "opponentCode": "CAL",
+      "rank": 46,
+      "gameId": "119661"
+    },
+    {
+      "player": "Karsyn Pupunu",
+      "stat": "Receiving Yards",
+      "line": 24.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Hawai'i Rainbow Warriors",
+      "teamCode": "HAW",
+      "Opponent": "California Golden Bears",
+      "opponentCode": "CAL",
+      "rank": 47,
+      "gameId": "119661"
+    },
+    {
+      "player": "Jacob De Jesus",
+      "stat": "Longest Reception",
+      "line": 22.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "California Golden Bears",
+      "teamCode": "CAL",
+      "Opponent": "Hawai'i Warriors",
+      "opponentCode": "HAW",
+      "rank": 48,
       "gameId": "119661"
     },
     {
@@ -122,7 +224,24 @@
       "teamCode": "CAL",
       "Opponent": "Hawai'i Warriors",
       "opponentCode": "HAW",
-      "rank": 44,
+      "rank": 49,
+      "gameId": "119661"
+    },
+    {
+      "player": "Brandon White",
+      "stat": "Longest Reception",
+      "line": 18.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Hawai'i Rainbow Warriors",
+      "teamCode": "HAW",
+      "Opponent": "California Golden Bears",
+      "opponentCode": "CAL",
+      "rank": 51,
       "gameId": "119661"
     },
     {
@@ -139,13 +258,47 @@
       "teamCode": "CAL",
       "Opponent": "Hawai'i Warriors",
       "opponentCode": "HAW",
-      "rank": 46,
+      "rank": 52,
+      "gameId": "119661"
+    },
+    {
+      "player": "Nick Cenacle",
+      "stat": "Longest Reception",
+      "line": 17.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Hawai'i Rainbow Warriors",
+      "teamCode": "HAW",
+      "Opponent": "California Golden Bears",
+      "opponentCode": "CAL",
+      "rank": 53,
+      "gameId": "119661"
+    },
+    {
+      "player": "Karsyn Pupunu",
+      "stat": "Longest Reception",
+      "line": 15.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Hawai'i Rainbow Warriors",
+      "teamCode": "HAW",
+      "Opponent": "California Golden Bears",
+      "opponentCode": "CAL",
+      "rank": 54,
       "gameId": "119661"
     },
     {
       "player": "Kendrick Raphael",
       "stat": "Longest Reception",
-      "line": 11.5,
+      "line": 12.5,
       "sport": "NCAAF",
       "startTime": "12/24/25 07:00 PM CST",
       "startTimeCST": "12/24/25 07:00 PM CST",
@@ -156,7 +309,7 @@
       "teamCode": "CAL",
       "Opponent": "Hawai'i Warriors",
       "opponentCode": "HAW",
-      "rank": 51,
+      "rank": 58,
       "gameId": "119661"
     },
     {
@@ -173,7 +326,24 @@
       "teamCode": "HAW",
       "Opponent": "California Golden Bears",
       "opponentCode": "CAL",
-      "rank": 56,
+      "rank": 68,
+      "gameId": "119661"
+    },
+    {
+      "player": "Brandon White",
+      "stat": "Receptions",
+      "line": 3.5,
+      "sport": "NCAAF",
+      "startTime": "12/24/25 07:00 PM CST",
+      "startTimeCST": "12/24/25 07:00 PM CST",
+      "startDateCST": "2025-12-24",
+      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Hawai'i Rainbow Warriors",
+      "teamCode": "HAW",
+      "Opponent": "California Golden Bears",
+      "opponentCode": "CAL",
+      "rank": 81,
       "gameId": "119661"
     },
     {
@@ -190,24 +360,7 @@
       "teamCode": "CAL",
       "Opponent": "Hawai'i Warriors",
       "opponentCode": "HAW",
-      "rank": 69,
-      "gameId": "119661"
-    },
-    {
-      "player": "Jaron-Keawe Sagapolutele",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NCAAF",
-      "startTime": "12/24/25 07:00 PM CST",
-      "startTimeCST": "12/24/25 07:00 PM CST",
-      "startDateCST": "2025-12-24",
-      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "California Golden Bears",
-      "teamCode": "CAL",
-      "Opponent": "Hawai'i Warriors",
-      "opponentCode": "HAW",
-      "rank": 82,
+      "rank": 90,
       "gameId": "119661"
     },
     {
@@ -224,7 +377,7 @@
       "teamCode": "MINN",
       "Opponent": "New Mexico Lobos",
       "opponentCode": "UNM",
-      "rank": 128,
+      "rank": 156,
       "gameId": "119019"
     },
     {
@@ -241,8 +394,25 @@
       "teamCode": "MINN",
       "Opponent": "New Mexico Lobos",
       "opponentCode": "UNM",
-      "rank": 130,
+      "rank": 158,
       "gameId": "119019"
+    },
+    {
+      "player": "Noah Grant",
+      "stat": "Kicking Points",
+      "line": 5.5,
+      "sport": "NCAAF",
+      "startTime": "12/26/25 07:00 PM CST",
+      "startTimeCST": "12/26/25 07:00 PM CST",
+      "startDateCST": "2025-12-26",
+      "startTimeIso": "2025-12-26T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Florida International Panthers",
+      "teamCode": "FIU",
+      "Opponent": "UTSA Roadrunners",
+      "opponentCode": "UTSA",
+      "rank": 194,
+      "gameId": "119020"
     },
     {
       "player": "Trey Butkowski",
@@ -258,7 +428,7 @@
       "teamCode": "PITT",
       "Opponent": "East Carolina Pirates",
       "opponentCode": "ECU",
-      "rank": 176,
+      "rank": 213,
       "gameId": "119021"
     },
     {
@@ -275,7 +445,7 @@
       "teamCode": "ECU",
       "Opponent": "Pittsburgh Panthers",
       "opponentCode": "PITT",
-      "rank": 177,
+      "rank": 214,
       "gameId": "119021"
     },
     {
@@ -292,7 +462,7 @@
       "teamCode": "PSU",
       "Opponent": "Clemson Tigers",
       "opponentCode": "CLEM",
-      "rank": 202,
+      "rank": 239,
       "gameId": "119022"
     },
     {
@@ -309,7 +479,7 @@
       "teamCode": "BYU",
       "Opponent": "Georgia Tech Yellow Jackets",
       "opponentCode": "GT",
-      "rank": 242,
+      "rank": 279,
       "gameId": "119024"
     },
     {
@@ -326,7 +496,7 @@
       "teamCode": "FRES",
       "Opponent": "Miami (OH) RedHawks",
       "opponentCode": "M-OH",
-      "rank": 267,
+      "rank": 304,
       "gameId": "119025"
     },
     {
@@ -343,8 +513,25 @@
       "teamCode": "SDSU",
       "Opponent": "North Texas Mean Green",
       "opponentCode": "UNT",
-      "rank": 298,
+      "rank": 335,
       "gameId": "119026"
+    },
+    {
+      "player": "David Olano",
+      "stat": "Kicking Points",
+      "line": 6.5,
+      "sport": "NCAAF",
+      "startTime": "12/30/25 04:30 PM CST",
+      "startTimeCST": "12/30/25 04:30 PM CST",
+      "startDateCST": "2025-12-30",
+      "startTimeIso": "2025-12-30T17:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Illinois Fighting Illini",
+      "teamCode": "ILL",
+      "Opponent": "Tennessee Volunteers",
+      "opponentCode": "TENN",
+      "rank": 381,
+      "gameId": "119030"
     }
   ]
 }

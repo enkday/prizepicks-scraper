@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Rams",
-  "totalProps": 16,
+  "totalProps": 19,
   "props": [
     {
       "player": "Matthew Stafford",
       "stat": "Pass Yards",
-      "line": 279.5,
+      "line": 262.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3103,
+      "rank": 3724,
       "gameId": "117288"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3113,
+      "rank": 3742,
       "gameId": "117288"
     },
     {
       "player": "Kyren Williams",
       "stat": "Rush Yards",
-      "line": 59.5,
+      "line": 63.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3147,
+      "rank": 3769,
       "gameId": "117288"
     },
     {
       "player": "Blake Corum",
       "stat": "Rush Yards",
-      "line": 46.5,
+      "line": 44.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3160,
+      "rank": 3793,
       "gameId": "117288"
     },
     {
       "player": "Matthew Stafford",
       "stat": "Longest Completion",
-      "line": 39.5,
+      "line": 38.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -89,13 +89,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3169,
+      "rank": 3805,
       "gameId": "117288"
     },
     {
       "player": "Matthew Stafford",
       "stat": "Pass Attempts",
-      "line": 35.5,
+      "line": 33.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3172,
+      "rank": 3809,
       "gameId": "117288"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3173,
+      "rank": 3810,
       "gameId": "117288"
     },
     {
@@ -140,13 +140,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3184,
+      "rank": 3823,
       "gameId": "117288"
     },
     {
-      "player": "Matthew Stafford",
-      "stat": "Pass Completions",
-      "line": 22.5,
+      "player": "Konata Mumpfield",
+      "stat": "Receiving Yards",
+      "line": 28.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -157,7 +157,41 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3193,
+      "rank": 3828,
+      "gameId": "117288"
+    },
+    {
+      "player": "Matthew Stafford",
+      "stat": "Pass Completions",
+      "line": 21.5,
+      "sport": "NFL",
+      "startTime": "12/29/25 07:15 PM CST",
+      "startTimeCST": "12/29/25 07:15 PM CST",
+      "startDateCST": "2025-12-29",
+      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3838,
+      "gameId": "117288"
+    },
+    {
+      "player": "Konata Mumpfield",
+      "stat": "Longest Reception",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "12/29/25 07:15 PM CST",
+      "startTimeCST": "12/29/25 07:15 PM CST",
+      "startDateCST": "2025-12-29",
+      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3861,
       "gameId": "117288"
     },
     {
@@ -174,7 +208,24 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3208,
+      "rank": 3864,
+      "gameId": "117288"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Longest Rush",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/29/25 07:15 PM CST",
+      "startTimeCST": "12/29/25 07:15 PM CST",
+      "startDateCST": "2025-12-29",
+      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3870,
       "gameId": "117288"
     },
     {
@@ -191,13 +242,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3210,
+      "rank": 3871,
       "gameId": "117288"
     },
     {
-      "player": "Kyren Williams",
-      "stat": "Longest Rush",
-      "line": 12.5,
+      "player": "Blake Corum",
+      "stat": "Rush Attempts",
+      "line": 10.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -208,7 +259,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3211,
+      "rank": 3874,
       "gameId": "117288"
     },
     {
@@ -225,7 +276,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3213,
+      "rank": 3876,
       "gameId": "117288"
     },
     {
@@ -242,7 +293,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3215,
+      "rank": 3881,
       "gameId": "117288"
     },
     {
@@ -259,13 +310,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3216,
+      "rank": 3884,
       "gameId": "117288"
     },
     {
-      "player": "Matthew Stafford",
-      "stat": "INT",
-      "line": 0.5,
+      "player": "Kyren Williams",
+      "stat": "Receptions",
+      "line": 1.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -276,7 +327,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3242,
+      "rank": 3905,
       "gameId": "117288"
     }
   ]

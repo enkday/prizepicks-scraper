@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -10,7 +10,7 @@
     {
       "player": "Trevor Lawrence",
       "stat": "Pass Yards",
-      "line": 230.5,
+      "line": 238.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1502,
+      "rank": 2002,
       "gameId": "116786"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1539,
+      "rank": 2041,
       "gameId": "116786"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1540,
+      "rank": 2042,
       "gameId": "116786"
     },
     {
       "player": "Jakobi Meyers",
       "stat": "Receiving Yards",
-      "line": 58.5,
+      "line": 57.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1550,
+      "rank": 2054,
       "gameId": "116786"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1551,
+      "rank": 2055,
       "gameId": "116786"
     },
     {
@@ -106,13 +106,13 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1561,
+      "rank": 2066,
       "gameId": "116786"
     },
     {
       "player": "Brian Thomas",
       "stat": "Receiving Yards",
-      "line": 47.5,
+      "line": 48.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -123,13 +123,13 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1562,
+      "rank": 2067,
       "gameId": "116786"
     },
     {
       "player": "Parker Washington",
       "stat": "Receiving Yards",
-      "line": 43.5,
+      "line": 44.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -140,24 +140,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1565,
-      "gameId": "116786"
-    },
-    {
-      "player": "Brenton Strange",
-      "stat": "Receiving Yards",
-      "line": 37.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 1581,
+      "rank": 2069,
       "gameId": "116786"
     },
     {
@@ -174,7 +157,24 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1582,
+      "rank": 2085,
+      "gameId": "116786"
+    },
+    {
+      "player": "Brenton Strange",
+      "stat": "Receiving Yards",
+      "line": 35.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2086,
       "gameId": "116786"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1584,
+      "rank": 2088,
       "gameId": "116786"
     },
     {
@@ -208,24 +208,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1605,
-      "gameId": "116786"
-    },
-    {
-      "player": "Jakobi Meyers",
-      "stat": "Longest Reception",
-      "line": 21.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 1606,
+      "rank": 2116,
       "gameId": "116786"
     },
     {
@@ -242,7 +225,24 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1608,
+      "rank": 2117,
+      "gameId": "116786"
+    },
+    {
+      "player": "Jakobi Meyers",
+      "stat": "Longest Reception",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2118,
       "gameId": "116786"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1609,
+      "rank": 2119,
       "gameId": "116786"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1626,
+      "rank": 2138,
       "gameId": "116786"
     },
     {
@@ -293,24 +293,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1628,
-      "gameId": "116786"
-    },
-    {
-      "player": "Brenton Strange",
-      "stat": "Longest Reception",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 1630,
+      "rank": 2139,
       "gameId": "116786"
     },
     {
@@ -327,7 +310,24 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1631,
+      "rank": 2141,
+      "gameId": "116786"
+    },
+    {
+      "player": "Brenton Strange",
+      "stat": "Longest Reception",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2143,
       "gameId": "116786"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1634,
+      "rank": 2145,
       "gameId": "116786"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1636,
+      "rank": 2147,
       "gameId": "116786"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1637,
+      "rank": 2148,
       "gameId": "116786"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1646,
+      "rank": 2158,
       "gameId": "116786"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1667,
+      "rank": 2179,
       "gameId": "116786"
     }
   ]

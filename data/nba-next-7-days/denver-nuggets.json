@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Denver Nuggets",
-  "totalProps": 10,
+  "totalProps": 15,
   "props": [
     {
       "player": "Nikola Jokić",
       "stat": "Points",
-      "line": 28.5,
+      "line": 29.5,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2082,
+      "rank": 2617,
       "gameId": "116461"
     },
     {
@@ -38,11 +38,28 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2093,
+      "rank": 2644,
       "gameId": "116461"
     },
     {
       "player": "Tim Hardaway",
+      "stat": "Points",
+      "line": 13,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 2763,
+      "gameId": "116461"
+    },
+    {
+      "player": "Peyton Watson",
       "stat": "Points",
       "line": 12.5,
       "sport": "NBA",
@@ -55,13 +72,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2184,
+      "rank": 2766,
       "gameId": "116461"
     },
     {
-      "player": "Peyton Watson",
-      "stat": "Points",
-      "line": 11.5,
+      "player": "Nikola Jokić",
+      "stat": "Rebounds",
+      "line": 12,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -72,7 +89,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2188,
+      "rank": 2774,
       "gameId": "116461"
     },
     {
@@ -89,7 +106,24 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2209,
+      "rank": 2800,
+      "gameId": "116461"
+    },
+    {
+      "player": "Nikola Jokić",
+      "stat": "Defensive Rebounds",
+      "line": 9,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 2832,
       "gameId": "116461"
     },
     {
@@ -106,7 +140,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2247,
+      "rank": 2848,
       "gameId": "116461"
     },
     {
@@ -123,7 +157,24 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2248,
+      "rank": 2849,
+      "gameId": "116461"
+    },
+    {
+      "player": "Jamal Murray",
+      "stat": "Assists",
+      "line": 6,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 2877,
       "gameId": "116461"
     },
     {
@@ -140,7 +191,24 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2289,
+      "rank": 2901,
+      "gameId": "116461"
+    },
+    {
+      "player": "Jonas Valančiūnas",
+      "stat": "Rebounds",
+      "line": 5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 2906,
       "gameId": "116461"
     },
     {
@@ -157,13 +225,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2316,
+      "rank": 2934,
       "gameId": "116461"
     },
     {
-      "player": "Bruce Brown",
-      "stat": "Rebounds",
-      "line": 3.5,
+      "player": "Tim Hardaway",
+      "stat": "Assists",
+      "line": 1.5,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -174,7 +242,24 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2336,
+      "rank": 3024,
+      "gameId": "116461"
+    },
+    {
+      "player": "Nikola Jokić",
+      "stat": "Blocked Shots",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3046,
       "gameId": "116461"
     }
   ]

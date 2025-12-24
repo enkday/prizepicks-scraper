@@ -1,8 +1,38 @@
 [
   {
+    "playerId": "california-golden-bears_kendrick-raphael_43f93095",
+    "playerName": "Kendrick Raphael",
+    "teamCode": "california-golden-bears",
+    "sport": "NCAAF"
+  },
+  {
+    "playerId": "hawai'i-rainbow-warriors_micah-alejado_67fec1c5",
+    "playerName": "Micah Alejado",
+    "teamCode": "hawai'i-rainbow-warriors",
+    "sport": "NCAAF"
+  },
+  {
+    "playerId": "california-golden-bears_jaron-keawe-sagapolutele_f939eb4d",
+    "playerName": "Jaron-Keawe Sagapolutele",
+    "teamCode": "california-golden-bears",
+    "sport": "NCAAF"
+  },
+  {
     "playerId": "hawai'i-rainbow-warriors_kansei-matsuzawa_891c3fee",
     "playerName": "Kansei Matsuzawa",
     "teamCode": "hawai'i-rainbow-warriors",
+    "sport": "NCAAF"
+  },
+  {
+    "playerId": "california-golden-bears_jacob-jesus_8d08a2df",
+    "playerName": "Jacob Jesus",
+    "teamCode": "california-golden-bears",
+    "sport": "NCAAF"
+  },
+  {
+    "playerId": "california-golden-bears_trond-grizzell_270b015b",
+    "playerName": "Trond Grizzell",
+    "teamCode": "california-golden-bears",
     "sport": "NCAAF"
   }
 ]

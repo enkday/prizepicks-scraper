@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cincinnati Bengals",
-  "totalProps": 18,
+  "totalProps": 19,
   "props": [
     {
       "player": "Joe Burrow",
@@ -21,13 +21,13 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1300,
+      "rank": 1751,
       "gameId": "119686"
     },
     {
       "player": "Ja'Marr Chase",
       "stat": "Receiving Yards",
-      "line": 90.5,
+      "line": 88.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1323,
+      "rank": 1782,
       "gameId": "119686"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1357,
+      "rank": 1812,
       "gameId": "119686"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1358,
+      "rank": 1813,
       "gameId": "119686"
     },
     {
-      "player": "Samaje Perine",
-      "stat": "Rush Yards",
-      "line": 38.5,
+      "player": "Joe Burrow",
+      "stat": "Longest Completion",
+      "line": 37.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -89,12 +89,12 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1383,
+      "rank": 1843,
       "gameId": "119686"
     },
     {
-      "player": "Joe Burrow",
-      "stat": "Longest Completion",
+      "player": "Samaje Perine",
+      "stat": "Rush Yards",
       "line": 36.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1385,
+      "rank": 1844,
       "gameId": "119686"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1386,
+      "rank": 1845,
       "gameId": "119686"
     },
     {
       "player": "Ja'Marr Chase",
       "stat": "Longest Reception",
-      "line": 25.5,
+      "line": 26.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -140,12 +140,12 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1405,
+      "rank": 1868,
       "gameId": "119686"
     },
     {
-      "player": "Joe Burrow",
-      "stat": "Pass Completions",
+      "player": "Chase Brown",
+      "stat": "Receiving Yards",
       "line": 23.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
@@ -157,7 +157,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1408,
+      "rank": 1879,
       "gameId": "119686"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1410,
+      "rank": 1880,
       "gameId": "119686"
     },
     {
@@ -191,7 +191,41 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1411,
+      "rank": 1881,
+      "gameId": "119686"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Longest Rush",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1909,
+      "gameId": "119686"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Rush Attempts",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1910,
       "gameId": "119686"
     },
     {
@@ -208,24 +242,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1431,
-      "gameId": "119686"
-    },
-    {
-      "player": "Chase Brown",
-      "stat": "Longest Rush",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1432,
+      "rank": 1912,
       "gameId": "119686"
     },
     {
@@ -242,7 +259,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1433,
+      "rank": 1914,
       "gameId": "119686"
     },
     {
@@ -259,7 +276,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1435,
+      "rank": 1918,
       "gameId": "119686"
     },
     {
@@ -276,7 +293,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1445,
+      "rank": 1935,
       "gameId": "119686"
     },
     {
@@ -293,7 +310,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1446,
+      "rank": 1936,
       "gameId": "119686"
     },
     {
@@ -310,7 +327,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1462,
+      "rank": 1961,
       "gameId": "119686"
     }
   ]

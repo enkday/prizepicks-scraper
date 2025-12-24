@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
   "team": "Minnesota Timberwolves",
-  "totalProps": 16,
+  "totalProps": 24,
   "props": [
     {
       "player": "Anthony Edwards",
       "stat": "Points",
-      "line": 28.5,
+      "line": 29.5,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2084,
+      "rank": 2619,
       "gameId": "116461"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2115,
+      "rank": 2671,
       "gameId": "116461"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2179,
+      "rank": 2757,
       "gameId": "116461"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2180,
+      "rank": 2758,
       "gameId": "116461"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2182,
+      "rank": 2760,
       "gameId": "116461"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2206,
+      "rank": 2797,
       "gameId": "116461"
     },
     {
@@ -123,7 +123,41 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2207,
+      "rank": 2798,
+      "gameId": "116461"
+    },
+    {
+      "player": "Julius Randle",
+      "stat": "Rebounds",
+      "line": 7,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 2859,
+      "gameId": "116461"
+    },
+    {
+      "player": "Naz Reid",
+      "stat": "Rebounds",
+      "line": 6,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 2876,
       "gameId": "116461"
     },
     {
@@ -140,7 +174,41 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2285,
+      "rank": 2895,
+      "gameId": "116461"
+    },
+    {
+      "player": "Julius Randle",
+      "stat": "Defensive Rebounds",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 2899,
+      "gameId": "116461"
+    },
+    {
+      "player": "Naz Reid",
+      "stat": "Defensive Rebounds",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 2900,
       "gameId": "116461"
     },
     {
@@ -157,7 +225,24 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2290,
+      "rank": 2902,
+      "gameId": "116461"
+    },
+    {
+      "player": "Julius Randle",
+      "stat": "Assists",
+      "line": 5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 2907,
       "gameId": "116461"
     },
     {
@@ -174,7 +259,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2317,
+      "rank": 2935,
       "gameId": "116461"
     },
     {
@@ -191,7 +276,24 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2318,
+      "rank": 2936,
+      "gameId": "116461"
+    },
+    {
+      "player": "Donte DiVincenzo",
+      "stat": "Rebounds",
+      "line": 4,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 2937,
       "gameId": "116461"
     },
     {
@@ -208,7 +310,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2320,
+      "rank": 2939,
       "gameId": "116461"
     },
     {
@@ -225,7 +327,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2341,
+      "rank": 2963,
       "gameId": "116461"
     },
     {
@@ -242,7 +344,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2364,
+      "rank": 2997,
       "gameId": "116461"
     },
     {
@@ -259,7 +361,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2372,
+      "rank": 3027,
       "gameId": "116461"
     },
     {
@@ -276,7 +378,41 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2373,
+      "rank": 3028,
+      "gameId": "116461"
+    },
+    {
+      "player": "Anthony Edwards",
+      "stat": "Blocked Shots",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 3041,
+      "gameId": "116461"
+    },
+    {
+      "player": "Jaden McDaniels",
+      "stat": "Blocked Shots",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 3043,
       "gameId": "116461"
     }
   ]

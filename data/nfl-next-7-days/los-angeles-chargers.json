@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Chargers",
-  "totalProps": 34,
+  "totalProps": 35,
   "props": [
     {
       "player": "Justin Herbert",
@@ -21,7 +21,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 885,
+      "rank": 1240,
       "gameId": "119683"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 927,
+      "rank": 1284,
       "gameId": "119683"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 939,
+      "rank": 1295,
       "gameId": "119683"
     },
     {
       "player": "Ladd McConkey",
       "stat": "Receiving Yards",
-      "line": 44.5,
+      "line": 41.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 954,
+      "rank": 1312,
       "gameId": "119683"
     },
     {
       "player": "Quentin Johnston",
       "stat": "Receiving Yards",
-      "line": 39.5,
+      "line": 35.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -89,7 +89,24 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 964,
+      "rank": 1329,
+      "gameId": "119683"
+    },
+    {
+      "player": "Keenan Allen",
+      "stat": "Receiving Yards",
+      "line": 35.5,
+      "sport": "NFL",
+      "startTime": "12/27/25 03:30 PM CST",
+      "startTimeCST": "12/27/25 03:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1330,
       "gameId": "119683"
     },
     {
@@ -106,24 +123,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 974,
-      "gameId": "119683"
-    },
-    {
-      "player": "Keenan Allen",
-      "stat": "Receiving Yards",
-      "line": 32.5,
-      "sport": "NFL",
-      "startTime": "12/27/25 03:30 PM CST",
-      "startTimeCST": "12/27/25 03:30 PM CST",
-      "startDateCST": "2025-12-27",
-      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 978,
+      "rank": 1331,
       "gameId": "119683"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 979,
+      "rank": 1336,
       "gameId": "119683"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 981,
+      "rank": 1338,
       "gameId": "119683"
     },
     {
@@ -174,13 +174,13 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1016,
+      "rank": 1379,
       "gameId": "119683"
     },
     {
       "player": "Tre' Harris",
       "stat": "Receiving Yards",
-      "line": 21.5,
+      "line": 20.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -191,7 +191,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1018,
+      "rank": 1381,
       "gameId": "119683"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1020,
+      "rank": 1383,
       "gameId": "119683"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1037,
+      "rank": 1403,
       "gameId": "119683"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1038,
+      "rank": 1404,
       "gameId": "119683"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1044,
+      "rank": 1410,
       "gameId": "119683"
     },
     {
@@ -276,13 +276,13 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1046,
+      "rank": 1413,
       "gameId": "119683"
     },
     {
       "player": "Omarion Hampton",
       "stat": "Rush Attempts",
-      "line": 15,
+      "line": 14.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -293,24 +293,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1047,
-      "gameId": "119683"
-    },
-    {
-      "player": "Tre' Harris",
-      "stat": "Longest Reception",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/27/25 03:30 PM CST",
-      "startTimeCST": "12/27/25 03:30 PM CST",
-      "startDateCST": "2025-12-27",
-      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 1054,
+      "rank": 1419,
       "gameId": "119683"
     },
     {
@@ -327,13 +310,13 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1056,
+      "rank": 1428,
       "gameId": "119683"
     },
     {
       "player": "Justin Herbert",
       "stat": "Longest Rush",
-      "line": 11.5,
+      "line": 12.5,
       "sport": "NFL",
       "startTime": "12/27/25 03:30 PM CST",
       "startTimeCST": "12/27/25 03:30 PM CST",
@@ -344,7 +327,24 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1060,
+      "rank": 1432,
+      "gameId": "119683"
+    },
+    {
+      "player": "Tre' Harris",
+      "stat": "Longest Reception",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "12/27/25 03:30 PM CST",
+      "startTimeCST": "12/27/25 03:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1434,
       "gameId": "119683"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1062,
+      "rank": 1437,
       "gameId": "119683"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1069,
+      "rank": 1452,
       "gameId": "119683"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1078,
+      "rank": 1462,
       "gameId": "119683"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1099,
+      "rank": 1482,
       "gameId": "119683"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1100,
+      "rank": 1483,
       "gameId": "119683"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1109,
+      "rank": 1492,
       "gameId": "119683"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1111,
+      "rank": 1494,
       "gameId": "119683"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1112,
+      "rank": 1495,
       "gameId": "119683"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1116,
+      "rank": 1499,
       "gameId": "119683"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1122,
+      "rank": 1505,
       "gameId": "119683"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1127,
+      "rank": 1511,
       "gameId": "119683"
     },
     {
@@ -548,7 +548,24 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1128,
+      "rank": 1512,
+      "gameId": "119683"
+    },
+    {
+      "player": "Omarion Hampton",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/27/25 03:30 PM CST",
+      "startTimeCST": "12/27/25 03:30 PM CST",
+      "startDateCST": "2025-12-27",
+      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1523,
       "gameId": "119683"
     },
     {
@@ -565,7 +582,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1173,
+      "rank": 1562,
       "gameId": "119683"
     },
     {
@@ -582,7 +599,7 @@
       "teamCode": "LAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1179,
+      "rank": 1568,
       "gameId": "119683"
     }
   ]

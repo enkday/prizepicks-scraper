@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "tomorrow",
-  "totalProps": 169,
+  "totalProps": 216,
   "props": [
     {
       "player": "George Pickens",
@@ -20,7 +20,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2,
+      "rank": 5,
       "gameId": "116294"
     },
     {
@@ -37,7 +37,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4,
+      "rank": 7,
       "gameId": "116294"
     },
     {
@@ -54,7 +54,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5,
+      "rank": 8,
       "gameId": "116294"
     },
     {
@@ -71,7 +71,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6,
+      "rank": 9,
       "gameId": "116294"
     },
     {
@@ -88,7 +88,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 9,
+      "rank": 12,
       "gameId": "116294"
     },
     {
@@ -105,7 +105,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 11,
+      "rank": 14,
       "gameId": "116294"
     },
     {
@@ -122,7 +122,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 12,
+      "rank": 15,
       "gameId": "116294"
     },
     {
@@ -139,13 +139,13 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 14,
+      "rank": 17,
       "gameId": "116294"
     },
     {
       "player": "Dak Prescott",
       "stat": "Pass Yards",
-      "line": 273.5,
+      "line": 271.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -156,24 +156,24 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 20,
+      "rank": 29,
       "gameId": "116294"
     },
     {
-      "player": "CeeDee Lamb",
-      "stat": "Receiving Yards",
-      "line": 80.5,
+      "player": "Josh Johnson",
+      "stat": "Pass Yards",
+      "line": 176.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
       "startDateCST": "2025-12-25",
       "startTimeIso": "2025-12-25T13:00:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 39,
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 43,
       "gameId": "116294"
     },
     {
@@ -190,13 +190,13 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 44,
+      "rank": 71,
       "gameId": "116294"
     },
     {
-      "player": "Javonte Williams",
-      "stat": "Rush Yards",
-      "line": 76.5,
+      "player": "CeeDee Lamb",
+      "stat": "Receiving Yards",
+      "line": 77.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -207,7 +207,24 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 45,
+      "rank": 73,
+      "gameId": "116294"
+    },
+    {
+      "player": "Javonte Williams",
+      "stat": "Rush Yards",
+      "line": 72.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 74,
       "gameId": "116294"
     },
     {
@@ -224,13 +241,13 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 53,
+      "rank": 81,
       "gameId": "116294"
     },
     {
-      "player": "Terry McLaurin",
-      "stat": "Receiving Yards",
-      "line": 50.5,
+      "player": "Chris Rodriguez",
+      "stat": "Rush Yards",
+      "line": 52.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -241,12 +258,12 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 62,
+      "rank": 95,
       "gameId": "116294"
     },
     {
-      "player": "Chris Rodriguez",
-      "stat": "Rush Yards",
+      "player": "Terry McLaurin",
+      "stat": "Receiving Yards",
       "line": 49.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
@@ -258,13 +275,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 68,
+      "rank": 96,
       "gameId": "116294"
     },
     {
       "player": "Deebo Samuel",
       "stat": "Receiving Yards",
-      "line": 44.5,
+      "line": 43.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -275,24 +292,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 70,
-      "gameId": "116294"
-    },
-    {
-      "player": "Jake Ferguson",
-      "stat": "Receiving Yards",
-      "line": 37.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 12:00 PM CST",
-      "startTimeCST": "12/25/25 12:00 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 76,
+      "rank": 111,
       "gameId": "116294"
     },
     {
@@ -309,7 +309,24 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 77,
+      "rank": 122,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jake Ferguson",
+      "stat": "Receiving Yards",
+      "line": 36.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 123,
       "gameId": "116294"
     },
     {
@@ -326,7 +343,58 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 78,
+      "rank": 124,
+      "gameId": "116294"
+    },
+    {
+      "player": "Josh Johnson",
+      "stat": "Longest Completion",
+      "line": 32.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 128,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards",
+      "line": 28.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 146,
+      "gameId": "116294"
+    },
+    {
+      "player": "Josh Johnson",
+      "stat": "Pass Attempts",
+      "line": 27.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 149,
       "gameId": "116294"
     },
     {
@@ -343,7 +411,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 93,
+      "rank": 150,
       "gameId": "116294"
     },
     {
@@ -360,7 +428,24 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 94,
+      "rank": 151,
+      "gameId": "116294"
+    },
+    {
+      "player": "Malik Davis",
+      "stat": "Rush Yards",
+      "line": 25.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 152,
       "gameId": "116294"
     },
     {
@@ -377,7 +462,41 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 104,
+      "rank": 171,
+      "gameId": "116294"
+    },
+    {
+      "player": "KaVontae Turpin",
+      "stat": "Receiving Yards",
+      "line": 23.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 172,
+      "gameId": "116294"
+    },
+    {
+      "player": "Treylon Burks",
+      "stat": "Receiving Yards",
+      "line": 22.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 174,
       "gameId": "116294"
     },
     {
@@ -394,13 +513,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 105,
+      "rank": 175,
       "gameId": "116294"
     },
     {
       "player": "Deebo Samuel",
       "stat": "Longest Reception",
-      "line": 18.5,
+      "line": 17.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -411,24 +530,41 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 114,
+      "rank": 198,
       "gameId": "116294"
     },
     {
-      "player": "Javonte Williams",
-      "stat": "Rush Attempts",
-      "line": 16,
+      "player": "Josh Johnson",
+      "stat": "Pass Completions",
+      "line": 16.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
       "startDateCST": "2025-12-25",
       "startTimeIso": "2025-12-25T13:00:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 116,
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 200,
+      "gameId": "116294"
+    },
+    {
+      "player": "Josh Johnson",
+      "stat": "Rush Yards",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 201,
       "gameId": "116294"
     },
     {
@@ -445,7 +581,24 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 118,
+      "rank": 203,
+      "gameId": "116294"
+    },
+    {
+      "player": "Javonte Williams",
+      "stat": "Rush Attempts",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 204,
       "gameId": "116294"
     },
     {
@@ -462,12 +615,80 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 119,
+      "rank": 206,
+      "gameId": "116294"
+    },
+    {
+      "player": "KaVontae Turpin",
+      "stat": "Longest Reception",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 212,
       "gameId": "116294"
     },
     {
       "player": "Chris Rodriguez",
       "stat": "Longest Rush",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 220,
+      "gameId": "116294"
+    },
+    {
+      "player": "Ben Sinnott",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 221,
+      "gameId": "116294"
+    },
+    {
+      "player": "Treylon Burks",
+      "stat": "Longest Reception",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 222,
+      "gameId": "116294"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Rush Attempts",
       "line": 12.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
@@ -479,7 +700,75 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 125,
+      "rank": 225,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Longest Rush",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 232,
+      "gameId": "116294"
+    },
+    {
+      "player": "Ben Sinnott",
+      "stat": "Longest Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 235,
+      "gameId": "116294"
+    },
+    {
+      "player": "Josh Johnson",
+      "stat": "Longest Rush",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 237,
+      "gameId": "116294"
+    },
+    {
+      "player": "Malik Davis",
+      "stat": "Longest Rush",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 244,
       "gameId": "116294"
     },
     {
@@ -496,7 +785,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 132,
+      "rank": 246,
       "gameId": "116294"
     },
     {
@@ -513,7 +802,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 133,
+      "rank": 247,
       "gameId": "116294"
     },
     {
@@ -530,7 +819,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 134,
+      "rank": 248,
       "gameId": "116294"
     },
     {
@@ -547,7 +836,58 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 137,
+      "rank": 251,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jeremy McNichols",
+      "stat": "Receiving Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 252,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Attempts",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 261,
+      "gameId": "116294"
+    },
+    {
+      "player": "John Bates",
+      "stat": "Receiving Yards",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 262,
       "gameId": "116294"
     },
     {
@@ -564,7 +904,75 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 143,
+      "rank": 263,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jeremy McNichols",
+      "stat": "Longest Reception",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 269,
+      "gameId": "116294"
+    },
+    {
+      "player": "Javonte Williams",
+      "stat": "Longest Reception",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 270,
+      "gameId": "116294"
+    },
+    {
+      "player": "Dak Prescott",
+      "stat": "Longest Rush",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 271,
+      "gameId": "116294"
+    },
+    {
+      "player": "Dak Prescott",
+      "stat": "Rush Yards",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 272,
       "gameId": "116294"
     },
     {
@@ -581,7 +989,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 149,
+      "rank": 274,
       "gameId": "116294"
     },
     {
@@ -598,7 +1006,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 150,
+      "rank": 275,
       "gameId": "116294"
     },
     {
@@ -615,7 +1023,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 151,
+      "rank": 276,
       "gameId": "116294"
     },
     {
@@ -632,7 +1040,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 152,
+      "rank": 277,
       "gameId": "116294"
     },
     {
@@ -649,12 +1057,46 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 157,
+      "rank": 282,
       "gameId": "116294"
     },
     {
-      "player": "Jake Ferguson",
-      "stat": "Receptions",
+      "player": "John Bates",
+      "stat": "Longest Reception",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 285,
+      "gameId": "116294"
+    },
+    {
+      "player": "Bobby Wagner",
+      "stat": "Assists",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 293,
+      "gameId": "116294"
+    },
+    {
+      "player": "KaVontae Turpin",
+      "stat": "Rush Yards",
       "line": 4.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
@@ -666,7 +1108,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 160,
+      "rank": 296,
       "gameId": "116294"
     },
     {
@@ -683,7 +1125,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 166,
+      "rank": 298,
       "gameId": "116294"
     },
     {
@@ -700,7 +1142,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 169,
+      "rank": 301,
       "gameId": "116294"
     },
     {
@@ -717,7 +1159,92 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 185,
+      "rank": 322,
+      "gameId": "116294"
+    },
+    {
+      "player": "Javonte Williams",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 325,
+      "gameId": "116294"
+    },
+    {
+      "player": "Dak Prescott",
+      "stat": "Rush Attempts",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 328,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jeremy McNichols",
+      "stat": "Receptions",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 349,
+      "gameId": "116294"
+    },
+    {
+      "player": "Ben Sinnott",
+      "stat": "Receptions",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 350,
+      "gameId": "116294"
+    },
+    {
+      "player": "Kenny Clark",
+      "stat": "Assists",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 352,
       "gameId": "116294"
     },
     {
@@ -734,7 +1261,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 219,
+      "rank": 374,
       "gameId": "116294"
     },
     {
@@ -751,7 +1278,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 221,
+      "rank": 376,
       "gameId": "116294"
     },
     {
@@ -768,7 +1295,7 @@
       "teamCode": "DAL",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 222,
+      "rank": 377,
       "gameId": "116294"
     },
     {
@@ -785,7 +1312,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 228,
+      "rank": 417,
       "gameId": "116295"
     },
     {
@@ -802,7 +1329,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 231,
+      "rank": 425,
       "gameId": "116295"
     },
     {
@@ -819,7 +1346,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 238,
+      "rank": 435,
       "gameId": "116295"
     },
     {
@@ -836,13 +1363,13 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 245,
+      "rank": 442,
       "gameId": "116295"
     },
     {
       "player": "Amon-Ra St. Brown",
       "stat": "Receiving Yards",
-      "line": 78.5,
+      "line": 79.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -853,7 +1380,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 280,
+      "rank": 472,
       "gameId": "116295"
     },
     {
@@ -870,7 +1397,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 281,
+      "rank": 479,
       "gameId": "116295"
     },
     {
@@ -887,13 +1414,13 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 291,
+      "rank": 489,
       "gameId": "116295"
     },
     {
       "player": "Jameson Williams",
       "stat": "Receiving Yards",
-      "line": 63.5,
+      "line": 64.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -904,7 +1431,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 292,
+      "rank": 490,
       "gameId": "116295"
     },
     {
@@ -921,7 +1448,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 293,
+      "rank": 491,
       "gameId": "116295"
     },
     {
@@ -938,7 +1465,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 294,
+      "rank": 492,
       "gameId": "116295"
     },
     {
@@ -955,13 +1482,13 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 316,
+      "rank": 516,
       "gameId": "116295"
     },
     {
       "player": "Jared Goff",
       "stat": "Longest Completion",
-      "line": 36.5,
+      "line": 37.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -972,7 +1499,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 327,
+      "rank": 529,
       "gameId": "116295"
     },
     {
@@ -989,24 +1516,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 334,
-      "gameId": "116295"
-    },
-    {
-      "player": "David Montgomery",
-      "stat": "Rush Yards",
-      "line": 32.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 335,
+      "rank": 536,
       "gameId": "116295"
     },
     {
@@ -1023,7 +1533,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 336,
+      "rank": 537,
       "gameId": "116295"
     },
     {
@@ -1040,7 +1550,24 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 337,
+      "rank": 538,
+      "gameId": "116295"
+    },
+    {
+      "player": "David Montgomery",
+      "stat": "Rush Yards",
+      "line": 30.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 539,
       "gameId": "116295"
     },
     {
@@ -1057,45 +1584,11 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 338,
-      "gameId": "116295"
-    },
-    {
-      "player": "T.J. Hockenson",
-      "stat": "Receiving Yards",
-      "line": 28.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 353,
+      "rank": 540,
       "gameId": "116295"
     },
     {
       "player": "Jameson Williams",
-      "stat": "Longest Reception",
-      "line": 26.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 356,
-      "gameId": "116295"
-    },
-    {
-      "player": "Amon-Ra St. Brown",
       "stat": "Longest Reception",
       "line": 25.5,
       "sport": "NFL",
@@ -1108,7 +1601,24 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 357,
+      "rank": 562,
+      "gameId": "116295"
+    },
+    {
+      "player": "Amon-Ra St. Brown",
+      "stat": "Longest Reception",
+      "line": 24.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 565,
       "gameId": "116295"
     },
     {
@@ -1125,13 +1635,13 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 371,
+      "rank": 582,
       "gameId": "116295"
     },
     {
       "player": "Jared Goff",
       "stat": "Pass Completions",
-      "line": 21.5,
+      "line": 22.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -1142,7 +1652,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 372,
+      "rank": 583,
       "gameId": "116295"
     },
     {
@@ -1159,7 +1669,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 373,
+      "rank": 584,
       "gameId": "116295"
     },
     {
@@ -1176,7 +1686,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 374,
+      "rank": 585,
       "gameId": "116295"
     },
     {
@@ -1193,7 +1703,41 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 378,
+      "rank": 587,
+      "gameId": "116295"
+    },
+    {
+      "player": "Josh Oliver",
+      "stat": "Receiving Yards",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 588,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jahmyr Gibbs",
+      "stat": "Longest Rush",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 605,
       "gameId": "116295"
     },
     {
@@ -1210,7 +1754,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 394,
+      "rank": 608,
       "gameId": "116295"
     },
     {
@@ -1227,24 +1771,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 397,
-      "gameId": "116295"
-    },
-    {
-      "player": "Jahmyr Gibbs",
-      "stat": "Longest Rush",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 398,
+      "rank": 610,
       "gameId": "116295"
     },
     {
@@ -1261,7 +1788,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 399,
+      "rank": 612,
       "gameId": "116295"
     },
     {
@@ -1278,24 +1805,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 401,
-      "gameId": "116295"
-    },
-    {
-      "player": "Aaron Jones",
-      "stat": "Longest Rush",
-      "line": 14.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 404,
+      "rank": 614,
       "gameId": "116295"
     },
     {
@@ -1312,11 +1822,45 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 411,
+      "rank": 626,
       "gameId": "116295"
     },
     {
-      "player": "T.J. Hockenson",
+      "player": "Aaron Jones",
+      "stat": "Longest Rush",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 627,
+      "gameId": "116295"
+    },
+    {
+      "player": "Isaac TeSlaa",
+      "stat": "Receiving Yards",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 631,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jalen Nailor",
       "stat": "Longest Reception",
       "line": 12.5,
       "sport": "NFL",
@@ -1329,7 +1873,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 416,
+      "rank": 634,
       "gameId": "116295"
     },
     {
@@ -1346,24 +1890,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 418,
-      "gameId": "116295"
-    },
-    {
-      "player": "Jalen Nailor",
-      "stat": "Longest Reception",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 419,
+      "rank": 635,
       "gameId": "116295"
     },
     {
@@ -1380,7 +1907,41 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 421,
+      "rank": 637,
+      "gameId": "116295"
+    },
+    {
+      "player": "Isaac TeSlaa",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 639,
+      "gameId": "116295"
+    },
+    {
+      "player": "Shane Zylstra",
+      "stat": "Receiving Yards",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 640,
       "gameId": "116295"
     },
     {
@@ -1397,7 +1958,24 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 423,
+      "rank": 641,
+      "gameId": "116295"
+    },
+    {
+      "player": "Anthony Firkser",
+      "stat": "Receiving Yards",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 642,
       "gameId": "116295"
     },
     {
@@ -1414,7 +1992,24 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 426,
+      "rank": 645,
+      "gameId": "116295"
+    },
+    {
+      "player": "Shane Zylstra",
+      "stat": "Longest Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 650,
       "gameId": "116295"
     },
     {
@@ -1431,7 +2026,24 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 434,
+      "rank": 660,
+      "gameId": "116295"
+    },
+    {
+      "player": "Anthony Firkser",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 662,
       "gameId": "116295"
     },
     {
@@ -1448,7 +2060,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 436,
+      "rank": 663,
       "gameId": "116295"
     },
     {
@@ -1465,7 +2077,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 438,
+      "rank": 665,
       "gameId": "116295"
     },
     {
@@ -1482,7 +2094,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 443,
+      "rank": 670,
       "gameId": "116295"
     },
     {
@@ -1499,41 +2111,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 444,
-      "gameId": "116295"
-    },
-    {
-      "player": "David Montgomery",
-      "stat": "Receiving Yards",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 448,
-      "gameId": "116295"
-    },
-    {
-      "player": "David Montgomery",
-      "stat": "Longest Reception",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 449,
+      "rank": 671,
       "gameId": "116295"
     },
     {
@@ -1550,7 +2128,41 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 450,
+      "rank": 675,
+      "gameId": "116295"
+    },
+    {
+      "player": "David Montgomery",
+      "stat": "Receiving Yards",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 681,
+      "gameId": "116295"
+    },
+    {
+      "player": "David Montgomery",
+      "stat": "Longest Reception",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 682,
       "gameId": "116295"
     },
     {
@@ -1567,7 +2179,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 458,
+      "rank": 684,
       "gameId": "116295"
     },
     {
@@ -1584,7 +2196,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 459,
+      "rank": 685,
       "gameId": "116295"
     },
     {
@@ -1601,7 +2213,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 461,
+      "rank": 687,
       "gameId": "116295"
     },
     {
@@ -1618,7 +2230,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 463,
+      "rank": 689,
       "gameId": "116295"
     },
     {
@@ -1635,7 +2247,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 464,
+      "rank": 690,
       "gameId": "116295"
     },
     {
@@ -1652,7 +2264,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 472,
+      "rank": 702,
       "gameId": "116295"
     },
     {
@@ -1669,7 +2281,7 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 476,
+      "rank": 705,
       "gameId": "116295"
     },
     {
@@ -1686,7 +2298,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 493,
+      "rank": 725,
       "gameId": "116295"
     },
     {
@@ -1703,7 +2315,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 494,
+      "rank": 726,
       "gameId": "116295"
     },
     {
@@ -1720,7 +2332,24 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 512,
+      "rank": 745,
+      "gameId": "116295"
+    },
+    {
+      "player": "Byron Murphy",
+      "stat": "Assists",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 763,
       "gameId": "116295"
     },
     {
@@ -1737,7 +2366,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 547,
+      "rank": 802,
       "gameId": "116466"
     },
     {
@@ -1754,7 +2383,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 549,
+      "rank": 804,
       "gameId": "116466"
     },
     {
@@ -1771,7 +2400,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 550,
+      "rank": 805,
       "gameId": "116466"
     },
     {
@@ -1788,7 +2417,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 553,
+      "rank": 808,
       "gameId": "116466"
     },
     {
@@ -1805,7 +2434,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 557,
+      "rank": 812,
       "gameId": "116466"
     },
     {
@@ -1822,7 +2451,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 558,
+      "rank": 813,
       "gameId": "116466"
     },
     {
@@ -1839,7 +2468,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 559,
+      "rank": 814,
       "gameId": "116466"
     },
     {
@@ -1856,7 +2485,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 562,
+      "rank": 817,
       "gameId": "116466"
     },
     {
@@ -1873,7 +2502,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 564,
+      "rank": 819,
       "gameId": "116466"
     },
     {
@@ -1890,7 +2519,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 565,
+      "rank": 820,
       "gameId": "116466"
     },
     {
@@ -1907,7 +2536,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 568,
+      "rank": 824,
       "gameId": "116466"
     },
     {
@@ -1924,7 +2553,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 572,
+      "rank": 827,
       "gameId": "116466"
     },
     {
@@ -1941,7 +2570,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 583,
+      "rank": 839,
       "gameId": "116466"
     },
     {
@@ -1958,7 +2587,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 599,
+      "rank": 855,
       "gameId": "116466"
     },
     {
@@ -1975,13 +2604,13 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 618,
+      "rank": 875,
       "gameId": "116466"
     },
     {
       "player": "Courtland Sutton",
       "stat": "Receiving Yards",
-      "line": 61.5,
+      "line": 63.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -1992,7 +2621,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 619,
+      "rank": 879,
       "gameId": "116466"
     },
     {
@@ -2009,13 +2638,13 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 629,
+      "rank": 892,
       "gameId": "116466"
     },
     {
       "player": "RJ Harvey",
       "stat": "Rush Yards",
-      "line": 52.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -2026,7 +2655,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 630,
+      "rank": 893,
       "gameId": "116466"
     },
     {
@@ -2043,13 +2672,30 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 655,
+      "rank": 925,
+      "gameId": "116466"
+    },
+    {
+      "player": "Travis Kelce",
+      "stat": "Receiving Yards",
+      "line": 37.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 927,
       "gameId": "116466"
     },
     {
       "player": "Bo Nix",
       "stat": "Longest Completion",
-      "line": 36.5,
+      "line": 35.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -2060,7 +2706,24 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 657,
+      "rank": 928,
+      "gameId": "116466"
+    },
+    {
+      "player": "Troy Franklin",
+      "stat": "Receiving Yards",
+      "line": 35.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 929,
       "gameId": "116466"
     },
     {
@@ -2077,30 +2740,13 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 661,
-      "gameId": "116466"
-    },
-    {
-      "player": "Troy Franklin",
-      "stat": "Receiving Yards",
-      "line": 33.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 662,
+      "rank": 933,
       "gameId": "116466"
     },
     {
       "player": "Chris Oladokun",
       "stat": "Pass Attempts",
-      "line": 28.5,
+      "line": 29.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -2111,11 +2757,11 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 679,
+      "rank": 935,
       "gameId": "116466"
     },
     {
-      "player": "Evan Engram",
+      "player": "Xavier Worthy",
       "stat": "Receiving Yards",
       "line": 27.5,
       "sport": "NFL",
@@ -2124,11 +2770,11 @@
       "startDateCST": "2025-12-25",
       "startTimeIso": "2025-12-25T20:15:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 680,
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 955,
       "gameId": "116466"
     },
     {
@@ -2145,13 +2791,13 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 681,
+      "rank": 956,
       "gameId": "116466"
     },
     {
       "player": "Jaleel McLaughlin",
       "stat": "Rush Yards",
-      "line": 24.5,
+      "line": 25.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -2162,7 +2808,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 683,
+      "rank": 957,
       "gameId": "116466"
     },
     {
@@ -2179,7 +2825,41 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 698,
+      "rank": 979,
+      "gameId": "116466"
+    },
+    {
+      "player": "Evan Engram",
+      "stat": "Receiving Yards",
+      "line": 22.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 980,
+      "gameId": "116466"
+    },
+    {
+      "player": "Lil'Jordan Humphrey",
+      "stat": "Receiving Yards",
+      "line": 21.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 981,
       "gameId": "116466"
     },
     {
@@ -2196,24 +2876,24 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 699,
+      "rank": 982,
       "gameId": "116466"
     },
     {
-      "player": "Marvin Mims",
+      "player": "Marquise Brown",
       "stat": "Receiving Yards",
-      "line": 19.5,
+      "line": 21.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
       "startDateCST": "2025-12-25",
       "startTimeIso": "2025-12-25T20:15:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 703,
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 983,
       "gameId": "116466"
     },
     {
@@ -2230,7 +2910,41 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 723,
+      "rank": 1013,
+      "gameId": "116466"
+    },
+    {
+      "player": "Chris Oladokun",
+      "stat": "Pass Completions",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1014,
+      "gameId": "116466"
+    },
+    {
+      "player": "Chris Oladokun",
+      "stat": "Rush Yards",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1015,
       "gameId": "116466"
     },
     {
@@ -2247,12 +2961,29 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 724,
+      "rank": 1016,
       "gameId": "116466"
     },
     {
-      "player": "Chris Oladokun",
-      "stat": "Pass Completions",
+      "player": "Marvin Mims",
+      "stat": "Receiving Yards",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1017,
+      "gameId": "116466"
+    },
+    {
+      "player": "Travis Kelce",
+      "stat": "Longest Reception",
       "line": 16.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
@@ -2264,24 +2995,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 726,
-      "gameId": "116466"
-    },
-    {
-      "player": "Lil'Jordan Humphrey",
-      "stat": "Receiving Yards",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 727,
+      "rank": 1020,
       "gameId": "116466"
     },
     {
@@ -2298,7 +3012,24 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 729,
+      "rank": 1021,
+      "gameId": "116466"
+    },
+    {
+      "player": "Xavier Worthy",
+      "stat": "Longest Reception",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1022,
       "gameId": "116466"
     },
     {
@@ -2315,13 +3046,13 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 730,
+      "rank": 1023,
       "gameId": "116466"
     },
     {
-      "player": "Bo Nix",
-      "stat": "Rush Yards",
-      "line": 13.5,
+      "player": "Evan Engram",
+      "stat": "Longest Reception",
+      "line": 14.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -2332,13 +3063,13 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 742,
+      "rank": 1024,
       "gameId": "116466"
     },
     {
-      "player": "Chris Oladokun",
-      "stat": "Rush Yards",
-      "line": 13.5,
+      "player": "JuJu Smith-Schuster",
+      "stat": "Receiving Yards",
+      "line": 14.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -2349,41 +3080,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 743,
-      "gameId": "116466"
-    },
-    {
-      "player": "Evan Engram",
-      "stat": "Longest Reception",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 744,
-      "gameId": "116466"
-    },
-    {
-      "player": "Marvin Mims",
-      "stat": "Longest Reception",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 745,
+      "rank": 1037,
       "gameId": "116466"
     },
     {
@@ -2400,7 +3097,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 747,
+      "rank": 1044,
       "gameId": "116466"
     },
     {
@@ -2417,7 +3114,58 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 748,
+      "rank": 1045,
+      "gameId": "116466"
+    },
+    {
+      "player": "Marquise Brown",
+      "stat": "Longest Reception",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1047,
+      "gameId": "116466"
+    },
+    {
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1048,
+      "gameId": "116466"
+    },
+    {
+      "player": "Marvin Mims",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1049,
       "gameId": "116466"
     },
     {
@@ -2434,7 +3182,24 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 750,
+      "rank": 1050,
+      "gameId": "116466"
+    },
+    {
+      "player": "Lil'Jordan Humphrey",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1051,
       "gameId": "116466"
     },
     {
@@ -2451,12 +3216,12 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 753,
+      "rank": 1054,
       "gameId": "116466"
     },
     {
-      "player": "Isiah Pacheco",
-      "stat": "Rush Attempts",
+      "player": "Chris Oladokun",
+      "stat": "Longest Rush",
       "line": 10.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
@@ -2468,24 +3233,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 754,
-      "gameId": "116466"
-    },
-    {
-      "player": "Lil'Jordan Humphrey",
-      "stat": "Longest Reception",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 755,
+      "rank": 1055,
       "gameId": "116466"
     },
     {
@@ -2502,13 +3250,13 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 759,
+      "rank": 1060,
       "gameId": "116466"
     },
     {
-      "player": "Chris Oladokun",
-      "stat": "Longest Rush",
-      "line": 8.5,
+      "player": "JuJu Smith-Schuster",
+      "stat": "Longest Reception",
+      "line": 9.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -2519,7 +3267,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 769,
+      "rank": 1072,
       "gameId": "116466"
     },
     {
@@ -2536,24 +3284,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 770,
-      "gameId": "116466"
-    },
-    {
-      "player": "Adam Trautman",
-      "stat": "Receiving Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 771,
+      "rank": 1078,
       "gameId": "116466"
     },
     {
@@ -2570,7 +3301,24 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 774,
+      "rank": 1081,
+      "gameId": "116466"
+    },
+    {
+      "player": "Wil Lutz",
+      "stat": "Kicking Points",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1082,
       "gameId": "116466"
     },
     {
@@ -2587,7 +3335,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 775,
+      "rank": 1083,
       "gameId": "116466"
     },
     {
@@ -2604,7 +3352,58 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 776,
+      "rank": 1084,
+      "gameId": "116466"
+    },
+    {
+      "player": "Adam Trautman",
+      "stat": "Receiving Yards",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1085,
+      "gameId": "116466"
+    },
+    {
+      "player": "Noah Gray",
+      "stat": "Receiving Yards",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1087,
+      "gameId": "116466"
+    },
+    {
+      "player": "Noah Gray",
+      "stat": "Longest Reception",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1092,
       "gameId": "116466"
     },
     {
@@ -2621,7 +3420,24 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 780,
+      "rank": 1094,
+      "gameId": "116466"
+    },
+    {
+      "player": "Harrison Butker",
+      "stat": "Kicking Points",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1101,
       "gameId": "116466"
     },
     {
@@ -2638,7 +3454,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 788,
+      "rank": 1104,
       "gameId": "116466"
     },
     {
@@ -2655,7 +3471,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 792,
+      "rank": 1107,
       "gameId": "116466"
     },
     {
@@ -2672,24 +3488,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 793,
-      "gameId": "116466"
-    },
-    {
-      "player": "Bo Nix",
-      "stat": "Rush Attempts",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 800,
+      "rank": 1108,
       "gameId": "116466"
     },
     {
@@ -2706,7 +3505,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 801,
+      "rank": 1114,
       "gameId": "116466"
     },
     {
@@ -2723,7 +3522,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 804,
+      "rank": 1125,
       "gameId": "116466"
     },
     {
@@ -2740,24 +3539,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 809,
-      "gameId": "116466"
-    },
-    {
-      "player": "Alex Singleton",
-      "stat": "Assists",
-      "line": 3.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 811,
+      "rank": 1130,
       "gameId": "116466"
     },
     {
@@ -2774,7 +3556,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 819,
+      "rank": 1145,
       "gameId": "116466"
     },
     {
@@ -2791,7 +3573,41 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 821,
+      "rank": 1147,
+      "gameId": "116466"
+    },
+    {
+      "player": "Wil Lutz",
+      "stat": "PAT Made",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1152,
+      "gameId": "116466"
+    },
+    {
+      "player": "Marvin Mims",
+      "stat": "Rush Yards",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1153,
       "gameId": "116466"
     },
     {
@@ -2808,24 +3624,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 825,
-      "gameId": "116466"
-    },
-    {
-      "player": "Lil'Jordan Humphrey",
-      "stat": "Receptions",
-      "line": 1.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 830,
+      "rank": 1159,
       "gameId": "116466"
     },
     {
@@ -2842,7 +3641,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 834,
+      "rank": 1168,
       "gameId": "116466"
     },
     {
@@ -2859,7 +3658,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 863,
+      "rank": 1203,
       "gameId": "116466"
     },
     {
@@ -2876,7 +3675,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 867,
+      "rank": 1213,
       "gameId": "116466"
     }
   ]

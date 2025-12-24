@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "tomorrow",
   "team": "Oklahoma City Thunder",
-  "totalProps": 18,
+  "totalProps": 25,
   "props": [
     {
       "player": "Shai Gilgeous-Alexander",
@@ -21,7 +21,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 651,
+      "rank": 712,
       "gameId": "116292"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 717,
+      "rank": 791,
       "gameId": "116292"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 757,
+      "rank": 842,
       "gameId": "116292"
     },
     {
       "player": "Isaiah Hartenstein",
       "stat": "Points",
-      "line": 9.5,
+      "line": 9,
       "sport": "NBA",
       "startTime": "12/25/25 01:40 PM CST",
       "startTimeCST": "12/25/25 01:40 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 847,
+      "rank": 981,
       "gameId": "116292"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 858,
+      "rank": 982,
       "gameId": "116292"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 861,
+      "rank": 985,
       "gameId": "116292"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 866,
+      "rank": 1000,
       "gameId": "116292"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 867,
+      "rank": 1001,
       "gameId": "116292"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 878,
+      "rank": 1012,
       "gameId": "116292"
     },
     {
@@ -174,7 +174,41 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 892,
+      "rank": 1031,
+      "gameId": "116292"
+    },
+    {
+      "player": "Chet Holmgren",
+      "stat": "Defensive Rebounds",
+      "line": 6,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1058,
+      "gameId": "116292"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Defensive Rebounds",
+      "line": 6,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1059,
       "gameId": "116292"
     },
     {
@@ -191,7 +225,24 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 930,
+      "rank": 1092,
+      "gameId": "116292"
+    },
+    {
+      "player": "Jalen Williams",
+      "stat": "Assists",
+      "line": 5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1094,
       "gameId": "116292"
     },
     {
@@ -208,7 +259,24 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 937,
+      "rank": 1101,
+      "gameId": "116292"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Offensive Rebounds",
+      "line": 3,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1166,
       "gameId": "116292"
     },
     {
@@ -225,7 +293,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 998,
+      "rank": 1174,
       "gameId": "116292"
     },
     {
@@ -242,7 +310,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1016,
+      "rank": 1192,
       "gameId": "116292"
     },
     {
@@ -259,7 +327,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1032,
+      "rank": 1218,
       "gameId": "116292"
     },
     {
@@ -276,7 +344,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1033,
+      "rank": 1219,
       "gameId": "116292"
     },
     {
@@ -293,7 +361,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1038,
+      "rank": 1224,
       "gameId": "116292"
     },
     {
@@ -310,7 +378,58 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1043,
+      "rank": 1229,
+      "gameId": "116292"
+    },
+    {
+      "player": "Aaron Wiggins",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1323,
+      "gameId": "116292"
+    },
+    {
+      "player": "Luguentz Dort",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1328,
+      "gameId": "116292"
+    },
+    {
+      "player": "Cason Wallace",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1335,
       "gameId": "116292"
     }
   ]

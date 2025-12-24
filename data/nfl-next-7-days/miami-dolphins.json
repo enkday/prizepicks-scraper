@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T12:30:34.254Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-24T21:10:33.000Z",
+  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -10,7 +10,7 @@
     {
       "player": "Quinn Ewers",
       "stat": "Pass Yards",
-      "line": 205.5,
+      "line": 201.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2315,
+      "rank": 2883,
       "gameId": "116783"
     },
     {
       "player": "De'Von Achane",
       "stat": "Rush Yards",
-      "line": 72.5,
+      "line": 73.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2330,
+      "rank": 2898,
       "gameId": "116783"
     },
     {
       "player": "Jaylen Waddle",
       "stat": "Receiving Yards",
-      "line": 53.5,
+      "line": 56.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2344,
+      "rank": 2912,
       "gameId": "116783"
     },
     {
       "player": "Quinn Ewers",
       "stat": "Longest Completion",
-      "line": 34.5,
+      "line": 33.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2374,
+      "rank": 2944,
       "gameId": "116783"
     },
     {
       "player": "Quinn Ewers",
       "stat": "Pass Attempts",
-      "line": 29.5,
+      "line": 30.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -89,13 +89,13 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2385,
+      "rank": 2946,
       "gameId": "116783"
     },
     {
       "player": "De'Von Achane",
       "stat": "Receiving Yards",
-      "line": 28.5,
+      "line": 27.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -106,13 +106,13 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2396,
+      "rank": 2967,
       "gameId": "116783"
     },
     {
       "player": "Darren Waller",
       "stat": "Receiving Yards",
-      "line": 25.5,
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -123,7 +123,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2397,
+      "rank": 2977,
       "gameId": "116783"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2406,
+      "rank": 2979,
       "gameId": "116783"
     },
     {
@@ -157,24 +157,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2419,
-      "gameId": "116783"
-    },
-    {
-      "player": "Malik Washington",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 2422,
+      "rank": 2993,
       "gameId": "116783"
     },
     {
@@ -191,13 +174,13 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2425,
+      "rank": 2998,
       "gameId": "116783"
     },
     {
-      "player": "Darren Waller",
-      "stat": "Longest Reception",
-      "line": 14.5,
+      "player": "Malik Washington",
+      "stat": "Receiving Yards",
+      "line": 17.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -208,7 +191,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2427,
+      "rank": 2999,
       "gameId": "116783"
     },
     {
@@ -225,7 +208,24 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2429,
+      "rank": 3003,
+      "gameId": "116783"
+    },
+    {
+      "player": "Darren Waller",
+      "stat": "Longest Reception",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3004,
       "gameId": "116783"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2430,
+      "rank": 3005,
       "gameId": "116783"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2431,
+      "rank": 3006,
       "gameId": "116783"
     }
   ]
