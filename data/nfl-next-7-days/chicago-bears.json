@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -10,7 +10,7 @@
     {
       "player": "Caleb Williams",
       "stat": "Pass Yards",
-      "line": 228.5,
+      "line": 222.5,
       "sport": "NFL",
       "startTime": "12/28/25 07:20 PM CST",
       "startTimeCST": "12/28/25 07:20 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3595,
+      "rank": 3887,
       "gameId": "117038"
     },
     {
       "player": "D'Andre Swift",
       "stat": "Rush Yards",
-      "line": 56.5,
+      "line": 57.5,
       "sport": "NFL",
       "startTime": "12/28/25 07:20 PM CST",
       "startTimeCST": "12/28/25 07:20 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3622,
+      "rank": 3919,
       "gameId": "117038"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3627,
+      "rank": 3926,
       "gameId": "117038"
     },
     {
       "player": "Caleb Williams",
       "stat": "Longest Completion",
-      "line": 35.5,
+      "line": 34.5,
       "sport": "NFL",
       "startTime": "12/28/25 07:20 PM CST",
       "startTimeCST": "12/28/25 07:20 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3637,
+      "rank": 3939,
       "gameId": "117038"
     },
     {
@@ -89,24 +89,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3640,
-      "gameId": "117038"
-    },
-    {
-      "player": "Caleb Williams",
-      "stat": "Pass Completions",
-      "line": 20.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 07:20 PM CST",
-      "startTimeCST": "12/28/25 07:20 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 3658,
+      "rank": 3942,
       "gameId": "117038"
     },
     {
@@ -123,13 +106,13 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3659,
+      "rank": 3965,
       "gameId": "117038"
     },
     {
       "player": "Caleb Williams",
       "stat": "Rush Yards",
-      "line": 17.5,
+      "line": 16.5,
       "sport": "NFL",
       "startTime": "12/28/25 07:20 PM CST",
       "startTimeCST": "12/28/25 07:20 PM CST",
@@ -140,7 +123,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3663,
+      "rank": 3974,
       "gameId": "117038"
     },
     {
@@ -157,13 +140,13 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3671,
+      "rank": 3980,
       "gameId": "117038"
     },
     {
       "player": "D'Andre Swift",
       "stat": "Rush Attempts",
-      "line": 12.5,
+      "line": 13,
       "sport": "NFL",
       "startTime": "12/28/25 07:20 PM CST",
       "startTimeCST": "12/28/25 07:20 PM CST",
@@ -174,7 +157,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3673,
+      "rank": 3983,
       "gameId": "117038"
     },
     {
@@ -191,7 +174,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3676,
+      "rank": 3986,
       "gameId": "117038"
     },
     {
@@ -208,7 +191,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3678,
+      "rank": 3988,
       "gameId": "117038"
     },
     {
@@ -225,7 +208,24 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3679,
+      "rank": 3989,
+      "gameId": "117038"
+    },
+    {
+      "player": "Cairo Santos",
+      "stat": "Kicking Points",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 07:20 PM CST",
+      "startTimeCST": "12/28/25 07:20 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 3995,
       "gameId": "117038"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3695,
+      "rank": 4014,
       "gameId": "117038"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3697,
+      "rank": 4016,
       "gameId": "117038"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3702,
+      "rank": 4021,
       "gameId": "117038"
     }
   ]

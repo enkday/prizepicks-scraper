@@ -1,82 +1,22 @@
 [
   {
-    "teamCode": "cleveland-cavaliers",
-    "teamName": "Cleveland Cavaliers",
-    "sport": "NBA"
+    "teamCode": "minnesota-golden-gophers",
+    "teamName": "Minnesota Golden Gophers",
+    "sport": "NCAAF"
   },
   {
-    "teamCode": "new-york-knicks",
-    "teamName": "New York Knicks",
-    "sport": "NBA"
+    "teamCode": "new-mexico-lobos",
+    "teamName": "New Mexico Lobos",
+    "sport": "NCAAF"
   },
   {
-    "teamCode": "oklahoma-city-thunder",
-    "teamName": "Oklahoma City Thunder",
-    "sport": "NBA"
+    "teamCode": "florida-international-panthers",
+    "teamName": "Florida International Panthers",
+    "sport": "NCAAF"
   },
   {
-    "teamCode": "san-antonio-spurs",
-    "teamName": "San Antonio Spurs",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "golden-state-warriors",
-    "teamName": "Golden State Warriors",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "dallas-mavericks",
-    "teamName": "Dallas Mavericks",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "los-angeles-lakers",
-    "teamName": "Los Angeles Lakers",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "houston-rockets",
-    "teamName": "Houston Rockets",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "denver-nuggets",
-    "teamName": "Denver Nuggets",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "minnesota-timberwolves",
-    "teamName": "Minnesota Timberwolves",
-    "sport": "NBA"
-  },
-  {
-    "teamCode": "dallas-cowboys",
-    "teamName": "Dallas Cowboys",
-    "sport": "NFL"
-  },
-  {
-    "teamCode": "washington-commanders",
-    "teamName": "Washington Commanders",
-    "sport": "NFL"
-  },
-  {
-    "teamCode": "minnesota-vikings",
-    "teamName": "Minnesota Vikings",
-    "sport": "NFL"
-  },
-  {
-    "teamCode": "detroit-lions",
-    "teamName": "Detroit Lions",
-    "sport": "NFL"
-  },
-  {
-    "teamCode": "denver-broncos",
-    "teamName": "Denver Broncos",
-    "sport": "NFL"
-  },
-  {
-    "teamCode": "kansas-city-chiefs",
-    "teamName": "Kansas City Chiefs",
-    "sport": "NFL"
+    "teamCode": "utsa-roadrunners",
+    "teamName": "UTSA Roadrunners",
+    "sport": "NCAAF"
   }
 ]

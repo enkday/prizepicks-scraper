@@ -1,14 +1,14 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
-  "totalProps": 246,
+  "totalProps": 255,
   "props": [
     {
       "player": "Donovan Mitchell",
       "stat": "Points",
-      "line": 29.5,
+      "line": 30.5,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -19,13 +19,13 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 68,
+      "rank": 67,
       "gameId": "116291"
     },
     {
       "player": "Jalen Brunson",
       "stat": "Points",
-      "line": 28.5,
+      "line": 29,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -36,7 +36,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 90,
+      "rank": 95,
       "gameId": "116291"
     },
     {
@@ -53,7 +53,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 137,
+      "rank": 152,
       "gameId": "116291"
     },
     {
@@ -70,7 +70,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 149,
+      "rank": 167,
       "gameId": "116291"
     },
     {
@@ -87,7 +87,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 178,
+      "rank": 211,
       "gameId": "116291"
     },
     {
@@ -104,7 +104,24 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 191,
+      "rank": 223,
+      "gameId": "116291"
+    },
+    {
+      "player": "Evan Mobley",
+      "stat": "Points",
+      "line": 14.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 259,
       "gameId": "116291"
     },
     {
@@ -121,13 +138,13 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 230,
+      "rank": 275,
       "gameId": "116291"
     },
     {
       "player": "Jarrett Allen",
       "stat": "Points",
-      "line": 13.5,
+      "line": 13,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -138,7 +155,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 231,
+      "rank": 284,
       "gameId": "116291"
     },
     {
@@ -155,7 +172,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 239,
+      "rank": 286,
       "gameId": "116291"
     },
     {
@@ -172,30 +189,13 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 274,
-      "gameId": "116291"
-    },
-    {
-      "player": "Jaylon Tyson",
-      "stat": "Points",
-      "line": 10.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 276,
+      "rank": 328,
       "gameId": "116291"
     },
     {
       "player": "Karl-Anthony Towns",
       "stat": "Rebounds",
-      "line": 10.5,
+      "line": 11,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -206,13 +206,13 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 279,
+      "rank": 329,
       "gameId": "116291"
     },
     {
-      "player": "Jarrett Allen",
-      "stat": "Rebounds",
-      "line": 8.5,
+      "player": "Jaylon Tyson",
+      "stat": "Points",
+      "line": 10,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -223,7 +223,24 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 316,
+      "rank": 348,
+      "gameId": "116291"
+    },
+    {
+      "player": "Jordan Clarkson",
+      "stat": "Points",
+      "line": 9,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "Cleveland Cavaliers",
+      "opponentCode": "CLE",
+      "rank": 385,
       "gameId": "116291"
     },
     {
@@ -240,12 +257,12 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 317,
+      "rank": 386,
       "gameId": "116291"
     },
     {
-      "player": "Jordan Clarkson",
-      "stat": "Points",
+      "player": "Karl-Anthony Towns",
+      "stat": "Defensive Rebounds",
       "line": 8.5,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
@@ -257,7 +274,24 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 318,
+      "rank": 403,
+      "gameId": "116291"
+    },
+    {
+      "player": "Jarrett Allen",
+      "stat": "Rebounds",
+      "line": 8,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 409,
       "gameId": "116291"
     },
     {
@@ -274,24 +308,24 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 337,
+      "rank": 410,
       "gameId": "116291"
     },
     {
-      "player": "Karl-Anthony Towns",
-      "stat": "Defensive Rebounds",
-      "line": 8,
+      "player": "Evan Mobley",
+      "stat": "Rebounds",
+      "line": 7.5,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
       "startDateCST": "2025-12-25",
       "startTimeIso": "2025-12-25T12:10:00.000-05:00",
       "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 338,
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 438,
       "gameId": "116291"
     },
     {
@@ -308,7 +342,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 365,
+      "rank": 440,
       "gameId": "116291"
     },
     {
@@ -325,7 +359,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 366,
+      "rank": 441,
       "gameId": "116291"
     },
     {
@@ -342,24 +376,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 367,
-      "gameId": "116291"
-    },
-    {
-      "player": "Tyler Kolek",
-      "stat": "Points",
-      "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 392,
+      "rank": 442,
       "gameId": "116291"
     },
     {
@@ -376,7 +393,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 393,
+      "rank": 469,
       "gameId": "116291"
     },
     {
@@ -393,7 +410,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 395,
+      "rank": 471,
       "gameId": "116291"
     },
     {
@@ -410,7 +427,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 407,
+      "rank": 484,
       "gameId": "116291"
     },
     {
@@ -427,24 +444,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 423,
-      "gameId": "116291"
-    },
-    {
-      "player": "Jaylon Tyson",
-      "stat": "Rebounds",
-      "line": 5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 425,
+      "rank": 495,
       "gameId": "116291"
     },
     {
@@ -461,7 +461,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 426,
+      "rank": 501,
       "gameId": "116291"
     },
     {
@@ -478,7 +478,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 427,
+      "rank": 502,
       "gameId": "116291"
     },
     {
@@ -495,7 +495,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 428,
+      "rank": 503,
       "gameId": "116291"
     },
     {
@@ -512,24 +512,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 430,
-      "gameId": "116291"
-    },
-    {
-      "player": "De'Andre Hunter",
-      "stat": "Rebounds",
-      "line": 4,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 462,
+      "rank": 504,
       "gameId": "116291"
     },
     {
@@ -546,7 +529,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 463,
+      "rank": 536,
       "gameId": "116291"
     },
     {
@@ -563,7 +546,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 464,
+      "rank": 537,
       "gameId": "116291"
     },
     {
@@ -580,7 +563,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 465,
+      "rank": 538,
       "gameId": "116291"
     },
     {
@@ -597,11 +580,11 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 466,
+      "rank": 539,
       "gameId": "116291"
     },
     {
-      "player": "Jalen Brunson",
+      "player": "De'Andre Hunter",
       "stat": "Rebounds",
       "line": 3.5,
       "sport": "NBA",
@@ -610,11 +593,28 @@
       "startDateCST": "2025-12-25",
       "startTimeIso": "2025-12-25T12:10:00.000-05:00",
       "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 473,
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 557,
+      "gameId": "116291"
+    },
+    {
+      "player": "Lonzo Ball",
+      "stat": "Assists",
+      "line": 3.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 564,
       "gameId": "116291"
     },
     {
@@ -631,24 +631,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 490,
-      "gameId": "116291"
-    },
-    {
-      "player": "Jaylon Tyson",
-      "stat": "Defensive Rebounds",
-      "line": 3.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 500,
+      "rank": 565,
       "gameId": "116291"
     },
     {
@@ -665,12 +648,12 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 501,
+      "rank": 574,
       "gameId": "116291"
     },
     {
-      "player": "Darius Garland",
-      "stat": "3-PT Made",
+      "player": "Sam Merrill",
+      "stat": "Assists",
       "line": 2.5,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
@@ -682,24 +665,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 505,
-      "gameId": "116291"
-    },
-    {
-      "player": "Karl-Anthony Towns",
-      "stat": "Assists",
-      "line": 2.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 510,
+      "rank": 607,
       "gameId": "116291"
     },
     {
@@ -716,7 +682,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 530,
+      "rank": 608,
       "gameId": "116291"
     },
     {
@@ -733,7 +699,24 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 548,
+      "rank": 624,
+      "gameId": "116291"
+    },
+    {
+      "player": "Evan Mobley",
+      "stat": "Assists",
+      "line": 2.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 630,
       "gameId": "116291"
     },
     {
@@ -750,7 +733,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 552,
+      "rank": 633,
       "gameId": "116291"
     },
     {
@@ -767,7 +750,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 553,
+      "rank": 634,
       "gameId": "116291"
     },
     {
@@ -784,7 +767,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 554,
+      "rank": 635,
       "gameId": "116291"
     },
     {
@@ -801,41 +784,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 560,
-      "gameId": "116291"
-    },
-    {
-      "player": "Jaylon Tyson",
-      "stat": "Assists",
-      "line": 1.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 579,
-      "gameId": "116291"
-    },
-    {
-      "player": "Jordan Clarkson",
-      "stat": "Assists",
-      "line": 1.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 580,
+      "rank": 641,
       "gameId": "116291"
     },
     {
@@ -852,7 +801,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 585,
+      "rank": 662,
       "gameId": "116291"
     },
     {
@@ -869,7 +818,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 608,
+      "rank": 685,
       "gameId": "116291"
     },
     {
@@ -886,7 +835,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 609,
+      "rank": 686,
       "gameId": "116291"
     },
     {
@@ -903,24 +852,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 612,
-      "gameId": "116291"
-    },
-    {
-      "player": "Dean Wade",
-      "stat": "Steals",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 646,
+      "rank": 696,
       "gameId": "116291"
     },
     {
@@ -937,7 +869,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 651,
+      "rank": 730,
       "gameId": "116291"
     },
     {
@@ -954,7 +886,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 652,
+      "rank": 731,
       "gameId": "116291"
     },
     {
@@ -971,58 +903,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 653,
-      "gameId": "116291"
-    },
-    {
-      "player": "De'Andre Hunter",
-      "stat": "Steals",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 660,
-      "gameId": "116291"
-    },
-    {
-      "player": "Thomas Bryant",
-      "stat": "3-PT Made",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 661,
-      "gameId": "116291"
-    },
-    {
-      "player": "Mitchell Robinson",
-      "stat": "Turnovers",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 664,
+      "rank": 732,
       "gameId": "116291"
     },
     {
@@ -1039,13 +920,13 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 667,
+      "rank": 739,
       "gameId": "116291"
     },
     {
       "player": "Shai Gilgeous-Alexander",
       "stat": "Points",
-      "line": 32.5,
+      "line": 31.5,
       "sport": "NBA",
       "startTime": "12/25/25 01:40 PM CST",
       "startTimeCST": "12/25/25 01:40 PM CST",
@@ -1056,13 +937,13 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 712,
+      "rank": 793,
       "gameId": "116292"
     },
     {
       "player": "Jalen Williams",
       "stat": "Points",
-      "line": 19.5,
+      "line": 20.5,
       "sport": "NBA",
       "startTime": "12/25/25 01:40 PM CST",
       "startTimeCST": "12/25/25 01:40 PM CST",
@@ -1073,7 +954,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 791,
+      "rank": 880,
       "gameId": "116292"
     },
     {
@@ -1090,11 +971,11 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 819,
+      "rank": 923,
       "gameId": "116292"
     },
     {
-      "player": "De'Aaron Fox",
+      "player": "Stephon Castle",
       "stat": "Points",
       "line": 17.5,
       "sport": "NBA",
@@ -1107,11 +988,11 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 828,
+      "rank": 939,
       "gameId": "116292"
     },
     {
-      "player": "Stephon Castle",
+      "player": "De'Aaron Fox",
       "stat": "Points",
       "line": 16.5,
       "sport": "NBA",
@@ -1124,13 +1005,13 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 841,
+      "rank": 951,
       "gameId": "116292"
     },
     {
       "player": "Chet Holmgren",
       "stat": "Points",
-      "line": 16.5,
+      "line": 16,
       "sport": "NBA",
       "startTime": "12/25/25 01:40 PM CST",
       "startTimeCST": "12/25/25 01:40 PM CST",
@@ -1141,7 +1022,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 842,
+      "rank": 965,
       "gameId": "116292"
     },
     {
@@ -1158,13 +1039,13 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 888,
+      "rank": 1030,
       "gameId": "116292"
     },
     {
       "player": "Dylan Harper",
       "stat": "Points",
-      "line": 10.5,
+      "line": 10,
       "sport": "NBA",
       "startTime": "12/25/25 01:40 PM CST",
       "startTimeCST": "12/25/25 01:40 PM CST",
@@ -1175,7 +1056,24 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 941,
+      "rank": 1125,
+      "gameId": "116292"
+    },
+    {
+      "player": "Harrison Barnes",
+      "stat": "Points",
+      "line": 9.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1136,
       "gameId": "116292"
     },
     {
@@ -1192,7 +1090,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 981,
+      "rank": 1175,
       "gameId": "116292"
     },
     {
@@ -1209,7 +1107,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 982,
+      "rank": 1176,
       "gameId": "116292"
     },
     {
@@ -1226,7 +1124,24 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 983,
+      "rank": 1177,
+      "gameId": "116292"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "stat": "Rebounds",
+      "line": 9,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1178,
       "gameId": "116292"
     },
     {
@@ -1243,7 +1158,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 985,
+      "rank": 1179,
       "gameId": "116292"
     },
     {
@@ -1260,7 +1175,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 986,
+      "rank": 1180,
       "gameId": "116292"
     },
     {
@@ -1277,7 +1192,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1000,
+      "rank": 1210,
       "gameId": "116292"
     },
     {
@@ -1294,7 +1209,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1001,
+      "rank": 1211,
       "gameId": "116292"
     },
     {
@@ -1311,7 +1226,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1012,
+      "rank": 1222,
       "gameId": "116292"
     },
     {
@@ -1328,7 +1243,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1023,
+      "rank": 1237,
       "gameId": "116292"
     },
     {
@@ -1345,11 +1260,11 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1031,
+      "rank": 1257,
       "gameId": "116292"
     },
     {
-      "player": "Julian Champagnie",
+      "player": "Isaiah Joe",
       "stat": "Points",
       "line": 6.5,
       "sport": "NBA",
@@ -1358,11 +1273,11 @@
       "startDateCST": "2025-12-25",
       "startTimeIso": "2025-12-25T14:40:00.000-05:00",
       "oddsType": "standard",
-      "Team": "San Antonio Spurs",
-      "teamCode": "SAS",
-      "Opponent": "Oklahoma City Thunder",
-      "opponentCode": "OKC",
-      "rank": 1047,
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1282,
       "gameId": "116292"
     },
     {
@@ -1379,7 +1294,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1057,
+      "rank": 1290,
       "gameId": "116292"
     },
     {
@@ -1396,7 +1311,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1058,
+      "rank": 1291,
       "gameId": "116292"
     },
     {
@@ -1413,7 +1328,41 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1059,
+      "rank": 1292,
+      "gameId": "116292"
+    },
+    {
+      "player": "Julian Champagnie",
+      "stat": "Points",
+      "line": 6,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1293,
+      "gameId": "116292"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Points",
+      "line": 6,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1294,
       "gameId": "116292"
     },
     {
@@ -1430,7 +1379,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1071,
+      "rank": 1306,
       "gameId": "116292"
     },
     {
@@ -1447,7 +1396,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1072,
+      "rank": 1307,
       "gameId": "116292"
     },
     {
@@ -1464,7 +1413,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1075,
+      "rank": 1310,
       "gameId": "116292"
     },
     {
@@ -1481,7 +1430,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1092,
+      "rank": 1335,
       "gameId": "116292"
     },
     {
@@ -1498,7 +1447,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1093,
+      "rank": 1336,
       "gameId": "116292"
     },
     {
@@ -1515,7 +1464,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1094,
+      "rank": 1337,
       "gameId": "116292"
     },
     {
@@ -1532,7 +1481,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1101,
+      "rank": 1344,
       "gameId": "116292"
     },
     {
@@ -1549,7 +1498,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1103,
+      "rank": 1346,
       "gameId": "116292"
     },
     {
@@ -1566,7 +1515,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1139,
+      "rank": 1395,
       "gameId": "116292"
     },
     {
@@ -1583,7 +1532,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1166,
+      "rank": 1428,
       "gameId": "116292"
     },
     {
@@ -1600,24 +1549,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1167,
-      "gameId": "116292"
-    },
-    {
-      "player": "Victor Wembanyama",
-      "stat": "Dunks",
-      "line": 2.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 01:40 PM CST",
-      "startTimeCST": "12/25/25 01:40 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Antonio Spurs",
-      "teamCode": "SAS",
-      "Opponent": "Oklahoma City Thunder",
-      "opponentCode": "OKC",
-      "rank": 1168,
+      "rank": 1429,
       "gameId": "116292"
     },
     {
@@ -1634,7 +1566,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1174,
+      "rank": 1435,
       "gameId": "116292"
     },
     {
@@ -1651,7 +1583,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1192,
+      "rank": 1453,
       "gameId": "116292"
     },
     {
@@ -1668,7 +1600,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1218,
+      "rank": 1490,
       "gameId": "116292"
     },
     {
@@ -1685,7 +1617,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1219,
+      "rank": 1491,
       "gameId": "116292"
     },
     {
@@ -1702,7 +1634,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1224,
+      "rank": 1496,
       "gameId": "116292"
     },
     {
@@ -1719,7 +1651,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1229,
+      "rank": 1500,
       "gameId": "116292"
     },
     {
@@ -1736,7 +1668,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1259,
+      "rank": 1530,
       "gameId": "116292"
     },
     {
@@ -1753,7 +1685,58 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1264,
+      "rank": 1535,
+      "gameId": "116292"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Turnovers",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1553,
+      "gameId": "116292"
+    },
+    {
+      "player": "Isaiah Joe",
+      "stat": "3-PT Made",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1558,
+      "gameId": "116292"
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "stat": "Blocked Shots",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1600,
       "gameId": "116292"
     },
     {
@@ -1770,7 +1753,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1323,
+      "rank": 1602,
       "gameId": "116292"
     },
     {
@@ -1787,7 +1770,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1325,
+      "rank": 1604,
       "gameId": "116292"
     },
     {
@@ -1804,7 +1787,7 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1328,
+      "rank": 1607,
       "gameId": "116292"
     },
     {
@@ -1821,7 +1804,24 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1335,
+      "rank": 1614,
+      "gameId": "116292"
+    },
+    {
+      "player": "Alex Caruso",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 1618,
       "gameId": "116292"
     },
     {
@@ -1838,7 +1838,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1405,
+      "rank": 1696,
       "gameId": "116293"
     },
     {
@@ -1855,7 +1855,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1419,
+      "rank": 1718,
       "gameId": "116293"
     },
     {
@@ -1872,13 +1872,13 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1450,
+      "rank": 1757,
       "gameId": "116293"
     },
     {
       "player": "Cooper Flagg",
       "stat": "Points",
-      "line": 19.5,
+      "line": 20.5,
       "sport": "NBA",
       "startTime": "12/25/25 04:10 PM CST",
       "startTimeCST": "12/25/25 04:10 PM CST",
@@ -1889,7 +1889,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1456,
+      "rank": 1763,
       "gameId": "116293"
     },
     {
@@ -1906,7 +1906,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1532,
+      "rank": 1884,
       "gameId": "116293"
     },
     {
@@ -1923,7 +1923,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1533,
+      "rank": 1885,
       "gameId": "116293"
     },
     {
@@ -1940,13 +1940,13 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1546,
+      "rank": 1913,
       "gameId": "116293"
     },
     {
       "player": "Klay Thompson",
       "stat": "Points",
-      "line": 11.5,
+      "line": 11,
       "sport": "NBA",
       "startTime": "12/25/25 04:10 PM CST",
       "startTimeCST": "12/25/25 04:10 PM CST",
@@ -1957,7 +1957,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1548,
+      "rank": 1944,
       "gameId": "116293"
     },
     {
@@ -1974,13 +1974,13 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1576,
+      "rank": 1947,
       "gameId": "116293"
     },
     {
       "player": "Quinten Post",
       "stat": "Points",
-      "line": 9.5,
+      "line": 9,
       "sport": "NBA",
       "startTime": "12/25/25 04:10 PM CST",
       "startTimeCST": "12/25/25 04:10 PM CST",
@@ -1991,7 +1991,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1592,
+      "rank": 2015,
       "gameId": "116293"
     },
     {
@@ -2008,7 +2008,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1619,
+      "rank": 2018,
       "gameId": "116293"
     },
     {
@@ -2025,7 +2025,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1620,
+      "rank": 2019,
       "gameId": "116293"
     },
     {
@@ -2042,7 +2042,24 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1629,
+      "rank": 2029,
+      "gameId": "116293"
+    },
+    {
+      "player": "Ryan Nembhard",
+      "stat": "Points",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 2075,
       "gameId": "116293"
     },
     {
@@ -2059,7 +2076,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1668,
+      "rank": 2081,
       "gameId": "116293"
     },
     {
@@ -2076,30 +2093,13 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1684,
+      "rank": 2098,
       "gameId": "116293"
     },
     {
-      "player": "Ryan Nembhard",
-      "stat": "Assists",
+      "player": "De'Anthony Melton",
+      "stat": "Points",
       "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 04:10 PM CST",
-      "startTimeCST": "12/25/25 04:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Mavericks",
-      "teamCode": "DAL",
-      "Opponent": "Golden State Warriors",
-      "opponentCode": "GSW",
-      "rank": 1687,
-      "gameId": "116293"
-    },
-    {
-      "player": "Quinten Post",
-      "stat": "Rebounds",
-      "line": 6,
       "sport": "NBA",
       "startTime": "12/25/25 04:10 PM CST",
       "startTimeCST": "12/25/25 04:10 PM CST",
@@ -2110,7 +2110,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1693,
+      "rank": 2112,
       "gameId": "116293"
     },
     {
@@ -2127,7 +2127,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1694,
+      "rank": 2113,
       "gameId": "116293"
     },
     {
@@ -2144,7 +2144,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1695,
+      "rank": 2114,
       "gameId": "116293"
     },
     {
@@ -2161,7 +2161,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1696,
+      "rank": 2115,
       "gameId": "116293"
     },
     {
@@ -2178,7 +2178,24 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1700,
+      "rank": 2119,
+      "gameId": "116293"
+    },
+    {
+      "player": "Quinten Post",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 2132,
       "gameId": "116293"
     },
     {
@@ -2195,7 +2212,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1720,
+      "rank": 2139,
       "gameId": "116293"
     },
     {
@@ -2212,7 +2229,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1728,
+      "rank": 2157,
       "gameId": "116293"
     },
     {
@@ -2229,7 +2246,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1729,
+      "rank": 2158,
       "gameId": "116293"
     },
     {
@@ -2246,7 +2263,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1730,
+      "rank": 2159,
       "gameId": "116293"
     },
     {
@@ -2263,7 +2280,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1731,
+      "rank": 2160,
       "gameId": "116293"
     },
     {
@@ -2280,7 +2297,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1732,
+      "rank": 2161,
       "gameId": "116293"
     },
     {
@@ -2297,7 +2314,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1734,
+      "rank": 2163,
       "gameId": "116293"
     },
     {
@@ -2314,7 +2331,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1755,
+      "rank": 2183,
       "gameId": "116293"
     },
     {
@@ -2331,7 +2348,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1756,
+      "rank": 2184,
       "gameId": "116293"
     },
     {
@@ -2348,7 +2365,41 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1757,
+      "rank": 2185,
+      "gameId": "116293"
+    },
+    {
+      "player": "Al Horford",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 2200,
+      "gameId": "116293"
+    },
+    {
+      "player": "Jimmy Butler",
+      "stat": "Assists",
+      "line": 4.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 2204,
       "gameId": "116293"
     },
     {
@@ -2365,24 +2416,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1764,
-      "gameId": "116293"
-    },
-    {
-      "player": "Cooper Flagg",
-      "stat": "Assists",
-      "line": 3.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 04:10 PM CST",
-      "startTimeCST": "12/25/25 04:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Mavericks",
-      "teamCode": "DAL",
-      "Opponent": "Golden State Warriors",
-      "opponentCode": "GSW",
-      "rank": 1766,
+      "rank": 2209,
       "gameId": "116293"
     },
     {
@@ -2399,7 +2433,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1790,
+      "rank": 2235,
       "gameId": "116293"
     },
     {
@@ -2416,7 +2450,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1844,
+      "rank": 2311,
       "gameId": "116293"
     },
     {
@@ -2433,7 +2467,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1847,
+      "rank": 2314,
       "gameId": "116293"
     },
     {
@@ -2450,7 +2484,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1848,
+      "rank": 2315,
       "gameId": "116293"
     },
     {
@@ -2467,7 +2501,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1851,
+      "rank": 2318,
       "gameId": "116293"
     },
     {
@@ -2484,24 +2518,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1874,
-      "gameId": "116293"
-    },
-    {
-      "player": "Quinten Post",
-      "stat": "Offensive Rebounds",
-      "line": 1.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 04:10 PM CST",
-      "startTimeCST": "12/25/25 04:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Golden State Warriors",
-      "teamCode": "GSW",
-      "Opponent": "Dallas Mavericks",
-      "opponentCode": "DAL",
-      "rank": 1875,
+      "rank": 2340,
       "gameId": "116293"
     },
     {
@@ -2518,7 +2535,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1878,
+      "rank": 2343,
       "gameId": "116293"
     },
     {
@@ -2535,7 +2552,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1883,
+      "rank": 2347,
       "gameId": "116293"
     },
     {
@@ -2552,7 +2569,24 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1884,
+      "rank": 2348,
+      "gameId": "116293"
+    },
+    {
+      "player": "Brandon Williams",
+      "stat": "Rebounds",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 2372,
       "gameId": "116293"
     },
     {
@@ -2569,7 +2603,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1934,
+      "rank": 2412,
       "gameId": "116293"
     },
     {
@@ -2586,7 +2620,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1935,
+      "rank": 2413,
       "gameId": "116293"
     },
     {
@@ -2603,24 +2637,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1936,
-      "gameId": "116293"
-    },
-    {
-      "player": "Draymond Green",
-      "stat": "Blocked Shots",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 04:10 PM CST",
-      "startTimeCST": "12/25/25 04:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Golden State Warriors",
-      "teamCode": "GSW",
-      "Opponent": "Dallas Mavericks",
-      "opponentCode": "DAL",
-      "rank": 1937,
+      "rank": 2414,
       "gameId": "116293"
     },
     {
@@ -2637,7 +2654,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1939,
+      "rank": 2416,
       "gameId": "116293"
     },
     {
@@ -2654,24 +2671,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1944,
-      "gameId": "116293"
-    },
-    {
-      "player": "Daniel Gafford",
-      "stat": "Turnovers",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 04:10 PM CST",
-      "startTimeCST": "12/25/25 04:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Mavericks",
-      "teamCode": "DAL",
-      "Opponent": "Golden State Warriors",
-      "opponentCode": "GSW",
-      "rank": 1945,
+      "rank": 2421,
       "gameId": "116293"
     },
     {
@@ -2688,7 +2688,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1946,
+      "rank": 2422,
       "gameId": "116293"
     },
     {
@@ -2705,7 +2705,7 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1949,
+      "rank": 2425,
       "gameId": "116293"
     },
     {
@@ -2722,13 +2722,64 @@
       "teamCode": "GSW",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 1952,
+      "rank": 2428,
+      "gameId": "116293"
+    },
+    {
+      "player": "Max Christie",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 2437,
+      "gameId": "116293"
+    },
+    {
+      "player": "Brandon Williams",
+      "stat": "Steals",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 2440,
+      "gameId": "116293"
+    },
+    {
+      "player": "Al Horford",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Golden State Warriors",
+      "teamCode": "GSW",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 2442,
       "gameId": "116293"
     },
     {
       "player": "Luka Dončić",
       "stat": "Points",
-      "line": 33.5,
+      "line": 32.5,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -2739,7 +2790,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2013,
+      "rank": 2512,
       "gameId": "116460"
     },
     {
@@ -2756,7 +2807,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2060,
+      "rank": 2555,
       "gameId": "116460"
     },
     {
@@ -2773,7 +2824,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2095,
+      "rank": 2592,
       "gameId": "116460"
     },
     {
@@ -2790,13 +2841,13 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2099,
+      "rank": 2595,
       "gameId": "116460"
     },
     {
       "player": "Austin Reaves",
       "stat": "Points",
-      "line": 19.5,
+      "line": 19,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -2807,13 +2858,13 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2110,
+      "rank": 2629,
       "gameId": "116460"
     },
     {
       "player": "Amen Thompson",
       "stat": "Points",
-      "line": 16.5,
+      "line": 17.5,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -2824,7 +2875,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2142,
+      "rank": 2635,
       "gameId": "116460"
     },
     {
@@ -2841,7 +2892,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2157,
+      "rank": 2660,
       "gameId": "116460"
     },
     {
@@ -2858,7 +2909,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2178,
+      "rank": 2695,
       "gameId": "116460"
     },
     {
@@ -2875,13 +2926,13 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2185,
+      "rank": 2704,
       "gameId": "116460"
     },
     {
       "player": "Rui Hachimura",
       "stat": "Points",
-      "line": 11.5,
+      "line": 11,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -2892,7 +2943,24 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2196,
+      "rank": 2733,
+      "gameId": "116460"
+    },
+    {
+      "player": "Tari Eason",
+      "stat": "Points",
+      "line": 8.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeCST": "12/25/25 07:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Lakers",
+      "opponentCode": "LAL",
+      "rank": 2784,
       "gameId": "116460"
     },
     {
@@ -2909,24 +2977,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2256,
-      "gameId": "116460"
-    },
-    {
-      "player": "Marcus Smart",
-      "stat": "Points",
-      "line": 8.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 07:10 PM CST",
-      "startTimeCST": "12/25/25 07:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Lakers",
-      "teamCode": "LAL",
-      "Opponent": "Houston Rockets",
-      "opponentCode": "HOU",
-      "rank": 2257,
+      "rank": 2792,
       "gameId": "116460"
     },
     {
@@ -2943,24 +2994,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2261,
-      "gameId": "116460"
-    },
-    {
-      "player": "Tari Eason",
-      "stat": "Points",
-      "line": 8,
-      "sport": "NBA",
-      "startTime": "12/25/25 07:10 PM CST",
-      "startTimeCST": "12/25/25 07:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Rockets",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Lakers",
-      "opponentCode": "LAL",
-      "rank": 2262,
+      "rank": 2799,
       "gameId": "116460"
     },
     {
@@ -2977,7 +3011,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2263,
+      "rank": 2800,
       "gameId": "116460"
     },
     {
@@ -2994,7 +3028,24 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2264,
+      "rank": 2801,
+      "gameId": "116460"
+    },
+    {
+      "player": "Marcus Smart",
+      "stat": "Points",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeCST": "12/25/25 07:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Houston Rockets",
+      "opponentCode": "HOU",
+      "rank": 2823,
       "gameId": "116460"
     },
     {
@@ -3011,7 +3062,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2289,
+      "rank": 2829,
       "gameId": "116460"
     },
     {
@@ -3028,12 +3079,12 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2290,
+      "rank": 2831,
       "gameId": "116460"
     },
     {
-      "player": "Josh Okogie",
-      "stat": "Points",
+      "player": "Jabari Smith",
+      "stat": "Rebounds",
       "line": 6.5,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
@@ -3045,7 +3096,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2291,
+      "rank": 2832,
       "gameId": "116460"
     },
     {
@@ -3062,7 +3113,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2293,
+      "rank": 2834,
       "gameId": "116460"
     },
     {
@@ -3079,7 +3130,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2311,
+      "rank": 2852,
       "gameId": "116460"
     },
     {
@@ -3096,7 +3147,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2316,
+      "rank": 2857,
       "gameId": "116460"
     },
     {
@@ -3113,11 +3164,11 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2317,
+      "rank": 2858,
       "gameId": "116460"
     },
     {
-      "player": "Jake LaRavia",
+      "player": "Josh Okogie",
       "stat": "Points",
       "line": 5.5,
       "sport": "NBA",
@@ -3126,11 +3177,28 @@
       "startDateCST": "2025-12-25",
       "startTimeIso": "2025-12-25T20:10:00.000-05:00",
       "oddsType": "standard",
-      "Team": "Los Angeles Lakers",
-      "teamCode": "LAL",
-      "Opponent": "Houston Rockets",
-      "opponentCode": "HOU",
-      "rank": 2341,
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Lakers",
+      "opponentCode": "LAL",
+      "rank": 2861,
+      "gameId": "116460"
+    },
+    {
+      "player": "Amen Thompson",
+      "stat": "Assists",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeCST": "12/25/25 07:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Lakers",
+      "opponentCode": "LAL",
+      "rank": 2876,
       "gameId": "116460"
     },
     {
@@ -3147,24 +3215,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2342,
-      "gameId": "116460"
-    },
-    {
-      "player": "Steven Adams",
-      "stat": "Rebounds",
-      "line": 5.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 07:10 PM CST",
-      "startTimeCST": "12/25/25 07:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Rockets",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Lakers",
-      "opponentCode": "LAL",
-      "rank": 2345,
+      "rank": 2878,
       "gameId": "116460"
     },
     {
@@ -3181,24 +3232,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2347,
-      "gameId": "116460"
-    },
-    {
-      "player": "Amen Thompson",
-      "stat": "Assists",
-      "line": 5,
-      "sport": "NBA",
-      "startTime": "12/25/25 07:10 PM CST",
-      "startTimeCST": "12/25/25 07:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Rockets",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Lakers",
-      "opponentCode": "LAL",
-      "rank": 2348,
+      "rank": 2883,
       "gameId": "116460"
     },
     {
@@ -3215,7 +3249,24 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2349,
+      "rank": 2884,
+      "gameId": "116460"
+    },
+    {
+      "player": "Jake LaRavia",
+      "stat": "Points",
+      "line": 4.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeCST": "12/25/25 07:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Houston Rockets",
+      "opponentCode": "HOU",
+      "rank": 2912,
       "gameId": "116460"
     },
     {
@@ -3232,7 +3283,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2379,
+      "rank": 2914,
       "gameId": "116460"
     },
     {
@@ -3249,7 +3300,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2381,
+      "rank": 2922,
       "gameId": "116460"
     },
     {
@@ -3266,7 +3317,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2383,
+      "rank": 2924,
       "gameId": "116460"
     },
     {
@@ -3283,7 +3334,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2384,
+      "rank": 2925,
       "gameId": "116460"
     },
     {
@@ -3300,7 +3351,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2385,
+      "rank": 2926,
       "gameId": "116460"
     },
     {
@@ -3317,24 +3368,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2396,
-      "gameId": "116460"
-    },
-    {
-      "player": "Luka Dončić",
-      "stat": "Turnovers",
-      "line": 3.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 07:10 PM CST",
-      "startTimeCST": "12/25/25 07:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Lakers",
-      "teamCode": "LAL",
-      "Opponent": "Houston Rockets",
-      "opponentCode": "HOU",
-      "rank": 2410,
+      "rank": 2937,
       "gameId": "116460"
     },
     {
@@ -3351,7 +3385,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2414,
+      "rank": 2955,
       "gameId": "116460"
     },
     {
@@ -3368,7 +3402,24 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2426,
+      "rank": 2966,
+      "gameId": "116460"
+    },
+    {
+      "player": "Austin Reaves",
+      "stat": "Turnovers",
+      "line": 2.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeCST": "12/25/25 07:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Houston Rockets",
+      "opponentCode": "HOU",
+      "rank": 2976,
       "gameId": "116460"
     },
     {
@@ -3385,7 +3436,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2460,
+      "rank": 3000,
       "gameId": "116460"
     },
     {
@@ -3402,7 +3453,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2461,
+      "rank": 3001,
       "gameId": "116460"
     },
     {
@@ -3419,7 +3470,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2462,
+      "rank": 3002,
       "gameId": "116460"
     },
     {
@@ -3436,7 +3487,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2466,
+      "rank": 3008,
       "gameId": "116460"
     },
     {
@@ -3453,7 +3504,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2474,
+      "rank": 3016,
       "gameId": "116460"
     },
     {
@@ -3470,7 +3521,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2476,
+      "rank": 3018,
       "gameId": "116460"
     },
     {
@@ -3487,7 +3538,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2524,
+      "rank": 3068,
       "gameId": "116460"
     },
     {
@@ -3504,7 +3555,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2541,
+      "rank": 3082,
       "gameId": "116460"
     },
     {
@@ -3521,8 +3572,25 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2544,
+      "rank": 3085,
       "gameId": "116460"
+    },
+    {
+      "player": "Anthony Edwards",
+      "stat": "Points",
+      "line": 30.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 3173,
+      "gameId": "116461"
     },
     {
       "player": "Nikola Jokić",
@@ -3538,30 +3606,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2617,
-      "gameId": "116461"
-    },
-    {
-      "player": "Anthony Edwards",
-      "stat": "Points",
-      "line": 29.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 09:40 PM CST",
-      "startTimeCST": "12/25/25 09:40 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Timberwolves",
-      "teamCode": "MIN",
-      "Opponent": "Denver Nuggets",
-      "opponentCode": "DEN",
-      "rank": 2619,
+      "rank": 3178,
       "gameId": "116461"
     },
     {
       "player": "Jamal Murray",
       "stat": "Points",
-      "line": 24.5,
+      "line": 25.5,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -3572,7 +3623,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2644,
+      "rank": 3211,
       "gameId": "116461"
     },
     {
@@ -3589,13 +3640,13 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2671,
+      "rank": 3253,
       "gameId": "116461"
     },
     {
       "player": "Jaden McDaniels",
       "stat": "Points",
-      "line": 13.5,
+      "line": 14,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -3606,7 +3657,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2757,
+      "rank": 3376,
       "gameId": "116461"
     },
     {
@@ -3623,7 +3674,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2758,
+      "rank": 3379,
       "gameId": "116461"
     },
     {
@@ -3640,7 +3691,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2760,
+      "rank": 3381,
       "gameId": "116461"
     },
     {
@@ -3657,13 +3708,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2763,
+      "rank": 3391,
       "gameId": "116461"
     },
     {
       "player": "Peyton Watson",
       "stat": "Points",
-      "line": 12.5,
+      "line": 12,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -3674,7 +3725,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2766,
+      "rank": 3409,
       "gameId": "116461"
     },
     {
@@ -3691,7 +3742,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2774,
+      "rank": 3411,
       "gameId": "116461"
     },
     {
@@ -3708,24 +3759,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2797,
-      "gameId": "116461"
-    },
-    {
-      "player": "Rudy Gobert",
-      "stat": "Rebounds",
-      "line": 10.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 09:40 PM CST",
-      "startTimeCST": "12/25/25 09:40 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Timberwolves",
-      "teamCode": "MIN",
-      "Opponent": "Denver Nuggets",
-      "opponentCode": "DEN",
-      "rank": 2798,
+      "rank": 3441,
       "gameId": "116461"
     },
     {
@@ -3742,7 +3776,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2800,
+      "rank": 3443,
       "gameId": "116461"
     },
     {
@@ -3759,13 +3793,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2832,
+      "rank": 3496,
       "gameId": "116461"
     },
     {
       "player": "Bruce Brown",
       "stat": "Points",
-      "line": 7.5,
+      "line": 8,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -3776,13 +3810,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2848,
+      "rank": 3518,
       "gameId": "116461"
     },
     {
       "player": "Jonas Valančiūnas",
       "stat": "Points",
-      "line": 7.5,
+      "line": 8,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -3793,7 +3827,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2849,
+      "rank": 3519,
       "gameId": "116461"
     },
     {
@@ -3810,7 +3844,24 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2859,
+      "rank": 3550,
+      "gameId": "116461"
+    },
+    {
+      "player": "Spencer Jones",
+      "stat": "Points",
+      "line": 6.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3568,
       "gameId": "116461"
     },
     {
@@ -3827,7 +3878,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2876,
+      "rank": 3578,
       "gameId": "116461"
     },
     {
@@ -3844,7 +3895,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2877,
+      "rank": 3579,
       "gameId": "116461"
     },
     {
@@ -3861,7 +3912,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2895,
+      "rank": 3597,
       "gameId": "116461"
     },
     {
@@ -3878,7 +3929,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2899,
+      "rank": 3602,
       "gameId": "116461"
     },
     {
@@ -3895,7 +3946,24 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2900,
+      "rank": 3603,
+      "gameId": "116461"
+    },
+    {
+      "player": "Julian Strawther",
+      "stat": "Points",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3612,
       "gameId": "116461"
     },
     {
@@ -3912,7 +3980,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2901,
+      "rank": 3617,
       "gameId": "116461"
     },
     {
@@ -3929,7 +3997,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2902,
+      "rank": 3618,
       "gameId": "116461"
     },
     {
@@ -3946,7 +4014,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2906,
+      "rank": 3622,
       "gameId": "116461"
     },
     {
@@ -3963,7 +4031,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2907,
+      "rank": 3623,
       "gameId": "116461"
     },
     {
@@ -3980,7 +4048,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2934,
+      "rank": 3658,
       "gameId": "116461"
     },
     {
@@ -3997,7 +4065,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2935,
+      "rank": 3659,
       "gameId": "116461"
     },
     {
@@ -4014,7 +4082,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2936,
+      "rank": 3660,
       "gameId": "116461"
     },
     {
@@ -4031,7 +4099,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2937,
+      "rank": 3661,
       "gameId": "116461"
     },
     {
@@ -4048,7 +4116,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2939,
+      "rank": 3663,
       "gameId": "116461"
     },
     {
@@ -4065,7 +4133,24 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2963,
+      "rank": 3697,
+      "gameId": "116461"
+    },
+    {
+      "player": "Julius Randle",
+      "stat": "Turnovers",
+      "line": 2.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 3739,
       "gameId": "116461"
     },
     {
@@ -4082,7 +4167,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 2997,
+      "rank": 3754,
       "gameId": "116461"
     },
     {
@@ -4099,7 +4184,24 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3024,
+      "rank": 3781,
+      "gameId": "116461"
+    },
+    {
+      "player": "Peyton Watson",
+      "stat": "Assists",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3795,
       "gameId": "116461"
     },
     {
@@ -4116,7 +4218,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 3027,
+      "rank": 3812,
       "gameId": "116461"
     },
     {
@@ -4133,24 +4235,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 3028,
-      "gameId": "116461"
-    },
-    {
-      "player": "Anthony Edwards",
-      "stat": "Blocked Shots",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 09:40 PM CST",
-      "startTimeCST": "12/25/25 09:40 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Timberwolves",
-      "teamCode": "MIN",
-      "Opponent": "Denver Nuggets",
-      "opponentCode": "DEN",
-      "rank": 3041,
+      "rank": 3813,
       "gameId": "116461"
     },
     {
@@ -4167,7 +4252,7 @@
       "teamCode": "MIN",
       "Opponent": "Denver Nuggets",
       "opponentCode": "DEN",
-      "rank": 3043,
+      "rank": 3827,
       "gameId": "116461"
     },
     {
@@ -4184,7 +4269,75 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3046,
+      "rank": 3830,
+      "gameId": "116461"
+    },
+    {
+      "player": "Bruce Brown",
+      "stat": "3-PT Made",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3836,
+      "gameId": "116461"
+    },
+    {
+      "player": "Mike Conley",
+      "stat": "Steals",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 3844,
+      "gameId": "116461"
+    },
+    {
+      "player": "Mike Conley",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Denver Nuggets",
+      "opponentCode": "DEN",
+      "rank": 3845,
+      "gameId": "116461"
+    },
+    {
+      "player": "Spencer Jones",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3852,
       "gameId": "116461"
     }
   ]

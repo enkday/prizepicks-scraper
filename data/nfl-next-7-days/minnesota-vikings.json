@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Minnesota Vikings",
-  "totalProps": 25,
+  "totalProps": 26,
   "props": [
     {
       "player": "Aaron Jones",
@@ -21,7 +21,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 417,
+      "rank": 451,
       "gameId": "116295"
     },
     {
@@ -38,24 +38,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 442,
-      "gameId": "116295"
-    },
-    {
-      "player": "Justin Jefferson",
-      "stat": "Receiving Yards",
-      "line": 62.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 491,
+      "rank": 478,
       "gameId": "116295"
     },
     {
@@ -72,13 +55,30 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 492,
+      "rank": 526,
+      "gameId": "116295"
+    },
+    {
+      "player": "Justin Jefferson",
+      "stat": "Receiving Yards",
+      "line": 60.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 527,
       "gameId": "116295"
     },
     {
       "player": "Jordan Addison",
       "stat": "Receiving Yards",
-      "line": 41.5,
+      "line": 39.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -89,13 +89,13 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 516,
+      "rank": 552,
       "gameId": "116295"
     },
     {
       "player": "Max Brosmer",
       "stat": "Longest Completion",
-      "line": 32.5,
+      "line": 31.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 538,
+      "rank": 575,
       "gameId": "116295"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 540,
+      "rank": 577,
       "gameId": "116295"
     },
     {
       "player": "Justin Jefferson",
       "stat": "Longest Reception",
-      "line": 22.5,
+      "line": 21.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 582,
+      "rank": 623,
       "gameId": "116295"
     },
     {
@@ -157,13 +157,30 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 585,
+      "rank": 625,
+      "gameId": "116295"
+    },
+    {
+      "player": "Jalen Nailor",
+      "stat": "Receiving Yards",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 629,
       "gameId": "116295"
     },
     {
       "player": "Aaron Jones",
       "stat": "Receiving Yards",
-      "line": 20.5,
+      "line": 18.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -174,13 +191,13 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 587,
+      "rank": 649,
       "gameId": "116295"
     },
     {
       "player": "Josh Oliver",
       "stat": "Receiving Yards",
-      "line": 20.5,
+      "line": 18.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -191,7 +208,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 588,
+      "rank": 650,
       "gameId": "116295"
     },
     {
@@ -208,24 +225,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 608,
-      "gameId": "116295"
-    },
-    {
-      "player": "Jalen Nailor",
-      "stat": "Receiving Yards",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 610,
+      "rank": 655,
       "gameId": "116295"
     },
     {
@@ -242,7 +242,24 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 614,
+      "rank": 659,
+      "gameId": "116295"
+    },
+    {
+      "player": "Zavier Scott",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 671,
       "gameId": "116295"
     },
     {
@@ -259,7 +276,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 627,
+      "rank": 673,
       "gameId": "116295"
     },
     {
@@ -276,13 +293,13 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 634,
+      "rank": 681,
       "gameId": "116295"
     },
     {
       "player": "Aaron Jones",
       "stat": "Longest Reception",
-      "line": 11.5,
+      "line": 10.5,
       "sport": "NFL",
       "startTime": "12/25/25 03:30 PM CST",
       "startTimeCST": "12/25/25 03:30 PM CST",
@@ -293,7 +310,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 637,
+      "rank": 687,
       "gameId": "116295"
     },
     {
@@ -310,7 +327,24 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 663,
+      "rank": 711,
+      "gameId": "116295"
+    },
+    {
+      "player": "Zavier Scott",
+      "stat": "Longest Rush",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeCST": "12/25/25 03:30 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 719,
       "gameId": "116295"
     },
     {
@@ -327,7 +361,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 675,
+      "rank": 725,
       "gameId": "116295"
     },
     {
@@ -344,7 +378,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 685,
+      "rank": 735,
       "gameId": "116295"
     },
     {
@@ -361,7 +395,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 690,
+      "rank": 740,
       "gameId": "116295"
     },
     {
@@ -378,7 +412,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 725,
+      "rank": 782,
       "gameId": "116295"
     },
     {
@@ -395,7 +429,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 726,
+      "rank": 783,
       "gameId": "116295"
     },
     {
@@ -412,24 +446,7 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 745,
-      "gameId": "116295"
-    },
-    {
-      "player": "Byron Murphy",
-      "stat": "Assists",
-      "line": 1.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 03:30 PM CST",
-      "startTimeCST": "12/25/25 03:30 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 763,
+      "rank": 805,
       "gameId": "116295"
     }
   ]

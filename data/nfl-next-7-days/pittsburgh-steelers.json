@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1612,
+      "rank": 1744,
       "gameId": "116784"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1629,
+      "rank": 1761,
       "gameId": "116784"
     },
     {
       "player": "Aaron Rodgers",
       "stat": "Longest Completion",
-      "line": 32.5,
+      "line": 31.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1657,
+      "rank": 1788,
       "gameId": "116784"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1660,
+      "rank": 1789,
       "gameId": "116784"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1674,
+      "rank": 1804,
       "gameId": "116784"
     }
   ]

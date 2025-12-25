@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 23,
+  "totalProps": 24,
   "props": [
     {
       "player": "Jaxson Dart",
@@ -21,7 +21,24 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3050,
+      "rank": 3277,
+      "gameId": "119687"
+    },
+    {
+      "player": "Wan'Dale Robinson",
+      "stat": "Receiving Yards",
+      "line": 57.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:05 PM CST",
+      "startTimeCST": "12/28/25 03:05 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 3327,
       "gameId": "119687"
     },
     {
@@ -38,62 +55,11 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3085,
-      "gameId": "119687"
-    },
-    {
-      "player": "Wan'Dale Robinson",
-      "stat": "Receiving Yards",
-      "line": 55.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 03:05 PM CST",
-      "startTimeCST": "12/28/25 03:05 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3086,
-      "gameId": "119687"
-    },
-    {
-      "player": "Wan'Dale Robinson",
-      "stat": "Receiving Yards",
-      "line": 50.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 03:05 PM CST",
-      "startTimeCST": "12/28/25 03:05 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3087,
+      "rank": 3328,
       "gameId": "119687"
     },
     {
       "player": "Darius Slayton",
-      "stat": "Receiving Yards",
-      "line": 34.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 03:05 PM CST",
-      "startTimeCST": "12/28/25 03:05 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3113,
-      "gameId": "119687"
-    },
-    {
-      "player": "Theo Johnson",
       "stat": "Receiving Yards",
       "line": 33.5,
       "sport": "NFL",
@@ -106,7 +72,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3115,
+      "rank": 3355,
       "gameId": "119687"
     },
     {
@@ -123,13 +89,13 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3116,
+      "rank": 3357,
       "gameId": "119687"
     },
     {
-      "player": "Jaxson Dart",
-      "stat": "Rush Yards",
-      "line": 29.5,
+      "player": "Theo Johnson",
+      "stat": "Receiving Yards",
+      "line": 32.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:05 PM CST",
       "startTimeCST": "12/28/25 03:05 PM CST",
@@ -140,13 +106,13 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3124,
+      "rank": 3358,
       "gameId": "119687"
     },
     {
       "player": "Jaxson Dart",
       "stat": "Rush Yards",
-      "line": 28.5,
+      "line": 30.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:05 PM CST",
       "startTimeCST": "12/28/25 03:05 PM CST",
@@ -157,7 +123,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3133,
+      "rank": 3360,
       "gameId": "119687"
     },
     {
@@ -174,7 +140,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3135,
+      "rank": 3378,
       "gameId": "119687"
     },
     {
@@ -191,7 +157,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3148,
+      "rank": 3394,
       "gameId": "119687"
     },
     {
@@ -208,7 +174,24 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3164,
+      "rank": 3410,
+      "gameId": "119687"
+    },
+    {
+      "player": "Jaxson Dart",
+      "stat": "Pass Completions",
+      "line": 17,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:05 PM CST",
+      "startTimeCST": "12/28/25 03:05 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 3412,
       "gameId": "119687"
     },
     {
@@ -225,7 +208,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3165,
+      "rank": 3413,
       "gameId": "119687"
     },
     {
@@ -242,7 +225,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3169,
+      "rank": 3420,
       "gameId": "119687"
     },
     {
@@ -259,7 +242,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3170,
+      "rank": 3421,
       "gameId": "119687"
     },
     {
@@ -276,7 +259,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3172,
+      "rank": 3422,
       "gameId": "119687"
     },
     {
@@ -293,24 +276,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3173,
-      "gameId": "119687"
-    },
-    {
-      "player": "Isaiah Hodgins",
-      "stat": "Longest Reception",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 03:05 PM CST",
-      "startTimeCST": "12/28/25 03:05 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3174,
+      "rank": 3423,
       "gameId": "119687"
     },
     {
@@ -327,7 +293,41 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3177,
+      "rank": 3426,
+      "gameId": "119687"
+    },
+    {
+      "player": "Isaiah Hodgins",
+      "stat": "Longest Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:05 PM CST",
+      "startTimeCST": "12/28/25 03:05 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 3428,
+      "gameId": "119687"
+    },
+    {
+      "player": "Ben Sauls",
+      "stat": "Kicking Points",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:05 PM CST",
+      "startTimeCST": "12/28/25 03:05 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 3436,
       "gameId": "119687"
     },
     {
@@ -344,7 +344,24 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3187,
+      "rank": 3445,
+      "gameId": "119687"
+    },
+    {
+      "player": "Darius Slayton",
+      "stat": "Receptions",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:05 PM CST",
+      "startTimeCST": "12/28/25 03:05 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 3465,
       "gameId": "119687"
     },
     {
@@ -361,7 +378,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3204,
+      "rank": 3470,
       "gameId": "119687"
     },
     {
@@ -378,7 +395,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3214,
+      "rank": 3482,
       "gameId": "119687"
     },
     {
@@ -395,7 +412,7 @@
       "teamCode": "NYG",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3221,
+      "rank": 3488,
       "gameId": "119687"
     }
   ]

@@ -2,26 +2,38 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 1,
-  "propCount": 1,
+  "gameCount": 2,
+  "propCount": 3,
   "games": [
     {
-      "gameId": "119016",
+      "gameId": "119019",
       "slate": "Late",
-      "startTime": "12/23/25 04:30 PM CST",
-      "startTimeIso": "2025-12-23T17:30:00.000-05:00",
+      "startTime": "12/26/25 03:30 PM CST",
+      "startTimeIso": "2025-12-26T16:30:00.000-05:00",
       "teams": [
-        "Southern Miss Golden Eagles",
-        "Western Kentucky Hilltoppers"
+        "Minnesota Golden Gophers",
+        "New Mexico Lobos"
+      ],
+      "propCount": 2,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119019.json"
+    },
+    {
+      "gameId": "119020",
+      "slate": "Late",
+      "startTime": "12/26/25 07:00 PM CST",
+      "startTimeIso": "2025-12-26T20:00:00.000-05:00",
+      "teams": [
+        "Florida International Panthers",
+        "UTSA Roadrunners"
       ],
       "propCount": 1,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119016.json"
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119020.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 1,
+      "propCount": 3,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]

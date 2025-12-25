@@ -1,16 +1,44 @@
 [
   {
-    "propId": "119016_southern-miss-golden-eagles_creighton-wilbanks_bcc61c0e_kicking-points",
-    "gameId": "119016",
-    "playerId": "southern-miss-golden-eagles_creighton-wilbanks_bcc61c0e",
+    "propId": "119019_minnesota-golden-gophers_brady-denaburg_49bb5ebc_kicking-points",
+    "gameId": "119019",
+    "playerId": "minnesota-golden-gophers_brady-denaburg_49bb5ebc",
     "stat": "Kicking Points",
-    "line": 6.5,
-    "teamCode": "southern-miss-golden-eagles",
-    "opponentCode": "western-kentucky-hilltoppers",
+    "line": 5.5,
+    "teamCode": "minnesota-golden-gophers",
+    "opponentCode": "new-mexico-lobos",
     "oddsType": "standard",
     "sport": "NCAAF",
-    "startTime": "12/23/25 04:30 PM CST",
-    "startTimeIso": "2025-12-23T17:30:00.000-05:00",
+    "startTime": "12/26/25 03:30 PM CST",
+    "startTimeIso": "2025-12-26T16:30:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "propId": "119019_minnesota-golden-gophers_brady-denaburg_49bb5ebc_pat-made",
+    "gameId": "119019",
+    "playerId": "minnesota-golden-gophers_brady-denaburg_49bb5ebc",
+    "stat": "PAT Made",
+    "line": 2.5,
+    "teamCode": "minnesota-golden-gophers",
+    "opponentCode": "new-mexico-lobos",
+    "oddsType": "standard",
+    "sport": "NCAAF",
+    "startTime": "12/26/25 03:30 PM CST",
+    "startTimeIso": "2025-12-26T16:30:00.000-05:00",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "propId": "119020_florida-international-panthers_noah-grant_a1ce9036_kicking-points",
+    "gameId": "119020",
+    "playerId": "florida-international-panthers_noah-grant_a1ce9036",
+    "stat": "Kicking Points",
+    "line": 5.5,
+    "teamCode": "florida-international-panthers",
+    "opponentCode": "utsa-roadrunners",
+    "oddsType": "standard",
+    "sport": "NCAAF",
+    "startTime": "12/26/25 07:00 PM CST",
+    "startTimeIso": "2025-12-26T20:00:00.000-05:00",
     "dayBranch": "tomorrow"
   }
 ]

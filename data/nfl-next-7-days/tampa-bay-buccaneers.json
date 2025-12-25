@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2879,
+      "rank": 3103,
       "gameId": "116783"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2897,
+      "rank": 3121,
       "gameId": "116783"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2906,
+      "rank": 3130,
       "gameId": "116783"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2926,
+      "rank": 3150,
       "gameId": "116783"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2941,
+      "rank": 3165,
       "gameId": "116783"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2943,
+      "rank": 3167,
       "gameId": "116783"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2945,
+      "rank": 3169,
       "gameId": "116783"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2976,
+      "rank": 3200,
       "gameId": "116783"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2978,
+      "rank": 3202,
       "gameId": "116783"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2980,
+      "rank": 3204,
       "gameId": "116783"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2981,
+      "rank": 3205,
       "gameId": "116783"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2982,
+      "rank": 3206,
       "gameId": "116783"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3001,
+      "rank": 3225,
       "gameId": "116783"
     }
   ]

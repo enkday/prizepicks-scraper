@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Carolina Panthers",
-  "totalProps": 24,
+  "totalProps": 26,
   "props": [
     {
       "player": "Bryce Young",
       "stat": "Pass Yards",
-      "line": 197.5,
+      "line": 196.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2605,
+      "rank": 2799,
       "gameId": "119685"
     },
     {
       "player": "Tetairoa McMillan",
       "stat": "Receiving Yards",
-      "line": 53.5,
+      "line": 55.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,24 +38,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2658,
-      "gameId": "119685"
-    },
-    {
-      "player": "Tetairoa McMillan",
-      "stat": "Receiving Yards",
-      "line": 52.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 2660,
+      "rank": 2853,
       "gameId": "119685"
     },
     {
@@ -72,7 +55,24 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2677,
+      "rank": 2870,
+      "gameId": "119685"
+    },
+    {
+      "player": "Jalen Coker",
+      "stat": "Receiving Yards",
+      "line": 35.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 2893,
       "gameId": "119685"
     },
     {
@@ -89,30 +89,13 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2701,
-      "gameId": "119685"
-    },
-    {
-      "player": "Jalen Coker",
-      "stat": "Receiving Yards",
-      "line": 32.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 2703,
+      "rank": 2897,
       "gameId": "119685"
     },
     {
       "player": "Bryce Young",
       "stat": "Pass Attempts",
-      "line": 31.5,
+      "line": 31,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -123,13 +106,13 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2704,
+      "rank": 2898,
       "gameId": "119685"
     },
     {
       "player": "Chuba Hubbard",
       "stat": "Rush Yards",
-      "line": 26.5,
+      "line": 27.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -140,7 +123,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2733,
+      "rank": 2925,
       "gameId": "119685"
     },
     {
@@ -157,13 +140,13 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2744,
+      "rank": 2941,
       "gameId": "119685"
     },
     {
       "player": "Xavier Legette",
       "stat": "Receiving Yards",
-      "line": 20.5,
+      "line": 21.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -174,7 +157,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2745,
+      "rank": 2942,
       "gameId": "119685"
     },
     {
@@ -191,7 +174,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2746,
+      "rank": 2943,
       "gameId": "119685"
     },
     {
@@ -208,7 +191,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2775,
+      "rank": 2975,
       "gameId": "119685"
     },
     {
@@ -225,7 +208,24 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2782,
+      "rank": 2981,
+      "gameId": "119685"
+    },
+    {
+      "player": "Ja'Tavion Sanders",
+      "stat": "Receiving Yards",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 2982,
       "gameId": "119685"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2783,
+      "rank": 2983,
       "gameId": "119685"
     },
     {
@@ -259,24 +259,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2790,
-      "gameId": "119685"
-    },
-    {
-      "player": "Ja'Tavion Sanders",
-      "stat": "Receiving Yards",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 2791,
+      "rank": 2994,
       "gameId": "119685"
     },
     {
@@ -293,7 +276,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2793,
+      "rank": 2995,
       "gameId": "119685"
     },
     {
@@ -310,13 +293,13 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2794,
+      "rank": 2996,
       "gameId": "119685"
     },
     {
       "player": "Chuba Hubbard",
       "stat": "Receiving Yards",
-      "line": 10.5,
+      "line": 11.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -327,7 +310,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2796,
+      "rank": 2998,
       "gameId": "119685"
     },
     {
@@ -344,24 +327,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2797,
-      "gameId": "119685"
-    },
-    {
-      "player": "Rico Dowdle",
-      "stat": "Longest Reception",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 2800,
+      "rank": 3002,
       "gameId": "119685"
     },
     {
@@ -378,7 +344,7 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2801,
+      "rank": 3005,
       "gameId": "119685"
     },
     {
@@ -395,13 +361,13 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2804,
+      "rank": 3014,
       "gameId": "119685"
     },
     {
       "player": "Chuba Hubbard",
       "stat": "Longest Reception",
-      "line": 7.5,
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -412,7 +378,75 @@
       "teamCode": "CAR",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2806,
+      "rank": 3015,
+      "gameId": "119685"
+    },
+    {
+      "player": "Rico Dowdle",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 3016,
+      "gameId": "119685"
+    },
+    {
+      "player": "Tetairoa McMillan",
+      "stat": "Receptions",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 3030,
+      "gameId": "119685"
+    },
+    {
+      "player": "Bryce Young",
+      "stat": "Rush Attempts",
+      "line": 3.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 3052,
+      "gameId": "119685"
+    },
+    {
+      "player": "Ja'Tavion Sanders",
+      "stat": "Receptions",
+      "line": 2,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 3064,
       "gameId": "119685"
     }
   ]

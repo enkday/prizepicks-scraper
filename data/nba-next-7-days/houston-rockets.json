@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2060,
+      "rank": 2555,
       "gameId": "116460"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2095,
+      "rank": 2592,
       "gameId": "116460"
     },
     {
       "player": "Amen Thompson",
       "stat": "Points",
-      "line": 16.5,
+      "line": 17.5,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2142,
+      "rank": 2635,
       "gameId": "116460"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2157,
+      "rank": 2660,
       "gameId": "116460"
     },
     {
@@ -89,7 +89,24 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2185,
+      "rank": 2704,
+      "gameId": "116460"
+    },
+    {
+      "player": "Tari Eason",
+      "stat": "Points",
+      "line": 8.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeCST": "12/25/25 07:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Lakers",
+      "opponentCode": "LAL",
+      "rank": 2784,
       "gameId": "116460"
     },
     {
@@ -106,24 +123,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2261,
-      "gameId": "116460"
-    },
-    {
-      "player": "Tari Eason",
-      "stat": "Points",
-      "line": 8,
-      "sport": "NBA",
-      "startTime": "12/25/25 07:10 PM CST",
-      "startTimeCST": "12/25/25 07:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Rockets",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Lakers",
-      "opponentCode": "LAL",
-      "rank": 2262,
+      "rank": 2799,
       "gameId": "116460"
     },
     {
@@ -140,12 +140,12 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2290,
+      "rank": 2831,
       "gameId": "116460"
     },
     {
-      "player": "Josh Okogie",
-      "stat": "Points",
+      "player": "Jabari Smith",
+      "stat": "Rebounds",
       "line": 6.5,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
@@ -157,7 +157,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2291,
+      "rank": 2832,
       "gameId": "116460"
     },
     {
@@ -174,7 +174,41 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2316,
+      "rank": 2857,
+      "gameId": "116460"
+    },
+    {
+      "player": "Josh Okogie",
+      "stat": "Points",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeCST": "12/25/25 07:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Lakers",
+      "opponentCode": "LAL",
+      "rank": 2861,
+      "gameId": "116460"
+    },
+    {
+      "player": "Amen Thompson",
+      "stat": "Assists",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeCST": "12/25/25 07:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Lakers",
+      "opponentCode": "LAL",
+      "rank": 2876,
       "gameId": "116460"
     },
     {
@@ -191,24 +225,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2342,
-      "gameId": "116460"
-    },
-    {
-      "player": "Steven Adams",
-      "stat": "Rebounds",
-      "line": 5.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 07:10 PM CST",
-      "startTimeCST": "12/25/25 07:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Rockets",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Lakers",
-      "opponentCode": "LAL",
-      "rank": 2345,
+      "rank": 2878,
       "gameId": "116460"
     },
     {
@@ -225,24 +242,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2347,
-      "gameId": "116460"
-    },
-    {
-      "player": "Amen Thompson",
-      "stat": "Assists",
-      "line": 5,
-      "sport": "NBA",
-      "startTime": "12/25/25 07:10 PM CST",
-      "startTimeCST": "12/25/25 07:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Rockets",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Lakers",
-      "opponentCode": "LAL",
-      "rank": 2348,
+      "rank": 2883,
       "gameId": "116460"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2349,
+      "rank": 2884,
       "gameId": "116460"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2379,
+      "rank": 2914,
       "gameId": "116460"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2383,
+      "rank": 2924,
       "gameId": "116460"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2384,
+      "rank": 2925,
       "gameId": "116460"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2385,
+      "rank": 2926,
       "gameId": "116460"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2414,
+      "rank": 2955,
       "gameId": "116460"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2426,
+      "rank": 2966,
       "gameId": "116460"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2460,
+      "rank": 3000,
       "gameId": "116460"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2461,
+      "rank": 3001,
       "gameId": "116460"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2524,
+      "rank": 3068,
       "gameId": "116460"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Lakers",
       "opponentCode": "LAL",
-      "rank": 2541,
+      "rank": 3082,
       "gameId": "116460"
     }
   ]

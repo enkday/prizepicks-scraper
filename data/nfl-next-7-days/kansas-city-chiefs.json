@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Kansas City Chiefs",
-  "totalProps": 29,
+  "totalProps": 37,
   "props": [
     {
       "player": "Isiah Pacheco",
@@ -21,7 +21,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 804,
+      "rank": 872,
       "gameId": "116466"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 824,
+      "rank": 894,
       "gameId": "116466"
     },
     {
       "player": "Chris Oladokun",
       "stat": "Pass Yards",
-      "line": 151.5,
+      "line": 148.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 855,
+      "rank": 926,
       "gameId": "116466"
     },
     {
@@ -72,7 +72,24 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 892,
+      "rank": 961,
+      "gameId": "116466"
+    },
+    {
+      "player": "Travis Kelce",
+      "stat": "Receiving Yards",
+      "line": 40.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 978,
       "gameId": "116466"
     },
     {
@@ -89,13 +106,13 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 925,
+      "rank": 995,
       "gameId": "116466"
     },
     {
-      "player": "Travis Kelce",
+      "player": "Xavier Worthy",
       "stat": "Receiving Yards",
-      "line": 37.5,
+      "line": 30.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -106,7 +123,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 927,
+      "rank": 1004,
       "gameId": "116466"
     },
     {
@@ -123,30 +140,13 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 935,
-      "gameId": "116466"
-    },
-    {
-      "player": "Xavier Worthy",
-      "stat": "Receiving Yards",
-      "line": 27.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 955,
+      "rank": 1005,
       "gameId": "116466"
     },
     {
       "player": "Chris Oladokun",
       "stat": "Longest Completion",
-      "line": 26.5,
+      "line": 28.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -157,13 +157,13 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 956,
+      "rank": 1024,
       "gameId": "116466"
     },
     {
       "player": "Marquise Brown",
       "stat": "Receiving Yards",
-      "line": 21.5,
+      "line": 19.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
       "startTimeCST": "12/25/25 07:15 PM CST",
@@ -174,24 +174,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 983,
-      "gameId": "116466"
-    },
-    {
-      "player": "Kareem Hunt",
-      "stat": "Rush Yards",
-      "line": 18.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 1013,
+      "rank": 1077,
       "gameId": "116466"
     },
     {
@@ -208,7 +191,24 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1014,
+      "rank": 1085,
+      "gameId": "116466"
+    },
+    {
+      "player": "Kareem Hunt",
+      "stat": "Rush Yards",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1086,
       "gameId": "116466"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1015,
+      "rank": 1087,
       "gameId": "116466"
     },
     {
@@ -242,7 +242,24 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1020,
+      "rank": 1092,
+      "gameId": "116466"
+    },
+    {
+      "player": "JuJu Smith-Schuster",
+      "stat": "Receiving Yards",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1093,
       "gameId": "116466"
     },
     {
@@ -259,24 +276,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1022,
-      "gameId": "116466"
-    },
-    {
-      "player": "JuJu Smith-Schuster",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 07:15 PM CST",
-      "startTimeCST": "12/25/25 07:15 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 1037,
+      "rank": 1094,
       "gameId": "116466"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1047,
+      "rank": 1120,
       "gameId": "116466"
     },
     {
@@ -310,7 +310,24 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1050,
+      "rank": 1122,
+      "gameId": "116466"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "stat": "Rush Attempts",
+      "line": 11,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1126,
       "gameId": "116466"
     },
     {
@@ -327,7 +344,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1054,
+      "rank": 1127,
       "gameId": "116466"
     },
     {
@@ -344,7 +361,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1055,
+      "rank": 1128,
       "gameId": "116466"
     },
     {
@@ -361,7 +378,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1072,
+      "rank": 1144,
       "gameId": "116466"
     },
     {
@@ -378,7 +395,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1078,
+      "rank": 1151,
       "gameId": "116466"
     },
     {
@@ -395,7 +412,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1084,
+      "rank": 1159,
       "gameId": "116466"
     },
     {
@@ -412,7 +429,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1087,
+      "rank": 1162,
       "gameId": "116466"
     },
     {
@@ -429,12 +446,12 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1092,
+      "rank": 1171,
       "gameId": "116466"
     },
     {
-      "player": "Harrison Butker",
-      "stat": "Kicking Points",
+      "player": "Travis Kelce",
+      "stat": "Rec Targets",
       "line": 5.5,
       "sport": "NFL",
       "startTime": "12/25/25 07:15 PM CST",
@@ -446,7 +463,24 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1101,
+      "rank": 1183,
+      "gameId": "116466"
+    },
+    {
+      "player": "Xavier Worthy",
+      "stat": "Rec Targets",
+      "line": 5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1187,
       "gameId": "116466"
     },
     {
@@ -463,7 +497,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1104,
+      "rank": 1188,
       "gameId": "116466"
     },
     {
@@ -480,7 +514,7 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1107,
+      "rank": 1191,
       "gameId": "116466"
     },
     {
@@ -497,7 +531,109 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 1108,
+      "rank": 1192,
+      "gameId": "116466"
+    },
+    {
+      "player": "Harrison Butker",
+      "stat": "Kicking Points",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1199,
+      "gameId": "116466"
+    },
+    {
+      "player": "Travis Kelce",
+      "stat": "Receptions",
+      "line": 4,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1210,
+      "gameId": "116466"
+    },
+    {
+      "player": "Marquise Brown",
+      "stat": "Rec Targets",
+      "line": 4,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1211,
+      "gameId": "116466"
+    },
+    {
+      "player": "Xavier Worthy",
+      "stat": "Receptions",
+      "line": 3,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1240,
+      "gameId": "116466"
+    },
+    {
+      "player": "JuJu Smith-Schuster",
+      "stat": "Rec Targets",
+      "line": 3,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1241,
+      "gameId": "116466"
+    },
+    {
+      "player": "Noah Gray",
+      "stat": "Rec Targets",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeCST": "12/25/25 07:15 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 1281,
       "gameId": "116466"
     }
   ]

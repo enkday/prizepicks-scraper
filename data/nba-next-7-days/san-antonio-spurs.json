@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "San Antonio Spurs",
-  "totalProps": 21,
+  "totalProps": 22,
   "props": [
     {
       "player": "Victor Wembanyama",
@@ -21,11 +21,11 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 819,
+      "rank": 923,
       "gameId": "116292"
     },
     {
-      "player": "De'Aaron Fox",
+      "player": "Stephon Castle",
       "stat": "Points",
       "line": 17.5,
       "sport": "NBA",
@@ -38,11 +38,11 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 828,
+      "rank": 939,
       "gameId": "116292"
     },
     {
-      "player": "Stephon Castle",
+      "player": "De'Aaron Fox",
       "stat": "Points",
       "line": 16.5,
       "sport": "NBA",
@@ -55,7 +55,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 841,
+      "rank": 951,
       "gameId": "116292"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 888,
+      "rank": 1030,
       "gameId": "116292"
     },
     {
       "player": "Dylan Harper",
       "stat": "Points",
-      "line": 10.5,
+      "line": 10,
       "sport": "NBA",
       "startTime": "12/25/25 01:40 PM CST",
       "startTimeCST": "12/25/25 01:40 PM CST",
@@ -89,7 +89,24 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 941,
+      "rank": 1125,
+      "gameId": "116292"
+    },
+    {
+      "player": "Harrison Barnes",
+      "stat": "Points",
+      "line": 9.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1136,
       "gameId": "116292"
     },
     {
@@ -106,7 +123,24 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 983,
+      "rank": 1177,
+      "gameId": "116292"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "stat": "Rebounds",
+      "line": 9,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1178,
       "gameId": "116292"
     },
     {
@@ -123,7 +157,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 986,
+      "rank": 1180,
       "gameId": "116292"
     },
     {
@@ -140,24 +174,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1023,
-      "gameId": "116292"
-    },
-    {
-      "player": "Julian Champagnie",
-      "stat": "Points",
-      "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 01:40 PM CST",
-      "startTimeCST": "12/25/25 01:40 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Antonio Spurs",
-      "teamCode": "SAS",
-      "Opponent": "Oklahoma City Thunder",
-      "opponentCode": "OKC",
-      "rank": 1047,
+      "rank": 1237,
       "gameId": "116292"
     },
     {
@@ -174,7 +191,24 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1057,
+      "rank": 1290,
+      "gameId": "116292"
+    },
+    {
+      "player": "Julian Champagnie",
+      "stat": "Points",
+      "line": 6,
+      "sport": "NBA",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeCST": "12/25/25 01:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 1293,
       "gameId": "116292"
     },
     {
@@ -191,7 +225,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1071,
+      "rank": 1306,
       "gameId": "116292"
     },
     {
@@ -208,7 +242,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1072,
+      "rank": 1307,
       "gameId": "116292"
     },
     {
@@ -225,7 +259,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1075,
+      "rank": 1310,
       "gameId": "116292"
     },
     {
@@ -242,7 +276,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1093,
+      "rank": 1336,
       "gameId": "116292"
     },
     {
@@ -259,7 +293,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1103,
+      "rank": 1346,
       "gameId": "116292"
     },
     {
@@ -276,7 +310,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1139,
+      "rank": 1395,
       "gameId": "116292"
     },
     {
@@ -293,24 +327,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1167,
-      "gameId": "116292"
-    },
-    {
-      "player": "Victor Wembanyama",
-      "stat": "Dunks",
-      "line": 2.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 01:40 PM CST",
-      "startTimeCST": "12/25/25 01:40 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Antonio Spurs",
-      "teamCode": "SAS",
-      "Opponent": "Oklahoma City Thunder",
-      "opponentCode": "OKC",
-      "rank": 1168,
+      "rank": 1429,
       "gameId": "116292"
     },
     {
@@ -327,7 +344,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1259,
+      "rank": 1530,
       "gameId": "116292"
     },
     {
@@ -344,7 +361,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1264,
+      "rank": 1535,
       "gameId": "116292"
     },
     {
@@ -361,7 +378,7 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 1325,
+      "rank": 1604,
       "gameId": "116292"
     }
   ]

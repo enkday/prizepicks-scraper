@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Washington Commanders",
-  "totalProps": 32,
+  "totalProps": 35,
   "props": [
     {
       "player": "Josh Johnson",
       "stat": "Pass Yards",
-      "line": 176.5,
+      "line": 181.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 43,
+      "rank": 56,
       "gameId": "116294"
     },
     {
       "player": "Chris Rodriguez",
       "stat": "Rush Yards",
-      "line": 52.5,
+      "line": 54.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 95,
+      "rank": 115,
       "gameId": "116294"
     },
     {
       "player": "Terry McLaurin",
       "stat": "Receiving Yards",
-      "line": 49.5,
+      "line": 51.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 96,
+      "rank": 116,
       "gameId": "116294"
     },
     {
       "player": "Deebo Samuel",
       "stat": "Receiving Yards",
-      "line": 43.5,
+      "line": 44.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 111,
+      "rank": 130,
       "gameId": "116294"
     },
     {
@@ -89,7 +89,24 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 128,
+      "rank": 151,
+      "gameId": "116294"
+    },
+    {
+      "player": "Josh Johnson",
+      "stat": "Pass Attempts",
+      "line": 28.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 171,
       "gameId": "116294"
     },
     {
@@ -106,30 +123,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 146,
-      "gameId": "116294"
-    },
-    {
-      "player": "Josh Johnson",
-      "stat": "Pass Attempts",
-      "line": 27.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 12:00 PM CST",
-      "startTimeCST": "12/25/25 12:00 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 149,
+      "rank": 172,
       "gameId": "116294"
     },
     {
       "player": "Treylon Burks",
       "stat": "Receiving Yards",
-      "line": 22.5,
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 174,
+      "rank": 198,
       "gameId": "116294"
     },
     {
@@ -157,12 +157,29 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 175,
+      "rank": 201,
       "gameId": "116294"
     },
     {
       "player": "Deebo Samuel",
       "stat": "Longest Reception",
+      "line": 18.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 226,
+      "gameId": "116294"
+    },
+    {
+      "player": "Josh Johnson",
+      "stat": "Pass Completions",
       "line": 17.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
@@ -174,24 +191,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 198,
-      "gameId": "116294"
-    },
-    {
-      "player": "Josh Johnson",
-      "stat": "Pass Completions",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 12:00 PM CST",
-      "startTimeCST": "12/25/25 12:00 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 200,
+      "rank": 227,
       "gameId": "116294"
     },
     {
@@ -208,7 +208,24 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 201,
+      "rank": 229,
+      "gameId": "116294"
+    },
+    {
+      "player": "Ben Sinnott",
+      "stat": "Receiving Yards",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 239,
       "gameId": "116294"
     },
     {
@@ -225,24 +242,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 220,
-      "gameId": "116294"
-    },
-    {
-      "player": "Ben Sinnott",
-      "stat": "Receiving Yards",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 12:00 PM CST",
-      "startTimeCST": "12/25/25 12:00 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 221,
+      "rank": 249,
       "gameId": "116294"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 222,
+      "rank": 250,
       "gameId": "116294"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 225,
+      "rank": 253,
       "gameId": "116294"
     },
     {
@@ -293,12 +293,29 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 232,
+      "rank": 259,
       "gameId": "116294"
     },
     {
       "player": "Ben Sinnott",
       "stat": "Longest Reception",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 260,
+      "gameId": "116294"
+    },
+    {
+      "player": "Jeremy McNichols",
+      "stat": "Receiving Yards",
       "line": 9.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
@@ -310,7 +327,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 235,
+      "rank": 264,
       "gameId": "116294"
     },
     {
@@ -327,13 +344,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 237,
+      "rank": 266,
       "gameId": "116294"
     },
     {
       "player": "Jeremy McNichols",
-      "stat": "Receiving Yards",
-      "line": 8.5,
+      "stat": "Longest Reception",
+      "line": 7.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -344,7 +361,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 252,
+      "rank": 288,
       "gameId": "116294"
     },
     {
@@ -361,7 +378,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 261,
+      "rank": 291,
       "gameId": "116294"
     },
     {
@@ -378,28 +395,11 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 262,
+      "rank": 292,
       "gameId": "116294"
     },
     {
-      "player": "Jake Moody",
-      "stat": "Kicking Points",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 12:00 PM CST",
-      "startTimeCST": "12/25/25 12:00 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 263,
-      "gameId": "116294"
-    },
-    {
-      "player": "Jeremy McNichols",
+      "player": "John Bates",
       "stat": "Longest Reception",
       "line": 6.5,
       "sport": "NFL",
@@ -412,7 +412,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 269,
+      "rank": 300,
       "gameId": "116294"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 275,
+      "rank": 303,
       "gameId": "116294"
     },
     {
@@ -446,24 +446,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 276,
-      "gameId": "116294"
-    },
-    {
-      "player": "John Bates",
-      "stat": "Longest Reception",
-      "line": 5.5,
-      "sport": "NFL",
-      "startTime": "12/25/25 12:00 PM CST",
-      "startTimeCST": "12/25/25 12:00 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 285,
+      "rank": 304,
       "gameId": "116294"
     },
     {
@@ -480,7 +463,24 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 293,
+      "rank": 320,
+      "gameId": "116294"
+    },
+    {
+      "player": "Josh Johnson",
+      "stat": "Rush Attempts",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 326,
       "gameId": "116294"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 298,
+      "rank": 328,
       "gameId": "116294"
     },
     {
@@ -514,13 +514,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 301,
+      "rank": 331,
       "gameId": "116294"
     },
     {
-      "player": "Jeremy McNichols",
-      "stat": "Receptions",
-      "line": 1.5,
+      "player": "Chris Moore",
+      "stat": "Longest Reception",
+      "line": 2.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -531,13 +531,13 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 349,
+      "rank": 361,
       "gameId": "116294"
     },
     {
-      "player": "Ben Sinnott",
-      "stat": "Receptions",
-      "line": 1.5,
+      "player": "Chris Moore",
+      "stat": "Receiving Yards",
+      "line": 2.5,
       "sport": "NFL",
       "startTime": "12/25/25 12:00 PM CST",
       "startTimeCST": "12/25/25 12:00 PM CST",
@@ -548,7 +548,58 @@
       "teamCode": "WAS",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 350,
+      "rank": 362,
+      "gameId": "116294"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Longest Reception",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 431,
+      "gameId": "116294"
+    },
+    {
+      "player": "Chris Rodriguez",
+      "stat": "Receiving Yards",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 432,
+      "gameId": "116294"
+    },
+    {
+      "player": "Chris Moore",
+      "stat": "Receptions",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeCST": "12/25/25 12:00 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 433,
       "gameId": "116294"
     }
   ]

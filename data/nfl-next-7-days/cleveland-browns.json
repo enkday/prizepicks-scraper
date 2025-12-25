@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cleveland Browns",
-  "totalProps": 13,
+  "totalProps": 12,
   "props": [
     {
       "player": "Shedeur Sanders",
@@ -21,13 +21,13 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1632,
+      "rank": 1764,
       "gameId": "116784"
     },
     {
       "player": "Harold Fannin",
       "stat": "Receiving Yards",
-      "line": 46.5,
+      "line": 48.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,24 +38,7 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1648,
-      "gameId": "116784"
-    },
-    {
-      "player": "Harold Fannin",
-      "stat": "Receiving Yards",
-      "line": 45.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 1649,
+      "rank": 1779,
       "gameId": "116784"
     },
     {
@@ -72,30 +55,13 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1658,
-      "gameId": "116784"
-    },
-    {
-      "player": "Jerry Jeudy",
-      "stat": "Receiving Yards",
-      "line": 31.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 1659,
+      "rank": 1787,
       "gameId": "116784"
     },
     {
       "player": "Shedeur Sanders",
       "stat": "Longest Completion",
-      "line": 30.5,
+      "line": 29.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -106,7 +72,24 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1661,
+      "rank": 1791,
+      "gameId": "116784"
+    },
+    {
+      "player": "Jerry Jeudy",
+      "stat": "Receiving Yards",
+      "line": 28.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 1797,
       "gameId": "116784"
     },
     {
@@ -123,7 +106,7 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1680,
+      "rank": 1810,
       "gameId": "116784"
     },
     {
@@ -140,7 +123,7 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1682,
+      "rank": 1812,
       "gameId": "116784"
     },
     {
@@ -157,13 +140,13 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1683,
+      "rank": 1813,
       "gameId": "116784"
     },
     {
       "player": "Shedeur Sanders",
       "stat": "Rush Yards",
-      "line": 14.5,
+      "line": 12.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -174,7 +157,7 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1687,
+      "rank": 1817,
       "gameId": "116784"
     },
     {
@@ -191,7 +174,7 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1690,
+      "rank": 1820,
       "gameId": "116784"
     },
     {
@@ -208,7 +191,7 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1693,
+      "rank": 1823,
       "gameId": "116784"
     },
     {
@@ -225,7 +208,7 @@
       "teamCode": "CLE",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1703,
+      "rank": 1832,
       "gameId": "116784"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
@@ -10,7 +10,7 @@
     {
       "player": "Luka Dončić",
       "stat": "Points",
-      "line": 33.5,
+      "line": 32.5,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2013,
+      "rank": 2512,
       "gameId": "116460"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2099,
+      "rank": 2595,
       "gameId": "116460"
     },
     {
       "player": "Austin Reaves",
       "stat": "Points",
-      "line": 19.5,
+      "line": 19,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2110,
+      "rank": 2629,
       "gameId": "116460"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2178,
+      "rank": 2695,
       "gameId": "116460"
     },
     {
       "player": "Rui Hachimura",
       "stat": "Points",
-      "line": 11.5,
+      "line": 11,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2196,
+      "rank": 2733,
       "gameId": "116460"
     },
     {
@@ -106,24 +106,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2256,
-      "gameId": "116460"
-    },
-    {
-      "player": "Marcus Smart",
-      "stat": "Points",
-      "line": 8.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 07:10 PM CST",
-      "startTimeCST": "12/25/25 07:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Lakers",
-      "teamCode": "LAL",
-      "Opponent": "Houston Rockets",
-      "opponentCode": "HOU",
-      "rank": 2257,
+      "rank": 2792,
       "gameId": "116460"
     },
     {
@@ -140,7 +123,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2263,
+      "rank": 2800,
       "gameId": "116460"
     },
     {
@@ -157,7 +140,24 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2264,
+      "rank": 2801,
+      "gameId": "116460"
+    },
+    {
+      "player": "Marcus Smart",
+      "stat": "Points",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeCST": "12/25/25 07:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Houston Rockets",
+      "opponentCode": "HOU",
+      "rank": 2823,
       "gameId": "116460"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2289,
+      "rank": 2829,
       "gameId": "116460"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2293,
+      "rank": 2834,
       "gameId": "116460"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2311,
+      "rank": 2852,
       "gameId": "116460"
     },
     {
@@ -225,13 +225,13 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2317,
+      "rank": 2858,
       "gameId": "116460"
     },
     {
       "player": "Jake LaRavia",
       "stat": "Points",
-      "line": 5.5,
+      "line": 4.5,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -242,7 +242,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2341,
+      "rank": 2912,
       "gameId": "116460"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2381,
+      "rank": 2922,
       "gameId": "116460"
     },
     {
@@ -276,13 +276,13 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2396,
+      "rank": 2937,
       "gameId": "116460"
     },
     {
-      "player": "Luka Dončić",
+      "player": "Austin Reaves",
       "stat": "Turnovers",
-      "line": 3.5,
+      "line": 2.5,
       "sport": "NBA",
       "startTime": "12/25/25 07:10 PM CST",
       "startTimeCST": "12/25/25 07:10 PM CST",
@@ -293,7 +293,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2410,
+      "rank": 2976,
       "gameId": "116460"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2462,
+      "rank": 3002,
       "gameId": "116460"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2466,
+      "rank": 3008,
       "gameId": "116460"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2474,
+      "rank": 3016,
       "gameId": "116460"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2476,
+      "rank": 3018,
       "gameId": "116460"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "LAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 2544,
+      "rank": 3085,
       "gameId": "116460"
     }
   ]

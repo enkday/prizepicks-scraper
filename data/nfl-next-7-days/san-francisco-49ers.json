@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "San Francisco 49ers",
-  "totalProps": 9,
+  "totalProps": 13,
   "props": [
     {
       "player": "Brock Purdy",
@@ -21,7 +21,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3589,
+      "rank": 3878,
       "gameId": "117038"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3618,
+      "rank": 3913,
       "gameId": "117038"
     },
     {
-      "player": "Brock Purdy",
-      "stat": "Longest Completion",
-      "line": 36.5,
+      "player": "Jauan Jennings",
+      "stat": "Receiving Yards",
+      "line": 59.5,
       "sport": "NFL",
       "startTime": "12/28/25 07:20 PM CST",
       "startTimeCST": "12/28/25 07:20 PM CST",
@@ -55,7 +55,41 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3636,
+      "rank": 3918,
+      "gameId": "117038"
+    },
+    {
+      "player": "Christian McCaffrey",
+      "stat": "Receiving Yards",
+      "line": 38.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 07:20 PM CST",
+      "startTimeCST": "12/28/25 07:20 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 3935,
+      "gameId": "117038"
+    },
+    {
+      "player": "Brock Purdy",
+      "stat": "Longest Completion",
+      "line": 35.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 07:20 PM CST",
+      "startTimeCST": "12/28/25 07:20 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 3938,
       "gameId": "117038"
     },
     {
@@ -72,13 +106,13 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3639,
+      "rank": 3941,
       "gameId": "117038"
     },
     {
       "player": "Brock Purdy",
       "stat": "Pass Completions",
-      "line": 22.5,
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "12/28/25 07:20 PM CST",
       "startTimeCST": "12/28/25 07:20 PM CST",
@@ -89,7 +123,24 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3654,
+      "rank": 3960,
+      "gameId": "117038"
+    },
+    {
+      "player": "Jauan Jennings",
+      "stat": "Longest Reception",
+      "line": 21.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 07:20 PM CST",
+      "startTimeCST": "12/28/25 07:20 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 3963,
       "gameId": "117038"
     },
     {
@@ -106,7 +157,24 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3662,
+      "rank": 3971,
+      "gameId": "117038"
+    },
+    {
+      "player": "Christian McCaffrey",
+      "stat": "Longest Reception",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 07:20 PM CST",
+      "startTimeCST": "12/28/25 07:20 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 3982,
       "gameId": "117038"
     },
     {
@@ -123,7 +191,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3674,
+      "rank": 3984,
       "gameId": "117038"
     },
     {
@@ -140,7 +208,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3684,
+      "rank": 3994,
       "gameId": "117038"
     },
     {
@@ -157,7 +225,7 @@
       "teamCode": "SF",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3689,
+      "rank": 4007,
       "gameId": "117038"
     }
   ]

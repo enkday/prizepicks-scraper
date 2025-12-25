@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2883,
+      "rank": 3107,
       "gameId": "116783"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2898,
+      "rank": 3122,
       "gameId": "116783"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2912,
+      "rank": 3136,
       "gameId": "116783"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2944,
+      "rank": 3168,
       "gameId": "116783"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2946,
+      "rank": 3170,
       "gameId": "116783"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2967,
+      "rank": 3191,
       "gameId": "116783"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2977,
+      "rank": 3201,
       "gameId": "116783"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2979,
+      "rank": 3203,
       "gameId": "116783"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2993,
+      "rank": 3217,
       "gameId": "116783"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2998,
+      "rank": 3222,
       "gameId": "116783"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2999,
+      "rank": 3223,
       "gameId": "116783"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3003,
+      "rank": 3227,
       "gameId": "116783"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3004,
+      "rank": 3228,
       "gameId": "116783"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3005,
+      "rank": 3229,
       "gameId": "116783"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "MIA",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3006,
+      "rank": 3230,
       "gameId": "116783"
     }
   ]

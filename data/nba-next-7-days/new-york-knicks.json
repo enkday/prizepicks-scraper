@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "New York Knicks",
-  "totalProps": 34,
+  "totalProps": 29,
   "props": [
     {
       "player": "Jalen Brunson",
       "stat": "Points",
-      "line": 28.5,
+      "line": 29,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -21,7 +21,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 90,
+      "rank": 95,
       "gameId": "116291"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 137,
+      "rank": 152,
       "gameId": "116291"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 178,
+      "rank": 211,
       "gameId": "116291"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 191,
+      "rank": 223,
       "gameId": "116291"
     },
     {
@@ -89,13 +89,13 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 239,
+      "rank": 286,
       "gameId": "116291"
     },
     {
       "player": "Karl-Anthony Towns",
       "stat": "Rebounds",
-      "line": 10.5,
+      "line": 11,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -106,7 +106,24 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 279,
+      "rank": 329,
+      "gameId": "116291"
+    },
+    {
+      "player": "Jordan Clarkson",
+      "stat": "Points",
+      "line": 9,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "Cleveland Cavaliers",
+      "opponentCode": "CLE",
+      "rank": 385,
       "gameId": "116291"
     },
     {
@@ -123,12 +140,12 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 317,
+      "rank": 386,
       "gameId": "116291"
     },
     {
-      "player": "Jordan Clarkson",
-      "stat": "Points",
+      "player": "Karl-Anthony Towns",
+      "stat": "Defensive Rebounds",
       "line": 8.5,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
@@ -140,7 +157,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 318,
+      "rank": 403,
       "gameId": "116291"
     },
     {
@@ -157,24 +174,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 337,
-      "gameId": "116291"
-    },
-    {
-      "player": "Karl-Anthony Towns",
-      "stat": "Defensive Rebounds",
-      "line": 8,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 338,
+      "rank": 410,
       "gameId": "116291"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 366,
+      "rank": 441,
       "gameId": "116291"
     },
     {
@@ -208,24 +208,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 367,
-      "gameId": "116291"
-    },
-    {
-      "player": "Tyler Kolek",
-      "stat": "Points",
-      "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 392,
+      "rank": 442,
       "gameId": "116291"
     },
     {
@@ -242,7 +225,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 407,
+      "rank": 484,
       "gameId": "116291"
     },
     {
@@ -259,7 +242,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 426,
+      "rank": 501,
       "gameId": "116291"
     },
     {
@@ -276,7 +259,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 427,
+      "rank": 502,
       "gameId": "116291"
     },
     {
@@ -293,7 +276,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 430,
+      "rank": 504,
       "gameId": "116291"
     },
     {
@@ -310,7 +293,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 464,
+      "rank": 537,
       "gameId": "116291"
     },
     {
@@ -327,7 +310,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 465,
+      "rank": 538,
       "gameId": "116291"
     },
     {
@@ -344,24 +327,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 466,
-      "gameId": "116291"
-    },
-    {
-      "player": "Jalen Brunson",
-      "stat": "Rebounds",
-      "line": 3.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 473,
+      "rank": 539,
       "gameId": "116291"
     },
     {
@@ -378,24 +344,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 501,
-      "gameId": "116291"
-    },
-    {
-      "player": "Karl-Anthony Towns",
-      "stat": "Assists",
-      "line": 2.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 510,
+      "rank": 574,
       "gameId": "116291"
     },
     {
@@ -412,7 +361,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 548,
+      "rank": 624,
       "gameId": "116291"
     },
     {
@@ -429,7 +378,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 554,
+      "rank": 635,
       "gameId": "116291"
     },
     {
@@ -446,24 +395,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 560,
-      "gameId": "116291"
-    },
-    {
-      "player": "Jordan Clarkson",
-      "stat": "Assists",
-      "line": 1.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 580,
+      "rank": 641,
       "gameId": "116291"
     },
     {
@@ -480,7 +412,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 585,
+      "rank": 662,
       "gameId": "116291"
     },
     {
@@ -497,7 +429,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 609,
+      "rank": 686,
       "gameId": "116291"
     },
     {
@@ -514,7 +446,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 612,
+      "rank": 696,
       "gameId": "116291"
     },
     {
@@ -531,7 +463,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 651,
+      "rank": 730,
       "gameId": "116291"
     },
     {
@@ -548,24 +480,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 652,
-      "gameId": "116291"
-    },
-    {
-      "player": "Mitchell Robinson",
-      "stat": "Turnovers",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Cleveland Cavaliers",
-      "opponentCode": "CLE",
-      "rank": 664,
+      "rank": 731,
       "gameId": "116291"
     },
     {
@@ -582,7 +497,7 @@
       "teamCode": "NYK",
       "Opponent": "Cleveland Cavaliers",
       "opponentCode": "CLE",
-      "rank": 667,
+      "rank": 739,
       "gameId": "116291"
     }
   ]

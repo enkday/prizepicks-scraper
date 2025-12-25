@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Denver Nuggets",
-  "totalProps": 15,
+  "totalProps": 20,
   "props": [
     {
       "player": "Nikola Jokić",
@@ -21,13 +21,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2617,
+      "rank": 3178,
       "gameId": "116461"
     },
     {
       "player": "Jamal Murray",
       "stat": "Points",
-      "line": 24.5,
+      "line": 25.5,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2644,
+      "rank": 3211,
       "gameId": "116461"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2763,
+      "rank": 3391,
       "gameId": "116461"
     },
     {
       "player": "Peyton Watson",
       "stat": "Points",
-      "line": 12.5,
+      "line": 12,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2766,
+      "rank": 3409,
       "gameId": "116461"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2774,
+      "rank": 3411,
       "gameId": "116461"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2800,
+      "rank": 3443,
       "gameId": "116461"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2832,
+      "rank": 3496,
       "gameId": "116461"
     },
     {
       "player": "Bruce Brown",
       "stat": "Points",
-      "line": 7.5,
+      "line": 8,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -140,13 +140,13 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2848,
+      "rank": 3518,
       "gameId": "116461"
     },
     {
       "player": "Jonas Valančiūnas",
       "stat": "Points",
-      "line": 7.5,
+      "line": 8,
       "sport": "NBA",
       "startTime": "12/25/25 09:40 PM CST",
       "startTimeCST": "12/25/25 09:40 PM CST",
@@ -157,7 +157,24 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2849,
+      "rank": 3519,
+      "gameId": "116461"
+    },
+    {
+      "player": "Spencer Jones",
+      "stat": "Points",
+      "line": 6.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3568,
       "gameId": "116461"
     },
     {
@@ -174,7 +191,24 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2877,
+      "rank": 3579,
+      "gameId": "116461"
+    },
+    {
+      "player": "Julian Strawther",
+      "stat": "Points",
+      "line": 5.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3612,
       "gameId": "116461"
     },
     {
@@ -191,7 +225,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2901,
+      "rank": 3617,
       "gameId": "116461"
     },
     {
@@ -208,7 +242,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2906,
+      "rank": 3622,
       "gameId": "116461"
     },
     {
@@ -225,7 +259,7 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 2934,
+      "rank": 3658,
       "gameId": "116461"
     },
     {
@@ -242,7 +276,24 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3024,
+      "rank": 3781,
+      "gameId": "116461"
+    },
+    {
+      "player": "Peyton Watson",
+      "stat": "Assists",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3795,
       "gameId": "116461"
     },
     {
@@ -259,7 +310,41 @@
       "teamCode": "DEN",
       "Opponent": "Minnesota Timberwolves",
       "opponentCode": "MIN",
-      "rank": 3046,
+      "rank": 3830,
+      "gameId": "116461"
+    },
+    {
+      "player": "Bruce Brown",
+      "stat": "3-PT Made",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3836,
+      "gameId": "116461"
+    },
+    {
+      "player": "Spencer Jones",
+      "stat": "Turnovers",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeCST": "12/25/25 09:40 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Minnesota Timberwolves",
+      "opponentCode": "MIN",
+      "rank": 3852,
       "gameId": "116461"
     }
   ]

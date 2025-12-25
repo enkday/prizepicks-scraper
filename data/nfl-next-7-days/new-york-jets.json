@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,13 +21,13 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2419,
+      "rank": 2611,
       "gameId": "116787"
     },
     {
       "player": "Breece Hall",
       "stat": "Rush Yards",
-      "line": 56.5,
+      "line": 57.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2452,
+      "rank": 2644,
       "gameId": "116787"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2479,
+      "rank": 2670,
       "gameId": "116787"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2480,
+      "rank": 2672,
       "gameId": "116787"
     },
     {
       "player": "Brady Cook",
       "stat": "Pass Attempts",
-      "line": 32.5,
+      "line": 32,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -89,13 +89,13 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2481,
+      "rank": 2673,
       "gameId": "116787"
     },
     {
       "player": "Mason Taylor",
       "stat": "Receiving Yards",
-      "line": 30.5,
+      "line": 31.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2482,
+      "rank": 2674,
       "gameId": "116787"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2500,
+      "rank": 2692,
       "gameId": "116787"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2527,
+      "rank": 2720,
       "gameId": "116787"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2528,
+      "rank": 2721,
       "gameId": "116787"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2530,
+      "rank": 2723,
       "gameId": "116787"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2532,
+      "rank": 2725,
       "gameId": "116787"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2533,
+      "rank": 2726,
       "gameId": "116787"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2535,
+      "rank": 2728,
       "gameId": "116787"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2536,
+      "rank": 2729,
       "gameId": "116787"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2540,
+      "rank": 2733,
       "gameId": "116787"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "NYJ",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 2545,
+      "rank": 2737,
       "gameId": "116787"
     }
   ]

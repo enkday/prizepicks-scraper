@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2194,
+      "rank": 2379,
       "gameId": "116785"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2222,
+      "rank": 2408,
       "gameId": "116785"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2247,
+      "rank": 2436,
       "gameId": "116785"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2265,
+      "rank": 2455,
       "gameId": "116785"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2267,
+      "rank": 2457,
       "gameId": "116785"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2296,
+      "rank": 2487,
       "gameId": "116785"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2306,
+      "rank": 2497,
       "gameId": "116785"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2330,
+      "rank": 2521,
       "gameId": "116785"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2336,
+      "rank": 2527,
       "gameId": "116785"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2339,
+      "rank": 2530,
       "gameId": "116785"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NO",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2345,
+      "rank": 2536,
       "gameId": "116785"
     }
   ]

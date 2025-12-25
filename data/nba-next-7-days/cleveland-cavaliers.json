@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Cleveland Cavaliers",
-  "totalProps": 27,
+  "totalProps": 25,
   "props": [
     {
       "player": "Donovan Mitchell",
       "stat": "Points",
-      "line": 29.5,
+      "line": 30.5,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -21,7 +21,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 68,
+      "rank": 67,
       "gameId": "116291"
     },
     {
@@ -38,7 +38,24 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 149,
+      "rank": 167,
+      "gameId": "116291"
+    },
+    {
+      "player": "Evan Mobley",
+      "stat": "Points",
+      "line": 14.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 259,
       "gameId": "116291"
     },
     {
@@ -55,13 +72,13 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 230,
+      "rank": 275,
       "gameId": "116291"
     },
     {
       "player": "Jarrett Allen",
       "stat": "Points",
-      "line": 13.5,
+      "line": 13,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -72,7 +89,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 231,
+      "rank": 284,
       "gameId": "116291"
     },
     {
@@ -89,13 +106,13 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 274,
+      "rank": 328,
       "gameId": "116291"
     },
     {
       "player": "Jaylon Tyson",
       "stat": "Points",
-      "line": 10.5,
+      "line": 10,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -106,13 +123,13 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 276,
+      "rank": 348,
       "gameId": "116291"
     },
     {
       "player": "Jarrett Allen",
       "stat": "Rebounds",
-      "line": 8.5,
+      "line": 8,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
       "startTimeCST": "12/25/25 11:10 AM CST",
@@ -123,7 +140,24 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 316,
+      "rank": 409,
+      "gameId": "116291"
+    },
+    {
+      "player": "Evan Mobley",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 438,
       "gameId": "116291"
     },
     {
@@ -140,7 +174,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 365,
+      "rank": 440,
       "gameId": "116291"
     },
     {
@@ -157,7 +191,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 393,
+      "rank": 469,
       "gameId": "116291"
     },
     {
@@ -174,7 +208,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 395,
+      "rank": 471,
       "gameId": "116291"
     },
     {
@@ -191,24 +225,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 423,
-      "gameId": "116291"
-    },
-    {
-      "player": "Jaylon Tyson",
-      "stat": "Rebounds",
-      "line": 5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 425,
+      "rank": 495,
       "gameId": "116291"
     },
     {
@@ -225,24 +242,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 428,
-      "gameId": "116291"
-    },
-    {
-      "player": "De'Andre Hunter",
-      "stat": "Rebounds",
-      "line": 4,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 462,
+      "rank": 503,
       "gameId": "116291"
     },
     {
@@ -259,7 +259,41 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 463,
+      "rank": 536,
+      "gameId": "116291"
+    },
+    {
+      "player": "De'Andre Hunter",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 557,
+      "gameId": "116291"
+    },
+    {
+      "player": "Lonzo Ball",
+      "stat": "Assists",
+      "line": 3.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 564,
       "gameId": "116291"
     },
     {
@@ -276,29 +310,12 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 490,
+      "rank": 565,
       "gameId": "116291"
     },
     {
-      "player": "Jaylon Tyson",
-      "stat": "Defensive Rebounds",
-      "line": 3.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 500,
-      "gameId": "116291"
-    },
-    {
-      "player": "Darius Garland",
-      "stat": "3-PT Made",
+      "player": "Sam Merrill",
+      "stat": "Assists",
       "line": 2.5,
       "sport": "NBA",
       "startTime": "12/25/25 11:10 AM CST",
@@ -310,7 +327,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 505,
+      "rank": 607,
       "gameId": "116291"
     },
     {
@@ -327,7 +344,24 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 530,
+      "rank": 608,
+      "gameId": "116291"
+    },
+    {
+      "player": "Evan Mobley",
+      "stat": "Assists",
+      "line": 2.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeCST": "12/25/25 11:10 AM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Cavaliers",
+      "teamCode": "CLE",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 630,
       "gameId": "116291"
     },
     {
@@ -344,7 +378,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 552,
+      "rank": 633,
       "gameId": "116291"
     },
     {
@@ -361,24 +395,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 553,
-      "gameId": "116291"
-    },
-    {
-      "player": "Jaylon Tyson",
-      "stat": "Assists",
-      "line": 1.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 579,
+      "rank": 634,
       "gameId": "116291"
     },
     {
@@ -395,24 +412,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 608,
-      "gameId": "116291"
-    },
-    {
-      "player": "Dean Wade",
-      "stat": "Steals",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 646,
+      "rank": 685,
       "gameId": "116291"
     },
     {
@@ -429,41 +429,7 @@
       "teamCode": "CLE",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 653,
-      "gameId": "116291"
-    },
-    {
-      "player": "De'Andre Hunter",
-      "stat": "Steals",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 660,
-      "gameId": "116291"
-    },
-    {
-      "player": "Thomas Bryant",
-      "stat": "3-PT Made",
-      "line": 0.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 11:10 AM CST",
-      "startTimeCST": "12/25/25 11:10 AM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Cavaliers",
-      "teamCode": "CLE",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 661,
+      "rank": 732,
       "gameId": "116291"
     }
   ]

@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 24,
+  "totalProps": 19,
   "props": [
     {
       "player": "Trevor Lawrence",
       "stat": "Pass Yards",
-      "line": 238.5,
+      "line": 237.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2002,
+      "rank": 2148,
       "gameId": "116786"
     },
     {
       "player": "Travis Etienne",
       "stat": "Rush Yards",
-      "line": 68.5,
+      "line": 66.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,30 +38,13 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2041,
-      "gameId": "116786"
-    },
-    {
-      "player": "Travis Etienne",
-      "stat": "Rush Yards",
-      "line": 67.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2042,
+      "rank": 2203,
       "gameId": "116786"
     },
     {
       "player": "Jakobi Meyers",
       "stat": "Receiving Yards",
-      "line": 57.5,
+      "line": 59.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -72,30 +55,13 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2054,
-      "gameId": "116786"
-    },
-    {
-      "player": "Jakobi Meyers",
-      "stat": "Receiving Yards",
-      "line": 56.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2055,
+      "rank": 2215,
       "gameId": "116786"
     },
     {
       "player": "Brian Thomas",
       "stat": "Receiving Yards",
-      "line": 48.5,
+      "line": 45.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -106,24 +72,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2066,
-      "gameId": "116786"
-    },
-    {
-      "player": "Brian Thomas",
-      "stat": "Receiving Yards",
-      "line": 48.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2067,
+      "rank": 2226,
       "gameId": "116786"
     },
     {
@@ -140,7 +89,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2069,
+      "rank": 2228,
       "gameId": "116786"
     },
     {
@@ -157,7 +106,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2085,
+      "rank": 2244,
       "gameId": "116786"
     },
     {
@@ -174,7 +123,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2086,
+      "rank": 2245,
       "gameId": "116786"
     },
     {
@@ -191,11 +140,11 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2088,
+      "rank": 2250,
       "gameId": "116786"
     },
     {
-      "player": "Brian Thomas",
+      "player": "Jakobi Meyers",
       "stat": "Longest Reception",
       "line": 22.5,
       "sport": "NFL",
@@ -208,7 +157,24 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2116,
+      "rank": 2284,
+      "gameId": "116786"
+    },
+    {
+      "player": "Brian Thomas",
+      "stat": "Longest Reception",
+      "line": 21.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2285,
       "gameId": "116786"
     },
     {
@@ -225,41 +191,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2117,
-      "gameId": "116786"
-    },
-    {
-      "player": "Jakobi Meyers",
-      "stat": "Longest Reception",
-      "line": 20.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2118,
-      "gameId": "116786"
-    },
-    {
-      "player": "Trevor Lawrence",
-      "stat": "Rush Yards",
-      "line": 19.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2119,
+      "rank": 2287,
       "gameId": "116786"
     },
     {
@@ -276,7 +208,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2138,
+      "rank": 2307,
       "gameId": "116786"
     },
     {
@@ -293,13 +225,13 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2139,
+      "rank": 2312,
       "gameId": "116786"
     },
     {
       "player": "Travis Etienne",
-      "stat": "Receiving Yards",
-      "line": 15.5,
+      "stat": "Rush Attempts",
+      "line": 16.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -310,7 +242,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2141,
+      "rank": 2314,
       "gameId": "116786"
     },
     {
@@ -327,7 +259,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2143,
+      "rank": 2316,
       "gameId": "116786"
     },
     {
@@ -344,7 +276,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2145,
+      "rank": 2319,
       "gameId": "116786"
     },
     {
@@ -361,7 +293,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2147,
+      "rank": 2323,
       "gameId": "116786"
     },
     {
@@ -378,24 +310,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2148,
-      "gameId": "116786"
-    },
-    {
-      "player": "Travis Etienne",
-      "stat": "Receptions",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2158,
+      "rank": 2324,
       "gameId": "116786"
     },
     {
@@ -412,7 +327,7 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2179,
+      "rank": 2362,
       "gameId": "116786"
     }
   ]

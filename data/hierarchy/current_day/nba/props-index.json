@@ -2,98 +2,79 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 7,
-  "propCount": 54,
+  "gameCount": 5,
+  "propCount": 246,
   "games": [
     {
-      "gameId": "114914",
-      "slate": "Late",
-      "startTime": "12/18/25 06:40 PM CST",
-      "startTimeIso": "2025-12-18T19:40:00.000-05:00",
+      "gameId": "116291",
+      "slate": "Early",
+      "startTime": "12/25/25 11:10 AM CST",
+      "startTimeIso": "2025-12-25T12:10:00.000-05:00",
       "teams": [
-        "Brooklyn Nets",
-        "Miami Heat"
+        "Cleveland Cavaliers",
+        "New York Knicks"
       ],
-      "propCount": 6,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/114914.json"
+      "propCount": 61,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/116291.json"
     },
     {
-      "gameId": "114587",
-      "slate": "Late",
-      "startTime": "12/18/25 07:10 PM CST",
-      "startTimeIso": "2025-12-18T20:10:00.000-05:00",
+      "gameId": "116292",
+      "slate": "Early",
+      "startTime": "12/25/25 01:40 PM CST",
+      "startTimeIso": "2025-12-25T14:40:00.000-05:00",
       "teams": [
         "Oklahoma City Thunder",
-        "LA Clippers"
+        "San Antonio Spurs"
       ],
-      "propCount": 26,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/114587.json"
+      "propCount": 46,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/116292.json"
     },
     {
-      "gameId": "114916",
+      "gameId": "116293",
       "slate": "Late",
-      "startTime": "12/18/25 07:10 PM CST",
-      "startTimeIso": "2025-12-18T20:10:00.000-05:00",
-      "teams": [
-        "Houston Rockets",
-        "New Orleans Pelicans"
-      ],
-      "propCount": 5,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/114916.json"
-    },
-    {
-      "gameId": "114917",
-      "slate": "Late",
-      "startTime": "12/18/25 07:40 PM CST",
-      "startTimeIso": "2025-12-18T20:40:00.000-05:00",
-      "teams": [
-        "Detroit Pistons",
-        "Dallas Mavericks"
-      ],
-      "propCount": 2,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/114917.json"
-    },
-    {
-      "gameId": "114918",
-      "slate": "Late",
-      "startTime": "12/18/25 08:10 PM CST",
-      "startTimeIso": "2025-12-18T21:10:00.000-05:00",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
       "teams": [
         "Golden State Warriors",
-        "Phoenix Suns"
+        "Dallas Mavericks"
       ],
-      "propCount": 5,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/114918.json"
+      "propCount": 53,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/116293.json"
     },
     {
-      "gameId": "114919",
+      "gameId": "116460",
       "slate": "Late",
-      "startTime": "12/18/25 08:10 PM CST",
-      "startTimeIso": "2025-12-18T21:10:00.000-05:00",
-      "teams": [
-        "Denver Nuggets",
-        "Orlando Magic"
-      ],
-      "propCount": 7,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/114919.json"
-    },
-    {
-      "gameId": "114920",
-      "slate": "Late",
-      "startTime": "12/18/25 08:10 PM CST",
-      "startTimeIso": "2025-12-18T21:10:00.000-05:00",
+      "startTime": "12/25/25 07:10 PM CST",
+      "startTimeIso": "2025-12-25T20:10:00.000-05:00",
       "teams": [
         "Los Angeles Lakers",
-        "Utah Jazz"
+        "Houston Rockets"
       ],
-      "propCount": 3,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/114920.json"
+      "propCount": 47,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/116460.json"
+    },
+    {
+      "gameId": "116461",
+      "slate": "Late",
+      "startTime": "12/25/25 09:40 PM CST",
+      "startTimeIso": "2025-12-25T22:40:00.000-05:00",
+      "teams": [
+        "Denver Nuggets",
+        "Minnesota Timberwolves"
+      ],
+      "propCount": 39,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/116461.json"
     }
   ],
   "slates": [
     {
+      "slate": "early",
+      "propCount": 107,
+      "path": "/data/hierarchy/current_day/nba/props-by-slate/early.json"
+    },
+    {
       "slate": "late",
-      "propCount": 54,
+      "propCount": 139,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]

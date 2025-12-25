@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -10,7 +10,7 @@
     {
       "player": "Drake Maye",
       "stat": "Pass Yards",
-      "line": 254.5,
+      "line": 253.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2409,
+      "rank": 2601,
       "gameId": "116787"
     },
     {
       "player": "Stefon Diggs",
       "stat": "Receiving Yards",
-      "line": 58.5,
+      "line": 59.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2451,
+      "rank": 2642,
       "gameId": "116787"
     },
     {
       "player": "Mack Hollins",
       "stat": "Receiving Yards",
-      "line": 49.5,
+      "line": 48.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2462,
+      "rank": 2656,
       "gameId": "116787"
     },
     {
       "player": "Hunter Henry",
       "stat": "Receiving Yards",
-      "line": 40.5,
+      "line": 39.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2465,
+      "rank": 2661,
       "gameId": "116787"
     },
     {
       "player": "Drake Maye",
       "stat": "Longest Completion",
-      "line": 38.5,
+      "line": 37.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2478,
+      "rank": 2671,
       "gameId": "116787"
     },
     {
@@ -106,30 +106,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2487,
-      "gameId": "116787"
-    },
-    {
-      "player": "Mack Hollins",
-      "stat": "Longest Reception",
-      "line": 22.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2508,
+      "rank": 2679,
       "gameId": "116787"
     },
     {
       "player": "Stefon Diggs",
       "stat": "Longest Reception",
-      "line": 22.5,
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -140,12 +123,12 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2509,
+      "rank": 2701,
       "gameId": "116787"
     },
     {
-      "player": "Drake Maye",
-      "stat": "Rush Yards",
+      "player": "Mack Hollins",
+      "stat": "Longest Reception",
       "line": 21.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
@@ -157,7 +140,24 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2510,
+      "rank": 2702,
+      "gameId": "116787"
+    },
+    {
+      "player": "Drake Maye",
+      "stat": "Rush Yards",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2703,
       "gameId": "116787"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2524,
+      "rank": 2717,
       "gameId": "116787"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2529,
+      "rank": 2722,
       "gameId": "116787"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2534,
+      "rank": 2727,
       "gameId": "116787"
     },
     {
@@ -225,13 +225,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2538,
+      "rank": 2731,
       "gameId": "116787"
     },
     {
-      "player": "Drake Maye",
-      "stat": "Rush Attempts",
-      "line": 5.5,
+      "player": "Stefon Diggs",
+      "stat": "Receptions",
+      "line": 4.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -242,7 +242,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2544,
+      "rank": 2742,
       "gameId": "116787"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2551,
+      "rank": 2744,
       "gameId": "116787"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2552,
+      "rank": 2745,
       "gameId": "116787"
     }
   ]

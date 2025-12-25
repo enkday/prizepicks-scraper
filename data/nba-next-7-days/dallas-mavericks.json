@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-24T21:10:33.000Z",
-  "scrapedDate": "Wednesday, December 24, 2025 at 09:10 PM UTC",
+  "scrapedAt": "2025-12-25T12:29:33.523Z",
+  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Dallas Mavericks",
-  "totalProps": 23,
+  "totalProps": 24,
   "props": [
     {
       "player": "Anthony Davis",
@@ -21,13 +21,13 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1419,
+      "rank": 1718,
       "gameId": "116293"
     },
     {
       "player": "Cooper Flagg",
       "stat": "Points",
-      "line": 19.5,
+      "line": 20.5,
       "sport": "NBA",
       "startTime": "12/25/25 04:10 PM CST",
       "startTimeCST": "12/25/25 04:10 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1456,
+      "rank": 1763,
       "gameId": "116293"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1532,
+      "rank": 1884,
       "gameId": "116293"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1533,
+      "rank": 1885,
       "gameId": "116293"
     },
     {
@@ -89,13 +89,13 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1546,
+      "rank": 1913,
       "gameId": "116293"
     },
     {
       "player": "Klay Thompson",
       "stat": "Points",
-      "line": 11.5,
+      "line": 11,
       "sport": "NBA",
       "startTime": "12/25/25 04:10 PM CST",
       "startTimeCST": "12/25/25 04:10 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1548,
+      "rank": 1944,
       "gameId": "116293"
     },
     {
@@ -123,7 +123,24 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1629,
+      "rank": 2029,
+      "gameId": "116293"
+    },
+    {
+      "player": "Ryan Nembhard",
+      "stat": "Points",
+      "line": 7.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 2075,
       "gameId": "116293"
     },
     {
@@ -140,24 +157,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1668,
-      "gameId": "116293"
-    },
-    {
-      "player": "Ryan Nembhard",
-      "stat": "Assists",
-      "line": 6.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 04:10 PM CST",
-      "startTimeCST": "12/25/25 04:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Mavericks",
-      "teamCode": "DAL",
-      "Opponent": "Golden State Warriors",
-      "opponentCode": "GSW",
-      "rank": 1687,
+      "rank": 2081,
       "gameId": "116293"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1695,
+      "rank": 2114,
       "gameId": "116293"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1720,
+      "rank": 2139,
       "gameId": "116293"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1729,
+      "rank": 2158,
       "gameId": "116293"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1731,
+      "rank": 2160,
       "gameId": "116293"
     },
     {
@@ -242,24 +242,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1756,
-      "gameId": "116293"
-    },
-    {
-      "player": "Cooper Flagg",
-      "stat": "Assists",
-      "line": 3.5,
-      "sport": "NBA",
-      "startTime": "12/25/25 04:10 PM CST",
-      "startTimeCST": "12/25/25 04:10 PM CST",
-      "startDateCST": "2025-12-25",
-      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Mavericks",
-      "teamCode": "DAL",
-      "Opponent": "Golden State Warriors",
-      "opponentCode": "GSW",
-      "rank": 1766,
+      "rank": 2184,
       "gameId": "116293"
     },
     {
@@ -276,7 +259,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1790,
+      "rank": 2235,
       "gameId": "116293"
     },
     {
@@ -293,7 +276,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1844,
+      "rank": 2311,
       "gameId": "116293"
     },
     {
@@ -310,7 +293,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1874,
+      "rank": 2340,
       "gameId": "116293"
     },
     {
@@ -327,7 +310,24 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1884,
+      "rank": 2348,
+      "gameId": "116293"
+    },
+    {
+      "player": "Brandon Williams",
+      "stat": "Rebounds",
+      "line": 1.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 2372,
       "gameId": "116293"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1934,
+      "rank": 2412,
       "gameId": "116293"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1935,
+      "rank": 2413,
       "gameId": "116293"
     },
     {
@@ -378,11 +378,11 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1936,
+      "rank": 2414,
       "gameId": "116293"
     },
     {
-      "player": "Daniel Gafford",
+      "player": "Max Christie",
       "stat": "Turnovers",
       "line": 0.5,
       "sport": "NBA",
@@ -395,7 +395,24 @@
       "teamCode": "DAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 1945,
+      "rank": 2437,
+      "gameId": "116293"
+    },
+    {
+      "player": "Brandon Williams",
+      "stat": "Steals",
+      "line": 0.5,
+      "sport": "NBA",
+      "startTime": "12/25/25 04:10 PM CST",
+      "startTimeCST": "12/25/25 04:10 PM CST",
+      "startDateCST": "2025-12-25",
+      "startTimeIso": "2025-12-25T17:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 2440,
       "gameId": "116293"
     }
   ]

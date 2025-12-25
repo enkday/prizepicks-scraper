@@ -1,88 +1,22 @@
 [
   {
-    "gameId": "116291",
-    "sport": "NBA",
-    "startTime": "12/25/25 11:10 AM CST",
+    "gameId": "119019",
+    "sport": "NCAAF",
+    "startTime": "12/26/25 03:30 PM CST",
     "teams": [
-      "Cleveland Cavaliers",
-      "New York Knicks"
-    ],
-    "slate": "Early",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "gameId": "116292",
-    "sport": "NBA",
-    "startTime": "12/25/25 01:40 PM CST",
-    "teams": [
-      "Oklahoma City Thunder",
-      "San Antonio Spurs"
-    ],
-    "slate": "Early",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "gameId": "116293",
-    "sport": "NBA",
-    "startTime": "12/25/25 04:10 PM CST",
-    "teams": [
-      "Golden State Warriors",
-      "Dallas Mavericks"
+      "Minnesota Golden Gophers",
+      "New Mexico Lobos"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"
   },
   {
-    "gameId": "116460",
-    "sport": "NBA",
-    "startTime": "12/25/25 07:10 PM CST",
+    "gameId": "119020",
+    "sport": "NCAAF",
+    "startTime": "12/26/25 07:00 PM CST",
     "teams": [
-      "Los Angeles Lakers",
-      "Houston Rockets"
-    ],
-    "slate": "Late",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "gameId": "116461",
-    "sport": "NBA",
-    "startTime": "12/25/25 09:40 PM CST",
-    "teams": [
-      "Denver Nuggets",
-      "Minnesota Timberwolves"
-    ],
-    "slate": "Late",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "gameId": "116294",
-    "sport": "NFL",
-    "startTime": "12/25/25 12:00 PM CST",
-    "teams": [
-      "Dallas Cowboys",
-      "Washington Commanders"
-    ],
-    "slate": "Early",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "gameId": "116295",
-    "sport": "NFL",
-    "startTime": "12/25/25 03:30 PM CST",
-    "teams": [
-      "Minnesota Vikings",
-      "Detroit Lions"
-    ],
-    "slate": "Late",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "gameId": "116466",
-    "sport": "NFL",
-    "startTime": "12/25/25 07:15 PM CST",
-    "teams": [
-      "Denver Broncos",
-      "Kansas City Chiefs"
+      "Florida International Panthers",
+      "UTSA Roadrunners"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"

@@ -2,26 +2,55 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 63,
+  "gameCount": 3,
+  "propCount": 215,
   "games": [
     {
-      "gameId": "116004",
-      "slate": "Late",
-      "startTime": "12/22/25 07:15 PM CST",
-      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "gameId": "116294",
+      "slate": "Early",
+      "startTime": "12/25/25 12:00 PM CST",
+      "startTimeIso": "2025-12-25T13:00:00.000-05:00",
       "teams": [
-        "San Francisco 49ers",
-        "Indianapolis Colts"
+        "Dallas Cowboys",
+        "Washington Commanders"
       ],
-      "propCount": 63,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/116004.json"
+      "propCount": 76,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/116294.json"
+    },
+    {
+      "gameId": "116295",
+      "slate": "Late",
+      "startTime": "12/25/25 03:30 PM CST",
+      "startTimeIso": "2025-12-25T16:30:00.000-05:00",
+      "teams": [
+        "Minnesota Vikings",
+        "Detroit Lions"
+      ],
+      "propCount": 62,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/116295.json"
+    },
+    {
+      "gameId": "116466",
+      "slate": "Late",
+      "startTime": "12/25/25 07:15 PM CST",
+      "startTimeIso": "2025-12-25T20:15:00.000-05:00",
+      "teams": [
+        "Denver Broncos",
+        "Kansas City Chiefs"
+      ],
+      "propCount": 77,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/116466.json"
     }
   ],
   "slates": [
     {
+      "slate": "early",
+      "propCount": 76,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/early.json"
+    },
+    {
       "slate": "late",
-      "propCount": 63,
+      "propCount": 139,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
