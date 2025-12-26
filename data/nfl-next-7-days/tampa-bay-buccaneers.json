@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3103,
+      "rank": 2055,
       "gameId": "116783"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3121,
+      "rank": 2075,
       "gameId": "116783"
     },
     {
       "player": "Mike Evans",
       "stat": "Receiving Yards",
-      "line": 61.5,
+      "line": 59.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3130,
+      "rank": 2084,
       "gameId": "116783"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3150,
+      "rank": 2104,
       "gameId": "116783"
     },
     {
       "player": "Baker Mayfield",
       "stat": "Longest Completion",
-      "line": 35.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -89,13 +89,13 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3165,
+      "rank": 2119,
       "gameId": "116783"
     },
     {
       "player": "Chris Godwin",
       "stat": "Receiving Yards",
-      "line": 33.5,
+      "line": 32.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3167,
+      "rank": 2123,
       "gameId": "116783"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3169,
+      "rank": 2124,
       "gameId": "116783"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3200,
+      "rank": 2159,
       "gameId": "116783"
     },
     {
@@ -157,7 +157,41 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3202,
+      "rank": 2161,
+      "gameId": "116783"
+    },
+    {
+      "player": "Emeka Egbuka",
+      "stat": "Longest Reception",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 2162,
+      "gameId": "116783"
+    },
+    {
+      "player": "Jalen McMillan",
+      "stat": "Receiving Yards",
+      "line": 20.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 2163,
       "gameId": "116783"
     },
     {
@@ -174,41 +208,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3204,
-      "gameId": "116783"
-    },
-    {
-      "player": "Emeka Egbuka",
-      "stat": "Longest Reception",
-      "line": 19.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 3205,
-      "gameId": "116783"
-    },
-    {
-      "player": "Jalen McMillan",
-      "stat": "Receiving Yards",
-      "line": 19.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 3206,
+      "rank": 2165,
       "gameId": "116783"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "TB",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3225,
+      "rank": 2184,
       "gameId": "116783"
     }
   ]

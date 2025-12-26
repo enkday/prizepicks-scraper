@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Indianapolis Colts",
-  "totalProps": 16,
+  "totalProps": 18,
   "props": [
     {
       "player": "Philip Rivers",
       "stat": "Pass Yards",
-      "line": 206.5,
+      "line": 205.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2154,
+      "rank": 1033,
       "gameId": "116786"
     },
     {
       "player": "Jonathan Taylor",
       "stat": "Rush Yards",
-      "line": 74.5,
+      "line": 75.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2192,
+      "rank": 1071,
       "gameId": "116786"
     },
     {
       "player": "Michael Pittman",
       "stat": "Receiving Yards",
-      "line": 48.5,
+      "line": 49.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2225,
+      "rank": 1103,
       "gameId": "116786"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2227,
+      "rank": 1107,
       "gameId": "116786"
     },
     {
@@ -89,13 +89,13 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2230,
+      "rank": 1111,
       "gameId": "116786"
     },
     {
       "player": "Josh Downs",
       "stat": "Receiving Yards",
-      "line": 34.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2248,
+      "rank": 1127,
       "gameId": "116786"
     },
     {
@@ -123,7 +123,41 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2249,
+      "rank": 1133,
+      "gameId": "116786"
+    },
+    {
+      "player": "Philip Rivers",
+      "stat": "Longest Completion",
+      "line": 31.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1134,
+      "gameId": "116786"
+    },
+    {
+      "player": "Philip Rivers",
+      "stat": "Pass Completions",
+      "line": 21.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1173,
       "gameId": "116786"
     },
     {
@@ -140,7 +174,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2288,
+      "rank": 1176,
       "gameId": "116786"
     },
     {
@@ -157,7 +191,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2305,
+      "rank": 1192,
       "gameId": "116786"
     },
     {
@@ -174,7 +208,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2308,
+      "rank": 1195,
       "gameId": "116786"
     },
     {
@@ -191,7 +225,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2313,
+      "rank": 1201,
       "gameId": "116786"
     },
     {
@@ -208,13 +242,13 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2315,
+      "rank": 1203,
       "gameId": "116786"
     },
     {
       "player": "Josh Downs",
       "stat": "Longest Reception",
-      "line": 14.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -225,7 +259,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2318,
+      "rank": 1204,
       "gameId": "116786"
     },
     {
@@ -242,13 +276,13 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2321,
+      "rank": 1211,
       "gameId": "116786"
     },
     {
       "player": "Jonathan Taylor",
       "stat": "Longest Reception",
-      "line": 9.5,
+      "line": 10.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -259,7 +293,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2325,
+      "rank": 1214,
       "gameId": "116786"
     },
     {
@@ -276,7 +310,7 @@
       "teamCode": "IND",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2364,
+      "rank": 1259,
       "gameId": "116786"
     }
   ]

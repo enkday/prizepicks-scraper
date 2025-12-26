@@ -1,14 +1,188 @@
 [
   {
-    "playerId": "minnesota-golden-gophers_brady-denaburg_49bb5ebc",
-    "playerName": "Brady Denaburg",
-    "teamCode": "minnesota-golden-gophers",
+    "playerId": "houston-texans_will-anderson_546badf4",
+    "playerName": "Will Anderson",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "houston-texans_xavier-hutchinson_a078ac86",
+    "playerName": "Xavier Hutchinson",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "byu-cougars_will-ferrin_10bf34af",
+    "playerName": "Will Ferrin",
+    "teamCode": "byu-cougars",
     "sport": "NCAAF"
   },
   {
-    "playerId": "florida-international-panthers_noah-grant_a1ce9036",
-    "playerName": "Noah Grant",
-    "teamCode": "florida-international-panthers",
+    "playerId": "houston-texans_jayden-higgins_ad282748",
+    "playerName": "Jayden Higgins",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_cameron-dicker_33160c2e",
+    "playerName": "Cameron Dicker",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "pittsburgh-panthers_trey-butkowski_ad59b2d3",
+    "playerName": "Trey Butkowski",
+    "teamCode": "pittsburgh-panthers",
     "sport": "NCAAF"
+  },
+  {
+    "playerId": "los-angeles-chargers_oronde-gadsden_6e831c64",
+    "playerName": "Oronde Gadsden",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "baltimore-ravens_derrick-henry_7473b86f",
+    "playerName": "Derrick Henry",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_justin-herbert_322b61ff",
+    "playerName": "Justin Herbert",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "houston-texans_nico-collins_3170efd4",
+    "playerName": "Nico Collins",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "houston-texans_woody-marks_b9b8da55",
+    "playerName": "Woody Marks",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "houston-texans_dalton-schultz_eed46edf",
+    "playerName": "Dalton Schultz",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "east-carolina-pirates_nick-mazzie_fcecc355",
+    "playerName": "Nick Mazzie",
+    "teamCode": "east-carolina-pirates",
+    "sport": "NCAAF"
+  },
+  {
+    "playerId": "virginia-cavaliers_will-bettridge_dbfa6c6a",
+    "playerName": "Will Bettridge",
+    "teamCode": "virginia-cavaliers",
+    "sport": "NCAAF"
+  },
+  {
+    "playerId": "los-angeles-chargers_omarion-hampton_8a03112d",
+    "playerName": "Omarion Hampton",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "penn-state-nittany-lions_ryan-barker_f01dd8cf",
+    "playerName": "Ryan Barker",
+    "teamCode": "penn-state-nittany-lions",
+    "sport": "NCAAF"
+  },
+  {
+    "playerId": "houston-texans_christian-kirk_1c924be1",
+    "playerName": "Christian Kirk",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "houston-texans_ka'imi-fairbairn_1629276c",
+    "playerName": "Ka'imi Fairbairn",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_tre'-harris_6dbe4e59",
+    "playerName": "Tre' Harris",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "green-bay-packers_brandon-mcmanus_9cf816c1",
+    "playerName": "Brandon McManus",
+    "teamCode": "green-bay-packers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "san-diego-state-aztecs_gabriel-plascencia_453c50dd",
+    "playerName": "Gabriel Plascencia",
+    "teamCode": "san-diego-state-aztecs",
+    "sport": "NCAAF"
+  },
+  {
+    "playerId": "los-angeles-chargers_tuli-tuipulotu_41a029c5",
+    "playerName": "Tuli Tuipulotu",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_keenan-allen_7fa74f9d",
+    "playerName": "Keenan Allen",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "houston-texans_tommy-townsend_760cc087",
+    "playerName": "Tommy Townsend",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "missouri-tigers_robert-meyer_f3ada3b7",
+    "playerName": "Robert Meyer",
+    "teamCode": "missouri-tigers",
+    "sport": "NCAAF"
+  },
+  {
+    "playerId": "green-bay-packers_jordan-love_6cba0575",
+    "playerName": "Jordan Love",
+    "teamCode": "green-bay-packers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_quentin-johnston_aa0003f7",
+    "playerName": "Quentin Johnston",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_jk-scott_b15a45d1",
+    "playerName": "JK Scott",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "los-angeles-chargers_ladd-mcconkey_6d85d40e",
+    "playerName": "Ladd McConkey",
+    "teamCode": "los-angeles-chargers",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "houston-texans_c.j.-stroud_b314efe0",
+    "playerName": "C.J. Stroud",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
+  },
+  {
+    "playerId": "houston-texans_danielle-hunter_13514ac9",
+    "playerName": "Danielle Hunter",
+    "teamCode": "houston-texans",
+    "sport": "NFL"
   }
 ]

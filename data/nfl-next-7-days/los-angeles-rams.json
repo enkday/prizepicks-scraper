@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4043,
+      "rank": 3030,
       "gameId": "117288"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4066,
+      "rank": 3053,
       "gameId": "117288"
     },
     {
       "player": "Kyren Williams",
       "stat": "Rush Yards",
-      "line": 61.5,
+      "line": 64.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4100,
+      "rank": 3086,
       "gameId": "117288"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4126,
+      "rank": 3113,
       "gameId": "117288"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4134,
+      "rank": 3121,
       "gameId": "117288"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4142,
+      "rank": 3129,
       "gameId": "117288"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4143,
+      "rank": 3131,
       "gameId": "117288"
     },
     {
       "player": "Puka Nacua",
       "stat": "Longest Reception",
-      "line": 30.5,
+      "line": 29.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -140,13 +140,13 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4147,
+      "rank": 3145,
       "gameId": "117288"
     },
     {
       "player": "Konata Mumpfield",
       "stat": "Receiving Yards",
-      "line": 27.5,
+      "line": 26.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -157,7 +157,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4166,
+      "rank": 3155,
       "gameId": "117288"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4175,
+      "rank": 3164,
       "gameId": "117288"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4177,
+      "rank": 3167,
       "gameId": "117288"
     },
     {
@@ -208,7 +208,24 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4204,
+      "rank": 3194,
+      "gameId": "117288"
+    },
+    {
+      "player": "Colby Parkinson",
+      "stat": "Longest Reception",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "12/29/25 07:15 PM CST",
+      "startTimeCST": "12/29/25 07:15 PM CST",
+      "startDateCST": "2025-12-29",
+      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3195,
       "gameId": "117288"
     },
     {
@@ -225,24 +242,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4205,
-      "gameId": "117288"
-    },
-    {
-      "player": "Colby Parkinson",
-      "stat": "Longest Reception",
-      "line": 15.5,
-      "sport": "NFL",
-      "startTime": "12/29/25 07:15 PM CST",
-      "startTimeCST": "12/29/25 07:15 PM CST",
-      "startDateCST": "2025-12-29",
-      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 4208,
+      "rank": 3196,
       "gameId": "117288"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4210,
+      "rank": 3199,
       "gameId": "117288"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4212,
+      "rank": 3201,
       "gameId": "117288"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4216,
+      "rank": 3205,
       "gameId": "117288"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4218,
+      "rank": 3207,
       "gameId": "117288"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4221,
+      "rank": 3210,
       "gameId": "117288"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4222,
+      "rank": 3212,
       "gameId": "117288"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4224,
+      "rank": 3215,
       "gameId": "117288"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4230,
+      "rank": 3221,
       "gameId": "117288"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4233,
+      "rank": 3225,
       "gameId": "117288"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4243,
+      "rank": 3249,
       "gameId": "117288"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "LA",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 4285,
+      "rank": 3294,
       "gameId": "117288"
     }
   ]

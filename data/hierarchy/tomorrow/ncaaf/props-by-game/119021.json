@@ -26,33 +26,5 @@
     "startTime": "12/27/25 10:00 AM CST",
     "startTimeIso": "2025-12-27T11:00:00.000-05:00",
     "dayBranch": "tomorrow"
-  },
-  {
-    "propId": "119022_penn-state-nittany-lions_ryan-barker_f01dd8cf_kicking-points",
-    "gameId": "119022",
-    "playerId": "penn-state-nittany-lions_ryan-barker_f01dd8cf",
-    "stat": "Kicking Points",
-    "line": 5.5,
-    "teamCode": "penn-state-nittany-lions",
-    "opponentCode": "clemson-tigers",
-    "oddsType": "standard",
-    "sport": "NCAAF",
-    "startTime": "12/27/25 11:00 AM CST",
-    "startTimeIso": "2025-12-27T12:00:00.000-05:00",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "propId": "119024_byu-cougars_will-ferrin_10bf34af_kicking-points",
-    "gameId": "119024",
-    "playerId": "byu-cougars_will-ferrin_10bf34af",
-    "stat": "Kicking Points",
-    "line": 6.5,
-    "teamCode": "byu-cougars",
-    "opponentCode": "georgia-tech-yellow-jackets",
-    "oddsType": "standard",
-    "sport": "NCAAF",
-    "startTime": "12/27/25 02:30 PM CST",
-    "startTimeIso": "2025-12-27T15:30:00.000-05:00",
-    "dayBranch": "tomorrow"
   }
 ]

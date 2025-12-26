@@ -2,35 +2,76 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 2,
-  "propCount": 3,
+  "gameCount": 5,
+  "propCount": 7,
   "games": [
     {
-      "gameId": "119019",
-      "slate": "Late",
-      "startTime": "12/26/25 03:30 PM CST",
-      "startTimeIso": "2025-12-26T16:30:00.000-05:00",
+      "gameId": "119021",
+      "slate": "Early",
+      "startTime": "12/27/25 10:00 AM CST",
+      "startTimeIso": "2025-12-27T11:00:00.000-05:00",
       "teams": [
-        "Minnesota Golden Gophers",
-        "New Mexico Lobos"
+        "Pittsburgh Panthers",
+        "East Carolina Pirates"
       ],
       "propCount": 2,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119019.json"
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119021.json"
     },
     {
-      "gameId": "119020",
-      "slate": "Late",
-      "startTime": "12/26/25 07:00 PM CST",
-      "startTimeIso": "2025-12-26T20:00:00.000-05:00",
+      "gameId": "119022",
+      "slate": "Early",
+      "startTime": "12/27/25 11:00 AM CST",
+      "startTimeIso": "2025-12-27T12:00:00.000-05:00",
       "teams": [
-        "Florida International Panthers",
-        "UTSA Roadrunners"
+        "Penn State Nittany Lions",
+        "Clemson Tigers"
       ],
       "propCount": 1,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119020.json"
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119022.json"
+    },
+    {
+      "gameId": "119024",
+      "slate": "Early",
+      "startTime": "12/27/25 02:30 PM CST",
+      "startTimeIso": "2025-12-27T15:30:00.000-05:00",
+      "teams": [
+        "BYU Cougars",
+        "Georgia Tech Yellow Jackets"
+      ],
+      "propCount": 1,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119024.json"
+    },
+    {
+      "gameId": "119026",
+      "slate": "Late",
+      "startTime": "12/27/25 04:45 PM CST",
+      "startTimeIso": "2025-12-27T17:45:00.000-05:00",
+      "teams": [
+        "San Diego State Aztecs",
+        "North Texas Mean Green"
+      ],
+      "propCount": 1,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119026.json"
+    },
+    {
+      "gameId": "119027",
+      "slate": "Late",
+      "startTime": "12/27/25 06:30 PM CST",
+      "startTimeIso": "2025-12-27T19:30:00.000-05:00",
+      "teams": [
+        "Missouri Tigers",
+        "Virginia Cavaliers"
+      ],
+      "propCount": 2,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119027.json"
     }
   ],
   "slates": [
+    {
+      "slate": "early",
+      "propCount": 4,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/early.json"
+    },
     {
       "slate": "late",
       "propCount": 3,

@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3271,
+      "rank": 2237,
       "gameId": "119687"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3308,
+      "rank": 2274,
       "gameId": "119687"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3339,
+      "rank": 2305,
       "gameId": "119687"
     },
     {
@@ -72,7 +72,24 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3354,
+      "rank": 2321,
+      "gameId": "119687"
+    },
+    {
+      "player": "Michael Mayer",
+      "stat": "Receiving Yards",
+      "line": 32.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:05 PM CST",
+      "startTimeCST": "12/28/25 03:05 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2326,
       "gameId": "119687"
     },
     {
@@ -89,24 +106,7 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3359,
-      "gameId": "119687"
-    },
-    {
-      "player": "Michael Mayer",
-      "stat": "Receiving Yards",
-      "line": 29.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 03:05 PM CST",
-      "startTimeCST": "12/28/25 03:05 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 3373,
+      "rank": 2327,
       "gameId": "119687"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3377,
+      "rank": 2344,
       "gameId": "119687"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3392,
+      "rank": 2359,
       "gameId": "119687"
     },
     {
@@ -157,13 +157,13 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3398,
+      "rank": 2365,
       "gameId": "119687"
     },
     {
       "player": "Michael Mayer",
       "stat": "Longest Reception",
-      "line": 14.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:05 PM CST",
       "startTimeCST": "12/28/25 03:05 PM CST",
@@ -174,13 +174,30 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3416,
+      "rank": 2380,
+      "gameId": "119687"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Longest Rush",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:05 PM CST",
+      "startTimeCST": "12/28/25 03:05 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2387,
       "gameId": "119687"
     },
     {
       "player": "Ashton Jeanty",
       "stat": "Longest Reception",
-      "line": 13.5,
+      "line": 12.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:05 PM CST",
       "startTimeCST": "12/28/25 03:05 PM CST",
@@ -191,30 +208,13 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3418,
-      "gameId": "119687"
-    },
-    {
-      "player": "Ashton Jeanty",
-      "stat": "Longest Rush",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 03:05 PM CST",
-      "startTimeCST": "12/28/25 03:05 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 3419,
+      "rank": 2390,
       "gameId": "119687"
     },
     {
       "player": "Geno Smith",
       "stat": "Rush Yards",
-      "line": 8.5,
+      "line": 7.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:05 PM CST",
       "startTimeCST": "12/28/25 03:05 PM CST",
@@ -225,13 +225,13 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3431,
+      "rank": 2402,
       "gameId": "119687"
     },
     {
       "player": "Geno Smith",
       "stat": "Longest Rush",
-      "line": 6.5,
+      "line": 5.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:05 PM CST",
       "startTimeCST": "12/28/25 03:05 PM CST",
@@ -242,24 +242,7 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3435,
-      "gameId": "119687"
-    },
-    {
-      "player": "Daniel Carlson",
-      "stat": "Kicking Points",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 03:05 PM CST",
-      "startTimeCST": "12/28/25 03:05 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 3437,
+      "rank": 2409,
       "gameId": "119687"
     },
     {
@@ -276,7 +259,24 @@
       "teamCode": "LV",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3448,
+      "rank": 2417,
+      "gameId": "119687"
+    },
+    {
+      "player": "Michael Mayer",
+      "stat": "Receptions",
+      "line": 3.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:05 PM CST",
+      "startTimeCST": "12/28/25 03:05 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2428,
       "gameId": "119687"
     }
   ]

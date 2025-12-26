@@ -2,26 +2,38 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 12,
+  "gameCount": 2,
+  "propCount": 3,
   "games": [
     {
-      "gameId": "119661",
+      "gameId": "119019",
       "slate": "Late",
-      "startTime": "12/24/25 07:00 PM CST",
-      "startTimeIso": "2025-12-24T20:00:00.000-05:00",
+      "startTime": "12/26/25 03:30 PM CST",
+      "startTimeIso": "2025-12-26T16:30:00.000-05:00",
       "teams": [
-        "California Golden Bears",
-        "Hawai'i Warriors"
+        "Minnesota Golden Gophers",
+        "New Mexico Lobos"
       ],
-      "propCount": 12,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119661.json"
+      "propCount": 2,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119019.json"
+    },
+    {
+      "gameId": "119020",
+      "slate": "Late",
+      "startTime": "12/26/25 07:00 PM CST",
+      "startTimeIso": "2025-12-26T20:00:00.000-05:00",
+      "teams": [
+        "Florida International Panthers",
+        "UTSA Roadrunners"
+      ],
+      "propCount": 1,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119020.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 12,
+      "propCount": 3,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]

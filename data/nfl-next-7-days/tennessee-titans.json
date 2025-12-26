@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tennessee Titans",
-  "totalProps": 29,
+  "totalProps": 28,
   "props": [
     {
       "player": "Cam Ward",
@@ -21,7 +21,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2382,
+      "rank": 1277,
       "gameId": "116785"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2409,
+      "rank": 1304,
       "gameId": "116785"
     },
     {
@@ -55,24 +55,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2456,
-      "gameId": "116785"
-    },
-    {
-      "player": "Chimere Dike",
-      "stat": "Receiving Yards",
-      "line": 31.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 2458,
+      "rank": 1351,
       "gameId": "116785"
     },
     {
@@ -89,7 +72,24 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2459,
+      "rank": 1353,
+      "gameId": "116785"
+    },
+    {
+      "player": "Chimere Dike",
+      "stat": "Receiving Yards",
+      "line": 30.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1354,
       "gameId": "116785"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2466,
+      "rank": 1361,
       "gameId": "116785"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2485,
+      "rank": 1380,
       "gameId": "116785"
     },
     {
@@ -140,29 +140,12 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2486,
+      "rank": 1381,
       "gameId": "116785"
     },
     {
       "player": "Tyjae Spears",
       "stat": "Rush Yards",
-      "line": 24.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 2488,
-      "gameId": "116785"
-    },
-    {
-      "player": "Van Jefferson",
-      "stat": "Receiving Yards",
       "line": 23.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
@@ -174,7 +157,24 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2495,
+      "rank": 1390,
+      "gameId": "116785"
+    },
+    {
+      "player": "Van Jefferson",
+      "stat": "Receiving Yards",
+      "line": 22.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1392,
       "gameId": "116785"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2515,
+      "rank": 1411,
       "gameId": "116785"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2524,
+      "rank": 1420,
       "gameId": "116785"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2526,
+      "rank": 1422,
       "gameId": "116785"
     },
     {
@@ -242,7 +242,24 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2528,
+      "rank": 1424,
+      "gameId": "116785"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Longest Rush",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1427,
       "gameId": "116785"
     },
     {
@@ -259,7 +276,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2531,
+      "rank": 1428,
       "gameId": "116785"
     },
     {
@@ -276,7 +293,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2533,
+      "rank": 1438,
       "gameId": "116785"
     },
     {
@@ -293,24 +310,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2534,
-      "gameId": "116785"
-    },
-    {
-      "player": "Tony Pollard",
-      "stat": "Longest Rush",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 2535,
+      "rank": 1439,
       "gameId": "116785"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2538,
+      "rank": 1442,
       "gameId": "116785"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2540,
+      "rank": 1444,
       "gameId": "116785"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2541,
+      "rank": 1450,
       "gameId": "116785"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2542,
+      "rank": 1451,
       "gameId": "116785"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2543,
+      "rank": 1452,
       "gameId": "116785"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2544,
+      "rank": 1453,
       "gameId": "116785"
     },
     {
@@ -429,13 +429,13 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2549,
+      "rank": 1458,
       "gameId": "116785"
     },
     {
-      "player": "Elic Ayomanor",
+      "player": "Chimere Dike",
       "stat": "Receptions",
-      "line": 2.5,
+      "line": 3.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -446,7 +446,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2558,
+      "rank": 1464,
       "gameId": "116785"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2563,
+      "rank": 1476,
       "gameId": "116785"
     },
     {
@@ -480,24 +480,7 @@
       "teamCode": "TEN",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 2568,
-      "gameId": "116785"
-    },
-    {
-      "player": "Cam Ward",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 2574,
+      "rank": 1483,
       "gameId": "116785"
     }
   ]

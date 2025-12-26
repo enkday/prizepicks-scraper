@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3887,
+      "rank": 2863,
       "gameId": "117038"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3919,
+      "rank": 2895,
       "gameId": "117038"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3926,
+      "rank": 2902,
       "gameId": "117038"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3939,
+      "rank": 2915,
       "gameId": "117038"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3942,
+      "rank": 2918,
       "gameId": "117038"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3965,
+      "rank": 2941,
       "gameId": "117038"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3974,
+      "rank": 2950,
       "gameId": "117038"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3980,
+      "rank": 2956,
       "gameId": "117038"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3983,
+      "rank": 2959,
       "gameId": "117038"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3986,
+      "rank": 2962,
       "gameId": "117038"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3988,
+      "rank": 2964,
       "gameId": "117038"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3989,
+      "rank": 2965,
       "gameId": "117038"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3995,
+      "rank": 2971,
       "gameId": "117038"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4014,
+      "rank": 2991,
       "gameId": "117038"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4016,
+      "rank": 2993,
       "gameId": "117038"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "CHI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4021,
+      "rank": 2998,
       "gameId": "117038"
     }
   ]

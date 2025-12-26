@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,13 +21,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2601,
+      "rank": 1522,
       "gameId": "116787"
     },
     {
       "player": "Stefon Diggs",
       "stat": "Receiving Yards",
-      "line": 59.5,
+      "line": 56.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2642,
+      "rank": 1565,
       "gameId": "116787"
     },
     {
       "player": "Mack Hollins",
       "stat": "Receiving Yards",
-      "line": 48.5,
+      "line": 43.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2656,
+      "rank": 1577,
       "gameId": "116787"
     },
     {
       "player": "Hunter Henry",
       "stat": "Receiving Yards",
-      "line": 39.5,
+      "line": 41.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2661,
+      "rank": 1578,
       "gameId": "116787"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2671,
+      "rank": 1591,
       "gameId": "116787"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2679,
+      "rank": 1600,
       "gameId": "116787"
     },
     {
@@ -123,24 +123,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2701,
-      "gameId": "116787"
-    },
-    {
-      "player": "Mack Hollins",
-      "stat": "Longest Reception",
-      "line": 21.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2702,
+      "rank": 1620,
       "gameId": "116787"
     },
     {
@@ -157,7 +140,24 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2703,
+      "rank": 1621,
+      "gameId": "116787"
+    },
+    {
+      "player": "Mack Hollins",
+      "stat": "Longest Reception",
+      "line": 19.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 1632,
       "gameId": "116787"
     },
     {
@@ -174,13 +174,13 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2717,
+      "rank": 1636,
       "gameId": "116787"
     },
     {
       "player": "Hunter Henry",
       "stat": "Longest Reception",
-      "line": 17.5,
+      "line": 18.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -191,7 +191,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2722,
+      "rank": 1639,
       "gameId": "116787"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2727,
+      "rank": 1647,
       "gameId": "116787"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2731,
+      "rank": 1650,
       "gameId": "116787"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2742,
+      "rank": 1663,
       "gameId": "116787"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2744,
+      "rank": 1667,
       "gameId": "116787"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2745,
+      "rank": 1668,
       "gameId": "116787"
     }
   ]

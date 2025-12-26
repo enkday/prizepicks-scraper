@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Atlanta Falcons",
-  "totalProps": 18,
+  "totalProps": 20,
   "props": [
     {
       "player": "Kirk Cousins",
       "stat": "Pass Yards",
-      "line": 225.5,
+      "line": 221.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4047,
+      "rank": 3035,
       "gameId": "117288"
     },
     {
       "player": "Bijan Robinson",
       "stat": "Rush Yards",
-      "line": 76.5,
+      "line": 73.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4085,
+      "rank": 3073,
       "gameId": "117288"
     },
     {
       "player": "Drake London",
       "stat": "Receiving Yards",
-      "line": 62.5,
+      "line": 63.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4099,
+      "rank": 3087,
       "gameId": "117288"
     },
     {
       "player": "Kyle Pitts",
       "stat": "Receiving Yards",
-      "line": 54.5,
+      "line": 55.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4113,
+      "rank": 3100,
       "gameId": "117288"
     },
     {
       "player": "Bijan Robinson",
       "stat": "Receiving Yards",
-      "line": 41.5,
+      "line": 43.5,
       "sport": "NFL",
       "startTime": "12/29/25 07:15 PM CST",
       "startTimeCST": "12/29/25 07:15 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4127,
+      "rank": 3114,
       "gameId": "117288"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4144,
+      "rank": 3132,
       "gameId": "117288"
     },
     {
@@ -123,7 +123,24 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4171,
+      "rank": 3160,
+      "gameId": "117288"
+    },
+    {
+      "player": "Darnell Mooney",
+      "stat": "Receiving Yards",
+      "line": 22.5,
+      "sport": "NFL",
+      "startTime": "12/29/25 07:15 PM CST",
+      "startTimeCST": "12/29/25 07:15 PM CST",
+      "startDateCST": "2025-12-29",
+      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 3165,
       "gameId": "117288"
     },
     {
@@ -140,24 +157,7 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4176,
-      "gameId": "117288"
-    },
-    {
-      "player": "Darnell Mooney",
-      "stat": "Receiving Yards",
-      "line": 21.5,
-      "sport": "NFL",
-      "startTime": "12/29/25 07:15 PM CST",
-      "startTimeCST": "12/29/25 07:15 PM CST",
-      "startDateCST": "2025-12-29",
-      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 4178,
+      "rank": 3166,
       "gameId": "117288"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4179,
+      "rank": 3168,
       "gameId": "117288"
     },
     {
@@ -191,7 +191,24 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4187,
+      "rank": 3176,
+      "gameId": "117288"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Longest Reception",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "12/29/25 07:15 PM CST",
+      "startTimeCST": "12/29/25 07:15 PM CST",
+      "startDateCST": "2025-12-29",
+      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 3190,
       "gameId": "117288"
     },
     {
@@ -208,24 +225,7 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4201,
-      "gameId": "117288"
-    },
-    {
-      "player": "Bijan Robinson",
-      "stat": "Longest Reception",
-      "line": 15.5,
-      "sport": "NFL",
-      "startTime": "12/29/25 07:15 PM CST",
-      "startTimeCST": "12/29/25 07:15 PM CST",
-      "startDateCST": "2025-12-29",
-      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 4206,
+      "rank": 3191,
       "gameId": "117288"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4207,
+      "rank": 3197,
       "gameId": "117288"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4211,
+      "rank": 3200,
       "gameId": "117288"
     },
     {
@@ -276,7 +276,24 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4225,
+      "rank": 3216,
+      "gameId": "117288"
+    },
+    {
+      "player": "Drake London",
+      "stat": "Receptions",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/29/25 07:15 PM CST",
+      "startTimeCST": "12/29/25 07:15 PM CST",
+      "startDateCST": "2025-12-29",
+      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 3238,
       "gameId": "117288"
     },
     {
@@ -293,7 +310,7 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4239,
+      "rank": 3242,
       "gameId": "117288"
     },
     {
@@ -310,7 +327,24 @@
       "teamCode": "ATL",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4240,
+      "rank": 3243,
+      "gameId": "117288"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Receptions",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/29/25 07:15 PM CST",
+      "startTimeCST": "12/29/25 07:15 PM CST",
+      "startDateCST": "2025-12-29",
+      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 3244,
       "gameId": "117288"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1744,
+      "rank": 579,
       "gameId": "116784"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1761,
+      "rank": 597,
       "gameId": "116784"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1788,
+      "rank": 624,
       "gameId": "116784"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1789,
+      "rank": 626,
       "gameId": "116784"
     },
     {
       "player": "Aaron Rodgers",
       "stat": "Pass Completions",
-      "line": 19.5,
+      "line": 19,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1804,
+      "rank": 645,
       "gameId": "116784"
     }
   ]

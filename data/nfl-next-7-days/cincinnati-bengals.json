@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cincinnati Bengals",
-  "totalProps": 19,
+  "totalProps": 29,
   "props": [
     {
       "player": "Joe Burrow",
@@ -21,13 +21,13 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1885,
+      "rank": 720,
       "gameId": "119686"
     },
     {
       "player": "Ja'Marr Chase",
       "stat": "Receiving Yards",
-      "line": 89.5,
+      "line": 87.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1915,
+      "rank": 750,
       "gameId": "119686"
     },
     {
       "player": "Tee Higgins",
       "stat": "Receiving Yards",
-      "line": 54.5,
+      "line": 55.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1947,
+      "rank": 782,
       "gameId": "119686"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1948,
+      "rank": 783,
       "gameId": "119686"
     },
     {
@@ -89,24 +89,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1980,
-      "gameId": "119686"
-    },
-    {
-      "player": "Samaje Perine",
-      "stat": "Rush Yards",
-      "line": 37.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1981,
+      "rank": 818,
       "gameId": "119686"
     },
     {
@@ -123,7 +106,24 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1982,
+      "rank": 819,
+      "gameId": "119686"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Yards",
+      "line": 35.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 820,
       "gameId": "119686"
     },
     {
@@ -140,7 +140,24 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2008,
+      "rank": 850,
+      "gameId": "119686"
+    },
+    {
+      "player": "Mike Gesicki",
+      "stat": "Receiving Yards",
+      "line": 25.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 851,
       "gameId": "119686"
     },
     {
@@ -157,7 +174,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2018,
+      "rank": 863,
       "gameId": "119686"
     },
     {
@@ -174,7 +191,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2019,
+      "rank": 864,
       "gameId": "119686"
     },
     {
@@ -191,7 +208,41 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2021,
+      "rank": 866,
+      "gameId": "119686"
+    },
+    {
+      "player": "Mike Gesicki",
+      "stat": "Longest Reception",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 903,
+      "gameId": "119686"
+    },
+    {
+      "player": "Andrei Iosivas",
+      "stat": "Receiving Yards",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 904,
       "gameId": "119686"
     },
     {
@@ -208,7 +259,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2050,
+      "rank": 905,
       "gameId": "119686"
     },
     {
@@ -225,7 +276,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2052,
+      "rank": 908,
       "gameId": "119686"
     },
     {
@@ -242,7 +293,24 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2054,
+      "rank": 909,
+      "gameId": "119686"
+    },
+    {
+      "player": "Andrei Iosivas",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 912,
       "gameId": "119686"
     },
     {
@@ -259,7 +327,24 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2058,
+      "rank": 915,
+      "gameId": "119686"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Rush Attempts",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 932,
       "gameId": "119686"
     },
     {
@@ -276,7 +361,24 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2073,
+      "rank": 937,
+      "gameId": "119686"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Receiving Yards",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 941,
       "gameId": "119686"
     },
     {
@@ -293,7 +395,7 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2079,
+      "rank": 943,
       "gameId": "119686"
     },
     {
@@ -310,7 +412,58 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2080,
+      "rank": 944,
+      "gameId": "119686"
+    },
+    {
+      "player": "Samaje Perine",
+      "stat": "Longest Reception",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 952,
+      "gameId": "119686"
+    },
+    {
+      "player": "Chase Brown",
+      "stat": "Receptions",
+      "line": 3.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 966,
+      "gameId": "119686"
+    },
+    {
+      "player": "Mike Gesicki",
+      "stat": "Receptions",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 976,
       "gameId": "119686"
     },
     {
@@ -327,7 +480,24 @@
       "teamCode": "CIN",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 2105,
+      "rank": 978,
+      "gameId": "119686"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "INT",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1010,
       "gameId": "119686"
     }
   ]

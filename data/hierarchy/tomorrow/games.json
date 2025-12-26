@@ -1,22 +1,77 @@
 [
   {
-    "gameId": "119019",
+    "gameId": "119021",
     "sport": "NCAAF",
-    "startTime": "12/26/25 03:30 PM CST",
+    "startTime": "12/27/25 10:00 AM CST",
     "teams": [
-      "Minnesota Golden Gophers",
-      "New Mexico Lobos"
+      "Pittsburgh Panthers",
+      "East Carolina Pirates"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "119022",
+    "sport": "NCAAF",
+    "startTime": "12/27/25 11:00 AM CST",
+    "teams": [
+      "Penn State Nittany Lions",
+      "Clemson Tigers"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "119024",
+    "sport": "NCAAF",
+    "startTime": "12/27/25 02:30 PM CST",
+    "teams": [
+      "BYU Cougars",
+      "Georgia Tech Yellow Jackets"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "119026",
+    "sport": "NCAAF",
+    "startTime": "12/27/25 04:45 PM CST",
+    "teams": [
+      "San Diego State Aztecs",
+      "North Texas Mean Green"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"
   },
   {
-    "gameId": "119020",
+    "gameId": "119027",
     "sport": "NCAAF",
-    "startTime": "12/26/25 07:00 PM CST",
+    "startTime": "12/27/25 06:30 PM CST",
     "teams": [
-      "Florida International Panthers",
-      "UTSA Roadrunners"
+      "Missouri Tigers",
+      "Virginia Cavaliers"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "119683",
+    "sport": "NFL",
+    "startTime": "12/27/25 03:30 PM CST",
+    "teams": [
+      "Houston Texans",
+      "Los Angeles Chargers"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "119684",
+    "sport": "NFL",
+    "startTime": "12/27/25 07:00 PM CST",
+    "teams": [
+      "Green Bay Packers",
+      "Baltimore Ravens"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"

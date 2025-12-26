@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2025-12-25T12:29:33.523Z",
-  "scrapedDate": "Thursday, December 25, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-26T12:29:40.584Z",
+  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3503,
+      "rank": 2477,
       "gameId": "116788"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3508,
+      "rank": 2482,
       "gameId": "116788"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3523,
+      "rank": 2497,
       "gameId": "116788"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3525,
+      "rank": 2499,
       "gameId": "116788"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3528,
+      "rank": 2502,
       "gameId": "116788"
     },
     {
@@ -106,13 +106,13 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3534,
+      "rank": 2508,
       "gameId": "116788"
     },
     {
       "player": "Josh Allen",
       "stat": "Pass Yards",
-      "line": 195.5,
+      "line": 200.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
       "startTimeCST": "12/28/25 03:25 PM CST",
@@ -123,7 +123,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3558,
+      "rank": 2529,
       "gameId": "116788"
     },
     {
@@ -140,13 +140,13 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3592,
+      "rank": 2566,
       "gameId": "116788"
     },
     {
       "player": "Khalil Shakir",
       "stat": "Receiving Yards",
-      "line": 40.5,
+      "line": 42.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
       "startTimeCST": "12/28/25 03:25 PM CST",
@@ -157,7 +157,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3625,
+      "rank": 2599,
       "gameId": "116788"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3639,
+      "rank": 2613,
       "gameId": "116788"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3642,
+      "rank": 2616,
       "gameId": "116788"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3659,
+      "rank": 2633,
       "gameId": "116788"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3681,
+      "rank": 2655,
       "gameId": "116788"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3703,
+      "rank": 2677,
       "gameId": "116788"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3705,
+      "rank": 2679,
       "gameId": "116788"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3706,
+      "rank": 2680,
       "gameId": "116788"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3707,
+      "rank": 2681,
       "gameId": "116788"
     },
     {
@@ -310,24 +310,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3713,
-      "gameId": "116788"
-    },
-    {
-      "player": "Dawson Knox",
-      "stat": "Longest Reception",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 03:25 PM CST",
-      "startTimeCST": "12/28/25 03:25 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 3728,
+      "rank": 2687,
       "gameId": "116788"
     },
     {
@@ -344,7 +327,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3730,
+      "rank": 2704,
       "gameId": "116788"
     },
     {
@@ -361,13 +344,13 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3732,
+      "rank": 2706,
       "gameId": "116788"
     },
     {
-      "player": "Ty Johnson",
-      "stat": "Receiving Yards",
-      "line": 11.5,
+      "player": "Dawson Knox",
+      "stat": "Longest Reception",
+      "line": 12.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
       "startTimeCST": "12/28/25 03:25 PM CST",
@@ -378,7 +361,24 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3735,
+      "rank": 2707,
+      "gameId": "116788"
+    },
+    {
+      "player": "Ty Johnson",
+      "stat": "Receiving Yards",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2710,
       "gameId": "116788"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3747,
+      "rank": 2722,
       "gameId": "116788"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3750,
+      "rank": 2725,
       "gameId": "116788"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3754,
+      "rank": 2729,
       "gameId": "116788"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3768,
+      "rank": 2743,
       "gameId": "116788"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3795,
+      "rank": 2770,
       "gameId": "116788"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 3825,
+      "rank": 2801,
       "gameId": "116788"
     }
   ]
