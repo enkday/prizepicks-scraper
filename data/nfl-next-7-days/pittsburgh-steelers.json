@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-26T12:29:40.584Z",
-  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-27T12:27:32.686Z",
+  "scrapedDate": "Saturday, December 27, 2025 at 12:27 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Pittsburgh Steelers",
-  "totalProps": 5,
+  "totalProps": 7,
   "props": [
     {
       "player": "Aaron Rodgers",
@@ -21,13 +21,13 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 579,
+      "rank": 911,
       "gameId": "116784"
     },
     {
       "player": "Aaron Rodgers",
       "stat": "Pass Yards",
-      "line": 197.5,
+      "line": 187.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,7 +38,24 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 597,
+      "rank": 949,
+      "gameId": "116784"
+    },
+    {
+      "player": "Aaron Rodgers",
+      "stat": "Completion Percentage",
+      "line": 62.9,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 969,
       "gameId": "116784"
     },
     {
@@ -55,13 +72,13 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 624,
+      "rank": 993,
       "gameId": "116784"
     },
     {
       "player": "Aaron Rodgers",
       "stat": "Pass Attempts",
-      "line": 30.5,
+      "line": 28.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -72,13 +89,13 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 626,
+      "rank": 1005,
       "gameId": "116784"
     },
     {
       "player": "Aaron Rodgers",
       "stat": "Pass Completions",
-      "line": 19,
+      "line": 18.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -89,7 +106,24 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 645,
+      "rank": 1022,
+      "gameId": "116784"
+    },
+    {
+      "player": "Chris Boswell",
+      "stat": "Kicking Points",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 1041,
       "gameId": "116784"
     }
   ]

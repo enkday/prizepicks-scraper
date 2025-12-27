@@ -1,22 +1,72 @@
 [
   {
-    "teamCode": "minnesota-golden-gophers",
-    "teamName": "Minnesota Golden Gophers",
+    "teamCode": "pittsburgh-panthers",
+    "teamName": "Pittsburgh Panthers",
     "sport": "NCAAF"
   },
   {
-    "teamCode": "new-mexico-lobos",
-    "teamName": "New Mexico Lobos",
+    "teamCode": "east-carolina-pirates",
+    "teamName": "East Carolina Pirates",
     "sport": "NCAAF"
   },
   {
-    "teamCode": "florida-international-panthers",
-    "teamName": "Florida International Panthers",
+    "teamCode": "penn-state-nittany-lions",
+    "teamName": "Penn State Nittany Lions",
     "sport": "NCAAF"
   },
   {
-    "teamCode": "utsa-roadrunners",
-    "teamName": "UTSA Roadrunners",
+    "teamCode": "clemson-tigers",
+    "teamName": "Clemson Tigers",
     "sport": "NCAAF"
+  },
+  {
+    "teamCode": "byu-cougars",
+    "teamName": "BYU Cougars",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "georgia-tech-yellow-jackets",
+    "teamName": "Georgia Tech Yellow Jackets",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "san-diego-state-aztecs",
+    "teamName": "San Diego State Aztecs",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "north-texas-mean-green",
+    "teamName": "North Texas Mean Green",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "missouri-tigers",
+    "teamName": "Missouri Tigers",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "virginia-cavaliers",
+    "teamName": "Virginia Cavaliers",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "houston-texans",
+    "teamName": "Houston Texans",
+    "sport": "NFL"
+  },
+  {
+    "teamCode": "los-angeles-chargers",
+    "teamName": "Los Angeles Chargers",
+    "sport": "NFL"
+  },
+  {
+    "teamCode": "green-bay-packers",
+    "teamName": "Green Bay Packers",
+    "sport": "NFL"
+  },
+  {
+    "teamCode": "baltimore-ravens",
+    "teamName": "Baltimore Ravens",
+    "sport": "NFL"
   }
 ]

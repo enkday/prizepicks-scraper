@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-26T12:29:40.584Z",
-  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-27T12:27:32.686Z",
+  "scrapedDate": "Saturday, December 27, 2025 at 12:27 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Seattle Seahawks",
-  "totalProps": 29,
+  "totalProps": 35,
   "props": [
     {
       "player": "Jaxon Smith-Njigba",
@@ -21,13 +21,13 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 578,
+      "rank": 910,
       "gameId": "119685"
     },
     {
       "player": "Sam Darnold",
       "stat": "Pass Yards",
-      "line": 225.5,
+      "line": 228.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1714,
+      "rank": 2474,
       "gameId": "119685"
     },
     {
       "player": "Jaxon Smith-Njigba",
       "stat": "Receiving Yards",
-      "line": 93.5,
+      "line": 89.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -55,13 +55,30 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1740,
+      "rank": 2501,
+      "gameId": "119685"
+    },
+    {
+      "player": "Sam Darnold",
+      "stat": "Completion Percentage",
+      "line": 65.3,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2525,
       "gameId": "119685"
     },
     {
       "player": "Kenneth Walker",
       "stat": "Rush Yards",
-      "line": 52.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -72,29 +89,12 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1779,
+      "rank": 2541,
       "gameId": "119685"
     },
     {
       "player": "Zach Charbonnet",
       "stat": "Rush Yards",
-      "line": 37.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1816,
-      "gameId": "119685"
-    },
-    {
-      "player": "Sam Darnold",
-      "stat": "Longest Completion",
       "line": 36.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
@@ -106,13 +106,13 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1817,
+      "rank": 2580,
       "gameId": "119685"
     },
     {
-      "player": "Cooper Kupp",
-      "stat": "Receiving Yards",
-      "line": 34.5,
+      "player": "Sam Darnold",
+      "stat": "Longest Completion",
+      "line": 35.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -123,11 +123,11 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1820,
+      "rank": 2581,
       "gameId": "119685"
     },
     {
-      "player": "AJ Barner",
+      "player": "Cooper Kupp",
       "stat": "Receiving Yards",
       "line": 31.5,
       "sport": "NFL",
@@ -140,7 +140,41 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1825,
+      "rank": 2588,
+      "gameId": "119685"
+    },
+    {
+      "player": "AJ Barner",
+      "stat": "Receiving Yards",
+      "line": 30.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2590,
+      "gameId": "119685"
+    },
+    {
+      "player": "Rashid Shaheed",
+      "stat": "Receiving Yards",
+      "line": 30.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2591,
       "gameId": "119685"
     },
     {
@@ -157,24 +191,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1849,
-      "gameId": "119685"
-    },
-    {
-      "player": "Rashid Shaheed",
-      "stat": "Receiving Yards",
-      "line": 28.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1851,
+      "rank": 2615,
       "gameId": "119685"
     },
     {
@@ -191,7 +208,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1853,
+      "rank": 2618,
       "gameId": "119685"
     },
     {
@@ -208,7 +225,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1902,
+      "rank": 2671,
       "gameId": "119685"
     },
     {
@@ -225,7 +242,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1909,
+      "rank": 2678,
       "gameId": "119685"
     },
     {
@@ -242,13 +259,13 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1910,
+      "rank": 2679,
       "gameId": "119685"
     },
     {
       "player": "AJ Barner",
       "stat": "Longest Reception",
-      "line": 14.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
       "startTimeCST": "12/28/25 12:00 PM CST",
@@ -259,7 +276,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1915,
+      "rank": 2683,
       "gameId": "119685"
     },
     {
@@ -276,7 +293,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1935,
+      "rank": 2706,
       "gameId": "119685"
     },
     {
@@ -293,24 +310,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1940,
-      "gameId": "119685"
-    },
-    {
-      "player": "Kenneth Walker",
-      "stat": "Receiving Yards",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 12:00 PM CST",
-      "startTimeCST": "12/28/25 12:00 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1942,
+      "rank": 2710,
       "gameId": "119685"
     },
     {
@@ -327,7 +327,41 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1944,
+      "rank": 2717,
+      "gameId": "119685"
+    },
+    {
+      "player": "Kenneth Walker",
+      "stat": "Receiving Yards",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2718,
+      "gameId": "119685"
+    },
+    {
+      "player": "Zach Charbonnet",
+      "stat": "Rush Attempts",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2719,
       "gameId": "119685"
     },
     {
@@ -344,7 +378,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1964,
+      "rank": 2743,
       "gameId": "119685"
     },
     {
@@ -361,7 +395,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1970,
+      "rank": 2759,
       "gameId": "119685"
     },
     {
@@ -378,7 +412,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1978,
+      "rank": 2774,
       "gameId": "119685"
     },
     {
@@ -395,7 +429,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1980,
+      "rank": 2776,
       "gameId": "119685"
     },
     {
@@ -412,7 +446,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1981,
+      "rank": 2777,
       "gameId": "119685"
     },
     {
@@ -429,12 +463,12 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1991,
+      "rank": 2791,
       "gameId": "119685"
     },
     {
-      "player": "AJ Barner",
-      "stat": "Receptions",
+      "player": "Rashid Shaheed",
+      "stat": "Rush Yards",
       "line": 3.5,
       "sport": "NFL",
       "startTime": "12/28/25 12:00 PM CST",
@@ -446,7 +480,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2001,
+      "rank": 2803,
       "gameId": "119685"
     },
     {
@@ -463,7 +497,41 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2004,
+      "rank": 2817,
+      "gameId": "119685"
+    },
+    {
+      "player": "Drake Thomas",
+      "stat": "Assists",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2828,
+      "gameId": "119685"
+    },
+    {
+      "player": "Jason Myers",
+      "stat": "PAT Made",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2832,
       "gameId": "119685"
     },
     {
@@ -480,7 +548,41 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2020,
+      "rank": 2839,
+      "gameId": "119685"
+    },
+    {
+      "player": "DeMarcus Lawrence",
+      "stat": "Assists",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2852,
+      "gameId": "119685"
+    },
+    {
+      "player": "Leonard Williams",
+      "stat": "Assists",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeCST": "12/28/25 12:00 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2853,
       "gameId": "119685"
     },
     {
@@ -497,7 +599,7 @@
       "teamCode": "SEA",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2029,
+      "rank": 2867,
       "gameId": "119685"
     }
   ]

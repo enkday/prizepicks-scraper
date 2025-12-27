@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2025-12-26T12:29:40.584Z",
-  "scrapedDate": "Friday, December 26, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-27T12:27:32.686Z",
+  "scrapedDate": "Saturday, December 27, 2025 at 12:27 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Buffalo Bills",
-  "totalProps": 28,
+  "totalProps": 37,
   "props": [
     {
       "player": "James Cook",
@@ -21,7 +21,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2477,
+      "rank": 3595,
       "gameId": "116788"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2482,
+      "rank": 3600,
       "gameId": "116788"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2497,
+      "rank": 3615,
       "gameId": "116788"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2499,
+      "rank": 3617,
       "gameId": "116788"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2502,
+      "rank": 3620,
       "gameId": "116788"
     },
     {
@@ -106,13 +106,13 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2508,
+      "rank": 3626,
       "gameId": "116788"
     },
     {
       "player": "Josh Allen",
       "stat": "Pass Yards",
-      "line": 200.5,
+      "line": 195.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
       "startTimeCST": "12/28/25 03:25 PM CST",
@@ -123,13 +123,13 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2529,
+      "rank": 3650,
       "gameId": "116788"
     },
     {
       "player": "James Cook",
       "stat": "Rush Yards",
-      "line": 88.5,
+      "line": 87.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
       "startTimeCST": "12/28/25 03:25 PM CST",
@@ -140,13 +140,30 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2566,
+      "rank": 3685,
+      "gameId": "116788"
+    },
+    {
+      "player": "Josh Allen",
+      "stat": "Completion Percentage",
+      "line": 67.4,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3702,
       "gameId": "116788"
     },
     {
       "player": "Khalil Shakir",
       "stat": "Receiving Yards",
-      "line": 42.5,
+      "line": 41.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
       "startTimeCST": "12/28/25 03:25 PM CST",
@@ -157,7 +174,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2599,
+      "rank": 3726,
       "gameId": "116788"
     },
     {
@@ -174,7 +191,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2613,
+      "rank": 3744,
       "gameId": "116788"
     },
     {
@@ -191,7 +208,24 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2616,
+      "rank": 3747,
+      "gameId": "116788"
+    },
+    {
+      "player": "Dalton Kincaid",
+      "stat": "Receiving Yards",
+      "line": 28.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3771,
       "gameId": "116788"
     },
     {
@@ -208,13 +242,13 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2633,
+      "rank": 3772,
       "gameId": "116788"
     },
     {
       "player": "James Cook",
       "stat": "Rush Attempts",
-      "line": 19.5,
+      "line": 19,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
       "startTimeCST": "12/28/25 03:25 PM CST",
@@ -225,7 +259,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2655,
+      "rank": 3824,
       "gameId": "116788"
     },
     {
@@ -242,7 +276,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2677,
+      "rank": 3826,
       "gameId": "116788"
     },
     {
@@ -259,7 +293,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2679,
+      "rank": 3828,
       "gameId": "116788"
     },
     {
@@ -276,12 +310,12 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2680,
+      "rank": 3829,
       "gameId": "116788"
     },
     {
-      "player": "Khalil Shakir",
-      "stat": "Longest Reception",
+      "player": "Joshua Palmer",
+      "stat": "Receiving Yards",
       "line": 17.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
@@ -293,7 +327,24 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2681,
+      "rank": 3832,
+      "gameId": "116788"
+    },
+    {
+      "player": "Khalil Shakir",
+      "stat": "Longest Reception",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3836,
       "gameId": "116788"
     },
     {
@@ -310,7 +361,41 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2687,
+      "rank": 3837,
+      "gameId": "116788"
+    },
+    {
+      "player": "Dalton Kincaid",
+      "stat": "Longest Reception",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3842,
+      "gameId": "116788"
+    },
+    {
+      "player": "Joshua Palmer",
+      "stat": "Longest Reception",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3854,
       "gameId": "116788"
     },
     {
@@ -327,7 +412,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2704,
+      "rank": 3855,
       "gameId": "116788"
     },
     {
@@ -344,7 +429,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2706,
+      "rank": 3857,
       "gameId": "116788"
     },
     {
@@ -361,13 +446,13 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2707,
+      "rank": 3858,
       "gameId": "116788"
     },
     {
       "player": "Ty Johnson",
       "stat": "Receiving Yards",
-      "line": 10.5,
+      "line": 11.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
       "startTimeCST": "12/28/25 03:25 PM CST",
@@ -378,7 +463,24 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2710,
+      "rank": 3861,
+      "gameId": "116788"
+    },
+    {
+      "player": "Tyrell Shavers",
+      "stat": "Receiving Yards",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3873,
       "gameId": "116788"
     },
     {
@@ -395,7 +497,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2722,
+      "rank": 3874,
       "gameId": "116788"
     },
     {
@@ -412,13 +514,13 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2725,
+      "rank": 3877,
       "gameId": "116788"
     },
     {
-      "player": "Josh Allen",
-      "stat": "Rush Attempts",
-      "line": 6.5,
+      "player": "Tyrell Shavers",
+      "stat": "Longest Reception",
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "12/28/25 03:25 PM CST",
       "startTimeCST": "12/28/25 03:25 PM CST",
@@ -429,24 +531,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2729,
-      "gameId": "116788"
-    },
-    {
-      "player": "Khalil Shakir",
-      "stat": "Receptions",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "12/28/25 03:25 PM CST",
-      "startTimeCST": "12/28/25 03:25 PM CST",
-      "startDateCST": "2025-12-28",
-      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 2743,
+      "rank": 3878,
       "gameId": "116788"
     },
     {
@@ -463,7 +548,75 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2770,
+      "rank": 3941,
+      "gameId": "116788"
+    },
+    {
+      "player": "Cole Bishop",
+      "stat": "Assists",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3945,
+      "gameId": "116788"
+    },
+    {
+      "player": "Terrel Bernard",
+      "stat": "Assists",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3946,
+      "gameId": "116788"
+    },
+    {
+      "player": "James Cook",
+      "stat": "Receptions",
+      "line": 2,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3948,
+      "gameId": "116788"
+    },
+    {
+      "player": "Joshua Palmer",
+      "stat": "Receptions",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeCST": "12/28/25 03:25 PM CST",
+      "startDateCST": "2025-12-28",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3963,
       "gameId": "116788"
     },
     {
@@ -480,7 +633,7 @@
       "teamCode": "BUF",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2801,
+      "rank": 3990,
       "gameId": "116788"
     }
   ]
