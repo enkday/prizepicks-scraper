@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-05T12:08:01.888Z",
-  "scrapedDate": "Saturday, September 5, 2026 at 12:08 PM UTC",
+  "scrapedAt": "2026-09-06T12:09:04.681Z",
+  "scrapedDate": "Sunday, September 6, 2026 at 12:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "San Francisco 49ers",
-  "totalProps": 38,
+  "totalProps": 34,
   "props": [
     {
       "player": "Brock Purdy",
@@ -21,7 +21,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 514,
+      "rank": 527,
       "gameId": "162475"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 561,
+      "rank": 576,
       "gameId": "162475"
     },
     {
@@ -55,30 +55,13 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 588,
-      "gameId": "162475"
-    },
-    {
-      "player": "De'Zhaun Stribling",
-      "stat": "Receiving Yards",
-      "line": 38.5,
-      "sport": "NFL",
-      "startTime": "09/10/26 07:35 PM CST",
-      "startTimeCST": "09/10/26 07:35 PM CST",
-      "startDateCST": "2026-09-10",
-      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LAR",
-      "rank": 613,
+      "rank": 603,
       "gameId": "162475"
     },
     {
       "player": "George Kittle",
       "stat": "Receiving Yards",
-      "line": 38.5,
+      "line": 39.5,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
       "startTimeCST": "09/10/26 07:35 PM CST",
@@ -89,7 +72,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 614,
+      "rank": 628,
       "gameId": "162475"
     },
     {
@@ -106,7 +89,24 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 615,
+      "rank": 630,
+      "gameId": "162475"
+    },
+    {
+      "player": "De'Zhaun Stribling",
+      "stat": "Receiving Yards",
+      "line": 36.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LAR",
+      "rank": 635,
       "gameId": "162475"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 622,
+      "rank": 638,
       "gameId": "162475"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 627,
+      "rank": 644,
       "gameId": "162475"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 641,
+      "rank": 657,
       "gameId": "162475"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 678,
+      "rank": 695,
       "gameId": "162475"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 687,
+      "rank": 704,
       "gameId": "162475"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 708,
+      "rank": 724,
       "gameId": "162475"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 709,
+      "rank": 725,
       "gameId": "162475"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 717,
+      "rank": 732,
       "gameId": "162475"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 719,
+      "rank": 734,
       "gameId": "162475"
     },
     {
@@ -276,24 +276,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 721,
-      "gameId": "162475"
-    },
-    {
-      "player": "Christian McCaffrey",
-      "stat": "Longest Rush",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "09/10/26 07:35 PM CST",
-      "startTimeCST": "09/10/26 07:35 PM CST",
-      "startDateCST": "2026-09-10",
-      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LAR",
-      "rank": 727,
+      "rank": 736,
       "gameId": "162475"
     },
     {
@@ -310,7 +293,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 773,
+      "rank": 790,
       "gameId": "162475"
     },
     {
@@ -327,7 +310,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 780,
+      "rank": 796,
       "gameId": "162475"
     },
     {
@@ -344,13 +327,13 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 784,
+      "rank": 800,
       "gameId": "162475"
     },
     {
       "player": "De'Zhaun Stribling",
       "stat": "Rec Targets",
-      "line": 5,
+      "line": 5.5,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
       "startTimeCST": "09/10/26 07:35 PM CST",
@@ -361,7 +344,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 791,
+      "rank": 802,
       "gameId": "162475"
     },
     {
@@ -378,29 +361,12 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 792,
+      "rank": 809,
       "gameId": "162475"
     },
     {
       "player": "Deebo Samuel Sr.",
       "stat": "Rec Targets",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "09/10/26 07:35 PM CST",
-      "startTimeCST": "09/10/26 07:35 PM CST",
-      "startDateCST": "2026-09-10",
-      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LAR",
-      "rank": 798,
-      "gameId": "162475"
-    },
-    {
-      "player": "Mike Evans",
-      "stat": "Receptions",
       "line": 4,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
@@ -412,7 +378,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 804,
+      "rank": 820,
       "gameId": "162475"
     },
     {
@@ -429,24 +395,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 812,
-      "gameId": "162475"
-    },
-    {
-      "player": "Brock Purdy",
-      "stat": "Rush Attempts",
-      "line": 3.5,
-      "sport": "NFL",
-      "startTime": "09/10/26 07:35 PM CST",
-      "startTimeCST": "09/10/26 07:35 PM CST",
-      "startDateCST": "2026-09-10",
-      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LAR",
-      "rank": 818,
+      "rank": 828,
       "gameId": "162475"
     },
     {
@@ -463,7 +412,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 819,
+      "rank": 835,
       "gameId": "162475"
     },
     {
@@ -480,7 +429,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 820,
+      "rank": 837,
       "gameId": "162475"
     },
     {
@@ -497,7 +446,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 821,
+      "rank": 838,
       "gameId": "162475"
     },
     {
@@ -514,7 +463,24 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 839,
+      "rank": 856,
+      "gameId": "162475"
+    },
+    {
+      "player": "Eddy Pineiro",
+      "stat": "FG Made",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LAR",
+      "rank": 858,
       "gameId": "162475"
     },
     {
@@ -531,7 +497,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 852,
+      "rank": 869,
       "gameId": "162475"
     },
     {
@@ -548,41 +514,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 862,
-      "gameId": "162475"
-    },
-    {
-      "player": "Brock Purdy",
-      "stat": "INT",
-      "line": 0.5,
-      "sport": "NFL",
-      "startTime": "09/10/26 07:35 PM CST",
-      "startTimeCST": "09/10/26 07:35 PM CST",
-      "startDateCST": "2026-09-10",
-      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 866,
-      "gameId": "162475"
-    },
-    {
-      "player": "Christian McCaffrey",
-      "stat": "Rush TDs",
-      "line": 0.5,
-      "sport": "NFL",
-      "startTime": "09/10/26 07:35 PM CST",
-      "startTimeCST": "09/10/26 07:35 PM CST",
-      "startDateCST": "2026-09-10",
-      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LAR",
-      "rank": 889,
+      "rank": 880,
       "gameId": "162475"
     },
     {
@@ -599,7 +531,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 911,
+      "rank": 928,
       "gameId": "162475"
     },
     {
@@ -616,7 +548,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 916,
+      "rank": 933,
       "gameId": "162475"
     },
     {
@@ -633,7 +565,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 922,
+      "rank": 940,
       "gameId": "162475"
     },
     {
@@ -650,7 +582,7 @@
       "teamCode": "SF",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 926,
+      "rank": 944,
       "gameId": "162475"
     }
   ]

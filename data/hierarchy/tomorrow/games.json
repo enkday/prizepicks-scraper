@@ -1,33 +1,11 @@
 [
   {
-    "gameId": "178176",
+    "gameId": "178403",
     "sport": "NCAAF",
-    "startTime": "09/06/26 03:00 PM CST",
+    "startTime": "09/07/26 06:30 PM CST",
     "teams": [
-      "Washington Huskies",
-      "Washington State Cougars"
-    ],
-    "slate": "Late",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "gameId": "178178",
-    "sport": "NCAAF",
-    "startTime": "09/06/26 06:30 PM CST",
-    "teams": [
-      "Ole Miss Rebels",
-      "Louisville Cardinals"
-    ],
-    "slate": "Late",
-    "dayBranch": "tomorrow"
-  },
-  {
-    "gameId": "178177",
-    "sport": "NCAAF",
-    "startTime": "09/06/26 06:30 PM CST",
-    "teams": [
-      "Notre Dame Fighting Irish",
-      "Wisconsin Badgers"
+      "SMU Mustangs",
+      "Florida State Seminoles"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"

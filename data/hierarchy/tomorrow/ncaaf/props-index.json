@@ -2,50 +2,26 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 3,
-  "propCount": 85,
+  "gameCount": 1,
+  "propCount": 40,
   "games": [
     {
-      "gameId": "178176",
+      "gameId": "178403",
       "slate": "Late",
-      "startTime": "09/06/26 03:00 PM CST",
-      "startTimeIso": "2026-09-06T16:00:00.000-04:00",
+      "startTime": "09/07/26 06:30 PM CST",
+      "startTimeIso": "2026-09-07T19:30:00.000-04:00",
       "teams": [
-        "Washington Huskies",
-        "Washington State Cougars"
+        "SMU Mustangs",
+        "Florida State Seminoles"
       ],
-      "propCount": 23,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/178176.json"
-    },
-    {
-      "gameId": "178177",
-      "slate": "Late",
-      "startTime": "09/06/26 06:30 PM CST",
-      "startTimeIso": "2026-09-06T19:30:00.000-04:00",
-      "teams": [
-        "Notre Dame Fighting Irish",
-        "Wisconsin Badgers"
-      ],
-      "propCount": 25,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/178177.json"
-    },
-    {
-      "gameId": "178178",
-      "slate": "Late",
-      "startTime": "09/06/26 06:30 PM CST",
-      "startTimeIso": "2026-09-06T19:30:00.000-04:00",
-      "teams": [
-        "Ole Miss Rebels",
-        "Louisville Cardinals"
-      ],
-      "propCount": 37,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/178178.json"
+      "propCount": 40,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/178403.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 85,
+      "propCount": 40,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]
