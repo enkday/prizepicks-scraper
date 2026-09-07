@@ -1,32 +1,12 @@
 [
   {
-    "teamCode": "washington-state-cougars",
-    "teamName": "Washington State Cougars",
+    "teamCode": "florida-state-seminoles",
+    "teamName": "Florida State Seminoles",
     "sport": "NCAAF"
   },
   {
-    "teamCode": "washington-huskies",
-    "teamName": "Washington Huskies",
-    "sport": "NCAAF"
-  },
-  {
-    "teamCode": "ole-miss-rebels",
-    "teamName": "Ole Miss Rebels",
-    "sport": "NCAAF"
-  },
-  {
-    "teamCode": "louisville-cardinals",
-    "teamName": "Louisville Cardinals",
-    "sport": "NCAAF"
-  },
-  {
-    "teamCode": "notre-dame-fighting-irish",
-    "teamName": "Notre Dame Fighting Irish",
-    "sport": "NCAAF"
-  },
-  {
-    "teamCode": "wisconsin-badgers",
-    "teamName": "Wisconsin Badgers",
+    "teamCode": "smu-mustangs",
+    "teamName": "SMU Mustangs",
     "sport": "NCAAF"
   }
 ]

@@ -1,182 +1,74 @@
 [
   {
-    "playerId": "washington-huskies_christian-moss_07c9b5cf",
-    "playerName": "Christian Moss",
-    "teamCode": "washington-huskies",
+    "playerId": "florida-state-seminoles_ousmane-kromah_8ad96cb5",
+    "playerName": "Ousmane Kromah",
+    "teamCode": "florida-state-seminoles",
     "sport": "NCAAF"
   },
   {
-    "playerId": "notre-dame-fighting-irish_jaden-greathouse_815d28bc",
-    "playerName": "Jaden Greathouse",
-    "teamCode": "notre-dame-fighting-irish",
+    "playerId": "florida-state-seminoles_duce-robinson_26f9e628",
+    "playerName": "Duce Robinson",
+    "teamCode": "florida-state-seminoles",
     "sport": "NCAAF"
   },
   {
-    "playerId": "washington-huskies_dezmen-roebuck_a3369efe",
-    "playerName": "Dezmen Roebuck",
-    "teamCode": "washington-huskies",
+    "playerId": "smu-mustangs_kevin-jennings_a0ae7cb3",
+    "playerName": "Kevin Jennings",
+    "teamCode": "smu-mustangs",
     "sport": "NCAAF"
   },
   {
-    "playerId": "louisville-cardinals_lawayne-mccoy_a085127f",
-    "playerName": "Lawayne McCoy",
-    "teamCode": "louisville-cardinals",
+    "playerId": "smu-mustangs_kendrick-raphael_73fd91f8",
+    "playerName": "Kendrick Raphael",
+    "teamCode": "smu-mustangs",
     "sport": "NCAAF"
   },
   {
-    "playerId": "wisconsin-badgers_jacob-harris_ea616ca2",
-    "playerName": "Jacob Harris",
-    "teamCode": "wisconsin-badgers",
+    "playerId": "smu-mustangs_yamir-knight_eb1e809a",
+    "playerName": "Yamir Knight",
+    "teamCode": "smu-mustangs",
     "sport": "NCAAF"
   },
   {
-    "playerId": "notre-dame-fighting-irish_spencer-porath_775fd015",
-    "playerName": "Spencer Porath",
-    "teamCode": "notre-dame-fighting-irish",
+    "playerId": "smu-mustangs_yannick-smith_45ab5798",
+    "playerName": "Yannick Smith",
+    "teamCode": "smu-mustangs",
     "sport": "NCAAF"
   },
   {
-    "playerId": "notre-dame-fighting-irish_jordan-faison_96bd1f4f",
-    "playerName": "Jordan Faison",
-    "teamCode": "notre-dame-fighting-irish",
+    "playerId": "florida-state-seminoles_micahi-danzy_71e15567",
+    "playerName": "Micahi Danzy",
+    "teamCode": "florida-state-seminoles",
     "sport": "NCAAF"
   },
   {
-    "playerId": "washington-huskies_decker-degraaf_0787dfa8",
-    "playerName": "Decker DeGraaf",
-    "teamCode": "washington-huskies",
+    "playerId": "florida-state-seminoles_jayvan-boggs_a1acf41f",
+    "playerName": "Jayvan Boggs",
+    "teamCode": "florida-state-seminoles",
     "sport": "NCAAF"
   },
   {
-    "playerId": "wisconsin-badgers_tyrell-henry_078016d6",
-    "playerName": "Tyrell Henry",
-    "teamCode": "wisconsin-badgers",
+    "playerId": "florida-state-seminoles_gabe-panikowski_0aad11fd",
+    "playerName": "Gabe Panikowski",
+    "teamCode": "florida-state-seminoles",
     "sport": "NCAAF"
   },
   {
-    "playerId": "washington-huskies_quaid-carr_45eac2a8",
-    "playerName": "Quaid Carr",
-    "teamCode": "washington-huskies",
+    "playerId": "florida-state-seminoles_ashton-daniels_f92e6a88",
+    "playerName": "Ashton Daniels",
+    "teamCode": "florida-state-seminoles",
     "sport": "NCAAF"
   },
   {
-    "playerId": "wisconsin-badgers_abu-sama-iii_1851975c",
-    "playerName": "Abu Sama III",
-    "teamCode": "wisconsin-badgers",
+    "playerId": "florida-state-seminoles_samuel-singleton-jr._fcec3167",
+    "playerName": "Samuel Singleton Jr.",
+    "teamCode": "florida-state-seminoles",
     "sport": "NCAAF"
   },
   {
-    "playerId": "louisville-cardinals_isaac-brown_2545a347",
-    "playerName": "Isaac Brown",
-    "teamCode": "louisville-cardinals",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "wisconsin-badgers_colton-joseph_f9d77d8e",
-    "playerName": "Colton Joseph",
-    "teamCode": "wisconsin-badgers",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "ole-miss-rebels_johntay-cook-ii_5e665e62",
-    "playerName": "Johntay Cook II",
-    "teamCode": "ole-miss-rebels",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "ole-miss-rebels_trinidad-chambliss_584d2e69",
-    "playerName": "Trinidad Chambliss",
-    "teamCode": "ole-miss-rebels",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "wisconsin-badgers_eugene-hilton-jr._8977e311",
-    "playerName": "Eugene Hilton Jr.",
-    "teamCode": "wisconsin-badgers",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "ole-miss-rebels_kewan-lacy_bf92a7ba",
-    "playerName": "Kewan Lacy",
-    "teamCode": "ole-miss-rebels",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "wisconsin-badgers_gavin-lahm_8c9b13d8",
-    "playerName": "Gavin Lahm",
-    "teamCode": "wisconsin-badgers",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "louisville-cardinals_brody-foley_b450edd7",
-    "playerName": "Brody Foley",
-    "teamCode": "louisville-cardinals",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "louisville-cardinals_treyshun-hurry_20f3316e",
-    "playerName": "TreyShun Hurry",
-    "teamCode": "louisville-cardinals",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "ole-miss-rebels_deuce-alexander_d9e3434e",
-    "playerName": "Deuce Alexander",
-    "teamCode": "ole-miss-rebels",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "washington-huskies_demond-williams-jr._219e6534",
-    "playerName": "Demond Williams Jr.",
-    "teamCode": "washington-huskies",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "louisville-cardinals_tre-richardson_20973fc5",
-    "playerName": "Tre Richardson",
-    "teamCode": "louisville-cardinals",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "ole-miss-rebels_lucas-carneiro_2e3102da",
-    "playerName": "Lucas Carneiro",
-    "teamCode": "ole-miss-rebels",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "washington-huskies_tyler-robles_2c946ce5",
-    "playerName": "Tyler Robles",
-    "teamCode": "washington-huskies",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "washington-state-cougars_caden-pinnick_f773a366",
-    "playerName": "Caden Pinnick",
-    "teamCode": "washington-state-cougars",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "washington-state-cougars_kirby-vorhees_ae15da2d",
-    "playerName": "Kirby Vorhees",
-    "teamCode": "washington-state-cougars",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "notre-dame-fighting-irish_aneyas-williams_b392457c",
-    "playerName": "Aneyas Williams",
-    "teamCode": "notre-dame-fighting-irish",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "notre-dame-fighting-irish_cj-carr_8ec0d1a6",
-    "playerName": "CJ Carr",
-    "teamCode": "notre-dame-fighting-irish",
-    "sport": "NCAAF"
-  },
-  {
-    "playerId": "louisville-cardinals_lincoln-kienholz_6afa082c",
-    "playerName": "Lincoln Kienholz",
-    "teamCode": "louisville-cardinals",
+    "playerId": "florida-state-seminoles_landen-thomas_8eedc5a8",
+    "playerName": "Landen Thomas",
+    "teamCode": "florida-state-seminoles",
     "sport": "NCAAF"
   }
 ]
