@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-07T12:10:03.992Z",
-  "scrapedDate": "Monday, September 7, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-08T12:10:00.624Z",
+  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 35,
+  "totalProps": 36,
   "props": [
     {
       "player": "Malik Nabers",
@@ -21,7 +21,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5873,
+      "rank": 6009,
       "gameId": "162476"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5894,
+      "rank": 6030,
       "gameId": "162476"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5946,
+      "rank": 6082,
       "gameId": "162476"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5961,
+      "rank": 6095,
       "gameId": "162476"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5994,
+      "rank": 6129,
       "gameId": "162476"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5998,
+      "rank": 6133,
       "gameId": "162476"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6009,
+      "rank": 6144,
       "gameId": "162476"
     },
     {
       "player": "Jaxson Dart",
       "stat": "Pass Attempts",
-      "line": 28.5,
+      "line": 29,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
       "startTimeCST": "09/13/26 07:20 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6034,
+      "rank": 6170,
       "gameId": "162476"
     },
     {
@@ -157,13 +157,13 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6054,
+      "rank": 6186,
       "gameId": "162476"
     },
     {
       "player": "Malachi Fields",
       "stat": "Receiving Yards",
-      "line": 21.5,
+      "line": 22.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
       "startTimeCST": "09/13/26 07:20 PM CST",
@@ -174,7 +174,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6057,
+      "rank": 6187,
       "gameId": "162476"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6083,
+      "rank": 6218,
       "gameId": "162476"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6089,
+      "rank": 6223,
       "gameId": "162476"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6093,
+      "rank": 6227,
       "gameId": "162476"
     },
     {
@@ -242,24 +242,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6097,
-      "gameId": "162476"
-    },
-    {
-      "player": "Darius Slayton",
-      "stat": "Receiving Yards",
-      "line": 14.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 07:20 PM CST",
-      "startTimeCST": "09/13/26 07:20 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 6099,
+      "rank": 6230,
       "gameId": "162476"
     },
     {
@@ -276,7 +259,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6110,
+      "rank": 6244,
       "gameId": "162476"
     },
     {
@@ -293,7 +276,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6111,
+      "rank": 6245,
       "gameId": "162476"
     },
     {
@@ -310,12 +293,12 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6116,
+      "rank": 6248,
       "gameId": "162476"
     },
     {
-      "player": "Darius Slayton",
-      "stat": "Longest Reception",
+      "player": "Darnell Mooney",
+      "stat": "Receiving Yards",
       "line": 11.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
@@ -327,11 +310,28 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6118,
+      "rank": 6249,
       "gameId": "162476"
     },
     {
       "player": "Darnell Mooney",
+      "stat": "Longest Reception",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 07:20 PM CST",
+      "startTimeCST": "09/13/26 07:20 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6254,
+      "gameId": "162476"
+    },
+    {
+      "player": "Odell Beckham Jr.",
       "stat": "Receiving Yards",
       "line": 10.5,
       "sport": "NFL",
@@ -344,7 +344,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6120,
+      "rank": 6258,
       "gameId": "162476"
     },
     {
@@ -361,11 +361,11 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6127,
+      "rank": 6261,
       "gameId": "162476"
     },
     {
-      "player": "Darnell Mooney",
+      "player": "Odell Beckham Jr.",
       "stat": "Longest Reception",
       "line": 9.5,
       "sport": "NFL",
@@ -378,7 +378,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6130,
+      "rank": 6268,
       "gameId": "162476"
     },
     {
@@ -395,30 +395,13 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6138,
-      "gameId": "162476"
-    },
-    {
-      "player": "Odell Beckham Jr.",
-      "stat": "Receiving Yards",
-      "line": 7.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 07:20 PM CST",
-      "startTimeCST": "09/13/26 07:20 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 6146,
+      "rank": 6272,
       "gameId": "162476"
     },
     {
       "player": "Dominic Zvada",
       "stat": "Kicking Points",
-      "line": 6.5,
+      "line": 7,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
       "startTimeCST": "09/13/26 07:20 PM CST",
@@ -429,7 +412,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6148,
+      "rank": 6281,
       "gameId": "162476"
     },
     {
@@ -446,7 +429,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6152,
+      "rank": 6286,
       "gameId": "162476"
     },
     {
@@ -463,7 +446,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6176,
+      "rank": 6310,
       "gameId": "162476"
     },
     {
@@ -480,7 +463,41 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6191,
+      "rank": 6324,
+      "gameId": "162476"
+    },
+    {
+      "player": "Jaxson Dart",
+      "stat": "Sacks Taken",
+      "line": 3,
+      "sport": "NFL",
+      "startTime": "09/13/26 07:20 PM CST",
+      "startTimeCST": "09/13/26 07:20 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6325,
+      "gameId": "162476"
+    },
+    {
+      "player": "Odell Beckham Jr.",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 07:20 PM CST",
+      "startTimeCST": "09/13/26 07:20 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6340,
       "gameId": "162476"
     },
     {
@@ -497,7 +514,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6210,
+      "rank": 6343,
       "gameId": "162476"
     },
     {
@@ -514,7 +531,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6236,
+      "rank": 6367,
       "gameId": "162476"
     },
     {
@@ -531,7 +548,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6239,
+      "rank": 6370,
       "gameId": "162476"
     },
     {
@@ -548,7 +565,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6284,
+      "rank": 6414,
       "gameId": "162476"
     },
     {
@@ -565,7 +582,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6290,
+      "rank": 6420,
       "gameId": "162476"
     },
     {
@@ -582,7 +599,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6309,
+      "rank": 6439,
       "gameId": "162476"
     },
     {
@@ -599,7 +616,7 @@
       "teamCode": "NYG",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 6319,
+      "rank": 6449,
       "gameId": "162476"
     }
   ]

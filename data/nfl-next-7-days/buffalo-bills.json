@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-07T12:10:03.992Z",
-  "scrapedDate": "Monday, September 7, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-08T12:10:00.624Z",
+  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Buffalo Bills",
-  "totalProps": 34,
+  "totalProps": 25,
   "props": [
     {
       "player": "Josh Allen",
@@ -21,7 +21,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3617,
+      "rank": 3761,
       "gameId": "162481"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3653,
+      "rank": 3794,
       "gameId": "162481"
     },
     {
       "player": "DJ Moore",
       "stat": "Receiving Yards",
-      "line": 46.5,
+      "line": 47.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3690,
+      "rank": 3824,
       "gameId": "162481"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3716,
+      "rank": 3843,
       "gameId": "162481"
     },
     {
@@ -89,24 +89,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3718,
-      "gameId": "162481"
-    },
-    {
-      "player": "Josh Allen",
-      "stat": "Longest Completion",
-      "line": 35.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3720,
+      "rank": 3845,
       "gameId": "162481"
     },
     {
@@ -123,13 +106,13 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3734,
+      "rank": 3859,
       "gameId": "162481"
     },
     {
       "player": "Josh Allen",
       "stat": "Pass Attempts",
-      "line": 29.5,
+      "line": 30.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -140,30 +123,13 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3747,
-      "gameId": "162481"
-    },
-    {
-      "player": "DJ Moore",
-      "stat": "Longest Reception",
-      "line": 21.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3779,
+      "rank": 3861,
       "gameId": "162481"
     },
     {
       "player": "Josh Allen",
       "stat": "Pass Completions",
-      "line": 19.5,
+      "line": 20,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -174,24 +140,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3797,
-      "gameId": "162481"
-    },
-    {
-      "player": "Dalton Kincaid",
-      "stat": "Longest Reception",
-      "line": 17.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3808,
+      "rank": 3894,
       "gameId": "162481"
     },
     {
@@ -208,24 +157,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3815,
-      "gameId": "162481"
-    },
-    {
-      "player": "Khalil Shakir",
-      "stat": "Longest Reception",
-      "line": 15.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3818,
+      "rank": 3916,
       "gameId": "162481"
     },
     {
@@ -242,7 +174,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3823,
+      "rank": 3922,
       "gameId": "162481"
     },
     {
@@ -259,92 +191,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3829,
-      "gameId": "162481"
-    },
-    {
-      "player": "James Cook III",
-      "stat": "Longest Rush",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3836,
-      "gameId": "162481"
-    },
-    {
-      "player": "Josh Allen",
-      "stat": "Longest Rush",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3845,
-      "gameId": "162481"
-    },
-    {
-      "player": "Dawson Knox",
-      "stat": "Longest Reception",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3851,
-      "gameId": "162481"
-    },
-    {
-      "player": "James Cook III",
-      "stat": "Longest Reception",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3857,
-      "gameId": "162481"
-    },
-    {
-      "player": "Tyler Bass",
-      "stat": "Kicking Points",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 3883,
+      "rank": 3927,
       "gameId": "162481"
     },
     {
@@ -361,7 +208,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3886,
+      "rank": 3970,
       "gameId": "162481"
     },
     {
@@ -378,7 +225,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3892,
+      "rank": 3976,
       "gameId": "162481"
     },
     {
@@ -395,7 +242,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3899,
+      "rank": 3983,
       "gameId": "162481"
     },
     {
@@ -412,7 +259,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3908,
+      "rank": 3992,
       "gameId": "162481"
     },
     {
@@ -429,7 +276,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3920,
+      "rank": 4002,
       "gameId": "162481"
     },
     {
@@ -446,7 +293,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3921,
+      "rank": 4003,
       "gameId": "162481"
     },
     {
@@ -463,7 +310,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3934,
+      "rank": 4018,
       "gameId": "162481"
     },
     {
@@ -480,7 +327,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3960,
+      "rank": 4038,
       "gameId": "162481"
     },
     {
@@ -497,7 +344,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3968,
+      "rank": 4046,
       "gameId": "162481"
     },
     {
@@ -514,7 +361,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 3969,
+      "rank": 4047,
       "gameId": "162481"
     },
     {
@@ -531,7 +378,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 4274,
+      "rank": 4350,
       "gameId": "162481"
     },
     {
@@ -548,7 +395,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 4277,
+      "rank": 4353,
       "gameId": "162481"
     },
     {
@@ -565,7 +412,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 4296,
+      "rank": 4372,
       "gameId": "162481"
     },
     {
@@ -582,7 +429,7 @@
       "teamCode": "BUF",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 4304,
+      "rank": 4380,
       "gameId": "162481"
     }
   ]

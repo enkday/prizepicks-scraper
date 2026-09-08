@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "gameId": "162474",
+    "sport": "NFL",
+    "startTime": "09/09/26 07:20 PM CST",
+    "teams": [
+      "Seattle Seahawks",
+      "New England Patriots"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  }
+]

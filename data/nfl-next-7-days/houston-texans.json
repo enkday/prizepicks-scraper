@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-07T12:10:03.992Z",
-  "scrapedDate": "Monday, September 7, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-08T12:10:00.624Z",
+  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Houston Texans",
-  "totalProps": 39,
+  "totalProps": 31,
   "props": [
     {
       "player": "C.J. Stroud",
@@ -21,7 +21,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3618,
+      "rank": 3762,
       "gameId": "162481"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3657,
+      "rank": 3799,
       "gameId": "162481"
     },
     {
@@ -55,24 +55,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3679,
-      "gameId": "162481"
-    },
-    {
-      "player": "C.J. Stroud",
-      "stat": "Longest Completion",
-      "line": 32.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 3727,
+      "rank": 3816,
       "gameId": "162481"
     },
     {
@@ -89,7 +72,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3728,
+      "rank": 3853,
       "gameId": "162481"
     },
     {
@@ -106,7 +89,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3731,
+      "rank": 3856,
       "gameId": "162481"
     },
     {
@@ -123,24 +106,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3735,
-      "gameId": "162481"
-    },
-    {
-      "player": "Nico Collins",
-      "stat": "Longest Reception",
-      "line": 22.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 3777,
+      "rank": 3860,
       "gameId": "162481"
     },
     {
@@ -157,7 +123,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3778,
+      "rank": 3889,
       "gameId": "162481"
     },
     {
@@ -174,13 +140,13 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3783,
+      "rank": 3895,
       "gameId": "162481"
     },
     {
       "player": "Xavier Hutchinson",
       "stat": "Receiving Yards",
-      "line": 17.5,
+      "line": 19.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -191,24 +157,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3811,
-      "gameId": "162481"
-    },
-    {
-      "player": "Dalton Schultz",
-      "stat": "Longest Reception",
-      "line": 14.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 3826,
+      "rank": 3907,
       "gameId": "162481"
     },
     {
@@ -225,41 +174,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3837,
-      "gameId": "162481"
-    },
-    {
-      "player": "Kayshon Boutte",
-      "stat": "Longest Reception",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 3838,
-      "gameId": "162481"
-    },
-    {
-      "player": "David Montgomery",
-      "stat": "Longest Rush",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 3840,
+      "rank": 3934,
       "gameId": "162481"
     },
     {
@@ -276,24 +191,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3844,
-      "gameId": "162481"
-    },
-    {
-      "player": "Woody Marks",
-      "stat": "Longest Rush",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 3850,
+      "rank": 3939,
       "gameId": "162481"
     },
     {
@@ -310,7 +208,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3852,
+      "rank": 3945,
       "gameId": "162481"
     },
     {
@@ -327,7 +225,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3861,
+      "rank": 3950,
       "gameId": "162481"
     },
     {
@@ -344,13 +242,13 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3869,
+      "rank": 3959,
       "gameId": "162481"
     },
     {
       "player": "David Montgomery",
       "stat": "Receiving Yards",
-      "line": 7.5,
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -361,12 +259,12 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3875,
+      "rank": 3960,
       "gameId": "162481"
     },
     {
-      "player": "Woody Marks",
-      "stat": "Longest Reception",
+      "player": "Ka'imi Fairbairn",
+      "stat": "Kicking Points",
       "line": 7.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -378,7 +276,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3876,
+      "rank": 3963,
       "gameId": "162481"
     },
     {
@@ -395,41 +293,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3877,
-      "gameId": "162481"
-    },
-    {
-      "player": "David Montgomery",
-      "stat": "Longest Reception",
-      "line": 7.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 3879,
-      "gameId": "162481"
-    },
-    {
-      "player": "C.J. Stroud",
-      "stat": "Longest Rush",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 3885,
+      "rank": 3965,
       "gameId": "162481"
     },
     {
@@ -446,13 +310,13 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3900,
+      "rank": 3984,
       "gameId": "162481"
     },
     {
-      "player": "C.J. Stroud",
-      "stat": "Rush Attempts",
-      "line": 2.5,
+      "player": "Xavier Hutchinson",
+      "stat": "Rec Targets",
+      "line": 3.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -463,7 +327,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3947,
+      "rank": 4017,
       "gameId": "162481"
     },
     {
@@ -480,7 +344,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3949,
+      "rank": 4028,
       "gameId": "162481"
     },
     {
@@ -497,13 +361,13 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3950,
+      "rank": 4029,
       "gameId": "162481"
     },
     {
       "player": "Woody Marks",
-      "stat": "Receptions",
-      "line": 1.5,
+      "stat": "Rec Targets",
+      "line": 2,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -514,7 +378,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3961,
+      "rank": 4030,
       "gameId": "162481"
     },
     {
@@ -531,7 +395,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3963,
+      "rank": 4040,
       "gameId": "162481"
     },
     {
@@ -548,7 +412,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3966,
+      "rank": 4044,
       "gameId": "162481"
     },
     {
@@ -565,7 +429,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3967,
+      "rank": 4045,
       "gameId": "162481"
     },
     {
@@ -582,7 +446,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3970,
+      "rank": 4048,
       "gameId": "162481"
     },
     {
@@ -599,7 +463,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 3979,
+      "rank": 4055,
       "gameId": "162481"
     },
     {
@@ -616,7 +480,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4275,
+      "rank": 4351,
       "gameId": "162481"
     },
     {
@@ -633,7 +497,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4279,
+      "rank": 4355,
       "gameId": "162481"
     },
     {
@@ -650,7 +514,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4297,
+      "rank": 4373,
       "gameId": "162481"
     },
     {
@@ -667,7 +531,7 @@
       "teamCode": "HOU",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4305,
+      "rank": 4381,
       "gameId": "162481"
     }
   ]

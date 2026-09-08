@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-07T12:10:03.992Z",
-  "scrapedDate": "Monday, September 7, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-08T12:10:00.624Z",
+  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Arizona Cardinals",
-  "totalProps": 24,
+  "totalProps": 26,
   "props": [
     {
       "player": "Jacoby Brissett",
@@ -21,13 +21,13 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4331,
+      "rank": 4413,
       "gameId": "162621"
     },
     {
       "player": "Trey McBride",
       "stat": "Receiving Yards",
-      "line": 56.5,
+      "line": 57.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4378,
+      "rank": 4458,
       "gameId": "162621"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4397,
+      "rank": 4473,
       "gameId": "162621"
     },
     {
       "player": "Michael Wilson",
       "stat": "Receiving Yards",
-      "line": 41.5,
+      "line": 42.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4404,
+      "rank": 4480,
       "gameId": "162621"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4422,
+      "rank": 4499,
       "gameId": "162621"
     },
     {
@@ -106,13 +106,13 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4423,
+      "rank": 4500,
       "gameId": "162621"
     },
     {
       "player": "Jacoby Brissett",
       "stat": "Pass Completions",
-      "line": 21.5,
+      "line": 22,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -123,24 +123,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4473,
-      "gameId": "162621"
-    },
-    {
-      "player": "Marvin Harrison Jr.",
-      "stat": "Longest Reception",
-      "line": 20.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 03:25 PM CST",
-      "startTimeCST": "09/13/26 03:25 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 4478,
+      "rank": 4544,
       "gameId": "162621"
     },
     {
@@ -157,12 +140,12 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4479,
+      "rank": 4556,
       "gameId": "162621"
     },
     {
-      "player": "Kendrick Bourne",
-      "stat": "Receiving Yards",
+      "player": "Marvin Harrison Jr.",
+      "stat": "Longest Reception",
       "line": 19.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
@@ -174,7 +157,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4488,
+      "rank": 4564,
       "gameId": "162621"
     },
     {
@@ -191,7 +174,41 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4502,
+      "rank": 4579,
+      "gameId": "162621"
+    },
+    {
+      "player": "Kendrick Bourne",
+      "stat": "Receiving Yards",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4582,
+      "gameId": "162621"
+    },
+    {
+      "player": "Kendrick Bourne",
+      "stat": "Longest Reception",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4596,
       "gameId": "162621"
     },
     {
@@ -208,13 +225,13 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4519,
+      "rank": 4599,
       "gameId": "162621"
     },
     {
-      "player": "Kendrick Bourne",
-      "stat": "Longest Reception",
-      "line": 12.5,
+      "player": "Jeremiyah Love",
+      "stat": "Longest Rush",
+      "line": 11.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -225,13 +242,13 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4520,
+      "rank": 4605,
       "gameId": "162621"
     },
     {
       "player": "Jacoby Brissett",
       "stat": "Rush Yards",
-      "line": 8.5,
+      "line": 10.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -242,7 +259,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4539,
+      "rank": 4606,
       "gameId": "162621"
     },
     {
@@ -259,7 +276,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4543,
+      "rank": 4621,
       "gameId": "162621"
     },
     {
@@ -276,7 +293,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4544,
+      "rank": 4622,
       "gameId": "162621"
     },
     {
@@ -293,7 +310,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4548,
+      "rank": 4628,
       "gameId": "162621"
     },
     {
@@ -310,7 +327,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4551,
+      "rank": 4632,
       "gameId": "162621"
     },
     {
@@ -327,7 +344,24 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4556,
+      "rank": 4639,
+      "gameId": "162621"
+    },
+    {
+      "player": "Chad Ryland",
+      "stat": "Kicking Points",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4640,
       "gameId": "162621"
     },
     {
@@ -344,7 +378,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4564,
+      "rank": 4646,
       "gameId": "162621"
     },
     {
@@ -361,7 +395,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4578,
+      "rank": 4662,
       "gameId": "162621"
     },
     {
@@ -378,7 +412,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4587,
+      "rank": 4671,
       "gameId": "162621"
     },
     {
@@ -395,7 +429,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5741,
+      "rank": 5874,
       "gameId": "162621"
     },
     {
@@ -412,7 +446,7 @@
       "teamCode": "ARI",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5769,
+      "rank": 5902,
       "gameId": "162621"
     }
   ]
