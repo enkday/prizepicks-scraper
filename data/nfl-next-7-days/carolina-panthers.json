@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-08T12:10:00.624Z",
-  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-09T12:10:04.394Z",
+  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Carolina Panthers",
-  "totalProps": 21,
+  "totalProps": 20,
   "props": [
     {
       "player": "Bryce Young",
@@ -21,7 +21,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1110,
+      "rank": 1242,
       "gameId": "163388"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1149,
+      "rank": 1283,
       "gameId": "163388"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1184,
+      "rank": 1315,
       "gameId": "163388"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1192,
+      "rank": 1323,
       "gameId": "163388"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1196,
+      "rank": 1327,
       "gameId": "163388"
     },
     {
@@ -106,13 +106,13 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1238,
+      "rank": 1369,
       "gameId": "163388"
     },
     {
       "player": "Bryce Young",
       "stat": "Pass Completions",
-      "line": 20.5,
+      "line": 20,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -123,7 +123,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1245,
+      "rank": 1378,
       "gameId": "163388"
     },
     {
@@ -140,13 +140,13 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1264,
+      "rank": 1398,
       "gameId": "163388"
     },
     {
       "player": "Jalen Coker",
       "stat": "Longest Reception",
-      "line": 16.5,
+      "line": 17.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -157,7 +157,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1270,
+      "rank": 1400,
       "gameId": "163388"
     },
     {
@@ -174,7 +174,24 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1275,
+      "rank": 1408,
+      "gameId": "163388"
+    },
+    {
+      "player": "Tommy Tremble",
+      "stat": "Receiving Yards",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1414,
       "gameId": "163388"
     },
     {
@@ -191,13 +208,13 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1285,
+      "rank": 1417,
       "gameId": "163388"
     },
     {
       "player": "Bryce Young",
       "stat": "Longest Rush",
-      "line": 8.5,
+      "line": 9.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -208,7 +225,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1301,
+      "rank": 1429,
       "gameId": "163388"
     },
     {
@@ -225,24 +242,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1308,
-      "gameId": "163388"
-    },
-    {
-      "player": "Ryan Fitzgerald",
-      "stat": "Kicking Points",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 1311,
+      "rank": 1441,
       "gameId": "163388"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1324,
+      "rank": 1461,
       "gameId": "163388"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1325,
+      "rank": 1462,
       "gameId": "163388"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1353,
+      "rank": 1491,
       "gameId": "163388"
     },
     {
@@ -310,24 +310,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1370,
-      "gameId": "163388"
-    },
-    {
-      "player": "Ryan Fitzgerald",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 1374,
+      "rank": 1513,
       "gameId": "163388"
     },
     {
@@ -344,7 +327,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4077,
+      "rank": 4371,
       "gameId": "163388"
     },
     {
@@ -361,7 +344,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4102,
+      "rank": 4395,
       "gameId": "163388"
     }
   ]

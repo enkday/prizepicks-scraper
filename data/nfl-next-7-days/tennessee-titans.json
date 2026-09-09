@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-08T12:10:00.624Z",
-  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-09T12:10:04.394Z",
+  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tennessee Titans",
-  "totalProps": 42,
+  "totalProps": 39,
   "props": [
     {
       "player": "Cam Ward",
@@ -21,7 +21,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2204,
+      "rank": 2388,
       "gameId": "162606"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2256,
+      "rank": 2440,
       "gameId": "162606"
     },
     {
       "player": "Wan'Dale Robinson",
       "stat": "Receiving Yards",
-      "line": 41.5,
+      "line": 42.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -55,13 +55,13 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2272,
+      "rank": 2454,
       "gameId": "162606"
     },
     {
       "player": "Carnell Tate",
       "stat": "Receiving Yards",
-      "line": 37.5,
+      "line": 39.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2280,
+      "rank": 2456,
       "gameId": "162606"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2289,
+      "rank": 2471,
       "gameId": "162606"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2295,
+      "rank": 2479,
       "gameId": "162606"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2314,
+      "rank": 2499,
       "gameId": "162606"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2337,
+      "rank": 2518,
       "gameId": "162606"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2338,
+      "rank": 2519,
       "gameId": "162606"
     },
     {
@@ -174,24 +174,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2345,
-      "gameId": "162606"
-    },
-    {
-      "player": "Carnell Tate",
-      "stat": "Longest Reception",
-      "line": 18.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2358,
+      "rank": 2529,
       "gameId": "162606"
     },
     {
@@ -208,7 +191,24 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2359,
+      "rank": 2544,
+      "gameId": "162606"
+    },
+    {
+      "player": "Carnell Tate",
+      "stat": "Longest Reception",
+      "line": 17.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2547,
       "gameId": "162606"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2370,
+      "rank": 2554,
       "gameId": "162606"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2377,
+      "rank": 2561,
       "gameId": "162606"
     },
     {
@@ -259,7 +259,24 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2385,
+      "rank": 2569,
+      "gameId": "162606"
+    },
+    {
+      "player": "Tony Pollard",
+      "stat": "Longest Rush",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2570,
       "gameId": "162606"
     },
     {
@@ -276,30 +293,13 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2389,
-      "gameId": "162606"
-    },
-    {
-      "player": "Tony Pollard",
-      "stat": "Longest Rush",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2391,
+      "rank": 2575,
       "gameId": "162606"
     },
     {
       "player": "Tyjae Spears",
       "stat": "Longest Reception",
-      "line": 11.5,
+      "line": 10.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -310,7 +310,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2393,
+      "rank": 2582,
       "gameId": "162606"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2402,
+      "rank": 2586,
       "gameId": "162606"
     },
     {
@@ -344,24 +344,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2411,
-      "gameId": "162606"
-    },
-    {
-      "player": "Tyjae Spears",
-      "stat": "Longest Rush",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2414,
+      "rank": 2596,
       "gameId": "162606"
     },
     {
@@ -378,7 +361,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2429,
+      "rank": 2612,
       "gameId": "162606"
     },
     {
@@ -395,7 +378,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2430,
+      "rank": 2613,
       "gameId": "162606"
     },
     {
@@ -412,7 +395,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2431,
+      "rank": 2614,
       "gameId": "162606"
     },
     {
@@ -429,7 +412,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2437,
+      "rank": 2621,
       "gameId": "162606"
     },
     {
@@ -446,24 +429,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2439,
-      "gameId": "162606"
-    },
-    {
-      "player": "Tyjae Spears",
-      "stat": "Rush Attempts",
-      "line": 5.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2442,
+      "rank": 2622,
       "gameId": "162606"
     },
     {
@@ -480,7 +446,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2451,
+      "rank": 2635,
       "gameId": "162606"
     },
     {
@@ -497,7 +463,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2479,
+      "rank": 2662,
       "gameId": "162606"
     },
     {
@@ -514,7 +480,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2480,
+      "rank": 2663,
       "gameId": "162606"
     },
     {
@@ -531,7 +497,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2481,
+      "rank": 2664,
       "gameId": "162606"
     },
     {
@@ -548,24 +514,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2486,
-      "gameId": "162606"
-    },
-    {
-      "player": "Cam Ward",
-      "stat": "Rush Attempts",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2490,
+      "rank": 2671,
       "gameId": "162606"
     },
     {
@@ -582,7 +531,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2498,
+      "rank": 2685,
       "gameId": "162606"
     },
     {
@@ -599,7 +548,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2499,
+      "rank": 2686,
       "gameId": "162606"
     },
     {
@@ -616,7 +565,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2503,
+      "rank": 2690,
       "gameId": "162606"
     },
     {
@@ -633,7 +582,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2511,
+      "rank": 2698,
       "gameId": "162606"
     },
     {
@@ -650,7 +599,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2515,
+      "rank": 2704,
       "gameId": "162606"
     },
     {
@@ -667,7 +616,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4178,
+      "rank": 4472,
       "gameId": "162606"
     },
     {
@@ -684,7 +633,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4182,
+      "rank": 4476,
       "gameId": "162606"
     },
     {
@@ -701,7 +650,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4206,
+      "rank": 4500,
       "gameId": "162606"
     },
     {
@@ -718,7 +667,7 @@
       "teamCode": "TEN",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4212,
+      "rank": 4506,
       "gameId": "162606"
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-08T12:10:00.624Z",
-  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-09T12:10:04.394Z",
+  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Seattle Seahawks",
-  "totalProps": 44,
+  "totalProps": 46,
   "props": [
     {
       "player": "Sam Darnold",
@@ -38,7 +38,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 23,
+      "rank": 25,
       "gameId": "162474"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 60,
+      "rank": 62,
       "gameId": "162474"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 87,
+      "rank": 88,
       "gameId": "162474"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 124,
+      "rank": 127,
       "gameId": "162474"
     },
     {
@@ -110,8 +110,8 @@
       "gameId": "162474"
     },
     {
-      "player": "Cooper Kupp",
-      "stat": "Receiving Yards",
+      "player": "Sam Darnold",
+      "stat": "Pass Attempts",
       "line": 30.5,
       "sport": "NFL",
       "startTime": "09/09/26 07:20 PM CST",
@@ -123,13 +123,13 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 150,
+      "rank": 152,
       "gameId": "162474"
     },
     {
-      "player": "Sam Darnold",
-      "stat": "Pass Attempts",
-      "line": 30,
+      "player": "Cooper Kupp",
+      "stat": "Receiving Yards",
+      "line": 29.5,
       "sport": "NFL",
       "startTime": "09/09/26 07:20 PM CST",
       "startTimeCST": "09/09/26 07:20 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 153,
+      "rank": 155,
       "gameId": "162474"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 183,
+      "rank": 189,
       "gameId": "162474"
     },
     {
@@ -174,12 +174,12 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 186,
+      "rank": 191,
       "gameId": "162474"
     },
     {
-      "player": "Sam Darnold",
-      "stat": "Pass Completions",
+      "player": "Jaxon Smith-Njigba",
+      "stat": "Receiving Yards in First 2 Receptions",
       "line": 20.5,
       "sport": "NFL",
       "startTime": "09/09/26 07:20 PM CST",
@@ -191,7 +191,24 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 206,
+      "rank": 208,
+      "gameId": "162474"
+    },
+    {
+      "player": "Sam Darnold",
+      "stat": "Pass Completions",
+      "line": 20,
+      "sport": "NFL",
+      "startTime": "09/09/26 07:20 PM CST",
+      "startTimeCST": "09/09/26 07:20 PM CST",
+      "startDateCST": "2026-09-09",
+      "startTimeIso": "2026-09-09T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 210,
       "gameId": "162474"
     },
     {
@@ -208,7 +225,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 214,
+      "rank": 218,
       "gameId": "162474"
     },
     {
@@ -225,7 +242,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 243,
+      "rank": 248,
       "gameId": "162474"
     },
     {
@@ -242,29 +259,12 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 253,
+      "rank": 257,
       "gameId": "162474"
     },
     {
       "player": "AJ Barner",
       "stat": "Longest Reception",
-      "line": 14.5,
-      "sport": "NFL",
-      "startTime": "09/09/26 07:20 PM CST",
-      "startTimeCST": "09/09/26 07:20 PM CST",
-      "startDateCST": "2026-09-09",
-      "startTimeIso": "2026-09-09T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "New England Patriots",
-      "opponentCode": "NE",
-      "rank": 260,
-      "gameId": "162474"
-    },
-    {
-      "player": "Jadarian Price",
-      "stat": "Rush Attempts",
       "line": 13.5,
       "sport": "NFL",
       "startTime": "09/09/26 07:20 PM CST",
@@ -276,7 +276,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 277,
+      "rank": 280,
       "gameId": "162474"
     },
     {
@@ -293,13 +293,13 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 278,
+      "rank": 282,
       "gameId": "162474"
     },
     {
-      "player": "George Holani",
-      "stat": "Receiving Yards",
-      "line": 12.5,
+      "player": "Jadarian Price",
+      "stat": "Rush Attempts",
+      "line": 13,
       "sport": "NFL",
       "startTime": "09/09/26 07:20 PM CST",
       "startTimeCST": "09/09/26 07:20 PM CST",
@@ -310,7 +310,24 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 284,
+      "rank": 285,
+      "gameId": "162474"
+    },
+    {
+      "player": "George Holani",
+      "stat": "Receiving Yards",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "09/09/26 07:20 PM CST",
+      "startTimeCST": "09/09/26 07:20 PM CST",
+      "startDateCST": "2026-09-09",
+      "startTimeIso": "2026-09-09T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 298,
       "gameId": "162474"
     },
     {
@@ -327,24 +344,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 319,
-      "gameId": "162474"
-    },
-    {
-      "player": "Jadarian Price",
-      "stat": "Receiving Yards",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "09/09/26 07:20 PM CST",
-      "startTimeCST": "09/09/26 07:20 PM CST",
-      "startDateCST": "2026-09-09",
-      "startTimeIso": "2026-09-09T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "New England Patriots",
-      "opponentCode": "NE",
-      "rank": 321,
+      "rank": 337,
       "gameId": "162474"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 322,
+      "rank": 339,
       "gameId": "162474"
     },
     {
@@ -378,7 +378,24 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 326,
+      "rank": 347,
+      "gameId": "162474"
+    },
+    {
+      "player": "Jadarian Price",
+      "stat": "Receiving Yards",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "09/09/26 07:20 PM CST",
+      "startTimeCST": "09/09/26 07:20 PM CST",
+      "startDateCST": "2026-09-09",
+      "startTimeIso": "2026-09-09T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 356,
       "gameId": "162474"
     },
     {
@@ -395,7 +412,24 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 333,
+      "rank": 357,
+      "gameId": "162474"
+    },
+    {
+      "player": "Elijah Arroyo",
+      "stat": "Receiving Yards",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "09/09/26 07:20 PM CST",
+      "startTimeCST": "09/09/26 07:20 PM CST",
+      "startDateCST": "2026-09-09",
+      "startTimeIso": "2026-09-09T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 362,
       "gameId": "162474"
     },
     {
@@ -412,7 +446,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 338,
+      "rank": 369,
       "gameId": "162474"
     },
     {
@@ -429,7 +463,24 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 347,
+      "rank": 376,
+      "gameId": "162474"
+    },
+    {
+      "player": "Elijah Arroyo",
+      "stat": "Longest Reception",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "09/09/26 07:20 PM CST",
+      "startTimeCST": "09/09/26 07:20 PM CST",
+      "startDateCST": "2026-09-09",
+      "startTimeIso": "2026-09-09T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 378,
       "gameId": "162474"
     },
     {
@@ -446,7 +497,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 348,
+      "rank": 385,
       "gameId": "162474"
     },
     {
@@ -463,7 +514,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 353,
+      "rank": 390,
       "gameId": "162474"
     },
     {
@@ -480,7 +531,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 370,
+      "rank": 414,
       "gameId": "162474"
     },
     {
@@ -497,7 +548,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 377,
+      "rank": 427,
       "gameId": "162474"
     },
     {
@@ -514,7 +565,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 388,
+      "rank": 438,
       "gameId": "162474"
     },
     {
@@ -531,7 +582,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 389,
+      "rank": 439,
       "gameId": "162474"
     },
     {
@@ -548,7 +599,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 397,
+      "rank": 447,
       "gameId": "162474"
     },
     {
@@ -565,7 +616,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 409,
+      "rank": 467,
       "gameId": "162474"
     },
     {
@@ -582,7 +633,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 411,
+      "rank": 470,
       "gameId": "162474"
     },
     {
@@ -599,24 +650,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 417,
-      "gameId": "162474"
-    },
-    {
-      "player": "Sam Darnold",
-      "stat": "Rush Attempts",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "09/09/26 07:20 PM CST",
-      "startTimeCST": "09/09/26 07:20 PM CST",
-      "startDateCST": "2026-09-09",
-      "startTimeIso": "2026-09-09T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "New England Patriots",
-      "opponentCode": "NE",
-      "rank": 421,
+      "rank": 476,
       "gameId": "162474"
     },
     {
@@ -633,7 +667,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 427,
+      "rank": 486,
       "gameId": "162474"
     },
     {
@@ -650,7 +684,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 428,
+      "rank": 487,
       "gameId": "162474"
     },
     {
@@ -667,7 +701,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 449,
+      "rank": 512,
       "gameId": "162474"
     },
     {
@@ -684,7 +718,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 470,
+      "rank": 536,
       "gameId": "162474"
     },
     {
@@ -701,7 +735,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 517,
+      "rank": 585,
       "gameId": "162474"
     },
     {
@@ -718,7 +752,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 521,
+      "rank": 589,
       "gameId": "162474"
     },
     {
@@ -735,7 +769,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 542,
+      "rank": 609,
       "gameId": "162474"
     },
     {
@@ -752,7 +786,7 @@
       "teamCode": "SEA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 550,
+      "rank": 616,
       "gameId": "162474"
     }
   ]

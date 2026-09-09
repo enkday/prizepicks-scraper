@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-08T12:10:00.624Z",
-  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-09T12:10:04.394Z",
+  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6019,
+      "rank": 6392,
       "gameId": "162476"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6064,
+      "rank": 6437,
       "gameId": "162476"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6067,
+      "rank": 6440,
       "gameId": "162476"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6070,
+      "rank": 6443,
       "gameId": "162476"
     },
     {
       "player": "Dak Prescott",
       "stat": "Longest Completion",
-      "line": 37.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
       "startTimeCST": "09/13/26 07:20 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6127,
+      "rank": 6500,
       "gameId": "162476"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6138,
+      "rank": 6509,
       "gameId": "162476"
     },
     {
@@ -123,7 +123,24 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6141,
+      "rank": 6513,
+      "gameId": "162476"
+    },
+    {
+      "player": "George Pickens",
+      "stat": "Longest Reception",
+      "line": 24.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 07:20 PM CST",
+      "startTimeCST": "09/13/26 07:20 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 6548,
       "gameId": "162476"
     },
     {
@@ -140,12 +157,12 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6178,
+      "rank": 6549,
       "gameId": "162476"
     },
     {
-      "player": "George Pickens",
-      "stat": "Longest Reception",
+      "player": "Ryan Flournoy",
+      "stat": "Receiving Yards",
       "line": 23.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
@@ -157,12 +174,12 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6183,
+      "rank": 6559,
       "gameId": "162476"
     },
     {
-      "player": "Ryan Flournoy",
-      "stat": "Receiving Yards",
+      "player": "Dak Prescott",
+      "stat": "Pass Completions",
       "line": 22.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
@@ -174,24 +191,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6188,
-      "gameId": "162476"
-    },
-    {
-      "player": "Dak Prescott",
-      "stat": "Pass Completions",
-      "line": 22,
-      "sport": "NFL",
-      "startTime": "09/13/26 07:20 PM CST",
-      "startTimeCST": "09/13/26 07:20 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 6192,
+      "rank": 6565,
       "gameId": "162476"
     },
     {
@@ -208,13 +208,13 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6221,
+      "rank": 6596,
       "gameId": "162476"
     },
     {
       "player": "Javonte Williams",
       "stat": "Longest Rush",
-      "line": 14.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
       "startTimeCST": "09/13/26 07:20 PM CST",
@@ -225,7 +225,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6231,
+      "rank": 6604,
       "gameId": "162476"
     },
     {
@@ -242,13 +242,13 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6232,
+      "rank": 6608,
       "gameId": "162476"
     },
     {
-      "player": "Jake Ferguson",
-      "stat": "Longest Reception",
-      "line": 14.5,
+      "player": "Malik Davis",
+      "stat": "Rush Yards",
+      "line": 13.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
       "startTimeCST": "09/13/26 07:20 PM CST",
@@ -259,12 +259,12 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6233,
+      "rank": 6619,
       "gameId": "162476"
     },
     {
-      "player": "Malik Davis",
-      "stat": "Rush Yards",
+      "player": "Jake Ferguson",
+      "stat": "Longest Reception",
       "line": 12.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
@@ -276,7 +276,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6247,
+      "rank": 6622,
       "gameId": "162476"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6259,
+      "rank": 6634,
       "gameId": "162476"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6263,
+      "rank": 6638,
       "gameId": "162476"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6270,
+      "rank": 6649,
       "gameId": "162476"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6274,
+      "rank": 6655,
       "gameId": "162476"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6275,
+      "rank": 6656,
       "gameId": "162476"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6279,
+      "rank": 6660,
       "gameId": "162476"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6288,
+      "rank": 6671,
       "gameId": "162476"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6296,
+      "rank": 6679,
       "gameId": "162476"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6298,
+      "rank": 6688,
       "gameId": "162476"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6309,
+      "rank": 6699,
       "gameId": "162476"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6318,
+      "rank": 6713,
       "gameId": "162476"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6332,
+      "rank": 6732,
       "gameId": "162476"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6338,
+      "rank": 6738,
       "gameId": "162476"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6341,
+      "rank": 6743,
       "gameId": "162476"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6374,
+      "rank": 6778,
       "gameId": "162476"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6413,
+      "rank": 6820,
       "gameId": "162476"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6418,
+      "rank": 6825,
       "gameId": "162476"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6440,
+      "rank": 6847,
       "gameId": "162476"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6448,
+      "rank": 6855,
       "gameId": "162476"
     }
   ]

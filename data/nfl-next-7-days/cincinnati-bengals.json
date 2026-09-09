@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-08T12:10:00.624Z",
-  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-09T12:10:04.394Z",
+  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3308,
+      "rank": 3507,
       "gameId": "162480"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3347,
+      "rank": 3546,
       "gameId": "162480"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3371,
+      "rank": 3570,
       "gameId": "162480"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3383,
+      "rank": 3581,
       "gameId": "162480"
     },
     {
       "player": "Joe Burrow",
       "stat": "Longest Completion",
-      "line": 38.5,
+      "line": 37.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3428,
+      "rank": 3626,
       "gameId": "162480"
     },
     {
@@ -106,13 +106,13 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3437,
+      "rank": 3634,
       "gameId": "162480"
     },
     {
       "player": "Ja'Marr Chase",
       "stat": "Longest Reception",
-      "line": 26.5,
+      "line": 25.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -123,7 +123,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3481,
+      "rank": 3680,
       "gameId": "162480"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3488,
+      "rank": 3686,
       "gameId": "162480"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3493,
+      "rank": 3692,
       "gameId": "162480"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3494,
+      "rank": 3693,
       "gameId": "162480"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3504,
+      "rank": 3704,
       "gameId": "162480"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3520,
+      "rank": 3720,
       "gameId": "162480"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3550,
+      "rank": 3749,
       "gameId": "162480"
     },
     {
@@ -242,29 +242,12 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3558,
+      "rank": 3757,
       "gameId": "162480"
     },
     {
       "player": "Chase Brown",
       "stat": "Longest Reception",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3563,
-      "gameId": "162480"
-    },
-    {
-      "player": "Colbie Young",
-      "stat": "Receiving Yards",
       "line": 11.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -276,12 +259,12 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3566,
+      "rank": 3764,
       "gameId": "162480"
     },
     {
-      "player": "Andrei Iosivas",
-      "stat": "Receiving Yards",
+      "player": "Mike Gesicki",
+      "stat": "Longest Reception",
       "line": 11.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -293,7 +276,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3567,
+      "rank": 3765,
       "gameId": "162480"
     },
     {
@@ -310,46 +293,12 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3572,
-      "gameId": "162480"
-    },
-    {
-      "player": "Mike Gesicki",
-      "stat": "Longest Reception",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3573,
-      "gameId": "162480"
-    },
-    {
-      "player": "Erick All Jr.",
-      "stat": "Receiving Yards",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3574,
+      "rank": 3770,
       "gameId": "162480"
     },
     {
       "player": "Andrei Iosivas",
-      "stat": "Longest Reception",
+      "stat": "Receiving Yards",
       "line": 9.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -361,28 +310,45 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3584,
-      "gameId": "162480"
-    },
-    {
-      "player": "Colbie Young",
-      "stat": "Longest Reception",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3597,
+      "rank": 3779,
       "gameId": "162480"
     },
     {
       "player": "Erick All Jr.",
+      "stat": "Receiving Yards",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3780,
+      "gameId": "162480"
+    },
+    {
+      "player": "Colbie Young",
+      "stat": "Receiving Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3792,
+      "gameId": "162480"
+    },
+    {
+      "player": "Andrei Iosivas",
       "stat": "Longest Reception",
       "line": 8.5,
       "sport": "NFL",
@@ -395,7 +361,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3598,
+      "rank": 3793,
       "gameId": "162480"
     },
     {
@@ -412,7 +378,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3599,
+      "rank": 3794,
       "gameId": "162480"
     },
     {
@@ -429,7 +395,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3606,
+      "rank": 3803,
       "gameId": "162480"
     },
     {
@@ -446,7 +412,41 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3607,
+      "rank": 3804,
+      "gameId": "162480"
+    },
+    {
+      "player": "Colbie Young",
+      "stat": "Longest Reception",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3805,
+      "gameId": "162480"
+    },
+    {
+      "player": "Erick All Jr.",
+      "stat": "Longest Reception",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3806,
       "gameId": "162480"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3610,
+      "rank": 3810,
       "gameId": "162480"
     },
     {
@@ -480,24 +480,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3612,
-      "gameId": "162480"
-    },
-    {
-      "player": "Joe Burrow",
-      "stat": "Longest Rush",
-      "line": 6.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3618,
+      "rank": 3812,
       "gameId": "162480"
     },
     {
@@ -514,12 +497,29 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3619,
+      "rank": 3818,
       "gameId": "162480"
     },
     {
       "player": "Drew Sample",
       "stat": "Longest Reception",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3819,
+      "gameId": "162480"
+    },
+    {
+      "player": "Joe Burrow",
+      "stat": "Longest Rush",
       "line": 5.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -531,7 +531,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3629,
+      "rank": 3827,
       "gameId": "162480"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3635,
+      "rank": 3834,
       "gameId": "162480"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3642,
+      "rank": 3840,
       "gameId": "162480"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3654,
+      "rank": 3855,
       "gameId": "162480"
     },
     {
@@ -599,7 +599,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3669,
+      "rank": 3871,
       "gameId": "162480"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3679,
+      "rank": 3882,
       "gameId": "162480"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3690,
+      "rank": 3894,
       "gameId": "162480"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3713,
+      "rank": 3924,
       "gameId": "162480"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3714,
+      "rank": 3925,
       "gameId": "162480"
     },
     {
@@ -684,7 +684,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 4301,
+      "rank": 4595,
       "gameId": "162480"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 4308,
+      "rank": 4602,
       "gameId": "162480"
     },
     {
@@ -718,7 +718,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 4334,
+      "rank": 4628,
       "gameId": "162480"
     },
     {
@@ -735,7 +735,7 @@
       "teamCode": "CIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 4343,
+      "rank": 4637,
       "gameId": "162480"
     }
   ]

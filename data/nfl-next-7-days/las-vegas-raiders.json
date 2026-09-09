@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-08T12:10:00.624Z",
-  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-09T12:10:04.394Z",
+  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "LV",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3258,
+      "rank": 3453,
       "gameId": "162478"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5193,
+      "rank": 5510,
       "gameId": "162482"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5232,
+      "rank": 5551,
       "gameId": "162482"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5251,
+      "rank": 5568,
       "gameId": "162482"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5271,
+      "rank": 5588,
       "gameId": "162482"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5291,
+      "rank": 5609,
       "gameId": "162482"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5324,
+      "rank": 5641,
       "gameId": "162482"
     },
     {
@@ -140,12 +140,12 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5325,
+      "rank": 5642,
       "gameId": "162482"
     },
     {
-      "player": "Kirk Cousins",
-      "stat": "Pass Completions",
+      "player": "Jalen Nailor",
+      "stat": "Receiving Yards",
       "line": 20.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
@@ -157,12 +157,12 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5326,
+      "rank": 5643,
       "gameId": "162482"
     },
     {
-      "player": "Jalen Nailor",
-      "stat": "Receiving Yards",
+      "player": "Kirk Cousins",
+      "stat": "Pass Completions",
       "line": 19.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
@@ -174,7 +174,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5330,
+      "rank": 5660,
       "gameId": "162482"
     },
     {
@@ -191,13 +191,13 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5344,
+      "rank": 5666,
       "gameId": "162482"
     },
     {
       "player": "Jack Bech",
       "stat": "Receiving Yards",
-      "line": 14.5,
+      "line": 15.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -208,24 +208,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5356,
-      "gameId": "162482"
-    },
-    {
-      "player": "Ashton Jeanty",
-      "stat": "Rush Attempts",
-      "line": 14.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 03:25 PM CST",
-      "startTimeCST": "09/13/26 03:25 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 5361,
+      "rank": 5673,
       "gameId": "162482"
     },
     {
@@ -242,7 +225,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5369,
+      "rank": 5689,
       "gameId": "162482"
     },
     {
@@ -259,13 +242,13 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5370,
+      "rank": 5690,
       "gameId": "162482"
     },
     {
       "player": "Jack Bech",
       "stat": "Longest Reception",
-      "line": 11.5,
+      "line": 10.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -276,7 +259,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5371,
+      "rank": 5693,
       "gameId": "162482"
     },
     {
@@ -293,13 +276,13 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5374,
+      "rank": 5694,
       "gameId": "162482"
     },
     {
       "player": "Ashton Jeanty",
       "stat": "Longest Reception",
-      "line": 8.5,
+      "line": 9.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -310,7 +293,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5382,
+      "rank": 5699,
       "gameId": "162482"
     },
     {
@@ -327,7 +310,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5383,
+      "rank": 5704,
       "gameId": "162482"
     },
     {
@@ -344,7 +327,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5384,
+      "rank": 5705,
       "gameId": "162482"
     },
     {
@@ -361,7 +344,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5399,
+      "rank": 5722,
       "gameId": "162482"
     },
     {
@@ -378,7 +361,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5402,
+      "rank": 5725,
       "gameId": "162482"
     },
     {
@@ -395,7 +378,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5426,
+      "rank": 5752,
       "gameId": "162482"
     },
     {
@@ -412,7 +395,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5437,
+      "rank": 5763,
       "gameId": "162482"
     },
     {
@@ -429,7 +412,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5439,
+      "rank": 5766,
       "gameId": "162482"
     },
     {
@@ -446,7 +429,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5463,
+      "rank": 5793,
       "gameId": "162482"
     },
     {
@@ -463,7 +446,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5469,
+      "rank": 5807,
       "gameId": "162482"
     },
     {
@@ -480,7 +463,24 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5470,
+      "rank": 5808,
+      "gameId": "162482"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "stat": "Rush TDs",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 5830,
       "gameId": "162482"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5946,
+      "rank": 6319,
       "gameId": "162482"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "LV",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 5968,
+      "rank": 6341,
       "gameId": "162482"
     }
   ]

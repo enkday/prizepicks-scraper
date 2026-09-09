@@ -3,25 +3,25 @@
   "sportSlug": "nfl",
   "dayBranch": "tomorrow",
   "gameCount": 1,
-  "propCount": 83,
+  "propCount": 90,
   "games": [
     {
-      "gameId": "162474",
+      "gameId": "162475",
       "slate": "Late",
-      "startTime": "09/09/26 07:20 PM CST",
-      "startTimeIso": "2026-09-09T20:20:00.000-04:00",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
       "teams": [
-        "Seattle Seahawks",
-        "New England Patriots"
+        "Los Angeles Rams",
+        "San Francisco 49ers"
       ],
-      "propCount": 83,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/162474.json"
+      "propCount": 90,
+      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/162475.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 83,
+      "propCount": 90,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
     }
   ]

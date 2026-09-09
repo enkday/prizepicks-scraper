@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2026-09-08T12:10:00.624Z",
-  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-09T12:10:04.394Z",
+  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Atlanta Falcons",
-  "totalProps": 26,
+  "totalProps": 30,
   "props": [
     {
       "player": "Tua Tagovailoa",
       "stat": "Pass Yards",
-      "line": 209.5,
+      "line": 206.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1443,
+      "rank": 1590,
       "gameId": "162477"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1479,
+      "rank": 1627,
       "gameId": "162477"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1492,
+      "rank": 1639,
       "gameId": "162477"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1531,
+      "rank": 1677,
       "gameId": "162477"
     },
     {
@@ -89,13 +89,13 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1546,
+      "rank": 1696,
       "gameId": "162477"
     },
     {
       "player": "Tua Tagovailoa",
       "stat": "Longest Completion",
-      "line": 34.5,
+      "line": 32.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1550,
+      "rank": 1703,
       "gameId": "162477"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1557,
+      "rank": 1705,
       "gameId": "162477"
     },
     {
@@ -140,12 +140,12 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1600,
+      "rank": 1749,
       "gameId": "162477"
     },
     {
-      "player": "Tua Tagovailoa",
-      "stat": "Pass Completions",
+      "player": "Brian Robinson Jr.",
+      "stat": "Rush Yards",
       "line": 20.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -157,7 +157,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1608,
+      "rank": 1759,
       "gameId": "162477"
     },
     {
@@ -174,13 +174,13 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1631,
+      "rank": 1783,
       "gameId": "162477"
     },
     {
       "player": "Bijan Robinson",
       "stat": "Rush Attempts",
-      "line": 18,
+      "line": 18.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -191,29 +191,12 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1633,
+      "rank": 1785,
       "gameId": "162477"
     },
     {
       "player": "Kyle Pitts Sr.",
       "stat": "Longest Reception",
-      "line": 17.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 1634,
-      "gameId": "162477"
-    },
-    {
-      "player": "Bijan Robinson",
-      "stat": "Longest Rush",
       "line": 16.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -225,12 +208,12 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1640,
+      "rank": 1791,
       "gameId": "162477"
     },
     {
       "player": "Bijan Robinson",
-      "stat": "Longest Reception",
+      "stat": "Longest Rush",
       "line": 15.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -242,7 +225,24 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1646,
+      "rank": 1795,
+      "gameId": "162477"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Longest Reception",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 1798,
       "gameId": "162477"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1661,
+      "rank": 1816,
       "gameId": "162477"
     },
     {
@@ -276,7 +276,24 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1681,
+      "rank": 1836,
+      "gameId": "162477"
+    },
+    {
+      "player": "Brian Robinson Jr.",
+      "stat": "Longest Rush",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 1843,
       "gameId": "162477"
     },
     {
@@ -293,7 +310,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1696,
+      "rank": 1853,
       "gameId": "162477"
     },
     {
@@ -310,7 +327,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1701,
+      "rank": 1858,
       "gameId": "162477"
     },
     {
@@ -327,7 +344,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1704,
+      "rank": 1860,
       "gameId": "162477"
     },
     {
@@ -344,7 +361,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1712,
+      "rank": 1867,
       "gameId": "162477"
     },
     {
@@ -361,7 +378,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1738,
+      "rank": 1896,
       "gameId": "162477"
     },
     {
@@ -378,7 +395,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1754,
+      "rank": 1918,
       "gameId": "162477"
     },
     {
@@ -395,7 +412,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1756,
+      "rank": 1920,
       "gameId": "162477"
     },
     {
@@ -412,7 +429,58 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 1772,
+      "rank": 1935,
+      "gameId": "162477"
+    },
+    {
+      "player": "Tua Tagovailoa",
+      "stat": "Longest Rush",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 1939,
+      "gameId": "162477"
+    },
+    {
+      "player": "Tua Tagovailoa",
+      "stat": "Pass TDs",
+      "line": 1,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 1944,
+      "gameId": "162477"
+    },
+    {
+      "player": "Bijan Robinson",
+      "stat": "Rush TDs",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 1966,
       "gameId": "162477"
     },
     {
@@ -429,7 +497,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 4111,
+      "rank": 4405,
       "gameId": "162477"
     },
     {
@@ -446,7 +514,7 @@
       "teamCode": "ATL",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 4138,
+      "rank": 4432,
       "gameId": "162477"
     }
   ]

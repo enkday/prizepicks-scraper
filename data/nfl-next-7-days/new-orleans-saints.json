@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-08T12:10:00.624Z",
-  "scrapedDate": "Tuesday, September 8, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-09T12:10:04.394Z",
+  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2959,
+      "rank": 3151,
       "gameId": "162478"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3001,
+      "rank": 3194,
       "gameId": "162478"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3023,
+      "rank": 3216,
       "gameId": "162478"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3042,
+      "rank": 3235,
       "gameId": "162478"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3049,
+      "rank": 3243,
       "gameId": "162478"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3064,
+      "rank": 3256,
       "gameId": "162478"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3073,
+      "rank": 3266,
       "gameId": "162478"
     },
     {
       "player": "Chris Olave",
       "stat": "Longest Reception",
-      "line": 24.5,
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3104,
+      "rank": 3300,
       "gameId": "162478"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3117,
+      "rank": 3308,
       "gameId": "162478"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3136,
+      "rank": 3329,
       "gameId": "162478"
     },
     {
@@ -191,24 +191,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3143,
-      "gameId": "162478"
-    },
-    {
-      "player": "Devaughn Vele",
-      "stat": "Longest Reception",
-      "line": 17.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 3144,
+      "rank": 3333,
       "gameId": "162478"
     },
     {
@@ -225,7 +208,24 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3149,
+      "rank": 3340,
+      "gameId": "162478"
+    },
+    {
+      "player": "Devaughn Vele",
+      "stat": "Longest Reception",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3341,
       "gameId": "162478"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3152,
+      "rank": 3345,
       "gameId": "162478"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3161,
+      "rank": 3355,
       "gameId": "162478"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3165,
+      "rank": 3358,
       "gameId": "162478"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3169,
+      "rank": 3362,
       "gameId": "162478"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3177,
+      "rank": 3369,
       "gameId": "162478"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3190,
+      "rank": 3381,
       "gameId": "162478"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3191,
+      "rank": 3382,
       "gameId": "162478"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3194,
+      "rank": 3386,
       "gameId": "162478"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3206,
+      "rank": 3397,
       "gameId": "162478"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3219,
+      "rank": 3412,
       "gameId": "162478"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3220,
+      "rank": 3413,
       "gameId": "162478"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3221,
+      "rank": 3414,
       "gameId": "162478"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3224,
+      "rank": 3417,
       "gameId": "162478"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3233,
+      "rank": 3427,
       "gameId": "162478"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 3266,
+      "rank": 3463,
       "gameId": "162478"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 4266,
+      "rank": 4560,
       "gameId": "162478"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 4273,
+      "rank": 4567,
       "gameId": "162478"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 4296,
+      "rank": 4590,
       "gameId": "162478"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "NO",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 4299,
+      "rank": 4593,
       "gameId": "162478"
     }
   ]
