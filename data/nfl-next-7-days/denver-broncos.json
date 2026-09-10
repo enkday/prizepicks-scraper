@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-09T12:10:04.394Z",
-  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-10T12:10:05.709Z",
+  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -21,7 +21,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6881,
+      "rank": 6719,
       "gameId": "162492"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6941,
+      "rank": 6782,
       "gameId": "162492"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6945,
+      "rank": 6786,
       "gameId": "162492"
     },
     {
       "player": "Courtland Sutton",
       "stat": "Receiving Yards",
-      "line": 42.5,
+      "line": 43.5,
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6965,
+      "rank": 6808,
       "gameId": "162492"
     },
     {
       "player": "Bo Nix",
       "stat": "Longest Completion",
-      "line": 34.5,
+      "line": 35.5,
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6987,
+      "rank": 6829,
       "gameId": "162492"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6988,
+      "rank": 6831,
       "gameId": "162492"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7041,
+      "rank": 6886,
       "gameId": "162492"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7046,
+      "rank": 6890,
       "gameId": "162492"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7049,
+      "rank": 6894,
       "gameId": "162492"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7052,
+      "rank": 6896,
       "gameId": "162492"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7088,
+      "rank": 6933,
       "gameId": "162492"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7090,
+      "rank": 6935,
       "gameId": "162492"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7096,
+      "rank": 6941,
       "gameId": "162492"
     },
     {
@@ -242,47 +242,13 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7102,
-      "gameId": "162492"
-    },
-    {
-      "player": "J.K. Dobbins",
-      "stat": "Longest Rush",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 7114,
-      "gameId": "162492"
-    },
-    {
-      "player": "Pat Bryant",
-      "stat": "Longest Reception",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 7118,
+      "rank": 6946,
       "gameId": "162492"
     },
     {
       "player": "J.K. Dobbins",
       "stat": "Rush Attempts",
-      "line": 12,
+      "line": 12.5,
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
@@ -293,13 +259,30 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7122,
+      "rank": 6964,
+      "gameId": "162492"
+    },
+    {
+      "player": "J.K. Dobbins",
+      "stat": "Longest Rush",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6965,
       "gameId": "162492"
     },
     {
       "player": "Evan Engram",
       "stat": "Longest Reception",
-      "line": 11.5,
+      "line": 12.5,
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
@@ -310,7 +293,24 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7126,
+      "rank": 6966,
+      "gameId": "162492"
+    },
+    {
+      "player": "Pat Bryant",
+      "stat": "Longest Reception",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6967,
       "gameId": "162492"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7130,
+      "rank": 6975,
       "gameId": "162492"
     },
     {
@@ -344,24 +344,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7151,
-      "gameId": "162492"
-    },
-    {
-      "player": "RJ Harvey",
-      "stat": "Longest Rush",
-      "line": 8.5,
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 7157,
+      "rank": 6997,
       "gameId": "162492"
     },
     {
@@ -378,7 +361,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7165,
+      "rank": 7009,
       "gameId": "162492"
     },
     {
@@ -395,7 +378,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7168,
+      "rank": 7014,
       "gameId": "162492"
     },
     {
@@ -412,7 +395,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7169,
+      "rank": 7015,
       "gameId": "162492"
     },
     {
@@ -429,13 +412,13 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7170,
+      "rank": 7016,
       "gameId": "162492"
     },
     {
       "player": "Adam Trautman",
       "stat": "Longest Reception",
-      "line": 6.5,
+      "line": 5.5,
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
@@ -446,7 +429,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7174,
+      "rank": 7035,
       "gameId": "162492"
     },
     {
@@ -463,7 +446,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7196,
+      "rank": 7038,
       "gameId": "162492"
     },
     {
@@ -480,7 +463,24 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7217,
+      "rank": 7063,
+      "gameId": "162492"
+    },
+    {
+      "player": "Evan Engram",
+      "stat": "Rec Targets",
+      "line": 4,
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7064,
       "gameId": "162492"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7226,
+      "rank": 7073,
       "gameId": "162492"
     },
     {
@@ -514,24 +514,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7227,
-      "gameId": "162492"
-    },
-    {
-      "player": "Evan Engram",
-      "stat": "Rec Targets",
-      "line": 3.5,
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 7239,
+      "rank": 7074,
       "gameId": "162492"
     },
     {
@@ -548,7 +531,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7240,
+      "rank": 7086,
       "gameId": "162492"
     },
     {
@@ -565,7 +548,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7244,
+      "rank": 7089,
       "gameId": "162492"
     },
     {
@@ -582,7 +565,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7256,
+      "rank": 7102,
       "gameId": "162492"
     },
     {
@@ -599,7 +582,24 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7274,
+      "rank": 7120,
+      "gameId": "162492"
+    },
+    {
+      "player": "Bo Nix",
+      "stat": "Sacks Taken",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7142,
       "gameId": "162492"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7296,
+      "rank": 7143,
       "gameId": "162492"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7299,
+      "rank": 7146,
       "gameId": "162492"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7355,
+      "rank": 7202,
       "gameId": "162492"
     },
     {
@@ -667,7 +667,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7358,
+      "rank": 7205,
       "gameId": "162492"
     },
     {
@@ -684,7 +684,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7379,
+      "rank": 7226,
       "gameId": "162492"
     },
     {
@@ -701,7 +701,7 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 7387,
+      "rank": 7234,
       "gameId": "162492"
     }
   ]

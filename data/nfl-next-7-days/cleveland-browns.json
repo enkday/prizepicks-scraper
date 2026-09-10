@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2026-09-09T12:10:04.394Z",
-  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-10T12:10:05.709Z",
+  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cleveland Browns",
-  "totalProps": 33,
+  "totalProps": 37,
   "props": [
     {
       "player": "Deshaun Watson",
       "stat": "Pass Yards",
-      "line": 176.5,
+      "line": 178.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2762,
+      "rank": 2343,
       "gameId": "162607"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2799,
+      "rank": 2381,
       "gameId": "162607"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2864,
+      "rank": 2449,
       "gameId": "162607"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2865,
+      "rank": 2450,
       "gameId": "162607"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2873,
+      "rank": 2459,
       "gameId": "162607"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2879,
+      "rank": 2462,
       "gameId": "162607"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2880,
+      "rank": 2463,
       "gameId": "162607"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2914,
+      "rank": 2506,
       "gameId": "162607"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2926,
+      "rank": 2518,
       "gameId": "162607"
     },
     {
@@ -174,24 +174,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2949,
-      "gameId": "162607"
-    },
-    {
-      "player": "KC Concepcion",
-      "stat": "Longest Reception",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 2956,
+      "rank": 2546,
       "gameId": "162607"
     },
     {
@@ -208,7 +191,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2959,
+      "rank": 2556,
       "gameId": "162607"
     },
     {
@@ -225,7 +208,24 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2960,
+      "rank": 2557,
+      "gameId": "162607"
+    },
+    {
+      "player": "KC Concepcion",
+      "stat": "Longest Reception",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 2558,
       "gameId": "162607"
     },
     {
@@ -242,7 +242,24 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2962,
+      "rank": 2560,
+      "gameId": "162607"
+    },
+    {
+      "player": "Denzel Boston",
+      "stat": "Longest Reception",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 2571,
       "gameId": "162607"
     },
     {
@@ -259,24 +276,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2978,
-      "gameId": "162607"
-    },
-    {
-      "player": "Denzel Boston",
-      "stat": "Longest Reception",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 2979,
+      "rank": 2575,
       "gameId": "162607"
     },
     {
@@ -293,13 +293,13 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2987,
+      "rank": 2585,
       "gameId": "162607"
     },
     {
       "player": "Deshaun Watson",
       "stat": "Longest Rush",
-      "line": 8.5,
+      "line": 9.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -310,11 +310,28 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3001,
+      "rank": 2590,
       "gameId": "162607"
     },
     {
-      "player": "Quinshon Judkins",
+      "player": "Dylan Sampson",
+      "stat": "Receiving Yards",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 2598,
+      "gameId": "162607"
+    },
+    {
+      "player": "Dylan Sampson",
       "stat": "Longest Reception",
       "line": 7.5,
       "sport": "NFL",
@@ -327,7 +344,41 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3007,
+      "rank": 2611,
+      "gameId": "162607"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "stat": "Longest Reception",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 2614,
+      "gameId": "162607"
+    },
+    {
+      "player": "Dylan Sampson",
+      "stat": "Rush Yards",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 2619,
       "gameId": "162607"
     },
     {
@@ -344,7 +395,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3019,
+      "rank": 2620,
       "gameId": "162607"
     },
     {
@@ -361,7 +412,24 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3020,
+      "rank": 2621,
+      "gameId": "162607"
+    },
+    {
+      "player": "KC Concepcion",
+      "stat": "Rec Targets",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 2628,
       "gameId": "162607"
     },
     {
@@ -378,24 +446,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3029,
-      "gameId": "162607"
-    },
-    {
-      "player": "KC Concepcion",
-      "stat": "Rec Targets",
-      "line": 5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 3030,
+      "rank": 2632,
       "gameId": "162607"
     },
     {
@@ -412,7 +463,24 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3042,
+      "rank": 2644,
+      "gameId": "162607"
+    },
+    {
+      "player": "Dylan Sampson",
+      "stat": "Longest Rush",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 2648,
       "gameId": "162607"
     },
     {
@@ -429,7 +497,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3046,
+      "rank": 2649,
       "gameId": "162607"
     },
     {
@@ -446,7 +514,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3048,
+      "rank": 2651,
       "gameId": "162607"
     },
     {
@@ -463,7 +531,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3058,
+      "rank": 2661,
       "gameId": "162607"
     },
     {
@@ -480,7 +548,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3063,
+      "rank": 2668,
       "gameId": "162607"
     },
     {
@@ -497,7 +565,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 3084,
+      "rank": 2689,
       "gameId": "162607"
     },
     {
@@ -514,7 +582,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 4516,
+      "rank": 4181,
       "gameId": "162607"
     },
     {
@@ -531,7 +599,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 4519,
+      "rank": 4184,
       "gameId": "162607"
     },
     {
@@ -548,7 +616,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 4551,
+      "rank": 4216,
       "gameId": "162607"
     },
     {
@@ -565,7 +633,7 @@
       "teamCode": "CLE",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 4557,
+      "rank": 4223,
       "gameId": "162607"
     }
   ]

@@ -1,12 +1,22 @@
 [
   {
-    "teamCode": "los-angeles-rams",
-    "teamName": "Los Angeles Rams",
-    "sport": "NFL"
+    "teamCode": "rutgers-scarlet-knights",
+    "teamName": "Rutgers Scarlet Knights",
+    "sport": "NCAAF"
   },
   {
-    "teamCode": "san-francisco-49ers",
-    "teamName": "San Francisco 49ers",
-    "sport": "NFL"
+    "teamCode": "boston-college-eagles",
+    "teamName": "Boston College Eagles",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "missouri-tigers",
+    "teamName": "Missouri Tigers",
+    "sport": "NCAAF"
+  },
+  {
+    "teamCode": "kansas-jayhawks",
+    "teamName": "Kansas Jayhawks",
+    "sport": "NCAAF"
   }
 ]

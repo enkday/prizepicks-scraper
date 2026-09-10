@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-09T12:10:04.394Z",
-  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-10T12:10:05.709Z",
+  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Detroit Lions",
-  "totalProps": 36,
+  "totalProps": 35,
   "props": [
     {
       "player": "Jared Goff",
@@ -21,13 +21,13 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3142,
+      "rank": 2751,
       "gameId": "162478"
     },
     {
       "player": "Jahmyr Gibbs",
       "stat": "Rush Yards",
-      "line": 83.5,
+      "line": 84.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3188,
+      "rank": 2793,
       "gameId": "162478"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3193,
+      "rank": 2797,
       "gameId": "162478"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3215,
+      "rank": 2822,
       "gameId": "162478"
     },
     {
@@ -89,13 +89,13 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3237,
+      "rank": 2844,
       "gameId": "162478"
     },
     {
       "player": "Jared Goff",
       "stat": "Longest Completion",
-      "line": 35.5,
+      "line": 36.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -106,7 +106,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3257,
+      "rank": 2859,
       "gameId": "162478"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3263,
+      "rank": 2868,
       "gameId": "162478"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3271,
+      "rank": 2876,
       "gameId": "162478"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3302,
+      "rank": 2907,
       "gameId": "162478"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3303,
+      "rank": 2908,
       "gameId": "162478"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3305,
+      "rank": 2910,
       "gameId": "162478"
     },
     {
@@ -208,13 +208,13 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3330,
+      "rank": 2936,
       "gameId": "162478"
     },
     {
       "player": "Sam LaPorta",
       "stat": "Longest Reception",
-      "line": 17.5,
+      "line": 18.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -225,13 +225,13 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3335,
+      "rank": 2937,
       "gameId": "162478"
     },
     {
       "player": "Jahmyr Gibbs",
       "stat": "Rush Attempts",
-      "line": 17.5,
+      "line": 18.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -242,7 +242,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3337,
+      "rank": 2939,
       "gameId": "162478"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3339,
+      "rank": 2944,
       "gameId": "162478"
     },
     {
@@ -276,13 +276,13 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3351,
+      "rank": 2957,
       "gameId": "162478"
     },
     {
       "player": "Isaac TeSlaa",
       "stat": "Longest Reception",
-      "line": 12.5,
+      "line": 13.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -293,7 +293,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3356,
+      "rank": 2959,
       "gameId": "162478"
     },
     {
@@ -310,13 +310,13 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3368,
+      "rank": 2973,
       "gameId": "162478"
     },
     {
       "player": "Jake Bates",
       "stat": "Kicking Points",
-      "line": 7.5,
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -327,7 +327,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3372,
+      "rank": 2977,
       "gameId": "162478"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3379,
+      "rank": 2983,
       "gameId": "162478"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3385,
+      "rank": 2991,
       "gameId": "162478"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3394,
+      "rank": 3000,
       "gameId": "162478"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3396,
+      "rank": 3002,
       "gameId": "162478"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3409,
+      "rank": 3014,
       "gameId": "162478"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3410,
+      "rank": 3015,
       "gameId": "162478"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3411,
+      "rank": 3016,
       "gameId": "162478"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3440,
+      "rank": 3046,
       "gameId": "162478"
     },
     {
@@ -480,24 +480,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3443,
-      "gameId": "162478"
-    },
-    {
-      "player": "Jake Bates",
-      "stat": "FG Made",
-      "line": 1.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 3445,
+      "rank": 3049,
       "gameId": "162478"
     },
     {
@@ -514,7 +497,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3459,
+      "rank": 3068,
       "gameId": "162478"
     },
     {
@@ -531,7 +514,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3460,
+      "rank": 3069,
       "gameId": "162478"
     },
     {
@@ -548,7 +531,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 3461,
+      "rank": 3070,
       "gameId": "162478"
     },
     {
@@ -565,7 +548,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4559,
+      "rank": 4226,
       "gameId": "162478"
     },
     {
@@ -582,7 +565,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4562,
+      "rank": 4229,
       "gameId": "162478"
     },
     {
@@ -599,7 +582,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4589,
+      "rank": 4256,
       "gameId": "162478"
     },
     {
@@ -616,7 +599,7 @@
       "teamCode": "DET",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4592,
+      "rank": 4259,
       "gameId": "162478"
     }
   ]

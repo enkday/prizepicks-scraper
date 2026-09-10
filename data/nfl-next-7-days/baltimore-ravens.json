@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-09T12:10:04.394Z",
-  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-10T12:10:05.709Z",
+  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Baltimore Ravens",
-  "totalProps": 36,
+  "totalProps": 37,
   "props": [
     {
       "player": "Lamar Jackson",
@@ -21,13 +21,13 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2004,
+      "rank": 1523,
       "gameId": "162479"
     },
     {
       "player": "Derrick Henry",
       "stat": "Rush Yards",
-      "line": 80.5,
+      "line": 81.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2039,
+      "rank": 1558,
       "gameId": "162479"
     },
     {
       "player": "Zay Flowers",
       "stat": "Receiving Yards",
-      "line": 64.5,
+      "line": 65.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -55,7 +55,24 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2054,
+      "rank": 1574,
+      "gameId": "162479"
+    },
+    {
+      "player": "Lamar Jackson",
+      "stat": "Longest Completion",
+      "line": 37.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 1626,
       "gameId": "162479"
     },
     {
@@ -72,24 +89,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2098,
-      "gameId": "162479"
-    },
-    {
-      "player": "Lamar Jackson",
-      "stat": "Longest Completion",
-      "line": 36.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2099,
+      "rank": 1627,
       "gameId": "162479"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2102,
+      "rank": 1631,
       "gameId": "162479"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2138,
+      "rank": 1672,
       "gameId": "162479"
     },
     {
@@ -140,13 +140,13 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2139,
+      "rank": 1673,
       "gameId": "162479"
     },
     {
       "player": "Zay Flowers",
       "stat": "Longest Reception",
-      "line": 24.5,
+      "line": 25.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -157,13 +157,13 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2142,
+      "rank": 1675,
       "gameId": "162479"
     },
     {
       "player": "Ja'Kobi Lane",
       "stat": "Receiving Yards",
-      "line": 20.5,
+      "line": 19.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -174,7 +174,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2157,
+      "rank": 1702,
       "gameId": "162479"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2182,
+      "rank": 1722,
       "gameId": "162479"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2183,
+      "rank": 1725,
       "gameId": "162479"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2188,
+      "rank": 1728,
       "gameId": "162479"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2194,
+      "rank": 1732,
       "gameId": "162479"
     },
     {
@@ -259,13 +259,13 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2211,
+      "rank": 1751,
       "gameId": "162479"
     },
     {
       "player": "Justice Hill",
       "stat": "Receiving Yards",
-      "line": 10.5,
+      "line": 11.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -276,13 +276,13 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2215,
+      "rank": 1752,
       "gameId": "162479"
     },
     {
       "player": "Justice Hill",
       "stat": "Rush Yards",
-      "line": 9.5,
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -293,13 +293,13 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2222,
+      "rank": 1769,
       "gameId": "162479"
     },
     {
       "player": "Justice Hill",
       "stat": "Longest Reception",
-      "line": 9.5,
+      "line": 8.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -310,7 +310,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2223,
+      "rank": 1773,
       "gameId": "162479"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2234,
+      "rank": 1775,
       "gameId": "162479"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2237,
+      "rank": 1780,
       "gameId": "162479"
     },
     {
@@ -361,7 +361,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2242,
+      "rank": 1785,
       "gameId": "162479"
     },
     {
@@ -378,7 +378,24 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2251,
+      "rank": 1793,
+      "gameId": "162479"
+    },
+    {
+      "player": "Justice Hill",
+      "stat": "Longest Rush",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 1795,
       "gameId": "162479"
     },
     {
@@ -395,7 +412,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2259,
+      "rank": 1803,
       "gameId": "162479"
     },
     {
@@ -412,7 +429,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2262,
+      "rank": 1807,
       "gameId": "162479"
     },
     {
@@ -429,24 +446,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2263,
-      "gameId": "162479"
-    },
-    {
-      "player": "Justice Hill",
-      "stat": "Longest Rush",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2264,
+      "rank": 1808,
       "gameId": "162479"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2288,
+      "rank": 1834,
       "gameId": "162479"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2306,
+      "rank": 1859,
       "gameId": "162479"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2307,
+      "rank": 1860,
       "gameId": "162479"
     },
     {
@@ -514,7 +514,24 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2310,
+      "rank": 1863,
+      "gameId": "162479"
+    },
+    {
+      "player": "Justice Hill",
+      "stat": "Receptions",
+      "line": 2,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 1864,
       "gameId": "162479"
     },
     {
@@ -531,7 +548,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2312,
+      "rank": 1866,
       "gameId": "162479"
     },
     {
@@ -548,7 +565,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2333,
+      "rank": 1892,
       "gameId": "162479"
     },
     {
@@ -565,7 +582,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4437,
+      "rank": 4099,
       "gameId": "162479"
     },
     {
@@ -582,7 +599,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4439,
+      "rank": 4101,
       "gameId": "162479"
     },
     {
@@ -599,7 +616,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4462,
+      "rank": 4125,
       "gameId": "162479"
     },
     {
@@ -616,7 +633,7 @@
       "teamCode": "BAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4466,
+      "rank": 4130,
       "gameId": "162479"
     }
   ]

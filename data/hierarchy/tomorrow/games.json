@@ -1,11 +1,22 @@
 [
   {
-    "gameId": "162475",
-    "sport": "NFL",
-    "startTime": "09/10/26 07:35 PM CST",
+    "gameId": "179193",
+    "sport": "NCAAF",
+    "startTime": "09/11/26 06:30 PM CST",
     "teams": [
-      "Los Angeles Rams",
-      "San Francisco 49ers"
+      "Rutgers Scarlet Knights",
+      "Boston College Eagles"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179194",
+    "sport": "NCAAF",
+    "startTime": "09/11/26 07:00 PM CST",
+    "teams": [
+      "Missouri Tigers",
+      "Kansas Jayhawks"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"

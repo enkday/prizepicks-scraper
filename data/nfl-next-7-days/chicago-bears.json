@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2026-09-09T12:10:04.394Z",
-  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-10T12:10:05.709Z",
+  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Chicago Bears",
-  "totalProps": 38,
+  "totalProps": 42,
   "props": [
     {
       "player": "Caleb Williams",
       "stat": "Pass Yards",
-      "line": 227.5,
+      "line": 228.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1235,
+      "rank": 672,
       "gameId": "163388"
     },
     {
       "player": "D'Andre Swift",
       "stat": "Rush Yards",
-      "line": 68.5,
+      "line": 67.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1271,
+      "rank": 714,
       "gameId": "163388"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1285,
+      "rank": 728,
       "gameId": "163388"
     },
     {
       "player": "Colston Loveland",
       "stat": "Receiving Yards",
-      "line": 51.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -72,13 +72,13 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1289,
+      "rank": 731,
       "gameId": "163388"
     },
     {
       "player": "Rome Odunze",
       "stat": "Receiving Yards",
-      "line": 47.5,
+      "line": 43.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1303,
+      "rank": 754,
       "gameId": "163388"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1318,
+      "rank": 770,
       "gameId": "163388"
     },
     {
@@ -123,7 +123,24 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1325,
+      "rank": 778,
+      "gameId": "163388"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards",
+      "line": 25.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 816,
       "gameId": "163388"
     },
     {
@@ -140,7 +157,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1370,
+      "rank": 832,
       "gameId": "163388"
     },
     {
@@ -157,7 +174,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1374,
+      "rank": 836,
       "gameId": "163388"
     },
     {
@@ -174,7 +191,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1377,
+      "rank": 837,
       "gameId": "163388"
     },
     {
@@ -191,7 +208,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1382,
+      "rank": 842,
       "gameId": "163388"
     },
     {
@@ -208,7 +225,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1383,
+      "rank": 843,
       "gameId": "163388"
     },
     {
@@ -225,7 +242,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1403,
+      "rank": 875,
       "gameId": "163388"
     },
     {
@@ -242,7 +259,24 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1405,
+      "rank": 878,
+      "gameId": "163388"
+    },
+    {
+      "player": "D'Andre Swift",
+      "stat": "Longest Rush",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 882,
       "gameId": "163388"
     },
     {
@@ -259,12 +293,12 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1410,
+      "rank": 883,
       "gameId": "163388"
     },
     {
       "player": "D'Andre Swift",
-      "stat": "Longest Rush",
+      "stat": "Receiving Yards",
       "line": 13.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -276,24 +310,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1416,
-      "gameId": "163388"
-    },
-    {
-      "player": "D'Andre Swift",
-      "stat": "Receiving Yards",
-      "line": 11.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1418,
+      "rank": 888,
       "gameId": "163388"
     },
     {
@@ -310,7 +327,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1419,
+      "rank": 892,
       "gameId": "163388"
     },
     {
@@ -327,12 +344,12 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1421,
+      "rank": 896,
       "gameId": "163388"
     },
     {
-      "player": "Cole Kmet",
-      "stat": "Longest Reception",
+      "player": "Kyle Monangai",
+      "stat": "Longest Rush",
       "line": 9.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -344,7 +361,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1430,
+      "rank": 907,
       "gameId": "163388"
     },
     {
@@ -361,7 +378,24 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1435,
+      "rank": 911,
+      "gameId": "163388"
+    },
+    {
+      "player": "Cole Kmet",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 912,
       "gameId": "163388"
     },
     {
@@ -378,7 +412,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1439,
+      "rank": 919,
       "gameId": "163388"
     },
     {
@@ -395,7 +429,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1448,
+      "rank": 928,
       "gameId": "163388"
     },
     {
@@ -412,7 +446,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1449,
+      "rank": 929,
       "gameId": "163388"
     },
     {
@@ -429,7 +463,41 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1450,
+      "rank": 930,
+      "gameId": "163388"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Longest Reception",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 941,
+      "gameId": "163388"
+    },
+    {
+      "player": "Kyle Monangai",
+      "stat": "Receiving Yards",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 942,
       "gameId": "163388"
     },
     {
@@ -446,7 +514,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1471,
+      "rank": 956,
       "gameId": "163388"
     },
     {
@@ -463,7 +531,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1507,
+      "rank": 996,
       "gameId": "163388"
     },
     {
@@ -480,7 +548,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1509,
+      "rank": 998,
       "gameId": "163388"
     },
     {
@@ -497,7 +565,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1510,
+      "rank": 999,
       "gameId": "163388"
     },
     {
@@ -514,12 +582,12 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1514,
+      "rank": 1005,
       "gameId": "163388"
     },
     {
-      "player": "Kalif Raymond",
-      "stat": "Receptions",
+      "player": "Cairo Santos",
+      "stat": "FG Made",
       "line": 1.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -531,7 +599,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1531,
+      "rank": 1023,
       "gameId": "163388"
     },
     {
@@ -548,7 +616,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1536,
+      "rank": 1031,
       "gameId": "163388"
     },
     {
@@ -565,7 +633,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1563,
+      "rank": 1058,
       "gameId": "163388"
     },
     {
@@ -582,7 +650,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1571,
+      "rank": 1067,
       "gameId": "163388"
     },
     {
@@ -599,7 +667,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4372,
+      "rank": 4028,
       "gameId": "163388"
     },
     {
@@ -616,7 +684,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4374,
+      "rank": 4030,
       "gameId": "163388"
     },
     {
@@ -633,7 +701,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4394,
+      "rank": 4051,
       "gameId": "163388"
     },
     {
@@ -650,7 +718,7 @@
       "teamCode": "CHI",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4399,
+      "rank": 4058,
       "gameId": "163388"
     }
   ]

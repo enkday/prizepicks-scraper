@@ -3,25 +3,25 @@
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
   "gameCount": 1,
-  "propCount": 41,
+  "propCount": 6,
   "games": [
     {
-      "gameId": "178403",
+      "gameId": "183291",
       "slate": "Late",
-      "startTime": "09/07/26 06:30 PM CST",
-      "startTimeIso": "2026-09-07T19:30:00.000-04:00",
+      "startTime": "09/10/26 07:00 PM CST",
+      "startTimeIso": "2026-09-10T20:00:00.000-04:00",
       "teams": [
-        "Florida State Seminoles",
-        "SMU Mustangs"
+        "Miami (FL) Hurricanes",
+        "Florida A&M Rattlers"
       ],
-      "propCount": 41,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/178403.json"
+      "propCount": 6,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/183291.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 41,
+      "propCount": 6,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]

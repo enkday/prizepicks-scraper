@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-09T12:10:04.394Z",
-  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-10T12:10:05.709Z",
+  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Rams",
-  "totalProps": 47,
+  "totalProps": 58,
   "props": [
     {
       "player": "Puka Nacua",
@@ -21,7 +21,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2,
+      "rank": 1,
       "gameId": "162475"
     },
     {
@@ -38,7 +38,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 619,
+      "rank": 2,
       "gameId": "162475"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 620,
+      "rank": 3,
       "gameId": "162475"
     },
     {
       "player": "Puka Nacua",
       "stat": "Rush Yards",
-      "line": 2.5,
+      "line": 1.5,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
       "startTimeCST": "09/10/26 07:35 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 621,
+      "rank": 4,
       "gameId": "162475"
     },
     {
@@ -89,13 +89,13 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 626,
+      "rank": 10,
       "gameId": "162475"
     },
     {
       "player": "Kyren Williams",
       "stat": "Rush Yards",
-      "line": 54.5,
+      "line": 55.5,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
       "startTimeCST": "09/10/26 07:35 PM CST",
@@ -106,13 +106,13 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 710,
+      "rank": 97,
       "gameId": "162475"
     },
     {
       "player": "Davante Adams",
       "stat": "Receiving Yards",
-      "line": 52.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
       "startTimeCST": "09/10/26 07:35 PM CST",
@@ -123,13 +123,13 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 715,
+      "rank": 100,
       "gameId": "162475"
     },
     {
       "player": "Blake Corum",
       "stat": "Rush Yards",
-      "line": 45.5,
+      "line": 44.5,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
       "startTimeCST": "09/10/26 07:35 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 734,
+      "rank": 125,
       "gameId": "162475"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 757,
+      "rank": 145,
       "gameId": "162475"
     },
     {
@@ -174,13 +174,13 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 765,
+      "rank": 153,
       "gameId": "162475"
     },
     {
       "player": "Puka Nacua",
       "stat": "Longest Reception",
-      "line": 27.5,
+      "line": 26.5,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
       "startTimeCST": "09/10/26 07:35 PM CST",
@@ -191,7 +191,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 808,
+      "rank": 197,
       "gameId": "162475"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 817,
+      "rank": 204,
       "gameId": "162475"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 827,
+      "rank": 216,
       "gameId": "162475"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 837,
+      "rank": 224,
       "gameId": "162475"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 840,
+      "rank": 227,
       "gameId": "162475"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 854,
+      "rank": 240,
       "gameId": "162475"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 883,
+      "rank": 275,
       "gameId": "162475"
     },
     {
@@ -310,7 +310,24 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 893,
+      "rank": 286,
+      "gameId": "162475"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rush Attempts",
+      "line": 13,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 300,
       "gameId": "162475"
     },
     {
@@ -327,7 +344,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 908,
+      "rank": 301,
       "gameId": "162475"
     },
     {
@@ -344,7 +361,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 909,
+      "rank": 302,
       "gameId": "162475"
     },
     {
@@ -361,7 +378,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 922,
+      "rank": 312,
       "gameId": "162475"
     },
     {
@@ -378,7 +395,24 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 924,
+      "rank": 315,
+      "gameId": "162475"
+    },
+    {
+      "player": "Davante Adams",
+      "stat": "Yards on First Reception",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 318,
       "gameId": "162475"
     },
     {
@@ -395,7 +429,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 929,
+      "rank": 320,
       "gameId": "162475"
     },
     {
@@ -412,13 +446,13 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 935,
+      "rank": 324,
       "gameId": "162475"
     },
     {
-      "player": "Harrison Mevis",
-      "stat": "Kicking Points",
-      "line": 7.5,
+      "player": "Puka Nacua",
+      "stat": "Yards on First Reception",
+      "line": 9.5,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
       "startTimeCST": "09/10/26 07:35 PM CST",
@@ -429,7 +463,24 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 959,
+      "rank": 341,
+      "gameId": "162475"
+    },
+    {
+      "player": "Harrison Mevis",
+      "stat": "Kicking Points",
+      "line": 8,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 354,
       "gameId": "162475"
     },
     {
@@ -446,7 +497,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 960,
+      "rank": 357,
       "gameId": "162475"
     },
     {
@@ -463,7 +514,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 966,
+      "rank": 362,
       "gameId": "162475"
     },
     {
@@ -480,7 +531,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 972,
+      "rank": 366,
       "gameId": "162475"
     },
     {
@@ -497,7 +548,24 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1005,
+      "rank": 403,
+      "gameId": "162475"
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Yards on First Reception",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 425,
       "gameId": "162475"
     },
     {
@@ -514,7 +582,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1048,
+      "rank": 446,
       "gameId": "162475"
     },
     {
@@ -531,7 +599,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1049,
+      "rank": 447,
       "gameId": "162475"
     },
     {
@@ -548,7 +616,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1058,
+      "rank": 465,
       "gameId": "162475"
     },
     {
@@ -565,7 +633,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1059,
+      "rank": 466,
       "gameId": "162475"
     },
     {
@@ -582,24 +650,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1060,
-      "gameId": "162475"
-    },
-    {
-      "player": "Blake Corum",
-      "stat": "Longest Reception",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "09/10/26 07:35 PM CST",
-      "startTimeCST": "09/10/26 07:35 PM CST",
-      "startDateCST": "2026-09-10",
-      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LAR",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 1064,
+      "rank": 467,
       "gameId": "162475"
     },
     {
@@ -616,12 +667,12 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1078,
+      "rank": 484,
       "gameId": "162475"
     },
     {
-      "player": "Kyren Williams",
-      "stat": "Rec Targets",
+      "player": "Colby Parkinson",
+      "stat": "Receptions",
       "line": 2,
       "sport": "NFL",
       "startTime": "09/10/26 07:35 PM CST",
@@ -633,7 +684,41 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1088,
+      "rank": 495,
+      "gameId": "162475"
+    },
+    {
+      "player": "Terrance Ferguson",
+      "stat": "Receptions",
+      "line": 2,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 496,
+      "gameId": "162475"
+    },
+    {
+      "player": "Blake Corum",
+      "stat": "Longest Reception",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 507,
       "gameId": "162475"
     },
     {
@@ -650,7 +735,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1097,
+      "rank": 508,
       "gameId": "162475"
     },
     {
@@ -667,7 +752,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1103,
+      "rank": 514,
       "gameId": "162475"
     },
     {
@@ -684,7 +769,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1109,
+      "rank": 520,
       "gameId": "162475"
     },
     {
@@ -701,7 +786,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1118,
+      "rank": 529,
       "gameId": "162475"
     },
     {
@@ -718,7 +803,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1124,
+      "rank": 545,
       "gameId": "162475"
     },
     {
@@ -732,10 +817,112 @@
       "startTimeIso": "2026-09-10T20:35:00.000-04:00",
       "oddsType": "standard",
       "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 547,
+      "gameId": "162475"
+    },
+    {
+      "player": "Jordan Whittington",
+      "stat": "Receptions",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1150,
+      "rank": 598,
+      "gameId": "162475"
+    },
+    {
+      "player": "Jordan Whittington",
+      "stat": "Longest Reception",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 599,
+      "gameId": "162475"
+    },
+    {
+      "player": "Jordan Whittington",
+      "stat": "Receiving Yards",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 600,
+      "gameId": "162475"
+    },
+    {
+      "player": "Konata Mumpfield",
+      "stat": "Receiving Yards",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 601,
+      "gameId": "162475"
+    },
+    {
+      "player": "Konata Mumpfield",
+      "stat": "Longest Reception",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 602,
+      "gameId": "162475"
+    },
+    {
+      "player": "Konata Mumpfield",
+      "stat": "Receptions",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/10/26 07:35 PM CST",
+      "startTimeCST": "09/10/26 07:35 PM CST",
+      "startDateCST": "2026-09-10",
+      "startTimeIso": "2026-09-10T20:35:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LAR",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 603,
       "gameId": "162475"
     },
     {
@@ -752,7 +939,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1180,
+      "rank": 613,
       "gameId": "162475"
     },
     {
@@ -769,7 +956,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1185,
+      "rank": 618,
       "gameId": "162475"
     },
     {
@@ -786,7 +973,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1204,
+      "rank": 639,
       "gameId": "162475"
     },
     {
@@ -803,7 +990,7 @@
       "teamCode": "LAR",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 1210,
+      "rank": 646,
       "gameId": "162475"
     }
   ]

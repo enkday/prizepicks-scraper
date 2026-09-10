@@ -1,11 +1,22 @@
 [
   {
-    "gameId": "162474",
-    "sport": "NFL",
-    "startTime": "09/09/26 07:20 PM CST",
+    "gameId": "183291",
+    "sport": "NCAAF",
+    "startTime": "09/10/26 07:00 PM CST",
     "teams": [
-      "Seattle Seahawks",
-      "New England Patriots"
+      "Miami (FL) Hurricanes",
+      "Florida A&M Rattlers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day"
+  },
+  {
+    "gameId": "162475",
+    "sport": "NFL",
+    "startTime": "09/10/26 07:35 PM CST",
+    "teams": [
+      "Los Angeles Rams",
+      "San Francisco 49ers"
     ],
     "slate": "Late",
     "dayBranch": "current_day"

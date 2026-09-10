@@ -2,26 +2,38 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 1,
-  "propCount": 40,
+  "gameCount": 2,
+  "propCount": 64,
   "games": [
     {
-      "gameId": "178403",
+      "gameId": "179193",
       "slate": "Late",
-      "startTime": "09/07/26 06:30 PM CST",
-      "startTimeIso": "2026-09-07T19:30:00.000-04:00",
+      "startTime": "09/11/26 06:30 PM CST",
+      "startTimeIso": "2026-09-11T19:30:00.000-04:00",
       "teams": [
-        "SMU Mustangs",
-        "Florida State Seminoles"
+        "Rutgers Scarlet Knights",
+        "Boston College Eagles"
       ],
-      "propCount": 40,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/178403.json"
+      "propCount": 34,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/179193.json"
+    },
+    {
+      "gameId": "179194",
+      "slate": "Late",
+      "startTime": "09/11/26 07:00 PM CST",
+      "startTimeIso": "2026-09-11T20:00:00.000-04:00",
+      "teams": [
+        "Missouri Tigers",
+        "Kansas Jayhawks"
+      ],
+      "propCount": 30,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/179194.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 40,
+      "propCount": 64,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]

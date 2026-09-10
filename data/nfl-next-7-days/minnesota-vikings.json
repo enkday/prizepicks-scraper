@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-09T12:10:04.394Z",
-  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-10T12:10:05.709Z",
+  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Minnesota Vikings",
-  "totalProps": 36,
+  "totalProps": 41,
   "props": [
     {
       "player": "Kyler Murray",
@@ -21,13 +21,13 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5068,
+      "rank": 4789,
       "gameId": "162619"
     },
     {
       "player": "Justin Jefferson",
       "stat": "Receiving Yards",
-      "line": 74.5,
+      "line": 75.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5098,
+      "rank": 4821,
       "gameId": "162619"
     },
     {
@@ -55,7 +55,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5149,
+      "rank": 4870,
       "gameId": "162619"
     },
     {
@@ -72,13 +72,13 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5155,
+      "rank": 4876,
       "gameId": "162619"
     },
     {
       "player": "Kyler Murray",
       "stat": "Longest Completion",
-      "line": 33.5,
+      "line": 34.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -89,7 +89,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5186,
+      "rank": 4901,
       "gameId": "162619"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5193,
+      "rank": 4913,
       "gameId": "162619"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5203,
+      "rank": 4923,
       "gameId": "162619"
     },
     {
@@ -140,13 +140,13 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5221,
+      "rank": 4943,
       "gameId": "162619"
     },
     {
       "player": "Justin Jefferson",
       "stat": "Longest Reception",
-      "line": 22.5,
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -157,13 +157,13 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5237,
+      "rank": 4958,
       "gameId": "162619"
     },
     {
       "player": "Kyler Murray",
       "stat": "Rush Yards",
-      "line": 22.5,
+      "line": 23.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -174,7 +174,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5238,
+      "rank": 4959,
       "gameId": "162619"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5239,
+      "rank": 4962,
       "gameId": "162619"
     },
     {
@@ -208,13 +208,13 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5241,
+      "rank": 4964,
       "gameId": "162619"
     },
     {
       "player": "Jordan Addison",
       "stat": "Longest Reception",
-      "line": 18.5,
+      "line": 19.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -225,7 +225,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5270,
+      "rank": 4972,
       "gameId": "162619"
     },
     {
@@ -242,24 +242,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5285,
-      "gameId": "162619"
-    },
-    {
-      "player": "Jauan Jennings",
-      "stat": "Longest Reception",
-      "line": 13.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 03:25 PM CST",
-      "startTimeCST": "09/13/26 03:25 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 5291,
+      "rank": 5013,
       "gameId": "162619"
     },
     {
@@ -276,7 +259,24 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5292,
+      "rank": 5020,
+      "gameId": "162619"
+    },
+    {
+      "player": "Jauan Jennings",
+      "stat": "Longest Reception",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5021,
       "gameId": "162619"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5298,
+      "rank": 5027,
       "gameId": "162619"
     },
     {
@@ -310,7 +310,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5301,
+      "rank": 5030,
       "gameId": "162619"
     },
     {
@@ -327,7 +327,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5319,
+      "rank": 5050,
       "gameId": "162619"
     },
     {
@@ -344,7 +344,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5323,
+      "rank": 5053,
       "gameId": "162619"
     },
     {
@@ -361,7 +361,24 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5327,
+      "rank": 5057,
+      "gameId": "162619"
+    },
+    {
+      "player": "Josh Oliver",
+      "stat": "Receiving Yards",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5077,
       "gameId": "162619"
     },
     {
@@ -378,7 +395,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5345,
+      "rank": 5078,
       "gameId": "162619"
     },
     {
@@ -395,7 +412,24 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5355,
+      "rank": 5089,
+      "gameId": "162619"
+    },
+    {
+      "player": "Josh Oliver",
+      "stat": "Longest Reception",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5099,
       "gameId": "162619"
     },
     {
@@ -412,7 +446,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5363,
+      "rank": 5101,
       "gameId": "162619"
     },
     {
@@ -429,7 +463,58 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5364,
+      "rank": 5102,
+      "gameId": "162619"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Receiving Yards",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5110,
+      "gameId": "162619"
+    },
+    {
+      "player": "Jordan Mason",
+      "stat": "Longest Reception",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5111,
+      "gameId": "162619"
+    },
+    {
+      "player": "Jordan Addison",
+      "stat": "Receptions",
+      "line": 3.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5125,
       "gameId": "162619"
     },
     {
@@ -446,7 +531,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5387,
+      "rank": 5126,
       "gameId": "162619"
     },
     {
@@ -463,41 +548,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5394,
-      "gameId": "162619"
-    },
-    {
-      "player": "Jordan Mason",
-      "stat": "Receiving Yards",
-      "line": 3.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 03:25 PM CST",
-      "startTimeCST": "09/13/26 03:25 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 5395,
-      "gameId": "162619"
-    },
-    {
-      "player": "Jordan Mason",
-      "stat": "Longest Reception",
-      "line": 3.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 03:25 PM CST",
-      "startTimeCST": "09/13/26 03:25 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 5396,
+      "rank": 5134,
       "gameId": "162619"
     },
     {
@@ -514,7 +565,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5404,
+      "rank": 5143,
       "gameId": "162619"
     },
     {
@@ -531,7 +582,41 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5413,
+      "rank": 5152,
+      "gameId": "162619"
+    },
+    {
+      "player": "Kyler Murray",
+      "stat": "Sacks Taken",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5164,
+      "gameId": "162619"
+    },
+    {
+      "player": "Jauan Jennings",
+      "stat": "Receptions",
+      "line": 2,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5167,
       "gameId": "162619"
     },
     {
@@ -548,7 +633,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 5424,
+      "rank": 5168,
       "gameId": "162619"
     },
     {
@@ -565,7 +650,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 6280,
+      "rank": 6077,
       "gameId": "162619"
     },
     {
@@ -582,7 +667,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 6285,
+      "rank": 6082,
       "gameId": "162619"
     },
     {
@@ -599,7 +684,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 6308,
+      "rank": 6104,
       "gameId": "162619"
     },
     {
@@ -616,7 +701,7 @@
       "teamCode": "MIN",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 6316,
+      "rank": 6112,
       "gameId": "162619"
     }
   ]

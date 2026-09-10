@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-09T12:10:04.394Z",
-  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-10T12:10:05.709Z",
+  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Carolina Panthers",
-  "totalProps": 20,
+  "totalProps": 32,
   "props": [
     {
       "player": "Bryce Young",
@@ -21,13 +21,13 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1242,
+      "rank": 679,
       "gameId": "163388"
     },
     {
-      "player": "Tetairoa McMillan",
-      "stat": "Receiving Yards",
-      "line": 58.5,
+      "player": "Chuba Hubbard",
+      "stat": "Rush Yards",
+      "line": 63.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -38,7 +38,24 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1283,
+      "rank": 719,
+      "gameId": "163388"
+    },
+    {
+      "player": "Tetairoa McMillan",
+      "stat": "Receiving Yards",
+      "line": 59.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 722,
       "gameId": "163388"
     },
     {
@@ -55,13 +72,13 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1315,
+      "rank": 764,
       "gameId": "163388"
     },
     {
       "player": "Bryce Young",
       "stat": "Longest Completion",
-      "line": 33.5,
+      "line": 32.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -72,7 +89,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1323,
+      "rank": 777,
       "gameId": "163388"
     },
     {
@@ -89,7 +106,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1327,
+      "rank": 780,
       "gameId": "163388"
     },
     {
@@ -106,7 +123,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1369,
+      "rank": 831,
       "gameId": "163388"
     },
     {
@@ -123,7 +140,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1378,
+      "rank": 838,
       "gameId": "163388"
     },
     {
@@ -140,7 +157,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1398,
+      "rank": 869,
       "gameId": "163388"
     },
     {
@@ -157,7 +174,24 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1400,
+      "rank": 872,
+      "gameId": "163388"
+    },
+    {
+      "player": "Darren Waller",
+      "stat": "Receiving Yards",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 876,
       "gameId": "163388"
     },
     {
@@ -174,13 +208,13 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1408,
+      "rank": 880,
       "gameId": "163388"
     },
     {
       "player": "Tommy Tremble",
       "stat": "Receiving Yards",
-      "line": 14.5,
+      "line": 13.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -191,12 +225,12 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1414,
+      "rank": 889,
       "gameId": "163388"
     },
     {
-      "player": "Xavier Legette",
-      "stat": "Longest Reception",
+      "player": "Chuba Hubbard",
+      "stat": "Longest Rush",
       "line": 12.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
@@ -208,7 +242,58 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1417,
+      "rank": 890,
+      "gameId": "163388"
+    },
+    {
+      "player": "Chuba Hubbard",
+      "stat": "Receiving Yards",
+      "line": 12.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 891,
+      "gameId": "163388"
+    },
+    {
+      "player": "Xavier Legette",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 893,
+      "gameId": "163388"
+    },
+    {
+      "player": "Darren Waller",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 895,
       "gameId": "163388"
     },
     {
@@ -225,7 +310,41 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1429,
+      "rank": 903,
+      "gameId": "163388"
+    },
+    {
+      "player": "Tommy Tremble",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 917,
+      "gameId": "163388"
+    },
+    {
+      "player": "Chuba Hubbard",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 918,
       "gameId": "163388"
     },
     {
@@ -242,7 +361,58 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1441,
+      "rank": 921,
+      "gameId": "163388"
+    },
+    {
+      "player": "Ryan Fitzgerald",
+      "stat": "Kicking Points",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 924,
+      "gameId": "163388"
+    },
+    {
+      "player": "Mitchell Evans",
+      "stat": "Receiving Yards",
+      "line": 6.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 934,
+      "gameId": "163388"
+    },
+    {
+      "player": "Mitchell Evans",
+      "stat": "Longest Reception",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 943,
       "gameId": "163388"
     },
     {
@@ -259,7 +429,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1461,
+      "rank": 946,
       "gameId": "163388"
     },
     {
@@ -276,7 +446,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1462,
+      "rank": 947,
       "gameId": "163388"
     },
     {
@@ -293,7 +463,24 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1491,
+      "rank": 976,
+      "gameId": "163388"
+    },
+    {
+      "player": "Tommy Tremble",
+      "stat": "Rec Targets",
+      "line": 2.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1002,
       "gameId": "163388"
     },
     {
@@ -310,7 +497,24 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1513,
+      "rank": 1004,
+      "gameId": "163388"
+    },
+    {
+      "player": "Ryan Fitzgerald",
+      "stat": "FG Made",
+      "line": 1.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1006,
       "gameId": "163388"
     },
     {
@@ -327,7 +531,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4371,
+      "rank": 4027,
       "gameId": "163388"
     },
     {
@@ -344,7 +548,7 @@
       "teamCode": "CAR",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4395,
+      "rank": 4052,
       "gameId": "163388"
     }
   ]

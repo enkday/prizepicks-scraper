@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-09T12:10:04.394Z",
-  "scrapedDate": "Wednesday, September 9, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-10T12:10:05.709Z",
+  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 41,
+  "totalProps": 42,
   "props": [
     {
       "player": "Trevor Lawrence",
@@ -21,13 +21,13 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2751,
+      "rank": 2332,
       "gameId": "162607"
     },
     {
       "player": "Parker Washington",
       "stat": "Receiving Yards",
-      "line": 51.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -38,13 +38,13 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2811,
+      "rank": 2392,
       "gameId": "162607"
     },
     {
       "player": "Bhayshul Tuten",
       "stat": "Rush Yards",
-      "line": 49.5,
+      "line": 50.5,
       "sport": "NFL",
       "startTime": "09/13/26 12:00 PM CST",
       "startTimeCST": "09/13/26 12:00 PM CST",
@@ -55,7 +55,24 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2816,
+      "rank": 2394,
+      "gameId": "162607"
+    },
+    {
+      "player": "Brian Thomas Jr.",
+      "stat": "Receiving Yards",
+      "line": 38.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2438,
       "gameId": "162607"
     },
     {
@@ -72,24 +89,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2856,
-      "gameId": "162607"
-    },
-    {
-      "player": "Brian Thomas Jr.",
-      "stat": "Receiving Yards",
-      "line": 36.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 2857,
+      "rank": 2442,
       "gameId": "162607"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2858,
+      "rank": 2444,
       "gameId": "162607"
     },
     {
@@ -123,7 +123,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2859,
+      "rank": 2445,
       "gameId": "162607"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2866,
+      "rank": 2451,
       "gameId": "162607"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2872,
+      "rank": 2458,
       "gameId": "162607"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2922,
+      "rank": 2514,
       "gameId": "162607"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2923,
+      "rank": 2515,
       "gameId": "162607"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2929,
+      "rank": 2521,
       "gameId": "162607"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2952,
+      "rank": 2550,
       "gameId": "162607"
     },
     {
@@ -242,7 +242,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2955,
+      "rank": 2553,
       "gameId": "162607"
     },
     {
@@ -259,7 +259,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2957,
+      "rank": 2554,
       "gameId": "162607"
     },
     {
@@ -276,7 +276,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2981,
+      "rank": 2578,
       "gameId": "162607"
     },
     {
@@ -293,7 +293,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2984,
+      "rank": 2581,
       "gameId": "162607"
     },
     {
@@ -310,24 +310,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2986,
-      "gameId": "162607"
-    },
-    {
-      "player": "Chris Rodriguez Jr.",
-      "stat": "Longest Rush",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 2988,
+      "rank": 2583,
       "gameId": "162607"
     },
     {
@@ -344,7 +327,24 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2993,
+      "rank": 2591,
+      "gameId": "162607"
+    },
+    {
+      "player": "Travis Hunter",
+      "stat": "Receiving Yards",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2594,
       "gameId": "162607"
     },
     {
@@ -361,7 +361,24 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2999,
+      "rank": 2599,
+      "gameId": "162607"
+    },
+    {
+      "player": "Travis Hunter",
+      "stat": "Longest Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2602,
       "gameId": "162607"
     },
     {
@@ -378,7 +395,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3003,
+      "rank": 2603,
       "gameId": "162607"
     },
     {
@@ -395,7 +412,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3005,
+      "rank": 2605,
       "gameId": "162607"
     },
     {
@@ -412,7 +429,24 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3016,
+      "rank": 2617,
+      "gameId": "162607"
+    },
+    {
+      "player": "Brian Thomas Jr.",
+      "stat": "Rec Targets",
+      "line": 5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2633,
       "gameId": "162607"
     },
     {
@@ -429,7 +463,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3031,
+      "rank": 2634,
       "gameId": "162607"
     },
     {
@@ -446,24 +480,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3032,
-      "gameId": "162607"
-    },
-    {
-      "player": "Brian Thomas Jr.",
-      "stat": "Rec Targets",
-      "line": 4.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 3040,
+      "rank": 2635,
       "gameId": "162607"
     },
     {
@@ -480,7 +497,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3047,
+      "rank": 2650,
       "gameId": "162607"
     },
     {
@@ -497,7 +514,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3054,
+      "rank": 2657,
       "gameId": "162607"
     },
     {
@@ -514,7 +531,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3057,
+      "rank": 2660,
       "gameId": "162607"
     },
     {
@@ -531,24 +548,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3064,
-      "gameId": "162607"
-    },
-    {
-      "player": "Chris Rodriguez Jr.",
-      "stat": "Longest Reception",
-      "line": 2.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 3077,
+      "rank": 2669,
       "gameId": "162607"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3080,
+      "rank": 2684,
       "gameId": "162607"
     },
     {
@@ -582,7 +582,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3085,
+      "rank": 2690,
       "gameId": "162607"
     },
     {
@@ -599,24 +599,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3095,
-      "gameId": "162607"
-    },
-    {
-      "player": "Chris Rodriguez Jr.",
-      "stat": "Receiving Yards",
-      "line": 1.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 12:00 PM CST",
-      "startTimeCST": "09/13/26 12:00 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 3099,
+      "rank": 2700,
       "gameId": "162607"
     },
     {
@@ -633,7 +616,41 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 3104,
+      "rank": 2710,
+      "gameId": "162607"
+    },
+    {
+      "player": "Chris Rodriguez Jr.",
+      "stat": "Longest Reception",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2733,
+      "gameId": "162607"
+    },
+    {
+      "player": "Chris Rodriguez Jr.",
+      "stat": "Receiving Yards",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 12:00 PM CST",
+      "startTimeCST": "09/13/26 12:00 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2734,
       "gameId": "162607"
     },
     {
@@ -650,7 +667,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 4515,
+      "rank": 4180,
       "gameId": "162607"
     },
     {
@@ -667,7 +684,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 4518,
+      "rank": 4183,
       "gameId": "162607"
     },
     {
@@ -684,7 +701,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 4544,
+      "rank": 4209,
       "gameId": "162607"
     },
     {
@@ -701,7 +718,7 @@
       "teamCode": "JAC",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 4554,
+      "rank": 4219,
       "gameId": "162607"
     }
   ]
