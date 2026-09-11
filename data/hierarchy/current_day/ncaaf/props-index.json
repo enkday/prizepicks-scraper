@@ -2,26 +2,38 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 6,
+  "gameCount": 2,
+  "propCount": 75,
   "games": [
     {
-      "gameId": "183291",
+      "gameId": "179193",
       "slate": "Late",
-      "startTime": "09/10/26 07:00 PM CST",
-      "startTimeIso": "2026-09-10T20:00:00.000-04:00",
+      "startTime": "09/11/26 06:30 PM CST",
+      "startTimeIso": "2026-09-11T19:30:00.000-04:00",
       "teams": [
-        "Miami (FL) Hurricanes",
-        "Florida A&M Rattlers"
+        "Rutgers Scarlet Knights",
+        "Boston College Eagles"
       ],
-      "propCount": 6,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/183291.json"
+      "propCount": 44,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/179193.json"
+    },
+    {
+      "gameId": "179194",
+      "slate": "Late",
+      "startTime": "09/11/26 07:00 PM CST",
+      "startTimeIso": "2026-09-11T20:00:00.000-04:00",
+      "teams": [
+        "Missouri Tigers",
+        "Kansas Jayhawks"
+      ],
+      "propCount": 31,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/179194.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 6,
+      "propCount": 75,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]

@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2026-09-10T12:10:05.709Z",
-  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-11T12:09:58.370Z",
+  "scrapedDate": "Friday, September 11, 2026 at 12:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Philadelphia Eagles",
-  "totalProps": 35,
+  "totalProps": 39,
   "props": [
     {
       "player": "Jalen Hurts",
       "stat": "Pass Yards",
-      "line": 209.5,
+      "line": 211.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5636,
+      "rank": 5641,
       "gameId": "162483"
     },
     {
       "player": "Saquon Barkley",
       "stat": "Rush Yards",
-      "line": 77.5,
+      "line": 78.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5676,
+      "rank": 5682,
       "gameId": "162483"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5686,
+      "rank": 5695,
       "gameId": "162483"
     },
     {
       "player": "Jalen Hurts",
       "stat": "Longest Completion",
-      "line": 34.5,
+      "line": 35.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -72,7 +72,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5744,
+      "rank": 5752,
       "gameId": "162483"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5745,
+      "rank": 5754,
       "gameId": "162483"
     },
     {
@@ -106,13 +106,13 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5758,
+      "rank": 5767,
       "gameId": "162483"
     },
     {
       "player": "Dontayvion Wicks",
       "stat": "Receiving Yards",
-      "line": 28.5,
+      "line": 29.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -123,7 +123,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5785,
+      "rank": 5770,
       "gameId": "162483"
     },
     {
@@ -140,7 +140,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5786,
+      "rank": 5794,
       "gameId": "162483"
     },
     {
@@ -157,7 +157,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5802,
+      "rank": 5816,
       "gameId": "162483"
     },
     {
@@ -174,7 +174,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5807,
+      "rank": 5821,
       "gameId": "162483"
     },
     {
@@ -191,7 +191,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5840,
+      "rank": 5855,
       "gameId": "162483"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5841,
+      "rank": 5856,
       "gameId": "162483"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5843,
+      "rank": 5858,
       "gameId": "162483"
     },
     {
@@ -242,24 +242,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5849,
-      "gameId": "162483"
-    },
-    {
-      "player": "Dallas Goedert",
-      "stat": "Longest Reception",
-      "line": 16.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 03:25 PM CST",
-      "startTimeCST": "09/13/26 03:25 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 5850,
+      "rank": 5865,
       "gameId": "162483"
     },
     {
@@ -276,12 +259,29 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5854,
+      "rank": 5869,
       "gameId": "162483"
     },
     {
-      "player": "Makai Lemon",
+      "player": "Dallas Goedert",
       "stat": "Longest Reception",
+      "line": 15.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5870,
+      "gameId": "162483"
+    },
+    {
+      "player": "Tank Bigsby",
+      "stat": "Rush Yards",
       "line": 14.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
@@ -293,7 +293,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5869,
+      "rank": 5892,
       "gameId": "162483"
     },
     {
@@ -310,7 +310,24 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5872,
+      "rank": 5896,
+      "gameId": "162483"
+    },
+    {
+      "player": "Makai Lemon",
+      "stat": "Longest Reception",
+      "line": 13.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5900,
       "gameId": "162483"
     },
     {
@@ -327,7 +344,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5884,
+      "rank": 5912,
       "gameId": "162483"
     },
     {
@@ -344,7 +361,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5903,
+      "rank": 5942,
       "gameId": "162483"
     },
     {
@@ -361,7 +378,24 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5906,
+      "rank": 5945,
+      "gameId": "162483"
+    },
+    {
+      "player": "Tank Bigsby",
+      "stat": "Longest Rush",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5952,
       "gameId": "162483"
     },
     {
@@ -378,7 +412,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5912,
+      "rank": 5953,
       "gameId": "162483"
     },
     {
@@ -395,7 +429,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5938,
+      "rank": 5978,
       "gameId": "162483"
     },
     {
@@ -412,7 +446,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5943,
+      "rank": 5984,
       "gameId": "162483"
     },
     {
@@ -429,7 +463,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5953,
+      "rank": 6004,
       "gameId": "162483"
     },
     {
@@ -446,7 +480,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5959,
+      "rank": 6010,
       "gameId": "162483"
     },
     {
@@ -463,7 +497,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5970,
+      "rank": 6024,
       "gameId": "162483"
     },
     {
@@ -480,13 +514,13 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 5972,
+      "rank": 6026,
       "gameId": "162483"
     },
     {
-      "player": "Johnny Mundt",
-      "stat": "Longest Reception",
-      "line": 1.5,
+      "player": "Saquon Barkley",
+      "stat": "Receptions",
+      "line": 2.5,
       "sport": "NFL",
       "startTime": "09/13/26 03:25 PM CST",
       "startTimeCST": "09/13/26 03:25 PM CST",
@@ -497,24 +531,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6001,
-      "gameId": "162483"
-    },
-    {
-      "player": "Johnny Mundt",
-      "stat": "Receiving Yards",
-      "line": 1.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 03:25 PM CST",
-      "startTimeCST": "09/13/26 03:25 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 6002,
+      "rank": 6031,
       "gameId": "162483"
     },
     {
@@ -531,7 +548,58 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6033,
+      "rank": 6093,
+      "gameId": "162483"
+    },
+    {
+      "player": "Johnny Mundt",
+      "stat": "Longest Reception",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 6100,
+      "gameId": "162483"
+    },
+    {
+      "player": "Johnny Mundt",
+      "stat": "Receiving Yards",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 6101,
+      "gameId": "162483"
+    },
+    {
+      "player": "Johnny Mundt",
+      "stat": "Receptions",
+      "line": 0.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 03:25 PM CST",
+      "startTimeCST": "09/13/26 03:25 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 6102,
       "gameId": "162483"
     },
     {
@@ -548,7 +616,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6147,
+      "rank": 6225,
       "gameId": "162483"
     },
     {
@@ -565,7 +633,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6150,
+      "rank": 6228,
       "gameId": "162483"
     },
     {
@@ -582,7 +650,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6167,
+      "rank": 6245,
       "gameId": "162483"
     },
     {
@@ -599,7 +667,7 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6174,
+      "rank": 6252,
       "gameId": "162483"
     }
   ]

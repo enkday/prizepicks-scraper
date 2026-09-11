@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-10T12:10:05.709Z",
-  "scrapedDate": "Thursday, September 10, 2026 at 12:10 PM UTC",
+  "scrapedAt": "2026-09-11T12:09:58.370Z",
+  "scrapedDate": "Friday, September 11, 2026 at 12:09 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
@@ -10,7 +10,7 @@
     {
       "player": "Dak Prescott",
       "stat": "Pass Yards",
-      "line": 260.5,
+      "line": 261.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
       "startTimeCST": "09/13/26 07:20 PM CST",
@@ -21,7 +21,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6189,
+      "rank": 6268,
       "gameId": "162476"
     },
     {
@@ -38,13 +38,13 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6233,
+      "rank": 6318,
       "gameId": "162476"
     },
     {
       "player": "Javonte Williams",
       "stat": "Rush Yards",
-      "line": 73.5,
+      "line": 72.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
       "startTimeCST": "09/13/26 07:20 PM CST",
@@ -55,7 +55,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6237,
+      "rank": 6320,
       "gameId": "162476"
     },
     {
@@ -72,7 +72,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6241,
+      "rank": 6323,
       "gameId": "162476"
     },
     {
@@ -89,7 +89,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6298,
+      "rank": 6376,
       "gameId": "162476"
     },
     {
@@ -106,7 +106,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6308,
+      "rank": 6389,
       "gameId": "162476"
     },
     {
@@ -123,13 +123,13 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6311,
+      "rank": 6393,
       "gameId": "162476"
     },
     {
       "player": "George Pickens",
       "stat": "Longest Reception",
-      "line": 24.5,
+      "line": 25.5,
       "sport": "NFL",
       "startTime": "09/13/26 07:20 PM CST",
       "startTimeCST": "09/13/26 07:20 PM CST",
@@ -140,7 +140,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6350,
+      "rank": 6433,
       "gameId": "162476"
     },
     {
@@ -157,7 +157,24 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6351,
+      "rank": 6435,
+      "gameId": "162476"
+    },
+    {
+      "player": "Ryan Flournoy",
+      "stat": "Receiving Yards",
+      "line": 23.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 07:20 PM CST",
+      "startTimeCST": "09/13/26 07:20 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 6449,
       "gameId": "162476"
     },
     {
@@ -174,24 +191,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6364,
-      "gameId": "162476"
-    },
-    {
-      "player": "Ryan Flournoy",
-      "stat": "Receiving Yards",
-      "line": 20.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 07:20 PM CST",
-      "startTimeCST": "09/13/26 07:20 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 6368,
+      "rank": 6457,
       "gameId": "162476"
     },
     {
@@ -208,7 +208,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6401,
+      "rank": 6496,
       "gameId": "162476"
     },
     {
@@ -225,7 +225,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6410,
+      "rank": 6506,
       "gameId": "162476"
     },
     {
@@ -242,7 +242,24 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6411,
+      "rank": 6507,
+      "gameId": "162476"
+    },
+    {
+      "player": "Malik Davis",
+      "stat": "Rush Yards",
+      "line": 14.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 07:20 PM CST",
+      "startTimeCST": "09/13/26 07:20 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 6509,
       "gameId": "162476"
     },
     {
@@ -259,24 +276,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6426,
-      "gameId": "162476"
-    },
-    {
-      "player": "Malik Davis",
-      "stat": "Rush Yards",
-      "line": 12.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 07:20 PM CST",
-      "startTimeCST": "09/13/26 07:20 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 6429,
+      "rank": 6526,
       "gameId": "162476"
     },
     {
@@ -293,24 +293,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6439,
-      "gameId": "162476"
-    },
-    {
-      "player": "KaVontae Turpin",
-      "stat": "Receiving Yards",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "09/13/26 07:20 PM CST",
-      "startTimeCST": "09/13/26 07:20 PM CST",
-      "startDateCST": "2026-09-13",
-      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 6456,
+      "rank": 6541,
       "gameId": "162476"
     },
     {
@@ -327,7 +310,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6457,
+      "rank": 6565,
       "gameId": "162476"
     },
     {
@@ -344,7 +327,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6458,
+      "rank": 6566,
       "gameId": "162476"
     },
     {
@@ -361,7 +344,24 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6463,
+      "rank": 6569,
+      "gameId": "162476"
+    },
+    {
+      "player": "KaVontae Turpin",
+      "stat": "Receiving Yards",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "09/13/26 07:20 PM CST",
+      "startTimeCST": "09/13/26 07:20 PM CST",
+      "startDateCST": "2026-09-13",
+      "startTimeIso": "2026-09-13T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 6570,
       "gameId": "162476"
     },
     {
@@ -378,7 +378,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6464,
+      "rank": 6572,
       "gameId": "162476"
     },
     {
@@ -395,7 +395,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6466,
+      "rank": 6574,
       "gameId": "162476"
     },
     {
@@ -412,7 +412,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6470,
+      "rank": 6578,
       "gameId": "162476"
     },
     {
@@ -429,7 +429,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6485,
+      "rank": 6593,
       "gameId": "162476"
     },
     {
@@ -446,7 +446,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6493,
+      "rank": 6601,
       "gameId": "162476"
     },
     {
@@ -463,7 +463,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6502,
+      "rank": 6613,
       "gameId": "162476"
     },
     {
@@ -480,7 +480,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6514,
+      "rank": 6624,
       "gameId": "162476"
     },
     {
@@ -497,7 +497,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6534,
+      "rank": 6648,
       "gameId": "162476"
     },
     {
@@ -514,7 +514,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6550,
+      "rank": 6663,
       "gameId": "162476"
     },
     {
@@ -531,7 +531,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6559,
+      "rank": 6678,
       "gameId": "162476"
     },
     {
@@ -548,7 +548,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6565,
+      "rank": 6684,
       "gameId": "162476"
     },
     {
@@ -565,7 +565,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6573,
+      "rank": 6693,
       "gameId": "162476"
     },
     {
@@ -582,13 +582,13 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6611,
+      "rank": 6732,
       "gameId": "162476"
     },
     {
       "player": "Dak Prescott",
       "stat": "Completion Percentage",
-      "line": 65.7,
+      "line": 65.4,
       "sport": "NFL",
       "startTime": "09/13/26 07:25 PM CST",
       "startTimeCST": "09/13/26 07:25 PM CST",
@@ -599,7 +599,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6657,
+      "rank": 6781,
       "gameId": "162476"
     },
     {
@@ -616,7 +616,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6662,
+      "rank": 6785,
       "gameId": "162476"
     },
     {
@@ -633,7 +633,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6684,
+      "rank": 6806,
       "gameId": "162476"
     },
     {
@@ -650,7 +650,7 @@
       "teamCode": "DAL",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 6692,
+      "rank": 6813,
       "gameId": "162476"
     }
   ]

@@ -1,22 +1,297 @@
 [
   {
-    "gameId": "179193",
+    "gameId": "179486",
     "sport": "NCAAF",
-    "startTime": "09/11/26 06:30 PM CST",
+    "startTime": "09/12/26 11:00 AM CST",
     "teams": [
-      "Rutgers Scarlet Knights",
-      "Boston College Eagles"
+      "Oklahoma Sooners",
+      "Michigan Wolverines"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "174385",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 11:00 AM CST",
+    "teams": [
+      "Oregon Ducks",
+      "Oklahoma State Cowboys"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179485",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 11:00 AM CST",
+    "teams": [
+      "Wake Forest Demon Deacons",
+      "Purdue Boilermakers"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179487",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 11:00 AM CST",
+    "teams": [
+      "South Florida Bulls",
+      "Army Black Knights"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179488",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 11:00 AM CST",
+    "teams": [
+      "Washington State Cougars",
+      "Kansas State Wildcats"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179489",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 11:00 AM CST",
+    "teams": [
+      "Texas A&M Aggies",
+      "Arizona State Sun Devils"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "174390",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 11:00 AM CST",
+    "teams": [
+      "Penn State Nittany Lions",
+      "Temple Owls"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179491",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 11:00 AM CST",
+    "teams": [
+      "Virginia Tech Hokies",
+      "Old Dominion Monarchs"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179497",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 02:30 PM CST",
+    "teams": [
+      "Syracuse Orange",
+      "California Golden Bears"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179499",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 02:30 PM CST",
+    "teams": [
+      "UConn Huskies",
+      "Maryland Terrapins"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179500",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 02:30 PM CST",
+    "teams": [
+      "Mississippi State Bulldogs",
+      "Minnesota Golden Gophers"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179501",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 02:30 PM CST",
+    "teams": [
+      "Pittsburgh Panthers",
+      "UCF Knights"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179502",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 02:30 PM CST",
+    "teams": [
+      "Alabama Crimson Tide",
+      "Kentucky Wildcats"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179503",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 02:30 PM CST",
+    "teams": [
+      "Michigan State Spartans",
+      "Eastern Michigan Eagles"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179505",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 02:30 PM CST",
+    "teams": [
+      "Arizona Wildcats",
+      "BYU Cougars"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179494",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 02:30 PM CST",
+    "teams": [
+      "Illinois Fighting Illini",
+      "Duke Blue Devils"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179498",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 02:30 PM CST",
+    "teams": [
+      "Washington Huskies",
+      "Utah State Aggies"
+    ],
+    "slate": "Early",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179508",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 03:15 PM CST",
+    "teams": [
+      "Delaware Fightin' Blue Hens",
+      "Vanderbilt Commodores"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"
   },
   {
-    "gameId": "179194",
+    "gameId": "179514",
     "sport": "NCAAF",
-    "startTime": "09/11/26 07:00 PM CST",
+    "startTime": "09/12/26 06:00 PM CST",
     "teams": [
-      "Missouri Tigers",
-      "Kansas Jayhawks"
+      "Nebraska Cornhuskers",
+      "Bowling Green Falcons"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179517",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 06:00 PM CST",
+    "teams": [
+      "Georgia Tech Yellow Jackets",
+      "Tennessee Volunteers"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179519",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 06:15 PM CST",
+    "teams": [
+      "UCLA Bruins",
+      "San Diego State Aztecs"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "175604",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 06:30 PM CST",
+    "teams": [
+      "Ohio State Buckeyes",
+      "Texas Longhorns"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179521",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 06:30 PM CST",
+    "teams": [
+      "Texas Tech Red Raiders",
+      "Oregon State Beavers"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179522",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 06:30 PM CST",
+    "teams": [
+      "Iowa State Cyclones",
+      "Iowa Hawkeyes"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179523",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 06:30 PM CST",
+    "teams": [
+      "Georgia Southern Eagles",
+      "Clemson Tigers"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179915",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 09:15 PM CST",
+    "teams": [
+      "Arkansas Razorbacks",
+      "Utah Utes"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow"
+  },
+  {
+    "gameId": "179918",
+    "sport": "NCAAF",
+    "startTime": "09/12/26 10:00 PM CST",
+    "teams": [
+      "USC Trojans",
+      "Louisiana Ragin' Cajuns"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow"

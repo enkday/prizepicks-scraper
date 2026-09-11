@@ -1,22 +1,22 @@
 [
   {
-    "gameId": "183291",
+    "gameId": "179193",
     "sport": "NCAAF",
-    "startTime": "09/10/26 07:00 PM CST",
+    "startTime": "09/11/26 06:30 PM CST",
     "teams": [
-      "Miami (FL) Hurricanes",
-      "Florida A&M Rattlers"
+      "Rutgers Scarlet Knights",
+      "Boston College Eagles"
     ],
     "slate": "Late",
     "dayBranch": "current_day"
   },
   {
-    "gameId": "162475",
-    "sport": "NFL",
-    "startTime": "09/10/26 07:35 PM CST",
+    "gameId": "179194",
+    "sport": "NCAAF",
+    "startTime": "09/11/26 07:00 PM CST",
     "teams": [
-      "Los Angeles Rams",
-      "San Francisco 49ers"
+      "Missouri Tigers",
+      "Kansas Jayhawks"
     ],
     "slate": "Late",
     "dayBranch": "current_day"
